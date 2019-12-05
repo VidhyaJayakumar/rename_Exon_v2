@@ -54,7 +54,7 @@ $id = $_SESSION["id"];
                     <div class="row">
                         <div class="navbar-header no-padding">
                             <a class="navbar-brand">
-                                <img src="https://exoncorpprojects.com/rb.png" alt="Options - Admin Template" class="logo">
+                                <img src="https://exincorpprojects.com/rb.png" alt="Options - Admin Template" class="logo">
                             </a>
                             <span class="small-nav-handle hidden-sm hidden-xs">
                                 <i class="fa fa-outdent"></i>
@@ -99,14 +99,14 @@ $id = $_SESSION["id"];
                                      <ul class="dropdown-menu profile-dropdown">
                                         <li class="profile-menu bg-gray">
                                             <div class="">
-                                               <!--  <img src="https://exoncorpprojects.com/rb.png"  class="img-circle profile-img"> -->
+                                               <!--  <img src="https://exincorpprojects.com/rb.png"  class="img-circle profile-img"> -->
                                                <?php 
                                                 if($profile == '')
                                                 {
 
 
                                                 ?>  
-                                                    <img src="https://exoncorpprojects.com/rb.png" alt="User Avatar" class="img-circle profile-img">
+                                                    <img src="https://exincorpprojects.com/rb.png" alt="User Avatar" class="img-circle profile-img">
                                                 <?php 
                                                 } 
                                                 else
@@ -146,7 +146,7 @@ $id = $_SESSION["id"];
                         <div class="sidebar-content">
                             <div class="user-info closed">
                                 <h6 class="title"><?php echo $name; ?></h6>
-                                <small class="info">exoncorp Projects</small>
+                                <small class="info">exincorp Projects</small>
                             </div>
                             <!-- /.user-info -->
 
@@ -304,7 +304,7 @@ elseif($updated == 'fail')
 
 
                                                 ?>  
-                                                    <img src="https://exoncorpprojects.com/rb.png" alt="User Avatar" class="img-responsive">
+                                                    <img src="https://exincorpprojects.com/rb.png" alt="User Avatar" class="img-responsive">
                                                     <br>
                                                 <?php 
                                                 } 

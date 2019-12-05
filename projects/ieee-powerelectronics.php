@@ -70,10 +70,10 @@
 
 									<p class="card-text">Power electronics is one of the minds sharpening technology which is designing with the semiconductor devices like rectifiers, switches, transistors etc. The domain which is applied in between the source and application (load) devices, for Converting and inverting the range of power (voltage*current) which placed in between that medium for obtaining run time output. Simulation part will be executed with the help of Software called as Matlab. The field (Power electronics) is a place for students those who are ready to chase century in the innovative world. Chargers for laptops and mobile phone, solar panel, UPS, Electric charger bike are the some real time examples for this ingenious domain.</p>
 
-                                    <h5>Why Power Electronics Projects at exoncorp?</h5>
+                                    <h5>Why Power Electronics Projects at exincorp?</h5>
                                     <p class="text-muted">It is a time say lucky peoples those who all are join with this innovation and they are EEE, ECE, E&I, ICE students. Our techies trained the students not only regarding their desire technically. Training offered as practical demonstration as like a MNC’s. The development of our techies is derived from latest IEEE standard. The students can create a project within an allowance. Give your arrival to our foremost Project Centre located at Vellore and makes all your thoughts comes true.</p>
 
-                                    <h5>Power Electronics Projects ( Powered by exoncorp IT Solutions )</h5>
+                                    <h5>Power Electronics Projects ( Powered by exincorp IT Solutions )</h5>
                                     <h6>POWER ELECTRONICS based MULTI-PORT SYSTEMS</h6>
                                     <ul class="text-muted">
                                         <li>An Interleaved Half-Bridge Three-Port Converter With Enhanced Power Transfer Capability Using Three-Leg Rectifier for Renewable Energy Applications. (IEEE 2017)</li>

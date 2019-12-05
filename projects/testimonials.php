@@ -82,7 +82,7 @@
                                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                                             <blockquote class="blockquote mb-4">
         										<p class="mb-0">One place solution for your consulting business website.</p>
-        										<footer class="blockquote-footer">Contact Us On <cite title="Source Title">exoncorp Projects</cite></footer>
+        										<footer class="blockquote-footer">Contact Us On <cite title="Source Title">exincorp Projects</cite></footer>
         									</blockquote>
                                         </div>
                                         <!-- /.col -->

@@ -22,8 +22,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<title>Exoncorp Projects | Android Projects in <?php echo $place; ?></title>
 	<meta name="author" content="SaltTechno">
-    <meta name="description" content="Final Year Project Guidance,On-line project support for all departments of M.E, M.Tech, B.E, B.Tech, MCA, M.sc, M.Phil MBA Bsc BCA Diploma Projects, Best Project center in <?php echo $place; ?> is exoncorp&reg; projects.com | Android projects in <?php echo $place; ?> | Android Training in <?php echo $place; ?>">
-    <meta name="keywords" content="IEEE 2015 Java projects in <?php echo $place; ?>, IEEE 2015 android  projects in <?php echo $place; ?>, IEEE 2015 dot-net projects in <?php echo $place; ?>, IEEE 2015 Matlab  projects in <?php echo $place; ?>, IEEE 2015 embedded projects in <?php echo $place; ?>, MBA projects in <?php echo $place; ?>, IEEE 2015 ns2 projects in <?php echo $place; ?>, best project centre in <?php echo $place; ?>, project center in <?php echo $place; ?>, IEEE projects in <?php echo $place; ?>, exoncorp&reg; projects">
+    <meta name="description" content="Final Year Project Guidance,On-line project support for all departments of M.E, M.Tech, B.E, B.Tech, MCA, M.sc, M.Phil MBA Bsc BCA Diploma Projects, Best Project center in <?php echo $place; ?> is exincorp&reg; projects.com | Android projects in <?php echo $place; ?> | Android Training in <?php echo $place; ?>">
+    <meta name="keywords" content="IEEE 2015 Java projects in <?php echo $place; ?>, IEEE 2015 android  projects in <?php echo $place; ?>, IEEE 2015 dot-net projects in <?php echo $place; ?>, IEEE 2015 Matlab  projects in <?php echo $place; ?>, IEEE 2015 embedded projects in <?php echo $place; ?>, MBA projects in <?php echo $place; ?>, IEEE 2015 ns2 projects in <?php echo $place; ?>, best project centre in <?php echo $place; ?>, project center in <?php echo $place; ?>, IEEE projects in <?php echo $place; ?>, exincorp&reg; projects">
 	<!-- ========== COMMON STYLES ========== -->
 	<link rel="stylesheet" href="../css/bootstrap.css" media="screen">
     <link rel="stylesheet" href="../css/font-awesome.min.css" media="screen">
@@ -84,10 +84,10 @@
 
 									<p class="card-text">Now we all are living in a hurry burry world, so that all type of application came over automation field for an ease of access. For this purpose universalized automation technology Android will be used and which is exclusively established on mobile operating system. Now the domain which turns into a well known to all of us and it launched by the book of wisdom ‘Google’. We can compress the whole world into a single port by deploying this domain within a second. The only technology which magnetize the adult one to senior citizen one. The people who they felt pressure free while the make a communication with the android domain application. Due to this connecting bridge feature, the people endure jointly with the one who they all are from different part of the world.</p>
 
-                                    <h5>Why Android Project in <?php echo $place; ?> at exoncorp?</h5>
+                                    <h5>Why Android Project in <?php echo $place; ?> at exincorp?</h5>
                                     <p class="text-muted">For your best choice can easily spot out our Project centre at <?php echo $place; ?>. Our developed applications are available at Play store. Our experienced techies will lead you throughout your entire academic Project. With the help of our best techies, Students can be easily executing their thoughts. We are happy to convey, our projects all are based upon recent technology IEEE papers (2016).The guidance not only for particular stream peoples, it is a open book technology So, those who all are eager to developing software can also be utilize.</p>
 
-                                    <h5>Android Projects in <?php echo $place; ?> ( Powered by exoncorp IT Solutions )</h5>
+                                    <h5>Android Projects in <?php echo $place; ?> ( Powered by exincorp IT Solutions )</h5>
                                     <h6>I. ANDROID based CRYPTOGRAPHY</h6>
                                     <ul class="text-muted">
                                         <li>Performance Modeling of Cloud Apps Using Message Queuing as a Service (MaaS). (IEEE 2017)</li>

@@ -61,7 +61,7 @@
                                 </div>
                                 <!-- /.col-md-8 -->
                                 <div class="col-md-12 col-lg-5">
-                                    <form action="//exoncorpprojects.us16.list-manage.com/subscribe/post?u=f53099965e2af4f43cdb48721&amp;id=e69046331b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-inline" target="_blank" novalidate>
+                                    <form action="//exincorpprojects.us16.list-manage.com/subscribe/post?u=f53099965e2af4f43cdb48721&amp;id=e69046331b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-inline" target="_blank" novalidate>
                                     	<label class="sr-only" for="email">Email</label>
                                     	<input type="email" class="form-control mr-2" name="EMAIL" id="mce-EMAIL" placeholder="Email Address">
 
@@ -105,7 +105,7 @@
 	                            			<div class="">
 	                            				<div class="carousel-caption d-md-block text-left">
 	                            					<h2>PROJECTS</h2>
-	                            					<p>Doing your final year project at exoncorp not only gives you knowledge on real time project implementation, but also helps you to equip yourselves for the corporate industry.</p>
+	                            					<p>Doing your final year project at exincorp not only gives you knowledge on real time project implementation, but also helps you to equip yourselves for the corporate industry.</p>
 	                            					<p><a class="btn btn-primary bg-black" href="contact.php" role="button" >Contact Us</a></p>
 	                            				</div>
 	                            			</div>
@@ -114,7 +114,7 @@
 	                            			<div class="">
 	                            				<div class="carousel-caption d-md-block">
 	                            					<h2>Inplant Training & Internship</h2>
-	                            					<p>IPT is really important to gain knowledge of real time technologies and to get job. exoncorp Inplant Trainnig focus towards latest job oriented technologies and improve interview related aspects.</p>
+	                            					<p>IPT is really important to gain knowledge of real time technologies and to get job. exincorp Inplant Trainnig focus towards latest job oriented technologies and improve interview related aspects.</p>
 	                            					<p><a class="btn btn-secondary" href="contact.php" role="button">Contact Us</a></p>
 	                            				</div>
 	                            			</div>
@@ -144,17 +144,17 @@
 									<h4 class="card-title">Company Overview:</h4>
 									<h6 class="card-subtitle mb-2 text-muted mb-4">A Best Project Center that you will ever need!</h6>
 
-									<p class="card-text" style="text-align:justify;">'Exoncorp - Projects is a leading IT and Language training centre providing full-suite of trainings and placement services for freshers seeking a new career and professionals looking for career advancement. exoncorp Projects is mastered and administrated by highly skilled industry experts with more than 10 years of IT experience. exoncorp Projects has a team of highly skilled professional trainers delivering proficient IT training in an affable environment, focusing on the individuals needs to enable them excel in the challenging professional environment. Our team never leaves any page unturned in the book of career and success.</p>
+									<p class="card-text" style="text-align:justify;">'Exoncorp - Projects is a leading IT and Language training centre providing full-suite of trainings and placement services for freshers seeking a new career and professionals looking for career advancement. exincorp Projects is mastered and administrated by highly skilled industry experts with more than 10 years of IT experience. exincorp Projects has a team of highly skilled professional trainers delivering proficient IT training in an affable environment, focusing on the individuals needs to enable them excel in the challenging professional environment. Our team never leaves any page unturned in the book of career and success.</p>
 <p class="card-text" style="text-align:justify;">
-Versatile instructor – led training class rooms through tailored courses with smaller class sizes at exoncorp Projects facilitate people to interact more conveniently and acquire knowledge, there by generating outstanding results both for themselves and the organization they work for.
+Versatile instructor – led training class rooms through tailored courses with smaller class sizes at exincorp Projects facilitate people to interact more conveniently and acquire knowledge, there by generating outstanding results both for themselves and the organization they work for.
 Our training programmes are flexible and customized to make sure that every individual gains the maximum out of the training.</p>
 									<blockquote class="blockquote">
 										<p class="mb-0">One place solution for your Project.</p>
-										<footer class="blockquote-footer">Contact <cite title="Source Title">exoncorp - Projects</cite></footer>
+										<footer class="blockquote-footer">Contact <cite title="Source Title">exincorp - Projects</cite></footer>
 									</blockquote>
                                     <blockquote class="blockquote-reverse mt-30">
                                         <p class="mb-0">The aim of our institution is to know and understand the student requirement. So well the product or service fits them and serves them better.</p>
-                                        <footer class="blockquote-footer"><cite title="Source Title">exoncorp-Projects</cite></footer>
+                                        <footer class="blockquote-footer"><cite title="Source Title">exincorp-Projects</cite></footer>
                                     </blockquote>
 									<p class="card-text mb-4">Exoncorp-Project specializes in offering real-time experience IT training on 125+ courses.</p>
 									<h6 class="text-muted">Top Courses Offered:</h6>
@@ -225,7 +225,7 @@ Our training programmes are flexible and customized to make sure that every indi
 									<div class="card mb-10">
 										<div class="card-block">
 											<h4 class="card-title">Our Vision</h4>
-											<p class="card-text" style="text-align:justify;">To develop a premier world class education centre, for creating global project management professionals, thereby making exoncorp-Projects as a centre of excellence in project management.</p>
+											<p class="card-text" style="text-align:justify;">To develop a premier world class education centre, for creating global project management professionals, thereby making exincorp-Projects as a centre of excellence in project management.</p>
 											<a href="our-approach.php" class="btn btn-primary">Our Approach</a>
 										</div>
 									</div>

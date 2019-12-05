@@ -69,7 +69,7 @@
 
 <p style="text-align:justify">In case of dissatisfaction from our services, clients have the liberty to cancel their projects and request a refund from us. Our Policy for the cancellation and refund will be as follows:</p><br>
 <h4>Cancellation Policy</h4><br>
-<p style="text-align:justify">For Cancellations please contact the us via contact us <a href="https://exoncorp.com/contact.php">link</a></p>
+<p style="text-align:justify">For Cancellations please contact the us via contact us <a href="https://exincorp.com/contact.php">link</a></p>
 <p>Requests received later than Five business days prior to the end of the current service period will be treated as cancellation of services for the next service period.</p><br>
 <h4>Refund Policy</h4><br>
 <p>We will try our best to create the suitable design concepts for our clients.</p>

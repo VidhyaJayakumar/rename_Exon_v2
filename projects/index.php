@@ -1,5 +1,5 @@
 <?php //include("dbconnect.php");
-	//$sql = "SELECT * FROM seo WHERE s_domain = 'exoncorpprojects.com'";
+	//$sql = "SELECT * FROM seo WHERE s_domain = 'exincorpprojects.com'";
 	//$res = mysqli_query($conn,$sql);
 	//$row = mysqli_fetch_assoc($res);	
  ?>
@@ -83,7 +83,7 @@ webengage.init("d3a4ac24");
                                 </div>
                                 <!-- /.col-md-8 -->
                                 <div class="col-md-12 col-lg-5">
-                                    <form action="//exoncorpprojects.us16.list-manage.com/subscribe/post?u=f53099965e2af4f43cdb48721&amp;id=e69046331b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-inline" target="_blank" novalidate>
+                                    <form action="//exincorpprojects.us16.list-manage.com/subscribe/post?u=f53099965e2af4f43cdb48721&amp;id=e69046331b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-inline" target="_blank" novalidate>
                                     	<label class="sr-only" for="email">Email</label>
                                     	<input type="email" class="form-control mr-2" name="EMAIL" id="mce-EMAIL" placeholder="Email Address">
 
@@ -111,7 +111,7 @@ webengage.init("d3a4ac24");
                                     </div>
                                 </div>
                                 <div class="card-block">
-                                    <p class="card-text" style="text-align:justify;">Doing your final year project at exoncorp not only gives you knowledge on real time project implementation, but also helps you to equip yourselves for the corporate industry.</p>
+                                    <p class="card-text" style="text-align:justify;">Doing your final year project at exincorp not only gives you knowledge on real time project implementation, but also helps you to equip yourselves for the corporate industry.</p>
                                     <a href="projects.php" class="btn btn-primary btn-sm">Read More</a>
                                 </div>
                             </div>
@@ -126,7 +126,7 @@ webengage.init("d3a4ac24");
                                     </div>
                                 </div>
                                 <div class="card-block">
-                                    <p class="card-text" style="text-align:justify;">IPT is really important to gain knowledge of real time technologies and to get job. exoncorp Inplant Trainnig focus towards latest job oriented technologies and improve interview related aspects.</p>
+                                    <p class="card-text" style="text-align:justify;">IPT is really important to gain knowledge of real time technologies and to get job. exincorp Inplant Trainnig focus towards latest job oriented technologies and improve interview related aspects.</p>
                                     <a href="inplant-training.php" class="btn btn-primary btn-sm">Read More</a>
                                 </div>
                             </div>
@@ -362,8 +362,8 @@ webengage.init("d3a4ac24");
                 <div class="container">
                     <div class="row justify-content-md-center mb-4">
                         <div class="col-md-11 text-center">
-                            <h3>Why exoncorp?</h3>
-                            <p>exoncorp-Projects is a leading Training and Placement company in Vellore managed by IT veterans with more than a decade experience in leading MNC companies. We are known for our practical approach towards trainings that enable students to gain real-time exposure on competitive technologies. Trainings are offered by employees from MNCs to give a real corporate exposure.</p>
+                            <h3>Why exincorp?</h3>
+                            <p>exincorp-Projects is a leading Training and Placement company in Vellore managed by IT veterans with more than a decade experience in leading MNC companies. We are known for our practical approach towards trainings that enable students to gain real-time exposure on competitive technologies. Trainings are offered by employees from MNCs to give a real corporate exposure.</p>
                         </div>
                     </div>
                     <!-- /.row -->
@@ -391,7 +391,7 @@ webengage.init("d3a4ac24");
                     		<div class="card news-card mb-10">
                     			<div class="card-block">
                     				<h5 class="card-title">Skilled Trainers</h5>
-                    				<p class="card-text" style="text-align:justify;">exoncorp facilitate students to interact more conveniently and acquire knowledge by providing flexible trainers.</p>
+                    				<p class="card-text" style="text-align:justify;">exincorp facilitate students to interact more conveniently and acquire knowledge by providing flexible trainers.</p>
                     				<a href="case-study-details.php" class="btn btn-primary">Read case study</a>
                     			</div>
                     		</div>
@@ -409,7 +409,7 @@ webengage.init("d3a4ac24");
 	                    <div class="row justify-content-md-center mb-4">
 	                        <div class="col-md-6 text-center">
 	                            <h3 class="white-text">Feedback</h3>
-	                            <p class="lead light-white-text">exoncorp-Projects offers 100% practical and placement oriented training that assist students to gain industry exposure.</p>
+	                            <p class="lead light-white-text">exincorp-Projects offers 100% practical and placement oriented training that assist students to gain industry exposure.</p>
 	                        </div>
 	                    </div>
 	                    <!-- /.row -->
@@ -420,7 +420,7 @@ webengage.init("d3a4ac24");
 	                    	        <img src="images/testimonial-1.jpg" alt="John Doe Testimonial" class="testimonials-design">
 	                                <h5 class="mt-10"><a href="#" class="white-text">John Doe</a></h5>
 	                                <h6 class="m-10 light-white-text"><small>Android Trainee</small></h6>
-	                                <p class="light-white-text">exoncorp offered quality training to me catering the industry requirements.</p>
+	                                <p class="light-white-text">exincorp offered quality training to me catering the industry requirements.</p>
 	                            </div>
 	                    	</div>
 	                        <div class="row">
@@ -428,7 +428,7 @@ webengage.init("d3a4ac24");
 	                    	        <img src="images/testimonial-2.jpg" class="testimonials-design" alt="John Doe Testimonial">
 	                                <h5 class="mt-10"><a href="#" class="white-text">Adam Chen</a></h5>
 	                                <h6 class="m-10 light-white-text"><small>Project Trainee, Thermal</small></h6>
-	                                <p class="light-white-text">exoncorp offered quality training to me catering the industry requirements.</p>
+	                                <p class="light-white-text">exincorp offered quality training to me catering the industry requirements.</p>
 	                            </div>
 	                    	</div>
 	                        <div class="row">
@@ -436,7 +436,7 @@ webengage.init("d3a4ac24");
 	                    	        <img src="images/testimonial-3.jpg" class="testimonials-design" alt="John Doe Testimonial">
 	                                <h5 class="mt-10"><a href="#" class="white-text">Alicia Taylor</a></h5>
 	                                <h6 class="m-10 light-white-text"><small>Project Trainee, Embedded Systems</small></h6>
-	                                <p class="light-white-text">exoncorp offered quality training to me catering the industry requirements.</p>
+	                                <p class="light-white-text">exincorp offered quality training to me catering the industry requirements.</p>
 	                            </div>
 	                    	</div>
 	                        <div class="row">
@@ -444,7 +444,7 @@ webengage.init("d3a4ac24");
 	                    	        <img src="images/testimonial-4.jpg" class="testimonials-design" alt="John Doe Testimonial">
 	                                <h5 class="mt-10"><a href="#" class="white-text">Joseph Murphy</a></h5>
 	                                <h6 class="m-10 light-white-text"><small>Student, Image Processing</small></h6>
-	                                <p class="light-white-text">exoncorp offered quality training to me catering the industry requirements.</p>
+	                                <p class="light-white-text">exincorp offered quality training to me catering the industry requirements.</p>
 	                            </div>
 	                    	</div>
 	                        <div class="row">
@@ -452,7 +452,7 @@ webengage.init("d3a4ac24");
 	                    	        <img src="images/testimonial-5.jpg" class="testimonials-design" alt="John Doe Testimonial">
 	                                <h5 class="mt-10"><a href="#" class="white-text">Alison Davis</a></h5>
 	                                <h6 class="m-10 light-white-text"><small>Project Trainee, Robotics</small></h6>
-	                                <p class="light-white-text">exoncorp offered quality training to me catering the industry requirements.</p>
+	                                <p class="light-white-text">exincorp offered quality training to me catering the industry requirements.</p>
 	                            </div>
 	                    	</div>
 	                    </div>
@@ -503,7 +503,7 @@ webengage.init("d3a4ac24");
             </section>
             <!-- /.content-section bg-primary -->
 
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.505559490861!2d79.1663753141183!3d12.939468890876972!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bad3870ea3dbbc5%3A0x152c56c8d2417a96!2sexoncorp+IT+Solutions+Private+Limited!5e0!3m2!1sen!2sin!4v1500728231484" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.505559490861!2d79.1663753141183!3d12.939468890876972!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bad3870ea3dbbc5%3A0x152c56c8d2417a96!2sexincorp+IT+Solutions+Private+Limited!5e0!3m2!1sen!2sin!4v1500728231484" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
             <!-- /.map-wrapper -->
 
 

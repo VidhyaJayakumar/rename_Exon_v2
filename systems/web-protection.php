@@ -9,12 +9,12 @@
 <!-- Head BEGIN -->
 <head>
   <meta charset="utf-8">
-   <title>Exoncorp Systems |computer dealers in vellore | computer sales and service in vellore | Server Rental and Services | CCTV Camera Sales and Services | Networking Problem | Data Recovery Problem | OS Installation | Basic Computer Software Installing | Computer Repair Services | Keyboard Sales and Services | Computer Parts Sales | Desktop Sales and Services | PC Support Software Install | Computer Networking Repair | Hardware Repair | Assembled System Sales | CPU Repair Services in Vellore | On Call Computer Repair Service Kanchipuram | Computer Service Center Chennai | UPS Sales Chennai | Moniter Sales Kanchipuram | Hardware Repair Sales Services - exoncorp System Vellore | Kanchipuram | Gudiyatham | Chennai</title>
+   <title>Exoncorp Systems |computer dealers in vellore | computer sales and service in vellore | Server Rental and Services | CCTV Camera Sales and Services | Networking Problem | Data Recovery Problem | OS Installation | Basic Computer Software Installing | Computer Repair Services | Keyboard Sales and Services | Computer Parts Sales | Desktop Sales and Services | PC Support Software Install | Computer Networking Repair | Hardware Repair | Assembled System Sales | CPU Repair Services in Vellore | On Call Computer Repair Service Kanchipuram | Computer Service Center Chennai | UPS Sales Chennai | Moniter Sales Kanchipuram | Hardware Repair Sales Services - exincorp System Vellore | Kanchipuram | Gudiyatham | Chennai</title>
 
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-  <meta content="Keywords" name="computer dealers in vellore,computer sales in vellore,cctv dealers in vellore,vellore computer accessories,computer shops in vellore,computer service center in vellore,computer service in vellore,computer sales and service in vellore,Computers & Accessories,Laptop Repair and Services,Sevice Engineer Vellore,computer accessories in vellore,Laptop Accessories in Vellore,exoncorp systems vellore,tamilnadu,Computer Accessories Sales Vellore, Global Computer Services in Kanchipuram, Computer Components Sales in Kanchipuram, Professional Computer Software Services Vellore, Desktop Rental Services Sales in Kanchipuram, Server Problem Gudiyatham, Hardisk Recovery in Vellore, MotherBoard Chip Level Service in Gudiyatham, Recovery Computer Repair in Vellore, Os installer in Kachipuram, Laptop Keyword Repair in Gudiyatham, Monitor Repair in Vellore, Computer Sales in Kanchipuram, Install Antivirus Vellore, Installing Basic Software in kanchipuram @ Vellore, Kanchipuram, Gudiyatham, Chennai">
+  <meta content="Keywords" name="computer dealers in vellore,computer sales in vellore,cctv dealers in vellore,vellore computer accessories,computer shops in vellore,computer service center in vellore,computer service in vellore,computer sales and service in vellore,Computers & Accessories,Laptop Repair and Services,Sevice Engineer Vellore,computer accessories in vellore,Laptop Accessories in Vellore,exincorp systems vellore,tamilnadu,Computer Accessories Sales Vellore, Global Computer Services in Kanchipuram, Computer Components Sales in Kanchipuram, Professional Computer Software Services Vellore, Desktop Rental Services Sales in Kanchipuram, Server Problem Gudiyatham, Hardisk Recovery in Vellore, MotherBoard Chip Level Service in Gudiyatham, Recovery Computer Repair in Vellore, Os installer in Kachipuram, Laptop Keyword Repair in Gudiyatham, Monitor Repair in Vellore, Computer Sales in Kanchipuram, Install Antivirus Vellore, Installing Basic Software in kanchipuram @ Vellore, Kanchipuram, Gudiyatham, Chennai">
   <meta content="Description" name="computer dealers in vellore , computer sales and service in vellore,Computer Stores in Gudiyatham, On Call Computer Service Vellore, Assembled System Sales Kanchipuram, Low Cost Computer Sales Gudiyatham, Desktop System Price List, Used Laptop Sales Vellore, Computer Dealers Kanchipuram, Second Hand Computer Sales Vellore, Computer Buying and Selling Kanchipuram, Laptop Screen Repair Gudiyatham, Computer Repair Store Vellore, Computer Services Company Kanchipuram, IT Computer Services Gudiyatham, Laptop Keyboard Repair Vellore, Desktop Computer Services Kachipuram, Computer Support Specialist Vellore @ Vellore, Kanchipuram, Gudiyatham, Chennai">
 <meta content='index, follow' name='robots'/>
 
@@ -96,12 +96,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                   <p align="justify">Fast, efficient IT is one of the most important tools for running a successful business. But any company with an online presence is at risk of security breaches and if you’re not adequately protected, you are leaving your business vulnerable to attacks including spam, phishing, viruses, malicious hackers and malware.!</p>
                  <div class="portlet-body">
      <div class="well">
-<font size="3">Viruses, malware and spyware pose a threat to businesses so get the best protection possible. exoncorp Systems provide Virus and Spyware solutions that keep you safe from harm, while our Email & Spam Protection ensures your email is working to benefit your company
+<font size="3">Viruses, malware and spyware pose a threat to businesses so get the best protection possible. exincorp Systems provide Virus and Spyware solutions that keep you safe from harm, while our Email & Spam Protection ensures your email is working to benefit your company
 </font>
 	</div>
 </div>    
   
-<p align="justify">But with exoncorp Systems taking care of your security you can minimize risk and enjoy full protection around the clock. Just look at some of the services we can offer.</p>
+<p align="justify">But with exincorp Systems taking care of your security you can minimize risk and enjoy full protection around the clock. Just look at some of the services we can offer.</p>
 <div class="portlet">
               <div class="portlet-title">
                 <div class="caption">
@@ -110,7 +110,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 
               </div>
               </div>
-<p align="justify">Emails are a great way for any company to communicate with customers but they can leave you vulnerable to security problems. Email and Spam Protection from exoncorp Systems helps you to ensure the security of your email – prevent online threats and safeguard your business. With our award-winning SecureTide™ service, 99 percent of annoying and unwanted messages will never reach your inbox. This service is highly economical as there’s no expensive equipment to install, no cancellation fees, and best of all no more junk mail or malicious messages in your inbox.</p>
+<p align="justify">Emails are a great way for any company to communicate with customers but they can leave you vulnerable to security problems. Email and Spam Protection from exincorp Systems helps you to ensure the security of your email – prevent online threats and safeguard your business. With our award-winning SecureTide™ service, 99 percent of annoying and unwanted messages will never reach your inbox. This service is highly economical as there’s no expensive equipment to install, no cancellation fees, and best of all no more junk mail or malicious messages in your inbox.</p>
 <div class="portlet">
               <div class="portlet-title">
                 <div class="caption">
@@ -119,7 +119,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 
               </div>
               </div>
-<p align="justify">Your business will slow down if malware or viruses stop your organization’s computers and laptops running to their full capacity. exoncorp Systems' experts have a wealth of expertise in dealing with malicious software and will find, delete and secure your systems from the enemies that are slowing you down and invading your privacy. We offer:</p>
+<p align="justify">Your business will slow down if malware or viruses stop your organization’s computers and laptops running to their full capacity. exincorp Systems' experts have a wealth of expertise in dealing with malicious software and will find, delete and secure your systems from the enemies that are slowing you down and invading your privacy. We offer:</p>
 <!-- BEGIN LISTS -->
     
 <ul>
@@ -149,7 +149,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
  <p>All of these services, including preventative maintenance and updates, are available for a flat-rate monthly fee.</p>                     
 <blockquote><p>Protect everything you've worked for and get in touch with 
-exoncorp Systems today !</p></blockquote>
+exincorp Systems today !</p></blockquote>
  
                        
          </div> </div> </div> </div> </div> </div> </div> </div>               

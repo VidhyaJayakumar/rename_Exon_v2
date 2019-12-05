@@ -49,36 +49,36 @@
                     <div class="widget_latest_posts">
                          <ul>
                               <li>
-                                   <h6><i class="icon-chevron-right"></i><a href="https://exoncorp.com/studios/website-development/index" title="vellore website development web designing web hosting domain registration in vellore ">Website Design</a></h6>
+                                   <h6><i class="icon-chevron-right"></i><a href="https://exincorp.com/studios/website-development/index" title="vellore website development web designing web hosting domain registration in vellore ">Website Design</a></h6>
                               </li>
                               <li>
-                                   <h6><i class="icon-chevron-right"></i><a href="https://exoncorp.com/studios/web-application/index" title="Online Shop website development company in vellore">Web Applications</a></h6>
+                                   <h6><i class="icon-chevron-right"></i><a href="https://exincorp.com/studios/web-application/index" title="Online Shop website development company in vellore">Web Applications</a></h6>
                               </li>
                               <li>
-                                   <h6><i class="icon-chevron-right"></i><a href="https://exoncorp.com/studios/domain-registration" title="Web hosting company in vellore, web hosting designing in tamil nadu">Domain Search</a></h6>
+                                   <h6><i class="icon-chevron-right"></i><a href="https://exincorp.com/studios/domain-registration" title="Web hosting company in vellore, web hosting designing in tamil nadu">Domain Search</a></h6>
                               </li><li>
-                                   <h6><i class="icon-chevron-right"></i><a href="https://exoncorp.com/studios/domain-hosting" title="Web hosting company in vellore, web hosting designing in tamil nadu">Domain Hosting</a></h6>
+                                   <h6><i class="icon-chevron-right"></i><a href="https://exincorp.com/studios/domain-hosting" title="Web hosting company in vellore, web hosting designing in tamil nadu">Domain Hosting</a></h6>
                               </li>
                               <li>
-                                   <h6><i class="icon-chevron-right"></i><a href="https://exoncorp.com/studios/web-hosting" title="vellore web designer, website design seo,website design pricing in vellore, Social Media Marketing in vellore">Web Hosting</a></h6>
+                                   <h6><i class="icon-chevron-right"></i><a href="https://exincorp.com/studios/web-hosting" title="vellore web designer, website design seo,website design pricing in vellore, Social Media Marketing in vellore">Web Hosting</a></h6>
                               </li>
                               <li>
-                                   <h6><i class="icon-chevron-right"></i><a href="https://exoncorp.com/studios/digital-marketing/social-media-consultant" title="Digital Marketing in Vellore">Social Media Consultant</a></h6>
+                                   <h6><i class="icon-chevron-right"></i><a href="https://exincorp.com/studios/digital-marketing/social-media-consultant" title="Digital Marketing in Vellore">Social Media Consultant</a></h6>
                               </li>
                               <li>
-                                   <h6><i class="icon-chevron-right"></i><a href="https://exoncorp.com/studios/digital-marketing/seo-consultant-vellore" title=" SEO Consultant in Vellore ">SEO Consultant</a></h6>
+                                   <h6><i class="icon-chevron-right"></i><a href="https://exincorp.com/studios/digital-marketing/seo-consultant-vellore" title=" SEO Consultant in Vellore ">SEO Consultant</a></h6>
                               </li>
                               <li>
-                                   <h6><i class="icon-chevron-right"></i><a href="https://exoncorp.com/studios/website-development/Website-Maintenance" title="company website design in vellore, advertisement in vellore web, vellore ads  ">Website Maintenance</a></h6>
+                                   <h6><i class="icon-chevron-right"></i><a href="https://exincorp.com/studios/website-development/Website-Maintenance" title="company website design in vellore, advertisement in vellore web, vellore ads  ">Website Maintenance</a></h6>
                               </li>
                               <li>
-                                   <h6><i class="icon-chevron-right"></i><a href="https://exoncorp.com/studios/website-development/Web-Redesign"title="web design company in vellore, website designer in vellore, web designing in vellore, web design company in vellore, Web site design company in vellore">Website Redesign</a></h6>
+                                   <h6><i class="icon-chevron-right"></i><a href="https://exincorp.com/studios/website-development/Web-Redesign"title="web design company in vellore, website designer in vellore, web designing in vellore, web design company in vellore, Web site design company in vellore">Website Redesign</a></h6>
                               </li>
                               <li>
-                                   <h6><i class="icon-chevron-right"></i><a href="https://exoncorp.com/studios/bulk-sms/"title="Bulk Sms">bulk Sms</a></h6>
+                                   <h6><i class="icon-chevron-right"></i><a href="https://exincorp.com/studios/bulk-sms/"title="Bulk Sms">bulk Sms</a></h6>
                               </li>
                               <li>
-                                   <h6><i class="icon-chevron-right"></i><a href="https://exoncorp.com/studios/certification/"title="Bulk Sms">Certificate Verification</a></h6>
+                                   <h6><i class="icon-chevron-right"></i><a href="https://exincorp.com/studios/certification/"title="Bulk Sms">Certificate Verification</a></h6>
                               </li>
                          </ul>
                     </div>   
@@ -89,34 +89,34 @@
                     <div class="widget_latest_posts">
                           <ul>
 						  <li>
-                                   <h6><i class="icon-chevron-right"></i><a href="https://exoncorp.com/studios/analytics" title="digital web analytics company in Vellore">Analytics</a></h6>
+                                   <h6><i class="icon-chevron-right"></i><a href="https://exincorp.com/studios/analytics" title="digital web analytics company in Vellore">Analytics</a></h6>
                               </li>
                               <li>
-                                   <h6><i class="icon-chevron-right"></i><a href="https://exoncorp.com/studios/branding/Name-Generation" title="Website Designing in Vellore">Name Generation</a></h6>
+                                   <h6><i class="icon-chevron-right"></i><a href="https://exincorp.com/studios/branding/Name-Generation" title="Website Designing in Vellore">Name Generation</a></h6>
                               </li>
                               <li>
-                                   <h6><i class="icon-chevron-right"></i><a href="https://exoncorp.com/studios/branding/Logo-Design" title="Website Designers in Vellore">Logo Design</a></h6>
+                                   <h6><i class="icon-chevron-right"></i><a href="https://exincorp.com/studios/branding/Logo-Design" title="Website Designers in Vellore">Logo Design</a></h6>
                               </li>
                               <li>
-                                   <h6><i class="icon-chevron-right"></i><a href="https://exoncorp.com/studios/branding/index" title="Web developer in Vellore">Branding</a></h6>
+                                   <h6><i class="icon-chevron-right"></i><a href="https://exincorp.com/studios/branding/index" title="Web developer in Vellore">Branding</a></h6>
                               </li>
                               <li>
-                                   <h6><i class="icon-chevron-right"></i><a href="https://exoncorp.com/studios/branding/Brochure-Design" title="Website Redesign in Vellore">Brochure Design</a></h6>
+                                   <h6><i class="icon-chevron-right"></i><a href="https://exincorp.com/studios/branding/Brochure-Design" title="Website Redesign in Vellore">Brochure Design</a></h6>
                               </li>
                               <li>
-                                   <h6><i class="icon-chevron-right"></i><a href="https://exoncorp.com/studios/branding/Corporate-Colors" title="Website Developer in Vellore">Corporate Colors</a></h6>
+                                   <h6><i class="icon-chevron-right"></i><a href="https://exincorp.com/studios/branding/Corporate-Colors" title="Website Developer in Vellore">Corporate Colors</a></h6>
                               </li>
                               <li>
-                                   <h6><i class="icon-chevron-right"></i><a href="https://exoncorp.com/studios/branding/Corporate-Presentations" title="Website Developers in Vellore">Corporate Presentations</a></h6>
+                                   <h6><i class="icon-chevron-right"></i><a href="https://exincorp.com/studios/branding/Corporate-Presentations" title="Website Developers in Vellore">Corporate Presentations</a></h6>
                               </li>
                               <li>
-                                   <h6><i class="icon-chevron-right"></i><a href="https://exoncorp.com/studios/branding/Advertising" title="Web design in Vellore">Advertising</a></h6>
+                                   <h6><i class="icon-chevron-right"></i><a href="https://exincorp.com/studios/branding/Advertising" title="Web design in Vellore">Advertising</a></h6>
                               </li>
                               <li>
-                                   <h6><i class="icon-chevron-right"></i><a href="https://exoncorp.com/studios/branding/Photography" title="Website Designing in Vellore">Photography</a></h6>
+                                   <h6><i class="icon-chevron-right"></i><a href="https://exincorp.com/studios/branding/Photography" title="Website Designing in Vellore">Photography</a></h6>
                               </li>
 							  <li>
-                                   <h6><i class="icon-chevron-right"></i><a href="https://exoncorp.com/studios/internet-marketing" title="Internet marketing company in Vellore">Internet Marketing</a></h6>
+                                   <h6><i class="icon-chevron-right"></i><a href="https://exincorp.com/studios/internet-marketing" title="Internet marketing company in Vellore">Internet Marketing</a></h6>
 								   <li>
                                    <h6><i class="icon-chevron-right"></i><a href="http://redbaks.com" title="free html website builder in Vellore">Website Builder</a></h6>
                               </li>
@@ -149,25 +149,25 @@
                <h3>Company</h3>
                 <div class="footer_tags">
                     <ul>
-                         <li><a href="https://exoncorp.com/studios/about" title="Web Development Company in Vellore">About</a></li>
-                         <li><a href="https://exoncorp.com/studios/partner/index.php" title="Vellore Designers">Partners</a></li>
-                         <li><a href="https://exoncorp.com/studios/careers" title="Website Designing in Vellore">Careers</a></li>
-                         <li><a href="https://exoncorp.com/studios/team" title="Vellore Web Developers">Team</a></li>
-                         <li><a href="https://exoncorp.com/studios/contact" title="Designers in Vellore">Contact</a></li>
+                         <li><a href="https://exincorp.com/studios/about" title="Web Development Company in Vellore">About</a></li>
+                         <li><a href="https://exincorp.com/studios/partner/index.php" title="Vellore Designers">Partners</a></li>
+                         <li><a href="https://exincorp.com/studios/careers" title="Website Designing in Vellore">Careers</a></li>
+                         <li><a href="https://exincorp.com/studios/team" title="Vellore Web Developers">Team</a></li>
+                         <li><a href="https://exincorp.com/studios/contact" title="Designers in Vellore">Contact</a></li>
                          <li><a href="https://redbackstudios.in/clients/index.php" title="Vellore Marketing">Clients</a></li>
                            <li><a href="https://redbackstudios.in/products/index.php" title="Software Products">Products</a></li>
                          <li><a href="http://redbackstudios.blogspot.in/" title="Vellore Web Advertising">Blog</a></li>
-                         <li><a href="https://exoncorp.com/studios/testimonials" title="SEO Service in Vellore">Testimonials</a></li>
+                         <li><a href="https://exincorp.com/studios/testimonials" title="SEO Service in Vellore">Testimonials</a></li>
                          <li><a href="http://domainquicksearch.com/admin/login" title="Redback Cloud">Domain Search</a></li>
                            <li><a href="https://redbackstudios.in/analytics/analytics.php" title="Redback Cloud">Analytics</a></li>
                          <li><a href="https://redbackstudios.in/website-development/web-design-and-development.php" title="Web Design and development near by Vellore">Web Design and Development</a></li>
                           <li><a href="https://redbackstudios.in/graphics-design.php" title="Graphic Designing near by Vellore">Graphic Designing</a></li>
                           <li><a href="https://redbackstudios.in/web-hosting/web-hosting-vellore.php" title="Web Design and development near by Vellore">Web Hosting</a></li>
                          <li><a href="http://tourtravelbooking.com/" title="Redback Cloud">Travel Booking</a></li>
-                         <li><a href="https://exoncorp.com/studios/pricing" title="Redback Cloud">Pricing</a></li>
+                         <li><a href="https://exincorp.com/studios/pricing" title="Redback Cloud">Pricing</a></li>
 
-						 <li><a href="https://exoncorp.com/studios/faq" title="Redback Studios">Faq</a></li>
-						 <li><a href="https://exoncorp.com/studios/sitemap" title="Vellore Website Developers">Sitemap</a></li>
+						 <li><a href="https://exincorp.com/studios/faq" title="Redback Studios">Faq</a></li>
+						 <li><a href="https://exincorp.com/studios/sitemap" title="Vellore Website Developers">Sitemap</a></li>
                     </ul>
                </div>
                <hr class="sep20">
@@ -179,18 +179,18 @@
                <h3>Connecting World</h3>
                 <div class="footer_tags">
                     <ul>
-                          <li><a href="https://exoncorp.com/studios/india/" title="Web Development Company in india">INDIA</a></li>
-                         <li><a href="https://exoncorp.com/studios/us/" title="Web design company in us">US</a></li>
-                         <li><a href="https://exoncorp.com/studios/uk/" title="Digital Marketing Company in uk">UK</a></li>
-						 <li><a href="https://exoncorp.com/studios/uae/" title="Web design company in us">UAE</a></li>
-						  <li><a href="https://exoncorp.com/studios/malaysia/" title="Web design company in us">Malaysia</a></li>
+                          <li><a href="https://exincorp.com/studios/india/" title="Web Development Company in india">INDIA</a></li>
+                         <li><a href="https://exincorp.com/studios/us/" title="Web design company in us">US</a></li>
+                         <li><a href="https://exincorp.com/studios/uk/" title="Digital Marketing Company in uk">UK</a></li>
+						 <li><a href="https://exincorp.com/studios/uae/" title="Web design company in us">UAE</a></li>
+						  <li><a href="https://exincorp.com/studios/malaysia/" title="Web design company in us">Malaysia</a></li>
 						 
-						  <li><a href="https://exoncorp.com/studios/chennai/" title="Web Development Company in Chennai">Chennai</a></li>
-						 <li><a href="https://exoncorp.com/studios/bangalore/" title="Web Development Company in bangalore">Bangalore</a></li>
-                         <li><a href="https://exoncorp.com/studios/vellore/" title="Web design company in vellore">Vellore</a></li>
+						  <li><a href="https://exincorp.com/studios/chennai/" title="Web Development Company in Chennai">Chennai</a></li>
+						 <li><a href="https://exincorp.com/studios/bangalore/" title="Web Development Company in bangalore">Bangalore</a></li>
+                         <li><a href="https://exincorp.com/studios/vellore/" title="Web design company in vellore">Vellore</a></li>
                           
-                         <li><a href="https://exoncorp.com/studios/gudiyatham/" title="Redback Academy in Gudiyatham">Gudiyatham</a></li>
-						<li><a href="https://exoncorp.com/studios/coimbatore/" title="Redback Academy in Coimbatore">Coimbatore</a></li>
+                         <li><a href="https://exincorp.com/studios/gudiyatham/" title="Redback Academy in Gudiyatham">Gudiyatham</a></li>
+						<li><a href="https://exincorp.com/studios/coimbatore/" title="Redback Academy in Coimbatore">Coimbatore</a></li>
 
                   
 

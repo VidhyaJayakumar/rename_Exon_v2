@@ -45,7 +45,7 @@
                             <h2 class="page-title-heading" style="color:white;">IEEE Projects</h2>
                             <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>
                             <p class="lead">
-                                <a href="http://exoncorpprojects.com/contact.php" class="btn btn-transition btn-primary">Contact</a>
+                                <a href="http://exincorpprojects.com/contact.php" class="btn btn-transition btn-primary">Contact</a>
                             </p>
                         </div>
                         <!-- /.inner page-title -->
@@ -105,7 +105,7 @@
                                             	</div>
                                             	<ul class="list-group list-group-flush">
                                             		<li class="list-group-item d-block text-left">Why Big Data Project? </li>
-                                            		<li class="list-group-item d-block text-left">Why Big Data Project at exoncorp? </li>
+                                            		<li class="list-group-item d-block text-left">Why Big Data Project at exincorp? </li>
                                                     <li class="list-group-item d-block text-left">BIGDATA (Hadoop) based DATA MINING</li>
                                                     <li class="list-group-item d-block text-left">BIGDATA (Hadoop) based WEB MINING </li>
                                                     <li class="list-group-item d-block text-left">Only 20 Users </li>
@@ -427,7 +427,7 @@
                             <h4 class="h2">Request a call back.</h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
                             <p class="mt-2 pt-2">
-                                <a href="http://exoncorpprojects.com/contact.php" class="btn btn-lg btn-secondary">Contact</a>
+                                <a href="http://exincorpprojects.com/contact.php" class="btn btn-lg btn-secondary">Contact</a>
                             </p>
                         </div>
                         <!-- /.col-md-4 -->

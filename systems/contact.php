@@ -10,13 +10,13 @@
 <!-- Head BEGIN -->
 <head>
   <meta charset="utf-8">
-  <title>Exoncorp Systems Contact Page, Vellore, Chennai, Hosur, Gudiyatham We are Top Leading Server Network Maintenance Company, exoncorp Contact 818998558 </title>
+  <title>Exoncorp Systems Contact Page, Vellore, Chennai, Hosur, Gudiyatham We are Top Leading Server Network Maintenance Company, exincorp Contact 818998558 </title>
 
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
- <meta content="Keywords" name="exoncorp Systems Contact Page, Vellore, Chennai, Hosur, Gudiyatham">
-  <meta content="Description" name="exoncorp Systems Contact Page, Vellore, Chennai, Hosur, Gudiyatham | exoncorp Systems we know that we offer the best IT expertise and the most responsive customer service. And we’re not just saying this, just look what some of our customers have written about us. 818998558">
+ <meta content="Keywords" name="exincorp Systems Contact Page, Vellore, Chennai, Hosur, Gudiyatham">
+  <meta content="Description" name="exincorp Systems Contact Page, Vellore, Chennai, Hosur, Gudiyatham | exincorp Systems we know that we offer the best IT expertise and the most responsive customer service. And we’re not just saying this, just look what some of our customers have written about us. 818998558">
 <meta content='index, follow' name='robots'/>
   <!-- Fonts START -->
   <link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|PT+Sans+Narrow|Source+Sans+Pro:200,300,400,600,700,900&amp;subset=all" rel="stylesheet" type="text/css">
@@ -126,8 +126,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                   </address>
                   <address>
                     <strong>Email</strong><br>
-                    <a href="mailto:info@exoncorps.in">info@exoncorps.in</a><br>
-                    <a href="mailto:support@exoncorps.in">support@exoncorps.in</a>
+                    <a href="mailto:info@exincorps.in">info@exincorps.in</a><br>
+                    <a href="mailto:support@exincorps.in">support@exincorps.in</a>
                   </address>
                   <ul class="social-icons margin-bottom-40">
                     <li><a href="#" target="_blank" data-original-title="facebook" class="facebook"></a></li>

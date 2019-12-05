@@ -11,13 +11,13 @@
 <!-- Head BEGIN -->
 <head>
   <meta charset="utf-8">
-  <title>exoncorp&reg; Systems |IT Services company |Server Support Company in Vellore| Computer Service Center in Vellore |Computer Sales and Service in Vellore | Server Rental and Services | Networking Problem | Data Recovery Problem | Laptop Service Center Kanchipuram, printer,tonerrefilling, | Vellore | Kanchipuram | Gudiyatham | Chennai @ exoncorp Systems</title>
+  <title>exincorp&reg; Systems |IT Services company |Server Support Company in Vellore| Computer Service Center in Vellore |Computer Sales and Service in Vellore | Server Rental and Services | Networking Problem | Data Recovery Problem | Laptop Service Center Kanchipuram, printer,tonerrefilling, | Vellore | Kanchipuram | Gudiyatham | Chennai @ exincorp Systems</title>
 
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<meta name="description" content="exoncorp®Systems Computer Sales Service in Vellore,Services is the one-stop IT services company in Vellore for all of your Desktop and Laptop Computer repairs. Our technicians fix all types of hardware and software problems. - exoncorp Systems laptop, desktop,printers,servers,softwares,oldsystems,networking,rack,tonerrefilling @ Vellore, Chennai, Gudiyatham, Kanchipuram"/>
-	<meta name="author" content=" exoncorp Systems - computer sales and service @ Vellore, Chennai, Kanchipuram, Gudiyatham">
-	<meta name="keywords" content="Computer Sales Service in Vellore,Laptop service in Gudiyatham, Computer and System Service in Gudiyatham,Printer Service in Gudiyatham, hardware service in vellore, computer dealers in vellore,computer sales in vellore,cctv dealers in vellore,vellore computer accessories,computer shops in vellore,computer service center in vellore,computer service in vellore,computer sales and service in vellore,Computers & Accessories,Laptop Repair and Services in vellore,Sevice Engineer Vellore,computer accessories in vellore,Laptop Accessories in Vellore,exoncorp systems vellore,tamilnadu. Computer Service Center - exoncorp Systems @ Vellore, Gudiyatham, Chennai, Kanchipuram">
+	<meta name="description" content="exincorp®Systems Computer Sales Service in Vellore,Services is the one-stop IT services company in Vellore for all of your Desktop and Laptop Computer repairs. Our technicians fix all types of hardware and software problems. - exincorp Systems laptop, desktop,printers,servers,softwares,oldsystems,networking,rack,tonerrefilling @ Vellore, Chennai, Gudiyatham, Kanchipuram"/>
+	<meta name="author" content=" exincorp Systems - computer sales and service @ Vellore, Chennai, Kanchipuram, Gudiyatham">
+	<meta name="keywords" content="Computer Sales Service in Vellore,Laptop service in Gudiyatham, Computer and System Service in Gudiyatham,Printer Service in Gudiyatham, hardware service in vellore, computer dealers in vellore,computer sales in vellore,cctv dealers in vellore,vellore computer accessories,computer shops in vellore,computer service center in vellore,computer service in vellore,computer sales and service in vellore,Computers & Accessories,Laptop Repair and Services in vellore,Sevice Engineer Vellore,computer accessories in vellore,Laptop Accessories in Vellore,exincorp systems vellore,tamilnadu. Computer Service Center - exincorp Systems @ Vellore, Gudiyatham, Chennai, Kanchipuram">
 	<meta content='index, follow' name='robots'/>
 
   <!-- Fonts START -->
@@ -49,14 +49,14 @@
  { 
  "@context" : "http://schema.org",
  "@type" : "Organization",
- "name" : "exoncorpSystems",
- "url" : "https://exoncorpsystems.in/",
- "logo" : "https://exoncorpsystems.in/logo.png",
+ "name" : "exincorpSystems",
+ "url" : "https://exincorpsystems.in/",
+ "logo" : "https://exincorpsystems.in/logo.png",
  "sameAs" : [ 
- "https://www.facebook.com/exoncorpsystems/",
- "https://twitter.com/exoncorpsystems",
+ "https://www.facebook.com/exincorpsystems/",
+ "https://twitter.com/exincorpsystems",
  "https://plus.google.com/110876424824829428078/",
-  "https://www.pinterest.com/exoncorpsystems"
+  "https://www.pinterest.com/exincorpsystems"
  ]
  }
  </script>
@@ -141,7 +141,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 data-speed="400"
                 data-start="1500"
                 data-easing="easeOutExpo">
-                Put exoncorp in charge. 
+                Put exincorp in charge. 
               </div>
               <div class="caption lft slide_subtitle slide_item_left"
                 data-x="30"
@@ -300,7 +300,7 @@ world of IT with news from our blog
                                  data-speed="400"
                                  data-start="2000"
                                  data-easing="easeOutExpo">
-                                 Just call exoncorp Systems for Computer Services! We offer fast and effective solutions.
+                                 Just call exincorp Systems for Computer Services! We offer fast and effective solutions.
                             </div>
                             <div class="caption lft slide_desc"
                                  data-x="30"
@@ -343,7 +343,7 @@ world of IT with news from our blog
               <em><i class="fa fa-check red"></i></em>
               <span>IT Solutions</span>
             </div>
-            <p align="justify"> When it comes to the technology you need to run your business, it's hard to make sense of all the options. exoncorp does more than just sell technology,we can boast the expertise to change the way companies use their IT and develop technology solutions to your real business challenges.</p>
+            <p align="justify"> When it comes to the technology you need to run your business, it's hard to make sense of all the options. exincorp does more than just sell technology,we can boast the expertise to change the way companies use their IT and develop technology solutions to your real business challenges.</p>
           </div>
           <div class="col-md-4 col-sm-4">
             <div class="service-box-heading">
@@ -362,7 +362,7 @@ world of IT with news from our blog
             <span> Using technology as a tool to solve business challenges | 24/7 Support </span>
           </div>
           <div class="col-md-3 text-right">
-            <a class="btn-transparent" href="https://exoncorp.freshservice.com/" title="Server Problem" target="_blank"><i class="fa fa-rocket margin-right-10"></i>Support</a>
+            <a class="btn-transparent" href="https://exincorp.freshservice.com/" title="Server Problem" target="_blank"><i class="fa fa-rocket margin-right-10"></i>Support</a>
           </div>
         </div>
         <!-- END BLOCKQUOTE BLOCK -->
@@ -371,9 +371,9 @@ world of IT with news from our blog
         <div class="row recent-work margin-bottom-40">
           <div class="col-md-3">
             <h2>Why us?</h2>
-            <p align="justify">With exoncorp Systems in charge of your technology, we guarantee that your business IT will run more efficiently than ever before.</p>
+            <p align="justify">With exincorp Systems in charge of your technology, we guarantee that your business IT will run more efficiently than ever before.</p>
 <br> 
-<p>Director IT Services<br>exoncorp IT SOLUTIONS</p>
+<p>Director IT Services<br>exincorp IT SOLUTIONS</p>
           </div>
           <div class="col-md-9">
             <div class="owl-carousel owl-carousel3">
@@ -496,7 +496,7 @@ world of IT with news from our blog
               </div>
               <div class="tab-pane row fade" id="tab-2">
                 <div class="col-md-9 col-sm-9">
-                  <p align="justify">A range of reports over the recent years has show that the majority (up to 60%) of small and medium businesses won't survive a drastic loss of data. So it's often a shock to find that many companies have no back-up or disaster recovery strategies in place at all. If this is the case for your company, you're putting at risk all you've worked for. That is why exoncorp Systems is offering a wide range of comprehensive backup, disaster and recovery solutions priced to fit small business budgets. We want to keep you safe!</p>
+                  <p align="justify">A range of reports over the recent years has show that the majority (up to 60%) of small and medium businesses won't survive a drastic loss of data. So it's often a shock to find that many companies have no back-up or disaster recovery strategies in place at all. If this is the case for your company, you're putting at risk all you've worked for. That is why exincorp Systems is offering a wide range of comprehensive backup, disaster and recovery solutions priced to fit small business budgets. We want to keep you safe!</p>
                 </div>
                 <div class="col-md-3 col-sm-3">
                   <a href="assets/frontend/pages/img/photos/img13.jpg" class="fancybox-button" title=" " data-rel="fancybox-button">
@@ -508,7 +508,7 @@ world of IT with news from our blog
                 <p align="justify">Fast, efficient IT is one of the most important tools for running a successful business. But any company with an online presence is at risk of security breaches and if you’re not adequately protected, you are leaving your business vulnerable to attacks including spam, phishing, viruses, malicious hackers and malware.</p>
               </div>
               <div class="tab-pane fade" id="tab-4">
-                <p align="justify">Protect your business from online threats. exoncorp taking care of your security you can minimize risk and enjoy full protection around the clock. Just look at some of the services we can offer.Our firewall services let you run your business without worrying about your network’s security. In addition to protecting your staff and customers from security threats such as identity theft, we’ll protect your important data. Our systems discover and eliminate threats before they impact your company! </p>
+                <p align="justify">Protect your business from online threats. exincorp taking care of your security you can minimize risk and enjoy full protection around the clock. Just look at some of the services we can offer.Our firewall services let you run your business without worrying about your network’s security. In addition to protecting your staff and customers from security threats such as identity theft, we’ll protect your important data. Our systems discover and eliminate threats before they impact your company! </p>
               </div>
             <div class="tab-pane fade" id="tab-5">
                 <div class="col-md-3 col-sm-3">
@@ -524,7 +524,7 @@ world of IT with news from our blog
 
 <div class="tab-pane row fade" id="tab-6">
                 <div class="col-md-9 col-sm-9">
-                  <p align="justify"> As server technology becomes more important to companies, it is more common to see servers moved off site to co-location facilities where they are more secure and have all the cooling and internet needed to keep them running. Co-location facilities can also offer services such as back-up tapes, shared firewalls and systems patching. It can bring great peace of mind to small business owners to know that their most precious data is being looked after. exoncorp Systems can offer a customized solution for your business, and then host it in one of our co-location facilities. As your business grows, you can add more servers, storage, and other IT resources. </p>
+                  <p align="justify"> As server technology becomes more important to companies, it is more common to see servers moved off site to co-location facilities where they are more secure and have all the cooling and internet needed to keep them running. Co-location facilities can also offer services such as back-up tapes, shared firewalls and systems patching. It can bring great peace of mind to small business owners to know that their most precious data is being looked after. exincorp Systems can offer a customized solution for your business, and then host it in one of our co-location facilities. As your business grows, you can add more servers, storage, and other IT resources. </p>
                 </div>
                 <div class="col-md-3 col-sm-3">
                   <a href="assets/frontend/pages/img/photos/img14.jpg" class="fancybox-button" title=" " data-rel="fancybox-button">
@@ -554,7 +554,7 @@ world of IT with news from our blog
                   </div>
                 </div>
                 <div class="item">
-                  <blockquote><p align="justify">exoncorp Systems delivers great results by offering true partnership with their clients and I would highly recommend them to anyone looking for a stand out performer in the Managed IT Support Provider sector.</p></blockquote>
+                  <blockquote><p align="justify">exincorp Systems delivers great results by offering true partnership with their clients and I would highly recommend them to anyone looking for a stand out performer in the Managed IT Support Provider sector.</p></blockquote>
                   <div class="carousel-info">
                     <img title="Computer Service Center Vellore" class="pull-left" src="assets/frontend/pages/img/people/img5-small.jpg" alt="Desktop Services and Sales Chittoor">
                     <div class="pull-left">
@@ -564,7 +564,7 @@ world of IT with news from our blog
                   </div>
                 </div>
                 <div class="item">
-                  <blockquote><p align="justify">My company has been in business with exoncorp Systems for years. Every time I call them when I am having an issue they are very knowledgeable and extremely quick to resolve whatever problem it is. I would recommend them to anyone.</p></blockquote>
+                  <blockquote><p align="justify">My company has been in business with exincorp Systems for years. Every time I call them when I am having an issue they are very knowledgeable and extremely quick to resolve whatever problem it is. I would recommend them to anyone.</p></blockquote>
                   <div class="carousel-info">
                     <img title="Computer Service Center Vellore" class="pull-left" src="assets/frontend/pages/img/people/img2-small.jpg" alt="">
                     <div class="pull-left">

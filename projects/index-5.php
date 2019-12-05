@@ -334,7 +334,7 @@
                     	<div class="col-sm-4">
                     		<div class="card news-card mb-10">
                     			<div class="card-block">
-                    				<h5 class="card-title">exoncorp - Projects is awesome.</h5>
+                    				<h5 class="card-title">exincorp - Projects is awesome.</h5>
                     				<p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
                     				<a href="case-study-details.php" class="btn btn-primary">Read case study</a>
                     			</div>

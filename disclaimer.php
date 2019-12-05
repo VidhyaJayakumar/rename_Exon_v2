@@ -84,7 +84,7 @@
 <p style="text-align:justify">(6) Variation &#8211; We may revise this disclaimer from time-to-time. Please check this page regularly to ensure you are familiar with the current version.</p>
 <p style="text-align:justify">(7) Entire agreement &#8211; This disclaimer constitutes the entire agreement between you and us in relation to your use of our website, and supersedes all previous agreements in respect of your use of this website.</p>
 <p style="text-align:justify">(8) Law and Jurisdiction &#8211; This notice will be governed by and construed in accordance with Indian law, and any disputes relating to this notice shall be subject to the exclusive jurisdiction of the courts of India.</p>
-<p style="text-align:justify">(9) Our Contact Details &#8211; You can contact us by <a style="text-decoration:none;color:black" href="mailto:info@exoncorp.com" target="_blank">Email.</a></p>
+<p style="text-align:justify">(9) Our Contact Details &#8211; You can contact us by <a style="text-decoration:none;color:black" href="mailto:info@exincorp.com" target="_blank">Email.</a></p>
                           </div></div></div>
 <!--Start breadcrumb bottom area--> 
 

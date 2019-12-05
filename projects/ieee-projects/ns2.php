@@ -45,7 +45,7 @@
                             <h2 class="page-title-heading">NS2</h2>
                             <p class="lead">NS2 Project</p>
                             <p class="lead">
-                                <a href="http://exoncorpprojects.com/contact.php" class="btn btn-transition btn-success">Contact</a>
+                                <a href="http://exincorpprojects.com/contact.php" class="btn btn-transition btn-success">Contact</a>
                             </p>
                         </div>
                         <!-- /.inner page-title -->
@@ -70,10 +70,10 @@
 
 									<p class="card-text">Analytical Modeling is very tedious and Real Time Physical Measurements may not be possible all the time. Computer Simulation is the only feasible approach to the quantitative analysis of networks. Simulation is a very important modern technology. It can be applied to different science, engineering, or other application fields for different purposes. Application of simulation technology into networking area such as network traffic simulation, however, is relatively new. Network simulators are used by people from different areas such as academic researchers, industrial developers, and Quality Assurance (QA) to design, simulate, verify, and analyze the performance of different networks protocols.</p>
 
-                                    <h5>Why NS2 Projects at exoncorp?</h5>
+                                    <h5>Why NS2 Projects at exincorp?</h5>
                                     <p class="text-muted">Fine, you are choosing the right one for your career. Our training is open up your mind and provides guidance to beginner researchers. The quality of simulation training taking here would be very nice. Our training on Network simulator allows testing the scenarios that are difficult or expensive to simulate in physical world. Our training is to initiate your invent idea, not to re-invent the wheel. It particularly useful to test new networking protocols or to changes the existing protocols in a controlled and reproducible environment. It is really great Platform to initiate more about network technology.</p>
 
-                                    <h5>NS2 Projects ( Powered by exoncorp IT Solutions )</h5>
+                                    <h5>NS2 Projects ( Powered by exincorp IT Solutions )</h5>
                                     <h6>NS2 BASED MANET</h6>
                                     <ul class="text-muted">
                                         <li>Trust-Based Task Assignment WithMultiobjective Optimization in Service-Oriented Ad Hoc Networks (IEEE 2017).</li>
@@ -187,7 +187,7 @@
                             <h4 class="h2">Request a call back.</h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
                             <p class="mt-2 pt-2">
-                                <a href="http://exoncorpprojects.com/contact.php" class="btn btn-lg btn-secondary">Contact</a>
+                                <a href="http://exincorpprojects.com/contact.php" class="btn btn-lg btn-secondary">Contact</a>
                             </p>
                         </div>
                         <!-- /.col-md-4 -->

@@ -4,7 +4,7 @@
           <!-- BEGIN BOTTOM ABOUT BLOCK -->
           <div class="col-md-4 col-sm-6 pre-footer-col">
             <h2>About us</h2>
-            <p> With exoncorp Systems in charge of your technology, we guarantee that your business IT will run more efficiently than ever before.</p>
+            <p> With exincorp Systems in charge of your technology, we guarantee that your business IT will run more efficiently than ever before.</p>
             
                        
                     
@@ -28,13 +28,13 @@
               # No 05 / X2, Hari om 2nd Street,Phase-III,Sathuvachari,<br>
               Vellore, Tamilnadu, India - 632009<br>
               Phone: + 91 8189985551<br>
-              Email: <a href="mailto:info@exoncorps.in">info@exoncorps.com</a><br>
+              Email: <a href="mailto:info@exincorps.in">info@exincorps.com</a><br>
             </address>
 
             <div class="pre-footer-subscribe-box pre-footer-subscribe-box-vertical">
               <h2>Newsletter</h2>
               <p>Subscribe to our newsletter and stay up to date with the latest news and deals!</p>
-			  <form action="//exoncorpsystems.us12.list-manage.com/subscribe/post?u=dfe5272f08c9d01955434f95b&amp;id=f3033ca8f4" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+			  <form action="//exincorpsystems.us12.list-manage.com/subscribe/post?u=dfe5272f08c9d01955434f95b&amp;id=f3033ca8f4" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                 <div class="input-group">
                   <input type="email" name="EMAIL" id="mce-EMAIL" placeholder="youremail@mail.com" class="form-control">
                   <span class="input-group-btn">
@@ -49,7 +49,7 @@
           <!-- BEGIN TWITTER BLOCK --> 
           <div class="col-md-4 col-sm-6 pre-footer-col">
             <h2 class="margin-bottom-0">Latest Tweets</h2>
-            <a class="twitter-timeline" href="#" data-tweet-limit="3" data-theme="dark" data-link-color="#57C8EB" data-widget-id="634312072679985152" data-chrome="noheader nofooter noscrollbar noborders transparent">Loading tweets by @exoncorp Systems...</a>
+            <a class="twitter-timeline" href="#" data-tweet-limit="3" data-theme="dark" data-link-color="#57C8EB" data-widget-id="634312072679985152" data-chrome="noheader nofooter noscrollbar noborders transparent">Loading tweets by @exincorp Systems...</a>
           </div>
           <!-- END TWITTER BLOCK -->
         </div>
@@ -64,7 +64,7 @@
         <div class="row">
           <!-- BEGIN COPYRIGHT -->
           <div class="col-md-6 col-sm-6 padding-top-10">
-           &copy; 2019 Exoncorp Systems.&nbsp; &nbsp; Powered by <a href="#" title="web hosting vellore, website development vellore, exoncorpstudios">exoncorp Studios.</a>&nbsp; &nbsp; <a href="#">Privacy Policy</a> | <a href="#">Terms of Service</a>
+           &copy; 2019 Exoncorp Systems.&nbsp; &nbsp; Powered by <a href="#" title="web hosting vellore, website development vellore, exincorpstudios">exincorp Studios.</a>&nbsp; &nbsp; <a href="#">Privacy Policy</a> | <a href="#">Terms of Service</a>
           </div>
           <!-- END COPYRIGHT -->
           <!-- BEGIN PAYMENTS -->
@@ -74,8 +74,8 @@
               <li><a href="https://www.facebook.com/Exoncorp/" target="_blank"><i class="fa fa-facebook"></i></a></li>
               <li><a href="https://plus.google.com/107910537174277513852" target="_blank"><i class="fa fa-google-plus"></i></a></li>
               
-              <li><a href="https://www.linkedin.com/company/exoncorp/about/" title="Software Installation" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-              <li><a href="https://twitter.com/exoncorp" title="Computer Repair" target="_blank"><i class="fa fa-twitter"></i></a></li>
+              <li><a href="https://www.linkedin.com/company/exincorp/about/" title="Software Installation" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+              <li><a href="https://twitter.com/exincorp" title="Computer Repair" target="_blank"><i class="fa fa-twitter"></i></a></li>
              
               <li><a href="https://www.youtube.com/channel/UCbl2WL-AYnv0TCTAfKgfXjQ" title="Hardware Services" target="_blank"><i class="fa fa-youtube"></i></a></li>
 			  

@@ -11,7 +11,7 @@
                             		<a class="nav-link" href="faq.php">faq</a>
                             	</li>
                             	<li class="nav-item">
-                            		<a class="nav-link" href="http://exoncorpprojects.com/our-partners.php">Our Partners</a>
+                            		<a class="nav-link" href="http://exincorpprojects.com/our-partners.php">Our Partners</a>
                             	</li>
                             	<li class="nav-item">
                             		<a class="nav-link" href="internship.php">Internship</a>
@@ -82,11 +82,11 @@
                         <!-- /.col-sm-3 col-md-4 col-lg-2 -->
                         <div class="col-sm-4 col-md-2 col-lg-4 mb-20">
                             <h6 class="column-title">About</h6>
-                            <p style="text-align:justify;">You can check our credentials through our exoncorp reviews and Testimonials from our past students. With our quality training, we have earned zero exoncorp complaints from our students.</p>
+                            <p style="text-align:justify;">You can check our credentials through our exincorp reviews and Testimonials from our past students. With our quality training, we have earned zero exincorp complaints from our students.</p>
                             <a href="https://www.facebook.com/Exoncorp/" target="_blank"><i class="icon ion-social-facebook mr-4 gray-text h3"></i></a>
-                            <a href="https://twitter.com/exoncorp" target="_blank"><i class="icon ion-social-twitter mr-4 gray-text h3"></i></a>
+                            <a href="https://twitter.com/exincorp" target="_blank"><i class="icon ion-social-twitter mr-4 gray-text h3"></i></a>
                             <a href="https://plus.google.com/107910537174277513852" target="_blank"><i class="icon ion-social-googleplus mr-4 gray-text h3"></i></a>
-                            <a href="https://www.linkedin.com/company/exoncorp/about/" target="_blank"><i class="icon ion-social-instagram mr-4 gray-text h3"></i></a>
+                            <a href="https://www.linkedin.com/company/exincorp/about/" target="_blank"><i class="icon ion-social-instagram mr-4 gray-text h3"></i></a>
                             <a href="https://www.youtube.com/channel/UCbl2WL-AYnv0TCTAfKgfXjQ" target="_blank"><i class="icon ion-social-youtube mr-4 gray-text h3"></i></a>
                             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
                             <a href="https://api.whatsapp.com/send?phone=918189985559" target="_blank"><i class="icon ion-social-whatsapp mr-4 gray-text h3"></i></a>

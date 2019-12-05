@@ -81,7 +81,7 @@
 <p><strong>(B) General Rules</strong></p>
 <p style="text-align:justify">Visitors may not use the Web Site in order to transmit, distribute, store or destroy material <br><strong>(a)</strong> that could constitute or encourage conduct that would be considered a criminal offence or violate any applicable law or regulation, <br><strong>(b)</strong> in a manner that will infringe the copyright, trademark, trade secret or other intellectual property rights of others or violate the privacy or publicity of other personal rights of others, <br> <strong>(c)</strong> that is libellous, defamatory, pornographic, profane, obscene, threatening, abusive or hateful.</p>
 <p><strong>INDEMNITY</strong></p>
-<p style="text-align:justify">The User unilaterally agree to indemnify and hold harmless, without objection, the Company, its officers, directors, employees and agents from and against any claims, actions and/or demands and/or liabilities and/or losses and/or damages whatsoever arising from or resulting from their use of <a href="https://exoncorp.com">exoncorp.com</a> or their breach of the terms . </p>
+<p style="text-align:justify">The User unilaterally agree to indemnify and hold harmless, without objection, the Company, its officers, directors, employees and agents from and against any claims, actions and/or demands and/or liabilities and/or losses and/or damages whatsoever arising from or resulting from their use of <a href="https://exincorp.com">exincorp.com</a> or their breach of the terms . </p>
 
 <p style="text-align:justify"><strong>LIABILITY</strong></p>
 <p style="text-align:justify">

@@ -135,14 +135,14 @@
 									<h4 class="card-title">Careers:</h4>
 									<h6 class="card-subtitle mb-2 text-muted mb-4">The last consulting template you will ever need!</h6>
 
-                                    <p class="card-text">'exoncorp - Projects' - consulting HTML template is the one place solution for all of your consulting business website. It works for any industry. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+                                    <p class="card-text">'exincorp - Projects' - consulting HTML template is the one place solution for all of your consulting business website. It works for any industry. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
 
                               <!--      <div id="accordion" class="accordion-wrap mb-4" role="tablist" aria-multiselectable="true">
                                     	<div class="card">
                                     		<div class="card-header" role="tab" id="headingOne">
                                     			<h6 class="mb-0">
         		                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-        		                                      Why should you purchase 'exoncorp - Projects'? <i class="float-right icon ion-arrow-down-b"></i>
+        		                                      Why should you purchase 'exincorp - Projects'? <i class="float-right icon ion-arrow-down-b"></i>
         		                                    </a>
                                           		</h6>
                                     		</div>

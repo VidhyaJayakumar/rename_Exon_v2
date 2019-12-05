@@ -10,13 +10,13 @@
 <!-- Head BEGIN -->
 <head>
   <meta charset="utf-8">
-   <title>Exoncorp Systems |Computer dealers in vellore|Computer sales and service in vellore CCTV Camera Sales and Services Chennai | Computer Repair Service | On Call Computer Service | Assembled System Sales | Low Cost Computer Sales | Desktop System Price List | Used Laptop Sales Vellore | Computer Dealers Kanchipuram | Server Problem Vellore | Mother Board Sales Services Kanchipuram | Laptop Screen Repair Gudiyatham | Computer Repair Store Vellore | Computer Services Center Kanchipuram | IT Computer Services Gudiyatham | Laptop Keyboard Repair Vellore | Desktop Computer Services Kachipuram | Computer Support Specialist - exoncorp Systems @ Chennai | Kanchipuram | Gudiyatham | Vellore</title>
+   <title>Exoncorp Systems |Computer dealers in vellore|Computer sales and service in vellore CCTV Camera Sales and Services Chennai | Computer Repair Service | On Call Computer Service | Assembled System Sales | Low Cost Computer Sales | Desktop System Price List | Used Laptop Sales Vellore | Computer Dealers Kanchipuram | Server Problem Vellore | Mother Board Sales Services Kanchipuram | Laptop Screen Repair Gudiyatham | Computer Repair Store Vellore | Computer Services Center Kanchipuram | IT Computer Services Gudiyatham | Laptop Keyboard Repair Vellore | Desktop Computer Services Kachipuram | Computer Support Specialist - exincorp Systems @ Chennai | Kanchipuram | Gudiyatham | Vellore</title>
 
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-   <meta content="keywords" name="Laptop service in Gudiyatham, Computer and System Service in Gudiyatham,Printer Service in Gudiyatham,computer dealers in vellore,computer sales in vellore,cctv dealers in vellore,vellore computer accessories,computer shops in vellore,computer service center in vellore,computer service in vellore,computer sales and service in vellore,Computers & Accessories,Laptop Repair and Services,Sevice Engineer Vellore,computer accessories in vellore,Laptop Accessories in Vellore,exoncorp systems vellore,tamilnadu,Used Computer Parts Kanchipuram, Computer Stores Gudiyatham, Computer Software Install Vellore, Computer Networking Problem Kanchipuram, Computer Solutions Vellore, PC Service Kanchipuram, Computer Network Problem Gudiyatham, Affiliated Computer Services Vellore, Laptop Keypad Services Kanchipuram, On Door Computer Service Kanchipuram, Computer Accessories Sales Gudiyatham, Computer Software installer Vellore, Computer Keyboard sales Kanchipuram, Laptop Keyboard Services Gudiyatham, Printer Sales Vellore, CPU Problem Kanchipuram @ exoncorp Systems at Vellore, Gudiyatham, Chennai, kanchipuram">
-  <meta content="description" name="exoncorp -computer dealers in vellore,computer sales and service in vellore, Computer Services expert and laptop repair services, spyware removal, computer upgrade, and hardware installation servicesCPU Repair Services in Vellore, On Call Computer Repair Service Kanchipuram, Computer Service Center Chennai, UPS Sales Chennai, Moniter Sales Kanchipuram, Assembled System Sales Chennai, Network Problem Service Chennai, Server Problem Service Chennai, Second Hand Computer Sales in Chennai, Motherboard Sales Chennai @ exoncorp system at Vellore, Kanchipuram, Gudiyatham, Chennai">
+   <meta content="keywords" name="Laptop service in Gudiyatham, Computer and System Service in Gudiyatham,Printer Service in Gudiyatham,computer dealers in vellore,computer sales in vellore,cctv dealers in vellore,vellore computer accessories,computer shops in vellore,computer service center in vellore,computer service in vellore,computer sales and service in vellore,Computers & Accessories,Laptop Repair and Services,Sevice Engineer Vellore,computer accessories in vellore,Laptop Accessories in Vellore,exincorp systems vellore,tamilnadu,Used Computer Parts Kanchipuram, Computer Stores Gudiyatham, Computer Software Install Vellore, Computer Networking Problem Kanchipuram, Computer Solutions Vellore, PC Service Kanchipuram, Computer Network Problem Gudiyatham, Affiliated Computer Services Vellore, Laptop Keypad Services Kanchipuram, On Door Computer Service Kanchipuram, Computer Accessories Sales Gudiyatham, Computer Software installer Vellore, Computer Keyboard sales Kanchipuram, Laptop Keyboard Services Gudiyatham, Printer Sales Vellore, CPU Problem Kanchipuram @ exincorp Systems at Vellore, Gudiyatham, Chennai, kanchipuram">
+  <meta content="description" name="exincorp -computer dealers in vellore,computer sales and service in vellore, Computer Services expert and laptop repair services, spyware removal, computer upgrade, and hardware installation servicesCPU Repair Services in Vellore, On Call Computer Repair Service Kanchipuram, Computer Service Center Chennai, UPS Sales Chennai, Moniter Sales Kanchipuram, Assembled System Sales Chennai, Network Problem Service Chennai, Server Problem Service Chennai, Second Hand Computer Sales in Chennai, Motherboard Sales Chennai @ exincorp system at Vellore, Kanchipuram, Gudiyatham, Chennai">
 <meta content='index, follow' name='robots'/>
 
   <!-- Fonts START -->
@@ -170,7 +170,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         </div>
                       </div>
                       <div class="item">
-                        <blockquote><p> exoncorp has been very attentive to every computer/server problem that has cropped up for our company. They respond quickly to service calls and can even fix things remotely, which is a huge plus in getting problems fixed in a timely manner.</p></blockquote>
+                        <blockquote><p> exincorp has been very attentive to every computer/server problem that has cropped up for our company. They respond quickly to service calls and can even fix things remotely, which is a huge plus in getting problems fixed in a timely manner.</p></blockquote>
                         <div class="carousel-info">
                           <img class="pull-left" src="assets/frontend/pages/img/people/img5-small.jpg" alt="">
                           <div class="pull-left">
@@ -242,12 +242,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <div class="col-md-5">
                   <h2>IT solutions and services 
 for growing businesses</h2>
-                  <p>Here at exoncorp we know that we offer the best IT expertise and the most responsive customer service. And we’re not just saying this, just look what some of our customers have written about us.</p>
+                  <p>Here at exincorp we know that we offer the best IT expertise and the most responsive customer service. And we’re not just saying this, just look what some of our customers have written about us.</p>
                   <p> We put our customers at the heart of everything we do and pride ourselves on our hard work, ethics and second-to-none services. But if you’re not yet convinced, here’s our top ten list of reasons you should choose us to be your partner in IT.</p>
                   <br>
                   <blockquote>
                     <p>We solve your IT issues while you grow your business.</p>
-                    <small>exoncorp Systems<cite title="Source Title">@ Support </cite></small>
+                    <small>exincorp Systems<cite title="Source Title">@ Support </cite></small>
                   </blockquote>                
                 </div>
                 <!-- END BLOCKQUOTE -->

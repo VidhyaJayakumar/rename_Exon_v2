@@ -394,13 +394,13 @@
             var barChartData = {
                 labels: ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October"],
                 datasets: [{
-                    label: 'Before exoncorp - Projects',
+                    label: 'Before exincorp - Projects',
                     backgroundColor: "rgba(244,67,54,0.4)",
                     borderColor: "rgba(244,67,54,1)",
                     borderWidth: 1,
                     data: [17, 19, 21, 22, 24, 26, 26, 28, 29, 30]
                 }, {
-                    label: 'After exoncorp - Projects',
+                    label: 'After exincorp - Projects',
                     backgroundColor: "rgba(63,81,181,0.4)",
                     borderColor: "rgba(63,81,181,1)",
                     borderWidth: 1,
@@ -418,7 +418,7 @@
                     },
                     title: {
                         display: true,
-                        text: 'Result of exoncorp - Projects on sales'
+                        text: 'Result of exincorp - Projects on sales'
                     }
                 }
             });

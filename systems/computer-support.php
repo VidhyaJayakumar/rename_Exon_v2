@@ -9,13 +9,13 @@
 <!-- Head BEGIN -->
 <head>
   <meta charset="utf-8">
-   <title>Exoncorp Systems |computer dealers in vellore|computer sales in vellore| System Restart problem Vellore | Computer Components Sales Kanchipuram | RAM Repair Problem Vellore | Hardisk Data Recovery Problem Gudiyatham  | Processor Problem Repair Vellore | Peripherals Problem Repair Kanchipuram | Network problem in Vellore | Cabinat sales Services Kanchipuram | Dell Laptop Service Vellore | HP Laptop service Gudiyatham | Server Problem Rental Services | Mother Board Problem Services Kanchipuram | UPS sales Vellore | Printer Sales and Services Gudiyatham | Cheap Data Recovery Vellore | APC Inverter Service kanchipuram - exoncorp Systems Vellore | Kanchipuram | Gudiyatham | Chennai</title>
+   <title>Exoncorp Systems |computer dealers in vellore|computer sales in vellore| System Restart problem Vellore | Computer Components Sales Kanchipuram | RAM Repair Problem Vellore | Hardisk Data Recovery Problem Gudiyatham  | Processor Problem Repair Vellore | Peripherals Problem Repair Kanchipuram | Network problem in Vellore | Cabinat sales Services Kanchipuram | Dell Laptop Service Vellore | HP Laptop service Gudiyatham | Server Problem Rental Services | Mother Board Problem Services Kanchipuram | UPS sales Vellore | Printer Sales and Services Gudiyatham | Cheap Data Recovery Vellore | APC Inverter Service kanchipuram - exincorp Systems Vellore | Kanchipuram | Gudiyatham | Chennai</title>
 
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-  <meta content="Keywords" name="computer dealers in vellore,computer sales in vellore,cctv dealers in vellore,vellore computer accessories,computer shops in vellore,computer service center in vellore,computer service in vellore,computer sales and service in vellore,Computers & Accessories,Laptop Repair and Services,Sevice Engineer Vellore,computer accessories in vellore,Laptop Accessories in Vellore,exoncorp systems vellore,tamilnadu,Compaq Laptop Service Vellore, Laptop service Center in Kanchipuram, Best Laptop Service in Gudiyatham, Quality Laptop Servicing Vellore, Toshiba Laptop Service in Kanchipuram, Desktop Sales Services in Vellore, No.1 Laptop Service Kanchipuram, System Sales Services Vellore, Core computer Services Gudiyatham, Data Recovery Problem Vellore, Keyboard Sales Services Kanchipuram, Laptop Sales Services Vellore, Doorstep Laptop Service Center Kanchipuram, Onsite Desktop Services Center Vellore, Computer Service Centers Vellore, Computer Assembled Sales Shop Kanchipuram - exoncorp Systems Vellore | Kanchipuram | Gudiyatham | Chennai">
-  <meta content="Description" name="Computer dealers in vellore,Computer sales and service in vellore.All Kind of Computer Accessories Sales and Computer, Server, Networking Related Problem Services available, Hcl desktop Service Dealer, IBM Destop Service,Printers, Hardware, Consumables, Hardware Service, Accessories, Hardware servicing, CCTV Sales Service, Server Rental and Services, Hardisk Data Recovery Problem, Computer Services, Printer Sales and Services, Keyboard Sales and Services, Laptop Services, Network Problem Service, Computer Services Center, UPS Sales and Services, Motherboard Sales Services - exoncorp Systems Vellore | Kanchipuram | Gudiyatham | Chennai">
+  <meta content="Keywords" name="computer dealers in vellore,computer sales in vellore,cctv dealers in vellore,vellore computer accessories,computer shops in vellore,computer service center in vellore,computer service in vellore,computer sales and service in vellore,Computers & Accessories,Laptop Repair and Services,Sevice Engineer Vellore,computer accessories in vellore,Laptop Accessories in Vellore,exincorp systems vellore,tamilnadu,Compaq Laptop Service Vellore, Laptop service Center in Kanchipuram, Best Laptop Service in Gudiyatham, Quality Laptop Servicing Vellore, Toshiba Laptop Service in Kanchipuram, Desktop Sales Services in Vellore, No.1 Laptop Service Kanchipuram, System Sales Services Vellore, Core computer Services Gudiyatham, Data Recovery Problem Vellore, Keyboard Sales Services Kanchipuram, Laptop Sales Services Vellore, Doorstep Laptop Service Center Kanchipuram, Onsite Desktop Services Center Vellore, Computer Service Centers Vellore, Computer Assembled Sales Shop Kanchipuram - exincorp Systems Vellore | Kanchipuram | Gudiyatham | Chennai">
+  <meta content="Description" name="Computer dealers in vellore,Computer sales and service in vellore.All Kind of Computer Accessories Sales and Computer, Server, Networking Related Problem Services available, Hcl desktop Service Dealer, IBM Destop Service,Printers, Hardware, Consumables, Hardware Service, Accessories, Hardware servicing, CCTV Sales Service, Server Rental and Services, Hardisk Data Recovery Problem, Computer Services, Printer Sales and Services, Keyboard Sales and Services, Laptop Services, Network Problem Service, Computer Services Center, UPS Sales and Services, Motherboard Sales Services - exincorp Systems Vellore | Kanchipuram | Gudiyatham | Chennai">
 <meta content='index, follow' name='robots'/>
   <!-- Fonts START -->
   <link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|PT+Sans+Narrow|Source+Sans+Pro:200,300,400,600,700,900&amp;subset=all" rel="stylesheet" type="text/css">
@@ -88,7 +88,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                <div class="tab-content" style="padding:0; background: #fff;">          
                   </div>
                   
-                  <p align="justify"> When something goes wrong with your IT, everything grinds to a halt. With IT Support from exoncorp Systems, you won't have to worry about what happens when there's a problem with your technology, because we'll be on call to ensure things are always running smoothly. That means you can minimize downtime and better predict your IT expenses. <strong>With IT Support from exoncorp Systems you can expect:</strong></p>
+                  <p align="justify"> When something goes wrong with your IT, everything grinds to a halt. With IT Support from exincorp Systems, you won't have to worry about what happens when there's a problem with your technology, because we'll be on call to ensure things are always running smoothly. That means you can minimize downtime and better predict your IT expenses. <strong>With IT Support from exincorp Systems you can expect:</strong></p>
 
 				  				  <div class="row front-lists-v1">
                         <div class="col-md-10">
@@ -102,11 +102,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                   <div class="portlet-body">
                 <div class="well">
                  
- <font size="3"> IT Support from exoncorp Systems provides you with more reliable performance and more predictable expenses. That means you get more value from the technology you've already invested in, while actually reducing the total costs of IT problems and the resulting downtime. </font>     </div>         </div>
+ <font size="3"> IT Support from exincorp Systems provides you with more reliable performance and more predictable expenses. That means you get more value from the technology you've already invested in, while actually reducing the total costs of IT problems and the resulting downtime. </font>     </div>         </div>
 
-			<h2>Always a perfect plan from exoncorp Systems.</h2>                
+			<h2>Always a perfect plan from exincorp Systems.</h2>                
                  
-                 <p align="justify">Companies all have different requirements when it comes to their IT and computers. Some may just use their IT for administrative tasks and just want a reliable system that is simple to update. Other organizations my run several hundred machines and use them for all their communications, scheduling and appointments. But whatever your needs, exoncorp Systems can tailor you a perfect solution. To make things easier for you, we offer three separate plans depending on what your company does and what levels of IT management you require.</p>
+                 <p align="justify">Companies all have different requirements when it comes to their IT and computers. Some may just use their IT for administrative tasks and just want a reliable system that is simple to update. Other organizations my run several hundred machines and use them for all their communications, scheduling and appointments. But whatever your needs, exincorp Systems can tailor you a perfect solution. To make things easier for you, we offer three separate plans depending on what your company does and what levels of IT management you require.</p>
 
 <p align="justify">Let us answer any questions you have about our managed IT services. We’ll show you the simplest and most affordable way to keep your IT network in top form.</p>
              
@@ -225,7 +225,7 @@ Includes Network Security Assessments Licensing / Use fee’s</li>
                                     </ul>
 <h4><strong>Project Consultation</strong></h4>
                                     <ul>
-                                      <li>exoncorp Systems will be available to answer any of your IT or office integration questions.</li>   
+                                      <li>exincorp Systems will be available to answer any of your IT or office integration questions.</li>   
                                     </ul>
    
                                 </div>

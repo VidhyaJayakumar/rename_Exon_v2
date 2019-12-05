@@ -27,8 +27,8 @@
 	<title>Exoncorp Projects</title>
 	<meta name="author" content="SaltTechno">
 
-     <meta name="description" content="Final Year Project Guidance,On-line project support for all departments of M.E, M.Tech, B.E, B.Tech, MCA, M.sc, M.Phil MBA Bsc BCA Diploma Projects, Best Project center in <?php echo $place; ?> is exoncorp&reg; projects.com | Android projects in <?php echo $place; ?> | Android Training in <?php echo $place; ?>">
-    <meta name="keywords" content="IEEE 2015 Java projects in <?php echo $place; ?>, IEEE 2015 android  projects in <?php echo $place; ?>, IEEE 2015 dot-net projects in <?php echo $place; ?>, IEEE 2015 Matlab  projects in <?php echo $place; ?>, IEEE 2015 embedded projects in <?php echo $place; ?>, MBA projects in <?php echo $place; ?>, IEEE 2015 ns2 projects in <?php echo $place; ?>, best project centre in <?php echo $place; ?>, project center in <?php echo $place; ?>, IEEE projects in <?php echo $place; ?>, exoncorp&reg; projects">
+     <meta name="description" content="Final Year Project Guidance,On-line project support for all departments of M.E, M.Tech, B.E, B.Tech, MCA, M.sc, M.Phil MBA Bsc BCA Diploma Projects, Best Project center in <?php echo $place; ?> is exincorp&reg; projects.com | Android projects in <?php echo $place; ?> | Android Training in <?php echo $place; ?>">
+    <meta name="keywords" content="IEEE 2015 Java projects in <?php echo $place; ?>, IEEE 2015 android  projects in <?php echo $place; ?>, IEEE 2015 dot-net projects in <?php echo $place; ?>, IEEE 2015 Matlab  projects in <?php echo $place; ?>, IEEE 2015 embedded projects in <?php echo $place; ?>, MBA projects in <?php echo $place; ?>, IEEE 2015 ns2 projects in <?php echo $place; ?>, best project centre in <?php echo $place; ?>, project center in <?php echo $place; ?>, IEEE projects in <?php echo $place; ?>, exincorp&reg; projects">
 
 	<!-- ========== COMMON STYLES ========== -->
 	<link rel="stylesheet" href="../css/bootstrap.css" media="screen">
@@ -65,7 +65,7 @@
                             <h2 class="page-title-heading">PHP</h2>
                             <p class="lead">PHP &amp; MySQL Project in <?php echo $place; ?></p>
                             <p class="lead">
-                                <a href="http://exoncorpprojects.com/contact.php" class="btn btn-transition btn-success">Contact</a>
+                                <a href="http://exincorpprojects.com/contact.php" class="btn btn-transition btn-success">Contact</a>
                             </p>
                         </div>
                         <!-- /.inner page-title -->
@@ -90,10 +90,10 @@
 
 									<p class="card-text">In the world of Web designing, PHP &amp; MySQL is a topmost demanded technology. The technology which initiated by Microsoft is a base for all software development criteria. Common Runtime Language is a bottom of fruit in the web creation environment and it has a look of Java language. Requiring tool boxes and libraries all are present as an integrated function. By utilizing different series of custom, enterprise, MVC, rich internet application, migration service development the web applications will be designed. Presently, we were acquiring data belonging to the internet simply through mobile phones. The backbone for all this easy access is a PHP &amp; MySQL technology.</p>
 
-                                    <h5>Why PHP &amp; MySQL Project at exoncorp?</h5>
+                                    <h5>Why PHP &amp; MySQL Project at exincorp?</h5>
                                     <p class="text-muted">We are proudly to say our PHP &amp; MySQLers are enacts the projects with the updated version 4.5.1 in PHP &amp; MySQL technology. If you want to make a difference from others choice then without any hesitation you can patently pick out the one of best project centers in <?php echo $place; ?>. We are here in ready to change your dream world into a real world with the big bang support as a smoothie way and at the same time felt it as an effective one. Come and felt the affable guidance.</p>
 
-                                    <h5>PHP &amp; MySQL Projects in <?php echo $place; ?> ( Powered by exoncorp IT Solutions )</h5>
+                                    <h5>PHP &amp; MySQL Projects in <?php echo $place; ?> ( Powered by exincorp IT Solutions )</h5>
                                     <h6>IEEE based IOT</h6>
                                     <ul class="text-muted">
                                         <li>Neuro-Fuzzy Gust Front Detection Algorithm With S-Band Polarimetric Radar (IEEE 2017)</li>
@@ -319,7 +319,7 @@
                             <h4 class="h2">Request a call back.</h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
                             <p class="mt-2 pt-2">
-                                <a href="http://exoncorpprojects.com/contact.php" class="btn btn-lg btn-secondary">Contact</a>
+                                <a href="http://exincorpprojects.com/contact.php" class="btn btn-lg btn-secondary">Contact</a>
                             </p>
                         </div>
                         <!-- /.col-md-4 -->

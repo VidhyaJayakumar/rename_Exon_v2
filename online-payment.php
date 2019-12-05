@@ -123,7 +123,7 @@
                     <div class="text-holder">
                         <h3>Quick Contact</h3>
                         <span class="border"></span>
-                        <p>Ph: + 91 81899 40000<br> Email: info@exoncorp.com</p>
+                        <p>Ph: + 91 81899 40000<br> Email: info@exincorp.com</p>
                     </div>  
                 </div>
             </div>

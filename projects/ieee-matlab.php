@@ -70,10 +70,10 @@
 
 									<p class="card-text">Matlab is ease of action scripting language and acts as calculator for arithmetic operation. No need of Extra skills for obtaining practical experience. The tool which used by the students those who are came from different streams. Remedy available at first aid box will be varied depends the location where it is likewise Matlab consists tool boxes which is applicable for all students who they are having non identical background too. Simulation process will be a base for all core fabrication.</p>
 
-                                    <h5>Why Matlab Projects at exoncorp?</h5>
-                                    <p class="text-muted">There is a chance for students who they are in urge of find out the best project centre in Vellore. Guiding students towards the updated technology is our major intension so that we offer not long ago IEEE papers. One of the finest tool boxes in matlab is image Processing. Our considerable projects are comes under this domain. We make sure that during the final year project submission your individuality will be sustained. Remittance for your training will be in acceptable level. Utilize the chance and be at exoncorp.</p>
+                                    <h5>Why Matlab Projects at exincorp?</h5>
+                                    <p class="text-muted">There is a chance for students who they are in urge of find out the best project centre in Vellore. Guiding students towards the updated technology is our major intension so that we offer not long ago IEEE papers. One of the finest tool boxes in matlab is image Processing. Our considerable projects are comes under this domain. We make sure that during the final year project submission your individuality will be sustained. Remittance for your training will be in acceptable level. Utilize the chance and be at exincorp.</p>
 
-                                    <h5>Matlab Projects ( Powered by exoncorp IT Solutions )</h5>
+                                    <h5>Matlab Projects ( Powered by exincorp IT Solutions )</h5>
                                     <h6>MATLAB based INFORMATION/MULTIMEDIA FORENSICS</h6>
                                     <ul class="text-muted">
                                         <li>The Switching Fractional Order Chaotic System and Its Application to Image Encryption. (IEEE 2017)</li>

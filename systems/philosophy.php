@@ -10,13 +10,13 @@
 <!-- Head BEGIN -->
 <head>
   <meta charset="utf-8">
-   <title>Exoncorp Systems |Computer dealers in vellore|Computer sales and service in vellore CCTV Camera Sales and Services Chennai | Computer Repair Service | On Call Computer Service | Assembled System Sales | Low Cost Computer Sales | Desktop System Price List | Used Laptop Sales Vellore | Computer Dealers Kanchipuram | Server Problem Vellore | Mother Board Sales Services Kanchipuram | Laptop Screen Repair Gudiyatham | Computer Repair Store Vellore | Computer Services Center Kanchipuram | IT Computer Services Gudiyatham | Laptop Keyboard Repair Vellore | Desktop Computer Services Kachipuram | Computer Support Specialist - exoncorp Systems @ Chennai | Kanchipuram | Gudiyatham | Vellore</title>
+   <title>Exoncorp Systems |Computer dealers in vellore|Computer sales and service in vellore CCTV Camera Sales and Services Chennai | Computer Repair Service | On Call Computer Service | Assembled System Sales | Low Cost Computer Sales | Desktop System Price List | Used Laptop Sales Vellore | Computer Dealers Kanchipuram | Server Problem Vellore | Mother Board Sales Services Kanchipuram | Laptop Screen Repair Gudiyatham | Computer Repair Store Vellore | Computer Services Center Kanchipuram | IT Computer Services Gudiyatham | Laptop Keyboard Repair Vellore | Desktop Computer Services Kachipuram | Computer Support Specialist - exincorp Systems @ Chennai | Kanchipuram | Gudiyatham | Vellore</title>
 
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-   <meta content="keywords" name="computer dealers in vellore,computer sales in vellore,cctv dealers in vellore,vellore computer accessories,computer shops in vellore,computer service center in vellore,computer service in vellore,computer sales and service in vellore,Computers & Accessories,Laptop Repair and Services,Sevice Engineer Vellore,computer accessories in vellore,Laptop Accessories in Vellore,exoncorp systems vellore,tamilnadu,Used Computer Parts Kanchipuram, Computer Stores Gudiyatham, Computer Software Install Vellore, Computer Networking Problem Kanchipuram, Computer Solutions Vellore, PC Service Kanchipuram, Computer Network Problem Gudiyatham, Affiliated Computer Services Vellore, Laptop Keypad Services Kanchipuram, On Door Computer Service Kanchipuram, Computer Accessories Sales Gudiyatham, Computer Software installer Vellore, Computer Keyboard sales Kanchipuram, Laptop Keyboard Services Gudiyatham, Printer Sales Vellore, CPU Problem Kanchipuram @ exoncorp Systems at Vellore, Gudiyatham, Chennai, kanchipuram">
-  <meta content="description" name="exoncorp -computer dealers in vellore,computer sales and service in vellore, Computer Services expert and laptop repair services, spyware removal, computer upgrade, and hardware installation servicesCPU Repair Services in Vellore, On Call Computer Repair Service Kanchipuram, Computer Service Center Chennai, UPS Sales Chennai, Moniter Sales Kanchipuram, Assembled System Sales Chennai, Network Problem Service Chennai, Server Problem Service Chennai, Second Hand Computer Sales in Chennai, Motherboard Sales Chennai @ exoncorp system at Vellore, Kanchipuram, Gudiyatham, Chennai">
+   <meta content="keywords" name="computer dealers in vellore,computer sales in vellore,cctv dealers in vellore,vellore computer accessories,computer shops in vellore,computer service center in vellore,computer service in vellore,computer sales and service in vellore,Computers & Accessories,Laptop Repair and Services,Sevice Engineer Vellore,computer accessories in vellore,Laptop Accessories in Vellore,exincorp systems vellore,tamilnadu,Used Computer Parts Kanchipuram, Computer Stores Gudiyatham, Computer Software Install Vellore, Computer Networking Problem Kanchipuram, Computer Solutions Vellore, PC Service Kanchipuram, Computer Network Problem Gudiyatham, Affiliated Computer Services Vellore, Laptop Keypad Services Kanchipuram, On Door Computer Service Kanchipuram, Computer Accessories Sales Gudiyatham, Computer Software installer Vellore, Computer Keyboard sales Kanchipuram, Laptop Keyboard Services Gudiyatham, Printer Sales Vellore, CPU Problem Kanchipuram @ exincorp Systems at Vellore, Gudiyatham, Chennai, kanchipuram">
+  <meta content="description" name="exincorp -computer dealers in vellore,computer sales and service in vellore, Computer Services expert and laptop repair services, spyware removal, computer upgrade, and hardware installation servicesCPU Repair Services in Vellore, On Call Computer Repair Service Kanchipuram, Computer Service Center Chennai, UPS Sales Chennai, Moniter Sales Kanchipuram, Assembled System Sales Chennai, Network Problem Service Chennai, Server Problem Service Chennai, Second Hand Computer Sales in Chennai, Motherboard Sales Chennai @ exincorp system at Vellore, Kanchipuram, Gudiyatham, Chennai">
 <meta content='index, follow' name='robots'/>
   <!-- Fonts START -->
   <link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|PT+Sans+Narrow|Source+Sans+Pro:200,300,400,600,700,900&amp;subset=all" rel="stylesheet" type="text/css">
@@ -234,7 +234,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
               </div>
               <div class="tab-pane row fade" id="tab-2">
                 <div class="col-md-9 col-sm-9">
-                  <p align="justify">A range of reports over the recent years has show that the majority (up to 60%) of small and medium businesses won't survive a drastic loss of data. So it's often a shock to find that many companies have no back-up or disaster recovery strategies in place at all. If this is the case for your company, you're putting at risk all you've worked for.<br/> That is why exoncorp Systems is offering a wide range of comprehensive backup, disaster and recovery solutions priced to fit small business budgets. We want to keep you safe !</p>
+                  <p align="justify">A range of reports over the recent years has show that the majority (up to 60%) of small and medium businesses won't survive a drastic loss of data. So it's often a shock to find that many companies have no back-up or disaster recovery strategies in place at all. If this is the case for your company, you're putting at risk all you've worked for.<br/> That is why exincorp Systems is offering a wide range of comprehensive backup, disaster and recovery solutions priced to fit small business budgets. We want to keep you safe !</p>
                 </div>
                 <div class="col-md-3 col-sm-3">
                   <a href="assets/temp/photos/img10.jpg" class="fancybox-button" title="Image Title" data-rel="fancybox-button">
@@ -246,7 +246,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <p align="justify">Fast, efficient IT is one of the most important tools for running a successful business. But any company with an online presence is at risk of security breaches and if you’re not adequately protected, you are leaving your business vulnerable to attacks including spam, phishing, viruses, malicious hackers and malware..</p>
               </div>
               <div class="tab-pane fade" id="tab-4">
-                <p align="justify">Protect your business from online threats. exoncorp taking care of your security you can minimize risk and enjoy full protection around the clock. Just look at some of the services we can offer.Our firewall services let you run your business without worrying about your network’s security.<br/> In addition to protecting your staff and customers from security threats such as identity theft, we’ll protect your important data. Our systems discover and eliminate threats before they impact your company! </p>
+                <p align="justify">Protect your business from online threats. exincorp taking care of your security you can minimize risk and enjoy full protection around the clock. Just look at some of the services we can offer.Our firewall services let you run your business without worrying about your network’s security.<br/> In addition to protecting your staff and customers from security threats such as identity theft, we’ll protect your important data. Our systems discover and eliminate threats before they impact your company! </p>
               </div>
             <div class="tab-pane fade" id="tab-5">
                 <div class="col-md-3 col-sm-3">
@@ -262,7 +262,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <div class="tab-pane row fade" id="tab-6">
                 <div class="col-md-9 col-sm-9">
-                  <p align="justify"> As server technology becomes more important to companies, it is more common to see servers moved off site to co-location facilities where they are more secure and have all the cooling and internet needed to keep them running. Co-location facilities can also offer services such as back-up tapes, shared firewalls and systems patching. It can bring great peace of mind to small business owners to know that their most precious data is being looked after.<br/> exoncorp Systems can offer a customized solution for your business, and then host it in one of our co-location facilities. As your business grows, you can add more servers, storage, and other IT resources. </p>
+                  <p align="justify"> As server technology becomes more important to companies, it is more common to see servers moved off site to co-location facilities where they are more secure and have all the cooling and internet needed to keep them running. Co-location facilities can also offer services such as back-up tapes, shared firewalls and systems patching. It can bring great peace of mind to small business owners to know that their most precious data is being looked after.<br/> exincorp Systems can offer a customized solution for your business, and then host it in one of our co-location facilities. As your business grows, you can add more servers, storage, and other IT resources. </p>
                 </div>
                 <div class="col-md-3 col-sm-3">
                   <a href="assets/temp/photos/img10.jpg" class="fancybox-button" title="Image Title" data-rel="fancybox-button">
@@ -280,7 +280,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <div class="col-md-5">
                   <h2>IT solutions and services 
 for growing businesses</h2>
-                  <p align="justify">Here at exoncorp we know that we offer the best IT expertise and the most responsive customer service. And we’re not just saying this, just look what some of our customers have written about us.</p>
+                  <p align="justify">Here at exincorp we know that we offer the best IT expertise and the most responsive customer service. And we’re not just saying this, just look what some of our customers have written about us.</p>
                   <p align="justify"> We put our customers at the heart of everything we do and pride ourselves on our hard work, ethics and second-to-none services. But if you’re not yet convinced, here’s our top ten list of reasons you should choose us to be your partner in IT.</p>
                   <br>
                                  
@@ -293,7 +293,7 @@ for growing businesses</h2>
 			<div class="portlet-body">
      <div class="well">
 <font size="3"><p align="center">We solve your IT issues while you grow your business.</p>
-                   <p align="center"> <small>exoncorp Systems<cite title="Source Title">@ Support </cite></small></p>
+                   <p align="center"> <small>exincorp Systems<cite title="Source Title">@ Support </cite></small></p>
 </font>
 	</div>
 </div>

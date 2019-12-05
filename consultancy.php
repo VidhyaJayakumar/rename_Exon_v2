@@ -7,7 +7,7 @@
 	   
 
 	   <meta name="description" content="ExonCorp IT solutions is a leading global professional services companies in vellore, providing IT services and solutions in Tamilnadu, vellore, India,training, consulting, digital, technology, strategy and operations, web development, design.Exon Corp Solutions - IT Certifications in vellore,Comptia A+ N+ Training in vellore,RHCE Training in vellore,MCITP Training in vellore,CCNA Training in vellore,CEH Training in vellore,CISSP Training in vellore,IT  Training in vellore,Computer Training Institute in vellore,Corporate Training in vellore,International certification in vellore">
-		<meta name="keywords" content="ExonCorp academy,exoncorp studios,exoncorp council,exoncorp cloud,exoncorp consultancy,exoncorp systems,Exon Corp Solutions - IT company in vellore, Companies in Vellore,Training in vellore,RHCE Training in vellore,MCITP Training in vellore,CCNA Training in vellore,CEH Training in vellore,CISSP Training in vellore,IT  Training in vellore,Computer Training Institute in vellore,Corporate Training in vellore,Internaional certification in vellore">
+		<meta name="keywords" content="ExonCorp academy,exincorp studios,exincorp council,exincorp cloud,exincorp consultancy,exincorp systems,Exon Corp Solutions - IT company in vellore, Companies in Vellore,Training in vellore,RHCE Training in vellore,MCITP Training in vellore,CCNA Training in vellore,CEH Training in vellore,CISSP Training in vellore,IT  Training in vellore,Computer Training Institute in vellore,Corporate Training in vellore,Internaional certification in vellore">
 
 	<!-- responsive meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -67,7 +67,7 @@
                         <li><i class="fa fa-angle-right" aria-hidden="true"></i></li>
                         <li><a href="services.php">Services</a></li>
                         <li><i class="fa fa-angle-right" aria-hidden="true"></i></li>
-                        <li class="active"><a href="#exoncorp -consultancy.php">ExonCorp Consultancy</a></li>
+                        <li class="active"><a href="#exincorp -consultancy.php">ExonCorp Consultancy</a></li>
                     </ul>
                 </div>
                 <div class="right pull-right">
@@ -342,7 +342,7 @@ to compete and win in technology driven global markets.</p>
                                     <div class="text-holder">
                                         <h5>Senior Consultant</h5>
                                         <p><span class="flaticon-telephone"></span>8189985559</p>
-                                        <p><span class="flaticon-back"></span>selva@exoncorp s.in</p>
+                                        <p><span class="flaticon-back"></span>selva@exincorp s.in</p>
                                     </div>
                                 </li>
                                 <li>
@@ -355,7 +355,7 @@ to compete and win in technology driven global markets.</p>
                                     <div class="text-holder">
                                         <h5>Junior Cosultant</h5>
                                         <p><span class="flaticon-telephone"></span>8189985551</p>
-                                        <p><span class="flaticon-back"></span>sivapriya@exoncorp s.in</p>
+                                        <p><span class="flaticon-back"></span>sivapriya@exincorp s.in</p>
                                     </div>
                                 </li>
                                 

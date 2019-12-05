@@ -66,7 +66,7 @@ body{
         
   <div>
           <a href="index.php" title="Home" rel="home">
-      <img src="http:exoncorp.com/consultancy/logo.png" alt="Exoncorp Consultancy" /><br> <p class="hidden-sm hidden-xs" style="font-size:17px;padding-left:65px;">CONSULTANCY</p>
+      <img src="http:exincorp.com/consultancy/logo.png" alt="Exoncorp Consultancy" /><br> <p class="hidden-sm hidden-xs" style="font-size:17px;padding-left:65px;">CONSULTANCY</p>
     </a>
       
   </div>

@@ -10,12 +10,12 @@
 <!-- Head BEGIN -->
 <head>
   <meta charset="utf-8">
-  <title>Exoncorp Systems | Server Rental and Services | CCTV Camera Sales and Services | Networking Problem | Data Recovery Problem | OS Installation | Basic Computer Software Installing | Computer Repair Services | Keyboard Sales and Services | Computer Parts Sales | Desktop Sales and Services | PC Support Software Install | Computer Networking Repair | Hardware Repair | Assembled System Sales | CPU Repair Services in Vellore | On Call Computer Repair Service Kanchipuram | Computer Service Center Chennai | UPS Sales Chennai | Moniter Sales Kanchipuram | Hardware Repair - exoncorp System Vellore | Kanchipuram | Gudiyatham | Chennai</title>
+  <title>Exoncorp Systems | Server Rental and Services | CCTV Camera Sales and Services | Networking Problem | Data Recovery Problem | OS Installation | Basic Computer Software Installing | Computer Repair Services | Keyboard Sales and Services | Computer Parts Sales | Desktop Sales and Services | PC Support Software Install | Computer Networking Repair | Hardware Repair | Assembled System Sales | CPU Repair Services in Vellore | On Call Computer Repair Service Kanchipuram | Computer Service Center Chennai | UPS Sales Chennai | Moniter Sales Kanchipuram | Hardware Repair - exincorp System Vellore | Kanchipuram | Gudiyatham | Chennai</title>
 
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
- <meta content="Keywords" name="computer dealers in vellore,computer sales in vellore,cctv dealers in vellore,vellore computer accessories,computer shops in vellore,computer service center in vellore,computer service in vellore,computer sales and service in vellore,Computers & Accessories,Laptop Repair and Services,Sevice Engineer Vellore,computer accessories in vellore,Laptop Accessories in Vellore,exoncorp systems vellore,tamilnadu,Computer Accessories Sales Vellore, Global Computer Services in Kanchipuram, Computer Components Sales in Kanchipuram, Professional Computer Software Services in Vellore, Desktop Rental in Kanchipuram, Server Problem Gudiyatham, Hardisk Recovery in Vellore, MotherBoard Chip Level Service in Gudiyatham, Recovery Computer Repair in Vellore, Os installer in Kachipuram, Laptop Keyword Repair in Gudiyatham, Monitor Repair in Vellore, Computer Sales in Kanchipuram, Install Antivirus Vellore, Installing Basic Software in kanchipuram @ Vellore, Kanchipuram, Gudiyatham, Chennai">
+ <meta content="Keywords" name="computer dealers in vellore,computer sales in vellore,cctv dealers in vellore,vellore computer accessories,computer shops in vellore,computer service center in vellore,computer service in vellore,computer sales and service in vellore,Computers & Accessories,Laptop Repair and Services,Sevice Engineer Vellore,computer accessories in vellore,Laptop Accessories in Vellore,exincorp systems vellore,tamilnadu,Computer Accessories Sales Vellore, Global Computer Services in Kanchipuram, Computer Components Sales in Kanchipuram, Professional Computer Software Services in Vellore, Desktop Rental in Kanchipuram, Server Problem Gudiyatham, Hardisk Recovery in Vellore, MotherBoard Chip Level Service in Gudiyatham, Recovery Computer Repair in Vellore, Os installer in Kachipuram, Laptop Keyword Repair in Gudiyatham, Monitor Repair in Vellore, Computer Sales in Kanchipuram, Install Antivirus Vellore, Installing Basic Software in kanchipuram @ Vellore, Kanchipuram, Gudiyatham, Chennai">
   <meta content="Description" name="Computer dealers in vellore,Computer sales and services in vellore,Computer Stores in Gudiyatham, On Call Computer Service Vellore, Assembled System Sales Kanchipuram, Low Cost Computer Sales Gudiyatham, Desktop System Price List, Used Laptop Sales Vellore, Computer Dealers Kanchipuram, Second Hand Computer Sales Vellore, Computer Buying and Selling Kanchipuram, Laptop Screen Repair Gudiyatham, Computer Repair Store Vellore, Computer Services Company Kanchipuram, IT Computer Services Gudiyatham, Laptop Keyboard Repair Vellore, Desktop Computer Services Kachipuram, Computer Support Specialist Vellore @ Vellore, Kanchipuram, Gudiyatham, Chennai">
 <meta content='index, follow' name='robots'/>
   <!-- Fonts START -->
@@ -92,7 +92,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <div class="col-md-7 col-sm-7">
                                     
                   <!-- BEGIN FORM-->
-                  <form method="post" name="customerData" action="http://exoncorp.in/online/ccavRequestHandler.php" enctype="multipart/form-data">
+                  <form method="post" name="customerData" action="http://exincorp.in/online/ccavRequestHandler.php" enctype="multipart/form-data">
                    <input type="hidden" name="tid" id="tid" readonly  />
            <input type="hidden" name="order_id" id="orderid" value="RBSY" readonly  />
            <input type="hidden" name="merchant_id" value="96904"/>
@@ -120,8 +120,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                  
           
             <input type="hidden" name="currency" value="INR"/>
-            <input type="hidden" name="redirect_url" value="http://exoncorp.in/online/ccavResponseHandler.php"/>
-            <input type="hidden" name="cancel_url" value="http://exoncorp.in/online/ccavResponseHandler.php"/>
+            <input type="hidden" name="redirect_url" value="http://exincorp.in/online/ccavResponseHandler.php"/>
+            <input type="hidden" name="cancel_url" value="http://exincorp.in/online/ccavResponseHandler.php"/>
             <input type="hidden" name="language" value="EN"/>
                     <button type="submit" class="btn btn-primary"><i class="icon-ok"></i> Pay Now</button>
                    
@@ -132,15 +132,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <div class="col-md-5 col-sm-5 sidebar2">
                   <h2>Our Contacts</h2>
                   <address>
-                    <strong>exoncorp Systems</strong><br>
+                    <strong>exincorp Systems</strong><br>
                     # AL -24,TNHB, Phase-3, Sathuvachari<br>
                     Vellore, Tamilnadu - 632009<br>
                     <abbr title="Phone">P:</abbr> (+91) 81899 85551
                   </address>
                   <address>
                     <strong>Email</strong><br>
-                    <a href="mailto:info@exoncorps.in">info@exoncorps.in</a><br>
-                    <a href="mailto:support@exoncorps.in">support@exoncorps.in</a>
+                    <a href="mailto:info@exincorps.in">info@exincorps.in</a><br>
+                    <a href="mailto:support@exincorps.in">support@exincorps.in</a>
                   </address>
                   <ul class="social-icons margin-bottom-40">
                     <li><a href="#" title="Computer Repair" target="_blank" data-original-title="facebook" class="facebook"></a></li>

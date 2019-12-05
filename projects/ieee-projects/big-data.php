@@ -45,7 +45,7 @@
                             <h2 class="page-title-heading">Big Data</h2>
                             <p class="lead">Big Data</p>
                             <p class="lead">
-                                <a href="http://exoncorpprojects.com/contact.php" class="btn btn-transition btn-success">Contact</a>
+                                <a href="http://exincorpprojects.com/contact.php" class="btn btn-transition btn-success">Contact</a>
                             </p>
                         </div>
                         <!-- /.inner page-title -->
@@ -70,10 +70,10 @@
 
 									<p class="card-text">In a day we process a numerous amount of data. If we take in to account the number of data it approximates up to nearly 2.5 quintillion bytes of data. All these Data’s comes from satellites which are used to gather many information’s like Climate, posts on social media, GPS signals, purchase records of online shopping and much more. We call this as Bid data. Any Company evaluates their technical and Economical trends based on the values of these data. These Data’s play a significant role in analysing the growth and fall statistics which aids for future Plans. The collection of these data’s and it’s processing requires a lot of technicality. Complicated techniques are not today’s strategy instead we go for Big data analysis.</p>
 
-                                    <h5>Why BIG DATA Project at exoncorp?</h5>
-                                    <p class="text-muted">At exoncorp IT Solutions, Vellore we offer IEEE final year projects on Big data. We train the students with the latest techniques adopted in Big data. Care is taken such that every module is learnt carefully with proper Documentation and graphical analysis. We provide A to Z materials for each project modules and guide them for review presentations till the end of their academic project. Training is more practical with graphical analysis rather than theoretical. A Convenient time is provided for training to facilitate students coming from different parts of the state. So why wait? Join us for better future ahead.</p>
+                                    <h5>Why BIG DATA Project at exincorp?</h5>
+                                    <p class="text-muted">At exincorp IT Solutions, Vellore we offer IEEE final year projects on Big data. We train the students with the latest techniques adopted in Big data. Care is taken such that every module is learnt carefully with proper Documentation and graphical analysis. We provide A to Z materials for each project modules and guide them for review presentations till the end of their academic project. Training is more practical with graphical analysis rather than theoretical. A Convenient time is provided for training to facilitate students coming from different parts of the state. So why wait? Join us for better future ahead.</p>
 
-                                    <h5>BIG DATA Projects ( Powered by exoncorp IT Solutions )</h5>
+                                    <h5>BIG DATA Projects ( Powered by exincorp IT Solutions )</h5>
                                     <h6>BIGDATA (Hadoop) based DATA MINING</h6>
                                     <ul class="text-muted">
                                         <li>Collaborative Filtering-Based Recommendation of Online Social Voting (IEEE 2017).</li>
@@ -124,7 +124,7 @@
                             <h4 class="h2">Request a call back.</h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
                             <p class="mt-2 pt-2">
-                                <a href="http://exoncorpprojects.com/contact.php" class="btn btn-lg btn-secondary">Contact</a>
+                                <a href="http://exincorpprojects.com/contact.php" class="btn btn-lg btn-secondary">Contact</a>
                             </p>
                         </div>
                         <!-- /.col-md-4 -->

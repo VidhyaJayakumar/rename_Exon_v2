@@ -298,8 +298,8 @@ document.onkeydown=function(e){e=e||window.event;if(e.keyCode==123||e.keyCode==1
     </div>
     <div class="col-md-3 filter all appicon ">
       <div class="thumbnail">
-        <a href="/images/exon.jpg" target="_blank">
-          <img src="/images/exon.jpg" alt="Fjords" style="width:100%">
+        <a href="/images/exin.jpg" target="_blank">
+          <img src="/images/exin.jpg" alt="Fjords" style="width:100%">
           
         </a>
       </div>
@@ -446,8 +446,8 @@ document.onkeydown=function(e){e=e||window.event;if(e.keyCode==123||e.keyCode==1
     </div>
     <div class="col-md-3">
       <div class="thumbnail">
-        <a href="/images/exon.jpg" target="_blank">
-          <img src="/images/exon.jpg" alt="Fjords" style="width:100%">
+        <a href="/images/exin.jpg" target="_blank">
+          <img src="/images/exin.jpg" alt="Fjords" style="width:100%">
           
         </a>
       </div>

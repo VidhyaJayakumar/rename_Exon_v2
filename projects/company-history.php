@@ -61,7 +61,7 @@
                                 </div>
                                 <!-- /.col-md-8 -->
                                 <div class="col-md-12 col-lg-5">
-                                    <form action="//exoncorpprojects.us16.list-manage.com/subscribe/post?u=f53099965e2af4f43cdb48721&amp;id=e69046331b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-inline" target="_blank" novalidate>
+                                    <form action="//exincorpprojects.us16.list-manage.com/subscribe/post?u=f53099965e2af4f43cdb48721&amp;id=e69046331b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-inline" target="_blank" novalidate>
                                     	<label class="sr-only" for="email">Email</label>
                                     	<input type="email" class="form-control mr-2" name="EMAIL" id="mce-EMAIL" placeholder="Email Address">
 
@@ -97,7 +97,7 @@
                             	<img class="card-img-top img-fluid" src="images/team.jpg" alt="Card image">
                             	<div class="card-img-overlay only-img rounded-top">
                             		<h4 class="card-title white-text">Growing Since 2010</h4>
-                            		<p class="card-text white-text pb-4">exoncorp Projects Vellore.</p>
+                            		<p class="card-text white-text pb-4">exincorp Projects Vellore.</p>
                             	</div>
                                 <div class="card-block">
 									<h4 class="card-title">Company History:</h4>

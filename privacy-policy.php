@@ -92,12 +92,12 @@
 <p style="text-align:justify">All information gathered on our Website is securely stored within our controlled database. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a posting to the discussion areas is available to anyone with Internet access. </p>
 <p style="text-align:justify">However the internet is an ever evolving medium. We may change our Privacy Policy from time to time to incorporate necessary future changes. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be. </p><br>
 <h4>Grievance Redressal</h4><br>
-	<p style="text-align:justify">Redressal Mechanism: Any complaints, abuse or concerns with regards to content and or comment or breach of these terms shall be immediately informed to the designated Grievance Officer as mentioned below via in writing or through email signed with the electronic signature to <a style="text-decoration:none;color:black" href="mailto:info@exoncorp.com">info@exoncorp.com</a> ("Grievance Officer"). </p>
+	<p style="text-align:justify">Redressal Mechanism: Any complaints, abuse or concerns with regards to content and or comment or breach of these terms shall be immediately informed to the designated Grievance Officer as mentioned below via in writing or through email signed with the electronic signature to <a style="text-decoration:none;color:black" href="mailto:info@exincorp.com">info@exincorp.com</a> ("Grievance Officer"). </p>
 <ul>
 <li>Mr. Selva (Grievance Officer)</li>
-<li>www.exoncorp.com</li>
+<li>www.exincorp.com</li>
 <li>Exoncorp, Vellore </li>   
-<li>Email:info@exoncorp.com </li>
+<li>Email:info@exincorp.com </li>
 <li>Ph:81899 40000  </li>
 
 </ul>                 

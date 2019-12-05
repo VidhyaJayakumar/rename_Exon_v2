@@ -1,6 +1,6 @@
 <?php 
 	//include("dbconnect.php");
-	//$domain = 'exoncorpprojects.com';
+	//$domain = 'exincorpprojects.com';
 	//$sql = "SELECT * FROM seo WHERE s_domain = '$domain'";
 	//$res = mysqli_query($conn,$sql);
 	//$row = mysqli_fetch_assoc($res);	

@@ -15,7 +15,7 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-  <meta content="Keywords" name="Biometric Attendance System, Biometric Attendance Machines, Biometric Access Control System, Access Control System Suppliers, Fingerprint Attendance System, Time Attendance System in vellore,India, Standalone Biometric Attendance Machines, Biometric Attendance Recorder Supplier, chennai,gudiyatham,kanchipuram,exoncorpsystems"
+  <meta content="Keywords" name="Biometric Attendance System, Biometric Attendance Machines, Biometric Access Control System, Access Control System Suppliers, Fingerprint Attendance System, Time Attendance System in vellore,India, Standalone Biometric Attendance Machines, Biometric Attendance Recorder Supplier, chennai,gudiyatham,kanchipuram,exincorpsystems"
 >
   
   <meta content="Description" name="Are U Looking for Best Biometric Attendance Cum Access Control System? ... We are pioneers in biometric solutions, specializing in fingerprint attendance systems,Biometric Access Control Systems ,Fingerprint Time Attendance Machine.Vellore, Kanchipuram, Gudiyatham, Chennai">

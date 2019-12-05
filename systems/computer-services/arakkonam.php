@@ -10,7 +10,7 @@
 <!-- Head BEGIN -->
 <head>
   <meta charset="utf-8">
-   <title>exoncorp Systems Services in Arakkonam</title>
+   <title>exincorp Systems Services in Arakkonam</title>
 
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -97,8 +97,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         <div class="col-md-12">
           <br>   <h1>Service in Arakkonam </h1>
           <hr style="border-color:black;">
-          <p style="align:justify"> Arakkonam System service at exoncorp provides a way to make your issues available and accessible 24×7.
-          IT Support from exoncorp Systems provides you with more reliable performance and more predictable expenses. That means you get more value from the technology you've already invested in, while actually reducing the total costs of IT problems and the resulting downtime.</p>
+          <p style="align:justify"> Arakkonam System service at exincorp provides a way to make your issues available and accessible 24×7.
+          IT Support from exincorp Systems provides you with more reliable performance and more predictable expenses. That means you get more value from the technology you've already invested in, while actually reducing the total costs of IT problems and the resulting downtime.</p>
         
                 </div>
            
@@ -116,7 +116,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                       <div class="service-box-v1">
                         <div><i class="fa fa-thumbs-up color-grey"></i></div>
                         <h2>AMC for Computers</h2>
-                        <p> Experience Computer AMC Service with exoncorp certified engineers.exoncorp designed their AMC plan according to client''s requirement.we provide the flexible AMC plan for any number of systems.</p>
+                        <p> Experience Computer AMC Service with exincorp certified engineers.exincorp designed their AMC plan according to client''s requirement.we provide the flexible AMC plan for any number of systems.</p>
                       </div>
                     </div>
                     <div class="col-md-4">
@@ -198,7 +198,7 @@ We undertake repairs and service of Barcode Label Printers and Scanners. We have
                       <div class="service-box-v1">
                         <div><i class="fa fa-laptop color-grey"></i></div>
                         <h2>Sale of Computer Desktops, Servers, Laptops & Peripherals & Repair.</h2>
-                        <p> Our exoncorp company encourage to make the best of themselves as a team and to offer the very best support to our customers.</p>
+                        <p> Our exincorp company encourage to make the best of themselves as a team and to offer the very best support to our customers.</p>
                       </div>
                     </div>
                      
@@ -213,7 +213,7 @@ We undertake repairs and service of Barcode Label Printers and Scanners. We have
             <span> Using technology as a tool to solve business challenges | 24/7 Support </span>
           </div>
           <div class="col-md-3 text-right">
-            <a class="btn-transparent" href="http://exoncorpsystems.in/contact.php" title="Service Problem" target="_blank"><i class="fa fa-rocket margin-right-10"></i>Contact Us</a>
+            <a class="btn-transparent" href="http://exincorpsystems.in/contact.php" title="Service Problem" target="_blank"><i class="fa fa-rocket margin-right-10"></i>Contact Us</a>
           </div>
         </div></div>
         <br>
@@ -222,7 +222,7 @@ We undertake repairs and service of Barcode Label Printers and Scanners. We have
             <div class="content-page">
                   <div class="col-md-6 col-sm-6">
                   <h2>Best solutions for your PC needs. Prompt, Reliable Service.</h2>
-                   <p align="justify">exoncorp will transform your IT and revolutionize how it helps you do business. If you have any questions about our services or would like more information, call us any time – you will be greeted by a live person 24/7! We love to hear from customers old and new.</p>
+                   <p align="justify">exincorp will transform your IT and revolutionize how it helps you do business. If you have any questions about our services or would like more information, call us any time – you will be greeted by a live person 24/7! We love to hear from customers old and new.</p>
                   
                   <!-- BEGIN FORM-->
                   <form action="contact_email.php" role="form" method="post" enctype="multipart/form-data">
@@ -247,21 +247,21 @@ We undertake repairs and service of Barcode Label Printers and Scanners. We have
                 <div class="col-md-6 col-sm-6 sidebar2">
                  <!-- <h2>Our Contacts</h2>
                   <address>
-                    <strong>exoncorp Systems</strong><br>
+                    <strong>exincorp Systems</strong><br>
                      No: 05 / X 2 , Hari Om 2nd Street, Phase-3, Sathuvachari<br>
                     Vellore, Tamilnadu - 632009<br>
                     <abbr title="Phone">P:</abbr> (+91) 81899 85551
                   </address>
                   <address>
                     <strong>Email</strong><br>
-                    <a href="mailto:info@exoncorps.in">info@exoncorps.in</a><br>
-                    <a href="mailto:support@exoncorps.in">support@exoncorps.in</a>
+                    <a href="mailto:info@exincorps.in">info@exincorps.in</a><br>
+                    <a href="mailto:support@exincorps.in">support@exincorps.in</a>
                   </address>
                   <ul class="social-icons margin-bottom-40">
-                    <li><a href="https://www.facebook.com/exoncorpsystems" title="Computer Repair" target="_blank" data-original-title="facebook" class="facebook"></a></li>
-                    <li><a href="https://twitter.com/exoncorp_systems" title="Onsite Computer Services" target="_blank" data-original-title="twitter" class="twitter"></a></li>
+                    <li><a href="https://www.facebook.com/exincorpsystems" title="Computer Repair" target="_blank" data-original-title="facebook" class="facebook"></a></li>
+                    <li><a href="https://twitter.com/exincorp_systems" title="Onsite Computer Services" target="_blank" data-original-title="twitter" class="twitter"></a></li>
                     <li><a href="https://plus.google.com/110876424824829428078" title="Software Installation" target="_blank" data-original-title="Goole Plus" class="googleplus"></a></li>
-                    <li><a href="https://www.linkedin.com/company/exoncorpsystems" title="Networking Problem" target="_blank" data-original-title="linkedin" class="linkedin"></a></li>
+                    <li><a href="https://www.linkedin.com/company/exincorpsystems" title="Networking Problem" target="_blank" data-original-title="linkedin" class="linkedin"></a></li>
                     <li><a href="https://www.youtube.com/channel/UC8nS-f8SO4fTjWBag3FgiBg" title="Virus Removal" target="_blank" data-original-title="youtube" class="youtube"></a></li>
                   </ul>
 

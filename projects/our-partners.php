@@ -133,7 +133,7 @@ Tamil Nadu - 632 009</p>
                             	<div class="col-sm-6">
                             		<div class="card news-card mb-10">
                             			<div class="card-block">
-                            				<h5 class="card-title">exoncorp - Projects is awesome.</h5>
+                            				<h5 class="card-title">exincorp - Projects is awesome.</h5>
                             				<p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
                             				<a href="#" class="btn btn-primary">Go somewhere</a>
                             			</div>

@@ -931,7 +931,7 @@
                             <div class="card-header" role="tab" id="headingOne">
                                 <h6 class="mb-0">
                                     <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                      Why should you purchase 'exoncorp - Projects'? <i class="float-right icon ion-arrow-down-b"></i>
+                                      Why should you purchase 'exincorp - Projects'? <i class="float-right icon ion-arrow-down-b"></i>
                                     </a>
                                 </h6>
                             </div>

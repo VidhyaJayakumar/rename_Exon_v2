@@ -53,7 +53,7 @@
                     "@context" : "http://schema.org",
                     "@type" : "Organization",
                     "name" : "ExonCorp IT Solutions, Inc.",
-                    "url" : "http://exoncorp.com",
+                    "url" : "http://exincorp.com",
                     "sameAs" : 
 
 ["https://www.facebook.com/Exon Corp.in","https://twitter.com/Exon Corpindia","https://www.youtube.com/channel/UCOa-UtzHSPRLDGN6JqObaYA","https://www.linkedin.com/company/ExonCorp-it-solutions-pvt-ltd","https://plus.google.com/106304209575651338346/","http://instagram.com/Exon Corpitsolutions"],

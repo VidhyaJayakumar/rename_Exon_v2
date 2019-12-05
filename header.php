@@ -76,7 +76,7 @@ function showResult(str) {
                 <div class="top-left" style="width: 100%;">
                     <ul class="top-contact-info">
                         <li><span class="flaticon-technology"></span>Phone: (+91) 81899 40000</li>    
-                        <li><span class="flaticon-contact"></span><a href="mailto:mailto:info@exoncorp.com">info@exoncorp.com</a></li>     
+                        <li><span class="flaticon-contact"></span><a href="mailto:mailto:info@exincorp.com">info@exincorp.com</a></li>     
                     </ul>   
                 </div>
             </div>
@@ -84,10 +84,10 @@ function showResult(str) {
                 <div class="top-right clearfix" style="width: 100%;">
                     <h5>Stay Connected:</h5> 
                     <ul class="social-links">
-                        <li><a href="http://facebook.com/exoncorp"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="http://twitter.com/exoncorp"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="https://plus.google.com/+exoncorp"><i class="fa fa-google-plus"></i></a></li>
-                        <li><a href="http://www.linkedin.com/company/exoncorp"><i class="fa fa-linkedin"></i></a></li>
+                        <li><a href="http://facebook.com/exincorp"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="http://twitter.com/exincorp"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="https://plus.google.com/+exincorp"><i class="fa fa-google-plus"></i></a></li>
+                        <li><a href="http://www.linkedin.com/company/exincorp"><i class="fa fa-linkedin"></i></a></li>
                         <li><a href="https://www.youtube.com/channel/UCbl2WL-AYnv0TCTAfKgfXjQ"><i class="fa fa-youtube"></i></a></li>
                     </ul>
                      <div class="language-switcher">
@@ -119,8 +119,8 @@ function showResult(str) {
                 <div class="mainmenu-bg clearfix">
                     <!--Start logo-->
                     <div class="logo pull-left">
-                        <a href="http://exoncorp.com">
-                            <img src="http://www.exoncorp.com/logo.png" alt="Awesome Logo">
+                        <a href="http://exincorp.com">
+                            <img src="http://www.exincorp.com/logo.png" alt="Awesome Logo">
                         </a>
                     </div>
                     <!--End logo-->
@@ -135,33 +135,33 @@ function showResult(str) {
                         </div>
                         <div class="navbar-collapse collapse clearfix">
                             <ul class="navigation clearfix">
-                                <li class="<?php echo ($_SERVER['PHP_SELF'] == "/index.php" ? "current" : "");?>"><a href="http://exoncorp.com/index.php">Home</a></li>
-                                <li class="<?php echo ($_SERVER['PHP_SELF'] == "/about-us.php" ? "current" : "");?>"><a href="http://exoncorp.com/about-us.php">ABOUT US</a>
+                                <li class="<?php echo ($_SERVER['PHP_SELF'] == "/index.php" ? "current" : "");?>"><a href="http://exincorp.com/index.php">Home</a></li>
+                                <li class="<?php echo ($_SERVER['PHP_SELF'] == "/about-us.php" ? "current" : "");?>"><a href="http://exincorp.com/about-us.php">ABOUT US</a>
                                 </li>
-                                 <li class="<?php echo ($_SERVER['PHP_SELF'] == "/industries.php" ? "current" : "");?>"><a href="http://exoncorp.com/industries.php">Industries</a>
+                                 <li class="<?php echo ($_SERVER['PHP_SELF'] == "/industries.php" ? "current" : "");?>"><a href="http://exincorp.com/industries.php">Industries</a>
                                    
                                 </li>
 
-                                <li class="dropdown <?php echo ($_SERVER['PHP_SELF'] == "/services.php" ? "current" : "");?>"><a href="http://exoncorp.com/services.php">Services</a>
+                                <li class="dropdown <?php echo ($_SERVER['PHP_SELF'] == "/services.php" ? "current" : "");?>"><a href="http://exincorp.com/services.php">Services</a>
                                     <ul>
-                                        <li class="<?php echo ($_SERVER['PHP_SELF'] == "/academy.php" ? "current" : "");?>"><a href="http://exoncorp.com/academy.php">Training</a></li>
-                                        <li class="<?php echo ($_SERVER['PHP_SELF'] == "/systems.php" ? "current" : "");?>"><a href="http://exoncorp.com/systems.php">Support Services</a></li>
-                                        <li class="<?php echo ($_SERVER['PHP_SELF'] == "/consultancy.php" ? "current" : "");?>"><a href="http://exoncorp.com/consultancy.php">Consultancy</a></li>
-                                        <li class="<?php echo ($_SERVER['PHP_SELF'] == "/digital-marketing.php" ? "current" : "");?>"><a href="http://exoncorp.com/digital-marketing.php">Digital Marketing</a></li>
-                                        <li class="<?php echo ($_SERVER['PHP_SELF'] == "/law-firm.php" ? "current" : "");?>"><a href="http://exoncorp.com/law-firm.php">Law Firm</a></li>
+                                        <li class="<?php echo ($_SERVER['PHP_SELF'] == "/academy.php" ? "current" : "");?>"><a href="http://exincorp.com/academy.php">Training</a></li>
+                                        <li class="<?php echo ($_SERVER['PHP_SELF'] == "/systems.php" ? "current" : "");?>"><a href="http://exincorp.com/systems.php">Support Services</a></li>
+                                        <li class="<?php echo ($_SERVER['PHP_SELF'] == "/consultancy.php" ? "current" : "");?>"><a href="http://exincorp.com/consultancy.php">Consultancy</a></li>
+                                        <li class="<?php echo ($_SERVER['PHP_SELF'] == "/digital-marketing.php" ? "current" : "");?>"><a href="http://exincorp.com/digital-marketing.php">Digital Marketing</a></li>
+                                        <li class="<?php echo ($_SERVER['PHP_SELF'] == "/law-firm.php" ? "current" : "");?>"><a href="http://exincorp.com/law-firm.php">Law Firm</a></li>
                                
-                                        <li class="<?php echo ($_SERVER['PHP_SELF'] == "/studios.php" ? "current" : "");?>"><a href="http://exoncorp.com/studios.php">Web Development</a></li>
-                                        <li class="<?php echo ($_SERVER['PHP_SELF'] == "/cloud.php" ? "current" : "");?>"><a href="http://exoncorp.com/cloud.php">Cloud Services</a></li>
-                                        <li class="<?php echo ($_SERVER['PHP_SELF'] == "/softwares.php" ? "current" : "");?>"><a href="http://exoncorp.com/softwares.php">Software Development</a></li>
-                                        <li class="<?php echo ($_SERVER['PHP_SELF'] == "/council.php" ? "current" : "");?>"><a href="http://exoncorp.com/council.php">Security Services</a></li>
-                                        <li class="<?php echo ($_SERVER['PHP_SELF'] == "/Internship-In-Vellore.php" ? "current" : "");?>"><a href="http://exoncorp.com/Internship-In-Vellore.php">Internships</a></li>
-                                        <li class="<?php echo ($_SERVER['PHP_SELF'] == "/projects.php" ? "current" : "");?>"><a href="http://exoncorp.com/projects.php">Projects</a></li>
-                                        <li class="<?php echo ($_SERVER['PHP_SELF'] == "/coworking-space.php" ? "current" : "");?>"><a href="http://exoncorp.com/coworking-space.php">Coworking space</a></li>
+                                        <li class="<?php echo ($_SERVER['PHP_SELF'] == "/studios.php" ? "current" : "");?>"><a href="http://exincorp.com/studios.php">Web Development</a></li>
+                                        <li class="<?php echo ($_SERVER['PHP_SELF'] == "/cloud.php" ? "current" : "");?>"><a href="http://exincorp.com/cloud.php">Cloud Services</a></li>
+                                        <li class="<?php echo ($_SERVER['PHP_SELF'] == "/softwares.php" ? "current" : "");?>"><a href="http://exincorp.com/softwares.php">Software Development</a></li>
+                                        <li class="<?php echo ($_SERVER['PHP_SELF'] == "/council.php" ? "current" : "");?>"><a href="http://exincorp.com/council.php">Security Services</a></li>
+                                        <li class="<?php echo ($_SERVER['PHP_SELF'] == "/Internship-In-Vellore.php" ? "current" : "");?>"><a href="http://exincorp.com/Internship-In-Vellore.php">Internships</a></li>
+                                        <li class="<?php echo ($_SERVER['PHP_SELF'] == "/projects.php" ? "current" : "");?>"><a href="http://exincorp.com/projects.php">Projects</a></li>
+                                        <li class="<?php echo ($_SERVER['PHP_SELF'] == "/coworking-space.php" ? "current" : "");?>"><a href="http://exincorp.com/coworking-space.php">Coworking space</a></li>
                                         
                                     </ul>
                                 </li>
                                  
-                                <li class="<?php echo ($_SERVER['PHP_SELF'] == "/partners.php" ? "current" : "");?>"><a href="http://exoncorp.com/partners.php">Partners</a>
+                                <li class="<?php echo ($_SERVER['PHP_SELF'] == "/partners.php" ? "current" : "");?>"><a href="http://exincorp.com/partners.php">Partners</a>
 								
 								</li>
                                
@@ -172,10 +172,10 @@ function showResult(str) {
                                    
                               
                                  
-                                 <li class="<?php echo ($_SERVER['PHP_SELF'] == "/blog.php" ? "current" : "");?>"><a href="http://exoncorp.com/blog.php">Blog</a></li>
+                                 <li class="<?php echo ($_SERVER['PHP_SELF'] == "/blog.php" ? "current" : "");?>"><a href="http://exincorp.com/blog.php">Blog</a></li>
                                 
                                 
-                                <li class="<?php echo ($_SERVER['PHP_SELF'] == "/company.php" ? "current" : "");?>"><a href="http://exoncorp.com/company.php">Company</a>                               
+                                <li class="<?php echo ($_SERVER['PHP_SELF'] == "/company.php" ? "current" : "");?>"><a href="http://exincorp.com/company.php">Company</a>                               
                                 </li>
                             </ul>
                         </div>
@@ -198,7 +198,7 @@ function showResult(str) {
                             </ul>
                         </div>
                         <div class="quote-button">
-                             <a href="http://exoncorp.com/contact.php">Contact Us</a>
+                             <a href="http://exincorp.com/contact.php">Contact Us</a>
                         </div>
                     </div> 
                     <!--End mainmenu right box-->

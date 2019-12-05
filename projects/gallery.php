@@ -63,7 +63,7 @@
                                 </div>
                                 <!-- /.col-md-8 -->
                                 <div class="col-md-12 col-lg-5">
-                                    <form action="//exoncorpprojects.us16.list-manage.com/subscribe/post?u=f53099965e2af4f43cdb48721&amp;id=e69046331b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-inline" target="_blank" novalidate>
+                                    <form action="//exincorpprojects.us16.list-manage.com/subscribe/post?u=f53099965e2af4f43cdb48721&amp;id=e69046331b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-inline" target="_blank" novalidate>
                                     	<label class="sr-only" for="email">Email</label>
                                     	<input type="email" class="form-control mr-2" name="EMAIL" id="mce-EMAIL" placeholder="Email Address">
 

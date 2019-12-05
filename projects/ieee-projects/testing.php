@@ -45,7 +45,7 @@
                             <h2 class="page-title-heading" style="color: white;">Testing</h2>
                             <p class="lead">Testing</p>
                             <p class="lead">
-                                <a href="http://exoncorpprojects.com/contact.php" class="btn btn-transition btn-success">Contact</a>
+                                <a href="http://exincorpprojects.com/contact.php" class="btn btn-transition btn-success">Contact</a>
                             </p>
                         </div>
                         <!-- /.inner page-title -->
@@ -70,10 +70,10 @@
 
 									<p class="card-text">Software testing is one of integral part of software development. Software testing is a verification and validation process, to reduce the risk of development. As software applications get ever more complex and intertwined and with the large number of different platforms and devices that need to get tested, it is more important than ever to have a robust testing methodology for making sure that software products/systems being developed have been fully tested to make sure they meet their specified requirements and can successfully operate in all the anticipated environments with the required usability and Security.</p>
 
-                                    <h5>Why Testing Projects at exoncorp?</h5>
+                                    <h5>Why Testing Projects at exincorp?</h5>
                                     <p class="text-muted">Our process about testing is the dynamic analysis of a piece of software, requiring execution of the system to produce results, which are then compared to expected outputs. We provide the opportunities to work with the product as from end-to-end, as well as at a very deep level of details. Our training process is to directly meet the industrial traits. Profession about in this field, steady up your testing skills.</p>
 
-                                    <h5>Testing Projects ( Powered by exoncorp IT Solutions )</h5>
+                                    <h5>Testing Projects ( Powered by exincorp IT Solutions )</h5>
                                     <h6>IEEE based FUNCTIONAL TESTING</h6>
                                     <ul class="text-muted">
                                         <li>A Similarity Metric for the Inputs of OO Programs and Its Application in Adaptive Random Testing</li>
@@ -119,7 +119,7 @@
                             <h4 class="h2">Request a call back.</h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
                             <p class="mt-2 pt-2">
-                                <a href="http://exoncorpprojects.com/contact.php" class="btn btn-lg btn-secondary">Contact</a>
+                                <a href="http://exincorpprojects.com/contact.php" class="btn btn-lg btn-secondary">Contact</a>
                             </p>
                         </div>
                         <!-- /.col-md-4 -->

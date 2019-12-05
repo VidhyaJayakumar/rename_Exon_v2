@@ -46,8 +46,8 @@ $duplicate=mysqli_query($mysqli,"SELECT * from users where type='PARTNER' AND mo
 
 				// $txt = "We have received your application of registration. It will be approved soon.";
                 $to=$_POST['email'];
-                $subject = "exoncorp PROJECTS REGISTRATION";
-                $headers = "From: info@exoncorpprojects.com";
+                $subject = "exincorp PROJECTS REGISTRATION";
+                $headers = "From: info@exincorpprojects.com";
 		        $msg  = "We have received your application of registration. It will be approved soon."  ;
                 mail($to,$subject,$msg,$headers);
 
@@ -56,9 +56,9 @@ $duplicate=mysqli_query($mysqli,"SELECT * from users where type='PARTNER' AND mo
 			$email = nl2br($_POST['email']);
 			$MobileNumber = nl2br($_POST['fmob']);    
             $tto="chitturiarunkrishna@gmail.com";
-            // $tto="selva@exoncorps.in";
-            $ssubject = "exoncorp PROJECTS PARTNER APPROVAL";
-            $hseaders = "From: info@exoncorpprojects.com" ;
+            // $tto="selva@exincorps.in";
+            $ssubject = "exincorp PROJECTS PARTNER APPROVAL";
+            $hseaders = "From: info@exincorpprojects.com" ;
 			$mmsg = "This partner is requesting for your approval.".$name.$email.$MobileNumber;
             mail($tto,$ssubject,$mmsg,$hseaders);
 		}

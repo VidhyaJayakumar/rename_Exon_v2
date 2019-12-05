@@ -131,7 +131,7 @@ document.onkeydown=function(e){e=e||window.event;if(e.keyCode==123||e.keyCode==1
     <h2 class="visually-hidden">Breadcrumb</h2>
     <ol>
           <li>
-                  <a href="http:exoncorp.com/consultancy/index.php">Home</a>
+                  <a href="http:exincorp.com/consultancy/index.php">Home</a>
               </li>
               <li>Our Team</li>
         </ol>
@@ -169,10 +169,10 @@ document.onkeydown=function(e){e=e||window.event;if(e.keyCode==123||e.keyCode==1
         <a href="awards.php" data-drupal-link-system-path="&lt;front&gt;">Hornors &amp; Awards</a>
               </li>
           <li>
-        <a href="http:exoncorp.com/consultancy/clients.php" data-drupal-link-system-path="node/52">Clients</a>
+        <a href="http:exincorp.com/consultancy/clients.php" data-drupal-link-system-path="node/52">Clients</a>
               </li>
           <li>
-        <a href="http:exoncorp.com/consultancy/team.php" data-drupal-link-system-path="team" class="is-active">Our Team</a>
+        <a href="http:exincorp.com/consultancy/team.php" data-drupal-link-system-path="team" class="is-active">Our Team</a>
               </li>
               <li>
              <a href="contact.php" data-drupal-link-system-path="node/70">Contact</a>

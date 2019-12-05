@@ -10,13 +10,13 @@
 <!-- Head BEGIN -->
 <head>
   <meta charset="utf-8">
-   <title>CCTV Camera Sales and Services Chennai | Computer Repair Service | On Call Computer Service | Assembled System Sales | Low Cost Computer Sales | Desktop Services Sales | Server Rental Vellore | Computer Dealers Kanchipuram | Server Services Vellore | Mother Board Sales Services Kanchipuram | Laptop Screen Repair Gudiyatham | Computer Repair Store Vellore | Computer Service Center Kanchipuram | IT Computer Services Gudiyatham | Laptop Keyboard Repair Vellore | Desktop Computer Services Kachipuram | Computer Support Specialist - exoncorp Systems @ Chennai | Kanchipuram | Gudiyatham | Vellore</title>
+   <title>CCTV Camera Sales and Services Chennai | Computer Repair Service | On Call Computer Service | Assembled System Sales | Low Cost Computer Sales | Desktop Services Sales | Server Rental Vellore | Computer Dealers Kanchipuram | Server Services Vellore | Mother Board Sales Services Kanchipuram | Laptop Screen Repair Gudiyatham | Computer Repair Store Vellore | Computer Service Center Kanchipuram | IT Computer Services Gudiyatham | Laptop Keyboard Repair Vellore | Desktop Computer Services Kachipuram | Computer Support Specialist - exincorp Systems @ Chennai | Kanchipuram | Gudiyatham | Vellore</title>
 
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-  <meta content="Keywords" name="computer dealers in vellore,computer sales in vellore,cctv dealers in vellore,vellore computer accessories,computer shops in vellore,computer service center in vellore,computer service in vellore,computer sales and service in vellore,Computers & Accessories,Laptop Repair and Services,Sevice Engineer Vellore,computer accessories in vellore,Laptop Accessories in Vellore,exoncorp systems vellore,tamilnadu,Used Computer Parts Kanchipuram, Computer Stores Gudiyatham, Computer Software Install Vellore, Computer Networking Problem Kanchipuram, Computer Solutions Vellore, PC Service Kanchipuram, Computer Network Problem Gudiyatham, Affiliated Computer Services Vellore, Laptop Keypad Services Kanchipuram, On Door Computer Service Kanchipuram, Computer Accessories Sales Gudiyatham, Computer Software installer Vellore, Computer Keyboard sales Kanchipuram, Laptop Keyboard Services Gudiyatham, Printer Sales Vellore, CPU Problem Kanchipuram @ exoncorp Systems at Vellore, Gudiyatham, Chennai, kanchipuram">
-  <meta content="Description" name="exoncorp - Computer Services expert and laptop repair services, spyware removal, computer upgrade, and hardware installation servicesCPU Repair Services in Vellore, On Call Computer Repair Service Kanchipuram, Computer Service Center Chennai, UPS Sales Chennai, Moniter Sales Kanchipuram, Assembled System Sales Chennai, Network Problem Service Chennai, Server Problem Service Chennai, Second Hand Computer Sales in Chennai, Motherboard Sales Chennai @ exoncorp system at Vellore, Kanchipuram, Gudiyatham, Chennai">
+  <meta content="Keywords" name="computer dealers in vellore,computer sales in vellore,cctv dealers in vellore,vellore computer accessories,computer shops in vellore,computer service center in vellore,computer service in vellore,computer sales and service in vellore,Computers & Accessories,Laptop Repair and Services,Sevice Engineer Vellore,computer accessories in vellore,Laptop Accessories in Vellore,exincorp systems vellore,tamilnadu,Used Computer Parts Kanchipuram, Computer Stores Gudiyatham, Computer Software Install Vellore, Computer Networking Problem Kanchipuram, Computer Solutions Vellore, PC Service Kanchipuram, Computer Network Problem Gudiyatham, Affiliated Computer Services Vellore, Laptop Keypad Services Kanchipuram, On Door Computer Service Kanchipuram, Computer Accessories Sales Gudiyatham, Computer Software installer Vellore, Computer Keyboard sales Kanchipuram, Laptop Keyboard Services Gudiyatham, Printer Sales Vellore, CPU Problem Kanchipuram @ exincorp Systems at Vellore, Gudiyatham, Chennai, kanchipuram">
+  <meta content="Description" name="exincorp - Computer Services expert and laptop repair services, spyware removal, computer upgrade, and hardware installation servicesCPU Repair Services in Vellore, On Call Computer Repair Service Kanchipuram, Computer Service Center Chennai, UPS Sales Chennai, Moniter Sales Kanchipuram, Assembled System Sales Chennai, Network Problem Service Chennai, Server Problem Service Chennai, Second Hand Computer Sales in Chennai, Motherboard Sales Chennai @ exincorp system at Vellore, Kanchipuram, Gudiyatham, Chennai">
 <meta content='index, follow' name='robots'/>
   <!-- Fonts START -->
   <link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|PT+Sans+Narrow|Source+Sans+Pro:200,300,400,600,700,900&amp;subset=all" rel="stylesheet" type="text/css">
@@ -93,14 +93,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                <div class="tab-content" style="padding:0; background: #fff;">          
                   </div>
                   <h2>Importance of Backup</h2>
-                  <p>A range of reports over the recent years has show that the majority (up to 60%) of small and medium businesses won't survive a drastic loss of data. So it's often a shock to find that many companies have no back-up or disaster recovery strategies in place at all. If this is the case for your company, you're putting at risk all you've worked for. That is why exoncorp Systems is offering a wide range of comprehensive backup, disaster and recovery solutions priced to fit small business budgets. We want to keep you safe!</p>
+                  <p>A range of reports over the recent years has show that the majority (up to 60%) of small and medium businesses won't survive a drastic loss of data. So it's often a shock to find that many companies have no back-up or disaster recovery strategies in place at all. If this is the case for your company, you're putting at risk all you've worked for. That is why exincorp Systems is offering a wide range of comprehensive backup, disaster and recovery solutions priced to fit small business budgets. We want to keep you safe!</p>
                   <div class="portlet-body">
                 <div class="well">
                  
  <font size="4">Don’t Let A System Failure Shut Down Your Business And Jeopardize Everything You've Worked For </font>      </div>         </div>			  
 				             
                   <p>Our business continuity solutions will ensure that in the event of disaster, you can quickly revive your network and that your employees can be back to work in no time.</p>
-                  <p> The experts at exoncorp Systems can ensure your vital data can be regularly backed up and if there's a problem that files can be restored in as little as 30 minutes. Our systems can take over as a virtual server to resume operations until bigger issues with your network can be resolved. We also offer remote server backup to keep your files and data safe and secure.</p>
+                  <p> The experts at exincorp Systems can ensure your vital data can be regularly backed up and if there's a problem that files can be restored in as little as 30 minutes. Our systems can take over as a virtual server to resume operations until bigger issues with your network can be resolved. We also offer remote server backup to keep your files and data safe and secure.</p>
  <div class="portlet-body">
                 <div class="well">
                  
@@ -119,7 +119,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
  <div class="portlet">
               <div class="portlet-title">
                 <div class="caption">
-                  <h2>How exoncorp Systems keeps you protected</h2>
+                  <h2>How exincorp Systems keeps you protected</h2>
                 </div>
                 
               </div>
@@ -144,7 +144,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                                     <h4>A maximum downtime assessment -</h4>
                                     <ul>
-                                        <li>  exoncorp Systems helps you assess what your maximum downtime can be before it adversely affects your business operations.</li>
+                                        <li>  exincorp Systems helps you assess what your maximum downtime can be before it adversely affects your business operations.</li>
                                         
                                         
                                     </ul>

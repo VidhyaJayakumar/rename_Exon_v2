@@ -105,7 +105,7 @@
                         </div>
                         <ul class="contact-info">
                             <li>Phone:  (+91) 96299 29981</li>
-                            <li>Email: <b>selva@exoncorp.com</b></li>
+                            <li>Email: <b>selva@exincorp.com</b></li>
                         </ul>
                     </div>    
                 </div> 
@@ -136,7 +136,7 @@
                         </div>
                         <ul class="contact-info">
                             <li>Phone: 8189985551</li>
-                            <li>Email: <b>sivapriya@exoncorp.com</b></li>
+                            <li>Email: <b>sivapriya@exincorp.com</b></li>
                         </ul>
                     </div>    
                 </div> 
@@ -168,7 +168,7 @@
                         </div>
                         <ul class="contact-info">
                             <li>Phone: 8189985557</li>
-                            <li>Email: <b>prabhu@exoncorp.com</b></li>
+                            <li>Email: <b>prabhu@exincorp.com</b></li>
                         </ul>
                     </div>    
                 </div> 
@@ -199,7 +199,7 @@
                         </div>
                         <ul class="contact-info">
                             <li>Phone: 8189985557</li>
-                            <li>Email: <b>irfan@exoncorp.com</b></li>
+                            <li>Email: <b>irfan@exincorp.com</b></li>
                         </ul>
                     </div>    
                 </div> 

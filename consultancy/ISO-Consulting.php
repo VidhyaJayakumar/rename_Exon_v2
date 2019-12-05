@@ -294,7 +294,7 @@ document.onkeydown=function(e){e=e||window.event;if(e.keyCode==123||e.keyCode==1
   
   <div>
     
-            <div><p><img alt="Business Planing" data-entity-type="file" data-entity-uuid="b58c5f6f-f7a3-438f-98f3-41182f99c201" src="http:exoncorp.com/consultancy/consultant/sites/default/files/inline-images/img_about02.jpg"/></p>
+            <div><p><img alt="Business Planing" data-entity-type="file" data-entity-uuid="b58c5f6f-f7a3-438f-98f3-41182f99c201" src="http:exincorp.com/consultancy/consultant/sites/default/files/inline-images/img_about02.jpg"/></p>
 			<div class="box1"><div class="row"><div class="col-sm-6">
 <h2 class="service-title">HR Consulting</h2>
 

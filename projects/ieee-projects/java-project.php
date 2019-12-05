@@ -27,8 +27,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<title>Exoncorp Projects</title>
 	<meta name="author" content="SaltTechno">
-    <meta name="description" content="Final Year Project Guidance,On-line project support for all departments of M.E, M.Tech, B.E, B.Tech, MCA, M.sc, M.Phil MBA Bsc BCA Diploma Projects, Best Project center in <?php echo $place; ?> is exoncorp&reg; projects.com | Android projects in <?php echo $place; ?> | Android Training in <?php echo $place; ?>">
-    <meta name="keywords" content="IEEE 2015 Java projects in <?php echo $place; ?>, IEEE 2015 android  projects in <?php echo $place; ?>, IEEE 2015 dot-net projects in <?php echo $place; ?>, IEEE 2015 Matlab  projects in <?php echo $place; ?>, IEEE 2015 embedded projects in <?php echo $place; ?>, MBA projects in <?php echo $place; ?>, IEEE 2015 ns2 projects in <?php echo $place; ?>, best project centre in <?php echo $place; ?>, project center in <?php echo $place; ?>, IEEE projects in <?php echo $place; ?>, exoncorp&reg; projects">
+    <meta name="description" content="Final Year Project Guidance,On-line project support for all departments of M.E, M.Tech, B.E, B.Tech, MCA, M.sc, M.Phil MBA Bsc BCA Diploma Projects, Best Project center in <?php echo $place; ?> is exincorp&reg; projects.com | Android projects in <?php echo $place; ?> | Android Training in <?php echo $place; ?>">
+    <meta name="keywords" content="IEEE 2015 Java projects in <?php echo $place; ?>, IEEE 2015 android  projects in <?php echo $place; ?>, IEEE 2015 dot-net projects in <?php echo $place; ?>, IEEE 2015 Matlab  projects in <?php echo $place; ?>, IEEE 2015 embedded projects in <?php echo $place; ?>, MBA projects in <?php echo $place; ?>, IEEE 2015 ns2 projects in <?php echo $place; ?>, best project centre in <?php echo $place; ?>, project center in <?php echo $place; ?>, IEEE projects in <?php echo $place; ?>, exincorp&reg; projects">
 
 	<!-- ========== COMMON STYLES ========== -->
 	<link rel="stylesheet" href="../css/bootstrap.css" media="screen">
@@ -65,7 +65,7 @@
                             <h2 class="page-title-heading">Java</h2>
                             <p class="lead">Java Project <?php echo $place; ?></p>
                             <p class="lead">
-                                <a href="http://exoncorpprojects.com/contact.php" class="btn btn-transition btn-success">Contact</a>
+                                <a href="http://exincorpprojects.com/contact.php" class="btn btn-transition btn-success">Contact</a>
                             </p>
                         </div>
                         <!-- /.inner page-title -->
@@ -90,10 +90,10 @@
 
 									<p class="card-text">One of the top ranked programming languages that we use today is JAVA. We see java everywhere from software to an application development. Every things surrounded by us like gaming consoles , modern smart phones , mobile applications all makes use of JAVA as first priority. One of the main reasons that Java is dominant is that it overcomes others languages by its additional features like privacy, portability & standardized procedure for developing real time applications. Experts from all over the world contribute to the development of JAVA as it is a open source platform. Dynamic apps like IRCTC, flipkart, homeshop18 etc are made possible by the help of java applet. So start your career with amazing Java technology.</p>
 
-                                    <h5>Why Java Projects at exoncorp?</h5>
-                                    <p class="text-muted">At exoncorp IT Solutions, Vellore we offer IEEE final year projects for CSE /IT/ BCA/MCA/MSC. Students are trained with JAVA Technology before proceeding to the project modules. Our Expert trainers from MNC’s™ have rich 10 year Experience who will guide you through every phase of the project till the end of the academic project. .We Take responsibility for Project reports, power point preparations & any other support with full fledge. A convenient time is provided for training to facilitate students coming from different part of the state. One of the leading market research surveys ranks us top for best java projects center in <?php echo $place; ?>. So join us for better future ahead.</p>
+                                    <h5>Why Java Projects at exincorp?</h5>
+                                    <p class="text-muted">At exincorp IT Solutions, Vellore we offer IEEE final year projects for CSE /IT/ BCA/MCA/MSC. Students are trained with JAVA Technology before proceeding to the project modules. Our Expert trainers from MNC’s™ have rich 10 year Experience who will guide you through every phase of the project till the end of the academic project. .We Take responsibility for Project reports, power point preparations & any other support with full fledge. A convenient time is provided for training to facilitate students coming from different part of the state. One of the leading market research surveys ranks us top for best java projects center in <?php echo $place; ?>. So join us for better future ahead.</p>
 
-                                    <h5>Java Projects <?php echo $place; ?> ( Powered by exoncorp IT Solutions )</h5>
+                                    <h5>Java Projects <?php echo $place; ?> ( Powered by exincorp IT Solutions )</h5>
                                     <h6>JAVA based CLOUD COMPUTING</h6>
                                     <ul class="text-muted">
                                         <li>Minimum-Cost Cloud Storage Service across Multiple Cloud Providers (IEEE 2017).</li>
@@ -304,7 +304,7 @@
                             <h4 class="h2">Request a call back.</h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
                             <p class="mt-2 pt-2">
-                                <a href="http://exoncorpprojects.com/contact.php" class="btn btn-lg btn-secondary">Contact</a>
+                                <a href="http://exincorpprojects.com/contact.php" class="btn btn-lg btn-secondary">Contact</a>
                             </p>
                         </div>
                         <!-- /.col-md-4 -->

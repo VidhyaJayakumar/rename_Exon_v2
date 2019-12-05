@@ -3,12 +3,12 @@
 
  <head>
 	<meta charset="UTF-8">
-	<title>Exoncorp Systems |IT Services company | Computer Service Center in Vellore |Computer Sales and Service in Vellore | Server Rental and Services | Networking Problem | Data Recovery Problem | Laptop Service Center Kanchipuram, printer,tonerrefilling, | Vellore | Kanchipuram | Gudiyatham | Chennai @ exoncorp  Systems</title>
+	<title>Exoncorp Systems |IT Services company | Computer Service Center in Vellore |Computer Sales and Service in Vellore | Server Rental and Services | Networking Problem | Data Recovery Problem | Laptop Service Center Kanchipuram, printer,tonerrefilling, | Vellore | Kanchipuram | Gudiyatham | Chennai @ exincorp  Systems</title>
 	   
 
-	  <meta name="description" content="exoncorp Systems Services is the one-stop IT services company in Vellore for all of your Desktop and Laptop Computer repairs. Our technicians fix all types of hardware and software problems. - exoncorp  Systems laptop, desktop,printers,servers,softwares,oldsystems,networking,rack,tonerrefilling @ Vellore, Chennai, Gudiyatham, Kanchipuram"/>
-	  	<meta name="author" content=" exoncorp  Systems - computer sales and service @ Vellore, Chennai, Kanchipuram, Gudiyatham">
-		<meta name="keywords" content="computer dealers in vellore,computer sales in vellore,cctv dealers in vellore,vellore computer accessories,computer shops in vellore,computer service center in vellore,computer service in vellore,computer sales and service in vellore,Computers & Accessories,Laptop Repair and Services in vellore,Sevice Engineer Vellore,computer accessories in vellore,Laptop Accessories in Vellore,Exon Corp systems vellore,tamilnadu. Computer Service Center - exoncorp  Systems @ Vellore, Gudiyatham, Chennai, Kanchipuram">
+	  <meta name="description" content="exincorp Systems Services is the one-stop IT services company in Vellore for all of your Desktop and Laptop Computer repairs. Our technicians fix all types of hardware and software problems. - exincorp  Systems laptop, desktop,printers,servers,softwares,oldsystems,networking,rack,tonerrefilling @ Vellore, Chennai, Gudiyatham, Kanchipuram"/>
+	  	<meta name="author" content=" exincorp  Systems - computer sales and service @ Vellore, Chennai, Kanchipuram, Gudiyatham">
+		<meta name="keywords" content="computer dealers in vellore,computer sales in vellore,cctv dealers in vellore,vellore computer accessories,computer shops in vellore,computer service center in vellore,computer service in vellore,computer sales and service in vellore,Computers & Accessories,Laptop Repair and Services in vellore,Sevice Engineer Vellore,computer accessories in vellore,Laptop Accessories in Vellore,Exon Corp systems vellore,tamilnadu. Computer Service Center - exincorp  Systems @ Vellore, Gudiyatham, Chennai, Kanchipuram">
 
 	<!-- responsive meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -234,7 +234,7 @@
                                         <h4>Fast and Easy</h4>
                                     </div>
                                     <div class="accord-content ">
-                                        <i class="fa fa-check" aria-hidden="true"></i>&nbsp;exoncorp  Systems provides instant, secure, and trouble-free connections between remote computers anywhere in the world.
+                                        <i class="fa fa-check" aria-hidden="true"></i>&nbsp;exincorp  Systems provides instant, secure, and trouble-free connections between remote computers anywhere in the world.
                                     </div>
                                 </div><div class="accordion accordion-block">
                                     <div class="accord-btn ">

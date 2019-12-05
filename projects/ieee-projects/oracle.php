@@ -45,7 +45,7 @@
                             <h2 class="page-title-heading">Oracle</h2>
                             <p class="lead">Oracle Project</p>
                             <p class="lead">
-                                <a href="http://exoncorpprojects.com/contact.php" class="btn btn-transition btn-success">Contact</a>
+                                <a href="http://exincorpprojects.com/contact.php" class="btn btn-transition btn-success">Contact</a>
                             </p>
                         </div>
                         <!-- /.inner page-title -->
@@ -70,10 +70,10 @@
 
 									<p class="card-text">Oracle is the best choice, when an organisation needs a database management system. Although there are many Database management systems, oracle solves the needs of the customer with full satisfaction. Oracle has Broad range of products which includes business- intelligence, Virtual Box , business applications and so on. Oracle database have a massive set of features that not only provide best performance for database, security for databases, privacy in database administration. Apart from this storage costing, redundant service for high-availability are its key strengths. Oracle database products are available for broad range of operating systems from MS windows to various OS of Unix like HP UX, Solaris, IBM AIX etc.</p>
 
-                                    <h5>Why Oracle Projects at exoncorp?</h5>
-                                    <p class="text-muted">In Vellore we offer IEEE final year projects on oracle only at exoncorp IT Solutions. We offer the Latest of the IEEE projects which is very innovative and Impressive in the real time applications. Projects are fully supported by well detailed training classes and graphical Representations. In each and every modules are discussed and questions are raised to clear the every doubts for better review presentations. The latest news of the leading market surveys ranked us top on best project centre in Vellore. Our technical team provides continuous guidance till the end of your project. So, Utilize and grab this opportunity and endorse your skills to the corporate level.</p>
+                                    <h5>Why Oracle Projects at exincorp?</h5>
+                                    <p class="text-muted">In Vellore we offer IEEE final year projects on oracle only at exincorp IT Solutions. We offer the Latest of the IEEE projects which is very innovative and Impressive in the real time applications. Projects are fully supported by well detailed training classes and graphical Representations. In each and every modules are discussed and questions are raised to clear the every doubts for better review presentations. The latest news of the leading market surveys ranked us top on best project centre in Vellore. Our technical team provides continuous guidance till the end of your project. So, Utilize and grab this opportunity and endorse your skills to the corporate level.</p>
 
-                                    <h5>Oracle Projects ( Powered by exoncorp IT Solutions )</h5>
+                                    <h5>Oracle Projects ( Powered by exincorp IT Solutions )</h5>
                                     <h6>ORACLE 10g based DATABASE SECURITY</h6>
                                     <ul class="text-muted">
                                         <li>Fast-Geo: Efficient Geometric Range Queries on Encrypted Spatial Data (IEEE 2017).</li>
@@ -168,7 +168,7 @@
                             <h4 class="h2">Request a call back.</h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
                             <p class="mt-2 pt-2">
-                                <a href="http://exoncorpprojects.com/contact.php" class="btn btn-lg btn-secondary">Contact</a>
+                                <a href="http://exincorpprojects.com/contact.php" class="btn btn-lg btn-secondary">Contact</a>
                             </p>
                         </div>
                         <!-- /.col-md-4 -->

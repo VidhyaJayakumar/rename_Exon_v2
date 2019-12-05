@@ -10,7 +10,7 @@
 <!-- Head BEGIN -->
 <head>
   <meta charset="utf-8">
-   <title>IBM, IBM Server Dealers, IBM Servers, Chennai, India - exoncorp System Vellore | Kanchipuram | Gudiyatham | Chennai</title>
+   <title>IBM, IBM Server Dealers, IBM Servers, Chennai, India - exincorp System Vellore | Kanchipuram | Gudiyatham | Chennai</title>
 
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -118,11 +118,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>	
 
 <br>
-<p align="justify"> You can trust the experts at exoncorp Systems. We are not here to compete with you or take your clients, we are here for support. For peace of mind we even sign a NDA agreement and Non-Compete contract! We offer a white glove service and we can be counted on as among the best in the business.</p>
+<p align="justify"> You can trust the experts at exincorp Systems. We are not here to compete with you or take your clients, we are here for support. For peace of mind we even sign a NDA agreement and Non-Compete contract! We offer a white glove service and we can be counted on as among the best in the business.</p>
                               
 <blockquote>
 
-<p> If you're in over your head, call exoncorp Systems today.</p>
+<p> If you're in over your head, call exincorp Systems today.</p>
 </blockquote>
 
         </div></div></div></div></div></div></div></div>

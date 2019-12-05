@@ -61,7 +61,7 @@
                                 </div>
                                 <!-- /.col-md-8 -->
                                 <div class="col-md-12 col-lg-5">
-                                    <form action="//exoncorpprojects.us16.list-manage.com/subscribe/post?u=f53099965e2af4f43cdb48721&amp;id=e69046331b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-inline" target="_blank" novalidate>
+                                    <form action="//exincorpprojects.us16.list-manage.com/subscribe/post?u=f53099965e2af4f43cdb48721&amp;id=e69046331b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-inline" target="_blank" novalidate>
                                     	<label class="sr-only" for="email">Email</label>
                                     	<input type="email" class="form-control mr-2" name="EMAIL" id="mce-EMAIL" placeholder="Email Address">
 
@@ -108,7 +108,7 @@
                                     <p class="card-text">'Exoncorp - Projects' - consulting HTML template is the one place solution for all of your consulting business website. It works for any industry. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                                     <blockquote class="blockquote">
 										<p class="mb-0">One place solution for your consulting business website.</p>
-										<footer class="blockquote-footer">Contact Us on <cite title="Source Title">exoncorp Projects</cite></footer>
+										<footer class="blockquote-footer">Contact Us on <cite title="Source Title">exincorp Projects</cite></footer>
 									</blockquote>
 									<p class="card-text">We are continuously working on the template to make it better. We are adding new demos regularly. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 									<p class="card-text mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>

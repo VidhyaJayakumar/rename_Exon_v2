@@ -33,14 +33,14 @@ font-size: 14px;
                <div class="ten columns call">
 			    
                     <ul>
-					      <li><a target="_blank" href= "https://exoncorp.com/studios/analytics">Analytics</a></li>
+					      <li><a target="_blank" href= "https://exincorp.com/studios/analytics">Analytics</a></li>
 						  <li><a target="_blank" href= "https://www.redbacksms.com/" >Bulk SMS</a></li>
 					      <li><a target="_blank" href= "https://redback.app/index.php" >Softwares</a></li>
-						  <li> <a target="_blank" href="https://exoncorp.com/studios/website-design/">Website</a></li>
+						  <li> <a target="_blank" href="https://exincorp.com/studios/website-design/">Website</a></li>
 						 <li><a target="_blank" href= " http://redbackhosting.com/" >Hosting</a></li>
                          
-                         <li> <a target="_blank" href="https://exoncorp.com/studios/online-marketing/">Online Marketing</a></li>
-                         <li> <a target="_blank" href="https://exoncorp.com/studios/google/google-apps-for-work-vellore">Email & Office</a></li>
+                         <li> <a target="_blank" href="https://exincorp.com/studios/online-marketing/">Online Marketing</a></li>
+                         <li> <a target="_blank" href="https://exincorp.com/studios/google/google-apps-for-work-vellore">Email & Office</a></li>
                          <!-- <li><a target="_blank" href= " http://redbackhosting.com/" >Student GRP</a></li> -->
                        
 						<!-- <li> <a target="_self" href="http://photography.redbackstudios.in/">PHOTOGRAPHY</a></li>
@@ -81,6 +81,6 @@ font-size: 14px;
                     </form>
                     <a href="#menu" class="menu-trigger"><i class="icon-reorder"></i></a> <span class="search-trigger"><i class="icon-search"></i></span> </div>
                <div id="logo">
-                    <h1><a href="https://exoncorp.com/studios/"><img src="https://exoncorp.com/studios/images/logoe.png" alt="Redback" style="margin-right: 30px;" /></a></h1>
+                    <h1><a href="https://exincorp.com/studios/"><img src="https://exincorp.com/studios/images/logoe.png" alt="Redback" style="margin-right: 30px;" /></a></h1>
                </div>
           </div>

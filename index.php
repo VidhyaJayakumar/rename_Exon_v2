@@ -13,7 +13,7 @@
 
 <meta name="description" content="ExonCorp, Technology Solutions is a leading global Technology Solutions Provider company in vellore, providing IT services and solutions in Tamilnadu, vellore, India, training, ExonCorp Technology Solutions Company Vellore, Chennai, India, Analytics, Consulting, Consultancy, Cloud, cyber security, internet of things, block chain, digital opearations,infrastructure services, engineering, bigdata, iot, opensource, software, Technology, Sofware, Website, Digital,Training,Support company,IT Training, IT Services, Web Designing and Development company, Outsourcing Services, BPO, IT Infrastructure, Information Communication Technology Company, coworking space Business Consulting – IT companies in velloreconsulting, digital, technology, strategy and operations, web development, design.ExonCorp Solutions - IT Certifications in vellore, Comptia A+ N+ Training in vellore, RHCE Training in vellore, MCITP Training in vellore, CCNA Training in vellore, CEH Training in vellore, CISSP Training in vellore, IT Training in vellore, Computer Training Institute in vellore, Corporate Training in vellore, International certification in vellore.coworking space.">
 
-<meta name="keywords" content="ExonCorp Technology Solutions Company Vellore, Chennai, India, Analytics, Consulting, Consultancy, Cloud, cyber security, internet of things, block chain, digital opearations,infrastructure services, engineering, bigdata, iot, opensource, software, Technology, Sofware, Website, Digital,Training,Support company,IT Training, IT Services, Web Designing and Development company, Outsourcing Services, BPO, IT Infrastructure, Information Communication Technology Company, coworking space Business Consulting – IT companies in velloreIntership vellore, internships in vellore, projects in vellore, project vellore, project centers in vellore, ExonCorp academy, exoncorp studios, exoncorp council, exoncorp cloud, exoncorp consultancy, exoncorp systems, ExonCorp Solutions - IT company in vellore, Companies in Vellore, top it companies in vellore, Training in vellore, RHCE Training in vellore, MCITP Training in vellore, CCNA Training in vellore, CEH Training in vellore, CISSP Training in vellore, IT Training in vellore, Computer Training Institute in vellore, Corporate Training in vellore, Internaional certification in vellore ,coworking space in vellore">
+<meta name="keywords" content="ExonCorp Technology Solutions Company Vellore, Chennai, India, Analytics, Consulting, Consultancy, Cloud, cyber security, internet of things, block chain, digital opearations,infrastructure services, engineering, bigdata, iot, opensource, software, Technology, Sofware, Website, Digital,Training,Support company,IT Training, IT Services, Web Designing and Development company, Outsourcing Services, BPO, IT Infrastructure, Information Communication Technology Company, coworking space Business Consulting – IT companies in velloreIntership vellore, internships in vellore, projects in vellore, project vellore, project centers in vellore, ExonCorp academy, exincorp studios, exincorp council, exincorp cloud, exincorp consultancy, exincorp systems, ExonCorp Solutions - IT company in vellore, Companies in Vellore, top it companies in vellore, Training in vellore, RHCE Training in vellore, MCITP Training in vellore, CCNA Training in vellore, CEH Training in vellore, CISSP Training in vellore, IT Training in vellore, Computer Training Institute in vellore, Corporate Training in vellore, Internaional certification in vellore ,coworking space in vellore">
         
   <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P79ZLDK"
@@ -49,12 +49,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
  "@context" : "http://schema.org",
  "@type" : "Organization",
  "name" : "ExonCorp Technology Solutions",
- "url" : "https://exoncorp.com/",
+ "url" : "https://exincorp.com/",
  "sameAs" : [ 
- "https://www.facebook.com/exoncorp/",
- "https://twitter.com/exoncorp",
- "https://plus.google.com/+exoncorp"
- "https://www.instagram.com/exoncorp",
+ "https://www.facebook.com/exincorp/",
+ "https://twitter.com/exincorp",
+ "https://plus.google.com/+exincorp"
+ "https://www.instagram.com/exincorp",
    ]
  }
  </script>  -->
@@ -63,11 +63,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     "@context" : "http://schema.org",
                     "@type" : "Organization",
                     "name" : "ExonCorp Technology Solutions, Inc.",
-                    "url" : "http://exoncorp.com",
+                    "url" : "http://exincorp.com",
                     "sameAs" : 
 
-["https://www.facebook.com/exoncorp","https://twitter.com/exoncorp","https://www.youtube.com/+exoncorp","https://www.linkedin.com/company/exoncorp","https://plus.google.com/+exoncorp","http://instagram.com/exoncorp"],
-                    "logo": "http://exoncorp.com/logo.png",
+["https://www.facebook.com/exincorp","https://twitter.com/exincorp","https://www.youtube.com/+exincorp","https://www.linkedin.com/company/exincorp","https://plus.google.com/+exincorp","http://instagram.com/exincorp"],
+                    "logo": "http://exincorp.com/logo.png",
                     "legalName" : "ExonCorp Technology Solutions, Inc.",
                     "address":[
                     { "@type": "PostalAddress", "addressCountry": "India", "addressLocality": "Tamil nadu", "addressRegion": "Vellore", "postalCode": "632009", 
@@ -204,7 +204,7 @@ This website and the contents of these web pages are under construction. Also th
 <br><br>
 Our team members are continuously working online for  uploading our information which are relevant and necessary. 
 <br><br>
-Any clarifications arising out of the contents of the website may be referred to info@exoncorp.com / kindly contact for the further details 81899 40000. We are not responsible for any such contents in our webpage which may not be in accordance with the interest of others.
+Any clarifications arising out of the contents of the website may be referred to info@exincorp.com / kindly contact for the further details 81899 40000. We are not responsible for any such contents in our webpage which may not be in accordance with the interest of others.
 
 
 <br/>
@@ -263,8 +263,8 @@ Any clarifications arising out of the contents of the website may be referred to
                     data-start="2300">
                     <div class="slide-content-box mar-lft">
                         <div class="button">
-                            <a class="" href="http://exoncorp.com/company">Our Company</a>     
-                            <a class="btn-style-two" href="http://exoncorp.com/contact">Contact Us</a>     
+                            <a class="" href="http://exincorp.com/company">Our Company</a>     
+                            <a class="btn-style-two" href="http://exincorp.com/contact">Contact Us</a>     
                         </div>
                     </div>
                 </div>
@@ -313,8 +313,8 @@ Any clarifications arising out of the contents of the website may be referred to
                     data-start="2300">
                     <div class="slide-content-box middle-slide">
                         <div class="button">
-                            <a class="#" href="http://exoncorp.in/company">Our Company</a>
-                            <a class="btn-style-two" href="http://exoncorp.in/contact">Contact Us</a>           
+                            <a class="#" href="http://exincorp.in/company">Our Company</a>
+                            <a class="btn-style-two" href="http://exincorp.in/contact">Contact Us</a>           
                         </div>    
                     </div>
                 </div>
@@ -352,8 +352,8 @@ Any clarifications arising out of the contents of the website may be referred to
                     data-start="2300">
                     <div class="slide-content-box mar-lft">
                         <div class="button">
-                            <a class="" href="http://exoncorp.in/company">Our Company</a>     
-                            <a class="btn-style-two" href="http://exoncorp.in/contact">Contact Us</a>     
+                            <a class="" href="http://exincorp.in/company">Our Company</a>     
+                            <a class="btn-style-two" href="http://exincorp.in/contact">Contact Us</a>     
                         </div>
                     </div>
                 </div>
@@ -467,7 +467,7 @@ Any clarifications arising out of the contents of the website may be referred to
                             </div>
                             <div class="text-holder">
                                 <p>ExonCorp IT Academy specialize in offering various types of IT training and educational services which have helped IT professionals...</p>
-                                <a class="thm-btn bgclr-1" href="exoncorp-academy.php" target="_blank">Read More</a>
+                                <a class="thm-btn bgclr-1" href="exincorp-academy.php" target="_blank">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -481,7 +481,7 @@ Any clarifications arising out of the contents of the website may be referred to
                             </div>
                             <div class="text-holder">
                                 <p>ExonCorp Systems we know how essential IT is for your company, but we also know the stress that computers bring when they...</p>
-                                <a class="thm-btn bgclr-1" href="exoncorp-systems.php" target="_blank">Read More</a>
+                                <a class="thm-btn bgclr-1" href="exincorp-systems.php" target="_blank">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -495,7 +495,7 @@ Any clarifications arising out of the contents of the website may be referred to
                             </div>
                             <div class="text-holder">
                                 <p>ExonCorp Consulting: The goal of ExonCorp is to enable our clients in becoming more agile and competent through the innovative use...</p>
-                                <a class="thm-btn bgclr-1" href="exoncorp-consultancy.php" target="_blank">Read More</a>
+                                <a class="thm-btn bgclr-1" href="exincorp-consultancy.php" target="_blank">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -509,7 +509,7 @@ Any clarifications arising out of the contents of the website may be referred to
                             </div>
                             <div class="text-holder">
                                 <p>Digital Marketing Venture is full of inspired thinkers who stand up for progress by imagining a whole new world and...</p>
-                                <a class="thm-btn bgclr-1" href="exoncorp-digital-marketing.php" target="_blank">Read More</a>
+                                <a class="thm-btn bgclr-1" href="exincorp-digital-marketing.php" target="_blank">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -521,7 +521,7 @@ Any clarifications arising out of the contents of the website may be referred to
                             </div>
                             <div class="text-holder">
                                 <p>ExonCorp Law Associates services possesses a depth of experience and innovative expertise in the field of litigation...</p>
-                                <a class="thm-btn bgclr-1" href="exoncorp-law-firm.php" target="_blank">Read More</a>
+                                <a class="thm-btn bgclr-1" href="exincorp-law-firm.php" target="_blank">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -533,7 +533,7 @@ Any clarifications arising out of the contents of the website may be referred to
                             </div>
                             <div class="text-holder">
                                 <p>We are driven by our vision With over a decade of experience, companies from all over the world have partnered with us for their...</p>
-                                <a class="thm-btn bgclr-1" href="exoncorp-studios.php" target="_blank">Read More</a>
+                                <a class="thm-btn bgclr-1" href="exincorp-studios.php" target="_blank">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -545,7 +545,7 @@ Any clarifications arising out of the contents of the website may be referred to
                             </div>
                             <div class="text-holder">
                                 <p>ExonCorpcloud.com believes in your right to put your ideas online. That’s why all our hosting products, from single-page websites to...</p>
-                                <a class="thm-btn bgclr-1" href="exoncorp-cloud.php" target="_blank">Read More</a>
+                                <a class="thm-btn bgclr-1" href="exincorp-cloud.php" target="_blank">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -557,7 +557,7 @@ Any clarifications arising out of the contents of the website may be referred to
                             </div>
                             <div class="text-holder">
                                 <p>ExonCorp Softwares is a collection of energetic and lively bunch of professionals who make the company a trusted...</p>
-                                <a class="thm-btn bgclr-1" href="exoncorp-softwares.php" target="_blank">Read More</a>
+                                <a class="thm-btn bgclr-1" href="exincorp-softwares.php" target="_blank">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -569,7 +569,7 @@ Any clarifications arising out of the contents of the website may be referred to
                             </div>
                             <div class="text-holder">
                                 <p>ExonCorp Cyber Security Council will provide you with Awareness on Information Technology, Computer Cyber Security, Security Threats...</p>
-                                <a class="thm-btn bgclr-1" href="exoncorp-council.php" target="_blank">Read More</a>
+                                <a class="thm-btn bgclr-1" href="exincorp-council.php" target="_blank">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -593,7 +593,7 @@ Any clarifications arising out of the contents of the website may be referred to
                             </div>
                             <div class="text-holder">
                                 <p>ExonCorp Projects – the leading skill development company in vellore provides best in class career oriented & real time Final...</p>
-                                <a class="thm-btn bgclr-1" href="exoncorp-projects.php" target="_blank">Read More</a>
+                                <a class="thm-btn bgclr-1" href="exincorp-projects.php" target="_blank">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -629,7 +629,7 @@ Any clarifications arising out of the contents of the website may be referred to
                         <p>Who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain desires to obtain pain of itself, because it is pain, but because occur in which toil and pain.</p>
                     </div>
                     <div class="bottom">
-                        <a class="readmore thm-btn bgclr-1" href="http://exoncorp.in/about-us" target="_blank">About Us</a>
+                        <a class="readmore thm-btn bgclr-1" href="http://exincorp.in/about-us" target="_blank">About Us</a>
                         <div class="signature">
                             <img src="images/about/signature.png" alt="Signature">
                         </div>
@@ -705,7 +705,7 @@ Any clarifications arising out of the contents of the website may be referred to
                     <!--Start single item-->
                     <div class="single-item">
                         <div class="text-box">
-                            <p>For any kind of services, exoncorp IT SOLUTIONS is the best
+                            <p>For any kind of services, exincorp IT SOLUTIONS is the best
 option which gives great amount of satisfaction.</p>
                             <span class="border"></span>
                         </div>
@@ -761,7 +761,7 @@ option which gives great amount of satisfaction.</p>
                     </div>
                     <ul>
                         <li><span class="fa fa-phone"></span>Phone:  (+91) 81899 40000</li>
-                        <li><span class="fa fa-envelope"></span><a href="mailto:info@exoncorp.in">info@exoncorp.in</a></li>
+                        <li><span class="fa fa-envelope"></span><a href="mailto:info@exincorp.in">info@exincorp.in</a></li>
                         <li><span class="fa fa-clock-o"></span>Tamilnadu, India</li>
                     </ul>
                 </div>
@@ -840,18 +840,18 @@ option which gives great amount of satisfaction.</p>
                     </div>
                     <div class="text-holder">
                         <ul class="meta-info">
-                            <li><a href="http://exoncorp.in/blog">by Selva</a></li>
-                            <li><a href="http://exoncorp.in/blog">Marketing</a></li>
+                            <li><a href="http://exincorp.in/blog">by Selva</a></li>
+                            <li><a href="http://exincorp.in/blog">Marketing</a></li>
                         </ul>
-                        <a href="http://exoncorp.in/blog">
+                        <a href="http://exincorp.in/blog">
                             <h3 class="blog-title">Redesign Website</h3>
                         </a>
                         <div class="text">
-                            <p>Exon Corp Studios redesigned exoncorp website in professional manner and completed in three days.</p>
+                            <p>Exon Corp Studios redesigned exincorp website in professional manner and completed in three days.</p>
                         </div>
                         <div class="bottom">
                             <div class="left pull-left">
-                                <a href="http://exoncorp.in/blog">Read More</a>
+                                <a href="http://exincorp.in/blog">Read More</a>
                             </div>
                             <div class="right pull-right">
                                 <h5><span class="flaticon-interface"></span>15</h5>
@@ -869,7 +869,7 @@ option which gives great amount of satisfaction.</p>
                         <div class="overlay-style-one">
                             <div class="box">
                                 <div class="content">
-                                    <a href="http://exoncorp.in/blog"><i class="fa fa-link" aria-hidden="true"></i></a>
+                                    <a href="http://exincorp.in/blog"><i class="fa fa-link" aria-hidden="true"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -879,10 +879,10 @@ option which gives great amount of satisfaction.</p>
                     </div>
                     <div class="text-holder">
                         <ul class="meta-info">
-                            <li><a href="http://exoncorp.in/blog">by Sivapriya</a></li>
-                            <li><a href="http://exoncorp.in/blog">Marketing</a></li>
+                            <li><a href="http://exincorp.in/blog">by Sivapriya</a></li>
+                            <li><a href="http://exincorp.in/blog">Marketing</a></li>
                         </ul>
-                        <a href="http://exoncorp.in/blog">
+                        <a href="http://exincorp.in/blog">
                             <h3 class="blog-title">Hiring 2014 graduates</h3>
                         </a>
                         <div class="text">
@@ -890,7 +890,7 @@ option which gives great amount of satisfaction.</p>
                         </div>
                         <div class="bottom">
                             <div class="left pull-left">
-                                <a href="http://exoncorp.in/blog">Read More</a>
+                                <a href="http://exincorp.in/blog">Read More</a>
                             </div>
                             <div class="right pull-right">
                                 <h5><span class="flaticon-interface"></span>08</h5>
@@ -908,7 +908,7 @@ option which gives great amount of satisfaction.</p>
                         <div class="overlay-style-one">
                             <div class="box">
                                 <div class="content">
-                                    <a href="http://exoncorp.in/blog"><i class="fa fa-link" aria-hidden="true"></i></a>
+                                    <a href="http://exincorp.in/blog"><i class="fa fa-link" aria-hidden="true"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -918,10 +918,10 @@ option which gives great amount of satisfaction.</p>
                     </div>
                     <div class="text-holder">
                         <ul class="meta-info">
-                            <li><a href="http://exoncorp.in/blog">by Prabhu</a></li>
-                            <li><a href="http://exoncorp.in/blog">Marketing</a></li>
+                            <li><a href="http://exincorp.in/blog">by Prabhu</a></li>
+                            <li><a href="http://exincorp.in/blog">Marketing</a></li>
                         </ul>
-                        <a href="http://exoncorp.in/blog">
+                        <a href="http://exincorp.in/blog">
                             <h3 class="blog-title">Novell Partner</h3>
                         </a>
                         <div class="text">
@@ -929,7 +929,7 @@ option which gives great amount of satisfaction.</p>
                         </div>
                         <div class="bottom">
                             <div class="left pull-left">
-                                <a href="http://exoncorp.in/blog">Read More</a>
+                                <a href="http://exincorp.in/blog">Read More</a>
                             </div>
                             <div class="right pull-right">
                                 <h5><span class="flaticon-interface"></span>12</h5>

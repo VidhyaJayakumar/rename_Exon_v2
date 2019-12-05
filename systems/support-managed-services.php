@@ -9,12 +9,12 @@
 <!-- Head BEGIN -->
 <head>
   <meta charset="utf-8">
-   <title>Exoncorp Systems |computer dealers in vellore | computer sales and service in vellore | Server Rental and Services | CCTV Camera Sales and Services | Networking Problem | Data Recovery Problem | OS Installation | Basic Computer Software Installing | Computer Repair Services | Keyboard Sales and Services | Computer Parts Sales | Desktop Sales and Services | PC Support Software Install | Computer Networking Repair | Hardware Repair | Assembled System Sales | CPU Repair Services in Vellore | On Call Computer Repair Service Kanchipuram | Computer Service Center Chennai | UPS Sales Chennai | Moniter Sales Kanchipuram | Hardware Repair Sales Services - exoncorp System Vellore | Kanchipuram | Gudiyatham | Chennai</title>
+   <title>Exoncorp Systems |computer dealers in vellore | computer sales and service in vellore | Server Rental and Services | CCTV Camera Sales and Services | Networking Problem | Data Recovery Problem | OS Installation | Basic Computer Software Installing | Computer Repair Services | Keyboard Sales and Services | Computer Parts Sales | Desktop Sales and Services | PC Support Software Install | Computer Networking Repair | Hardware Repair | Assembled System Sales | CPU Repair Services in Vellore | On Call Computer Repair Service Kanchipuram | Computer Service Center Chennai | UPS Sales Chennai | Moniter Sales Kanchipuram | Hardware Repair Sales Services - exincorp System Vellore | Kanchipuram | Gudiyatham | Chennai</title>
 
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-  <meta content="Keywords" name="computer dealers in vellore,computer sales in vellore,cctv dealers in vellore,vellore computer accessories,computer shops in vellore,computer service center in vellore,computer service in vellore,computer sales and service in vellore,Computers & Accessories,Laptop Repair and Services,Sevice Engineer Vellore,computer accessories in vellore,Laptop Accessories in Vellore,exoncorp systems vellore,tamilnadu,Computer Accessories Sales Vellore, Global Computer Services in Kanchipuram, Computer Components Sales in Kanchipuram, Professional Computer Software Services Vellore, Desktop Rental Services Sales in Kanchipuram, Server Problem Gudiyatham, Hardisk Recovery in Vellore, MotherBoard Chip Level Service in Gudiyatham, Recovery Computer Repair in Vellore, Os installer in Kachipuram, Laptop Keyword Repair in Gudiyatham, Monitor Repair in Vellore, Computer Sales in Kanchipuram, Install Antivirus Vellore, Installing Basic Software in kanchipuram @ Vellore, Kanchipuram, Gudiyatham, Chennai">
+  <meta content="Keywords" name="computer dealers in vellore,computer sales in vellore,cctv dealers in vellore,vellore computer accessories,computer shops in vellore,computer service center in vellore,computer service in vellore,computer sales and service in vellore,Computers & Accessories,Laptop Repair and Services,Sevice Engineer Vellore,computer accessories in vellore,Laptop Accessories in Vellore,exincorp systems vellore,tamilnadu,Computer Accessories Sales Vellore, Global Computer Services in Kanchipuram, Computer Components Sales in Kanchipuram, Professional Computer Software Services Vellore, Desktop Rental Services Sales in Kanchipuram, Server Problem Gudiyatham, Hardisk Recovery in Vellore, MotherBoard Chip Level Service in Gudiyatham, Recovery Computer Repair in Vellore, Os installer in Kachipuram, Laptop Keyword Repair in Gudiyatham, Monitor Repair in Vellore, Computer Sales in Kanchipuram, Install Antivirus Vellore, Installing Basic Software in kanchipuram @ Vellore, Kanchipuram, Gudiyatham, Chennai">
   <meta content="Description" name="computer dealers in vellore , computer sales and service in vellore,Computer Stores in Gudiyatham, On Call Computer Service Vellore, Assembled System Sales Kanchipuram, Low Cost Computer Sales Gudiyatham, Desktop System Price List, Used Laptop Sales Vellore, Computer Dealers Kanchipuram, Second Hand Computer Sales Vellore, Computer Buying and Selling Kanchipuram, Laptop Screen Repair Gudiyatham, Computer Repair Store Vellore, Computer Services Company Kanchipuram, IT Computer Services Gudiyatham, Laptop Keyboard Repair Vellore, Desktop Computer Services Kachipuram, Computer Support Specialist Vellore @ Vellore, Kanchipuram, Gudiyatham, Chennai">
 <meta content='index, follow' name='robots'/>
   <!-- Fonts START -->
@@ -97,7 +97,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
               </div>
               </div>
                   <p align="justify">As a MSP ourselves we know how much pressure businesses like ours are under to provide the best possible services to clients. We set out to give our very best, but often clients may not understand the huge range of skill sets and expertise that Managed Service Providers need to have across a range of platforms.!</p>
-<p align="justify">Many MSPs are new start-ups or one man operations and when pressure builds it can be good to have another MSP to turn to; to let you know you’re heading in the right direction and who understands the issues you face. Often you’re just overwhelmed with work, or perhaps you don’t have the expertise in an area a client requires. Well, here’s how exoncorp Systems can help.</p>
+<p align="justify">Many MSPs are new start-ups or one man operations and when pressure builds it can be good to have another MSP to turn to; to let you know you’re heading in the right direction and who understands the issues you face. Often you’re just overwhelmed with work, or perhaps you don’t have the expertise in an area a client requires. Well, here’s how exincorp Systems can help.</p>
                    
 <div class="portlet-body">
      <div class="well">
@@ -113,11 +113,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>	
 
 <br>
-<p align="justify"> You can trust the experts at exoncorp Systems. We are not here to compete with you or take your clients, we are here for support. For peace of mind we even sign a NDA agreement and Non-Compete contract! We offer a white glove service and we can be counted on as among the best in the business.</p>
+<p align="justify"> You can trust the experts at exincorp Systems. We are not here to compete with you or take your clients, we are here for support. For peace of mind we even sign a NDA agreement and Non-Compete contract! We offer a white glove service and we can be counted on as among the best in the business.</p>
                               
 <blockquote>
 
-<p> If you're in over your head, call exoncorp Systems today.</p>
+<p> If you're in over your head, call exincorp Systems today.</p>
 </blockquote>
 
         </div></div></div></div></div></div></div></div>

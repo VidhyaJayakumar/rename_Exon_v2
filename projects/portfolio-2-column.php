@@ -43,7 +43,7 @@
                             <h2 class="page-title-heading white-text">Portfolio.</h2>
                             <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>
                             <p class="lead">
-                                <a href="exoncorp - Projects">Purchase Now</a>
+                                <a href="exincorp - Projects">Purchase Now</a>
                             </p>
                         </div>
                         <!-- /.inner page-title -->

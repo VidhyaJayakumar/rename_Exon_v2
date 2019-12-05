@@ -31,44 +31,44 @@ else
             <div class="col-md-12">
                 <div class="brand">
                     <!--Start single item-->
-                    <a class="tool_tip" title="Media Partner" href="http://exoncorp.com/partners.php">
+                    <a class="tool_tip" title="Media Partner" href="http://exincorp.com/partners.php">
                         <div class="single-item">
-                            <img src="http://exoncorp.com/images/brand/par1.png" alt="Awesome Brand Image">
+                            <img src="http://exincorp.com/images/brand/par1.png" alt="Awesome Brand Image">
                         </div>
                     </a>
                     <!--End single item-->
                     <!--Start single item-->
-                    <a class="tool_tip" title="Media Partner" href="http://exoncorp.com/partners.php">
+                    <a class="tool_tip" title="Media Partner" href="http://exincorp.com/partners.php">
                         <div class="single-item">
-                           <img src="http://exoncorp.com/images/brand/digital-marketing-venture.png" alt="Awesome Brand Image">
+                           <img src="http://exincorp.com/images/brand/digital-marketing-venture.png" alt="Awesome Brand Image">
                         </div>
                     </a>
                     <!--End single item-->
                     <!--Start single item-->
-                    <a class="tool_tip" title="Media Partner" href="http://exoncorp.com/partners.php">
+                    <a class="tool_tip" title="Media Partner" href="http://exincorp.com/partners.php">
                         <div class="single-item">
-                            <img src="http://exoncorp.com/images/brand/exoncorplogo.png" alt="Awesome Brand Image">
+                            <img src="http://exincorp.com/images/brand/exincorplogo.png" alt="Awesome Brand Image">
                         </div>
                     </a>
                     <!--End single item-->
                     <!--Start single item-->
-                    <a class="tool_tip" title="Media Partner" href="http://exoncorp.com/partners.php">
+                    <a class="tool_tip" title="Media Partner" href="http://exincorp.com/partners.php">
                         <div class="single-item" title="Media Partner">
-                            <img src="http://exoncorp.com/images/brand/seosearch.png" alt="Awesome Brand Image">
+                            <img src="http://exincorp.com/images/brand/seosearch.png" alt="Awesome Brand Image">
                         </div>
                     </a>
                     <!--End single item-->
                     <!--Start single item-->
-                    <a class="tool_tip" title="Media Partner" href="http://exoncorp.com/partners.php">
+                    <a class="tool_tip" title="Media Partner" href="http://exincorp.com/partners.php">
                         <div class="single-item">
-                            <img src="http://exoncorp.com/images/brand/mybusiness.png" alt="Awesome Brand Image">
+                            <img src="http://exincorp.com/images/brand/mybusiness.png" alt="Awesome Brand Image">
                         </div>
                     </a> 
                     <!--End single item-->
 					<!--Start single item-->
-                    <a class="tool_tip" title="Media Partner" href="http://exoncorp.com/partners.php">
+                    <a class="tool_tip" title="Media Partner" href="http://exincorp.com/partners.php">
                         <div class="single-item">
-                            <img src="http://exoncorp.com/images/brand/fixit.png" alt="Awesome Brand Image">
+                            <img src="http://exincorp.com/images/brand/fixit.png" alt="Awesome Brand Image">
                         </div>
                     </a> 
                     <!--End single item-->
@@ -87,7 +87,7 @@ else
                 <div class="single-footer-widget pd-bottom50">
                     <div class="footer-logo">
                         <a href="index.php">
-                            <img src="http://exoncorp.com/images/footer/logo.png"  alt="Awesome Footer Logo">
+                            <img src="http://exincorp.com/images/footer/logo.png"  alt="Awesome Footer Logo">
                         </a>
                     </div>
                     <div class="widget-content">
@@ -95,7 +95,7 @@ else
                         
                         <p style="tex-align:justify;"><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;no: 05 / x2 , Hari Om 2nd Street, PHASE-III, Sathuvachari, <br>Vellore - 632 009.</p>
                         <p><i class="fa fa-phone" aria-hidden="true"></i>&nbsp;+ 91 81899 40000</p>
-                        <p><i class="fa fa-globe" aria-hidden="true"></i>&nbsp;<a href="mailto:info@exoncorp.com"> info@exoncorp.com</a></p>
+                        <p><i class="fa fa-globe" aria-hidden="true"></i>&nbsp;<a href="mailto:info@exincorp.com"> info@exincorp.com</a></p>
                     </div>
                 </div>
 				
@@ -109,9 +109,9 @@ else
                         <span class="border"></span>
                     </div>
                     <ul class="footer-social-links">
-                        <li><a href="http://facebook.com/exoncorp"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="http://twitter.com/exoncorp"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="http://www.linkedin.com/company/exoncorp"><i class="fa fa-linkedin"></i></a></li>
+                        <li><a href="http://facebook.com/exincorp"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="http://twitter.com/exincorp"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="http://www.linkedin.com/company/exincorp"><i class="fa fa-linkedin"></i></a></li>
                         <li><a href="https://www.youtube.com/channel/UCbl2WL-AYnv0TCTAfKgfXjQ"><i class="fa fa-youtube"></i></a></li>
 						
                     </ul>
@@ -129,20 +129,20 @@ else
                     </div>
                     <ul class="usefull-links">
             
-                        <li><a href="http://exoncorp.com/team.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Meet Our Team</a></li>
+                        <li><a href="http://exincorp.com/team.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Meet Our Team</a></li>
                                         
-                                        <li><a href="http://exoncorp.com/"><i class="fa fa-angle-right" aria-hidden="true"></i>Testimonial</a></li>
-                                        <li><a href="http://exoncorp.com/company.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Company</a></li>
-<li><a href="http://exoncorp.com/careers.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Careers</a></li>
- <li><a href="http://exoncorp.com/events.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Events</a></li>  
+                                        <li><a href="http://exincorp.com/"><i class="fa fa-angle-right" aria-hidden="true"></i>Testimonial</a></li>
+                                        <li><a href="http://exincorp.com/company.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Company</a></li>
+<li><a href="http://exincorp.com/careers.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Careers</a></li>
+ <li><a href="http://exincorp.com/events.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Events</a></li>  
 								   
 								   
 								          
-								          <li><a href="http://exoncorp.com/news.php"><i class="fa fa-angle-right" aria-hidden="true"></i>News</a></li>
+								          <li><a href="http://exincorp.com/news.php"><i class="fa fa-angle-right" aria-hidden="true"></i>News</a></li>
 								         
-                                          <li><a href="http://exoncorp.com/startup-workspace-connect.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Startup business</a></li>
-										  <li><a href="http://exoncorp.com/faq.php"><i class="fa fa-angle-right" aria-hidden="true"></i>FAQ</a></li>
-                                          <li><a href="http://exoncorp.com/sitemap.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Sitemap</a></li>
+                                          <li><a href="http://exincorp.com/startup-workspace-connect.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Startup business</a></li>
+										  <li><a href="http://exincorp.com/faq.php"><i class="fa fa-angle-right" aria-hidden="true"></i>FAQ</a></li>
+                                          <li><a href="http://exincorp.com/sitemap.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Sitemap</a></li>
 
                                                              </ul>
                 </div>
@@ -155,10 +155,10 @@ else
                         <h3>Latest News</h3>
                         <span class="border"></span>
                     </div>
-                   <!--<a class="twitter-timeline" href="https://twitter.com/exoncorp" data-tweet-limit="1" data-theme="dark" data-link-color="#0B96BE" data-widget-id="668771404980994048" data-chrome="noheader nofooter noscrollbar noborders transparent">Loading tweets by @exoncorp ...</a>-->
-				   <a class="twitter-timeline" data-tweet-limit="5" data-theme="dark" data-link-color="#0B96BE"   data-chrome="noheader nofooter noscrollbar noborders transparent href="https://twitter.com/exoncorp?ref_src=twsrc%5Etfw">Tweets by exoncorp</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                   <!--<a class="twitter-timeline" href="https://twitter.com/exincorp" data-tweet-limit="1" data-theme="dark" data-link-color="#0B96BE" data-widget-id="668771404980994048" data-chrome="noheader nofooter noscrollbar noborders transparent">Loading tweets by @exincorp ...</a>-->
+				   <a class="twitter-timeline" data-tweet-limit="5" data-theme="dark" data-link-color="#0B96BE"   data-chrome="noheader nofooter noscrollbar noborders transparent href="https://twitter.com/exincorp?ref_src=twsrc%5Etfw">Tweets by exincorp</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
                                <div class="latest-more-news">
-                        <a href="https://twitter.com/exoncorp" target="_blank">More News<i class="fa fa-caret-right" aria-hidden="true"></i></a>
+                        <a href="https://twitter.com/exincorp" target="_blank">More News<i class="fa fa-caret-right" aria-hidden="true"></i></a>
                     </div>
                 </div>
             </div>
@@ -172,7 +172,7 @@ else
                     </div>
                     <div class="newsletter-box">
                         <p>Sign up today for hints, tips and the latest product news</p>
-                        <form class="newsletter-form" action="https://exoncorp.us19.list-manage.com/subscribe/post?u=2b2c395eb4f966f7df24b76b3&amp;id=e71c67ecd0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate"  novalidate>
+                        <form class="newsletter-form" action="https://exincorp.us19.list-manage.com/subscribe/post?u=2b2c395eb4f966f7df24b76b3&amp;id=e71c67ecd0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate"  novalidate>
                             <input type="text" placeholder="Type your E-mail address..." name="EMAIL" id="mce-EMAIL">
                             <button type="submit"><i class="fa fa-paper-plane" aria-hidden="true"></i></button>
                             <div class="envelope">
@@ -196,10 +196,10 @@ else
 #flickr_badge_wrapper {width:300px;text-align:left}
 </style><div id="flickr_badge_wrapper"><script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=8&display=random&size=s&layout=x&source=user&user=142147594@N03"></script></div>
                   <!--  <ul class="footer-social-links">
-                        <li><a href="https://www.facebook.com/exoncorp.com"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="https://www.facebook.com/exincorp.com"><i class="fa fa-facebook"></i></a></li>
                         <li><a href="https://twitter.com/redbackindia"><i class="fa fa-twitter"></i></a></li>
                         <li><a href="https://plus.google.com/106304209575651338346"><i class="fa fa-google-plus"></i></a></li>
-                        <li><a href="https://www.linkedin.com/authwall?trk=gf&trkInfo=AQHosA4hyU6w9gAAAV2OE68oj-mld2Wvxlg7-auH8chDwgaKX560mcyexRcCxuuBjc46kS_0GAs_h3wqBkdSBM_edxbx0Zxf1NiZB_Vnp3792CSCtRbK7iv-x3FM9XFBI8Nmsf0=&originalReferer=http://exoncorp.com/about-us&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fredback-it-solutions-pvt-ltd"><i class="fa fa-linkedin"></i></a></li>
+                        <li><a href="https://www.linkedin.com/authwall?trk=gf&trkInfo=AQHosA4hyU6w9gAAAV2OE68oj-mld2Wvxlg7-auH8chDwgaKX560mcyexRcCxuuBjc46kS_0GAs_h3wqBkdSBM_edxbx0Zxf1NiZB_Vnp3792CSCtRbK7iv-x3FM9XFBI8Nmsf0=&originalReferer=http://exincorp.com/about-us&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fredback-it-solutions-pvt-ltd"><i class="fa fa-linkedin"></i></a></li>
                         <li><a href="https://www.youtube.com/channel/UCOa-UtzHSPRLDGN6JqObaYA"><i class="fa fa-youtube"></i></a></li>
                     </ul> -->
                 </div>
@@ -217,18 +217,18 @@ else
         <div class="row">
             <div class="col-md-6">
                 <div class="copyright-text">
-                    <p>Copyrights © <?php echo date("Y");?> EXONCORP All Rights Reserved, Powered by <a href="http://exoncorp.com/" target="_blank">ExonCorp</a></p> 
+                    <p>Copyrights © <?php echo date("Y");?> EXONCORP All Rights Reserved, Powered by <a href="http://exincorp.com/" target="_blank">ExonCorp</a></p> 
                 </div>
             </div>
             <div class="col-md-6">
                 <ul class="footer-menu">
-                   <!--  <li><a href="http://exoncorp.com/company.php">Company</a></li> -->
-                    <!-- <li><a href="http://exoncorp.com/sitemap.php">Sitemap</a></li> -->
-                      <li><a href="http://exoncorp.com/privacy-policy.php">Privacy-Policy</a></li>
-                     <li><a href="http://exoncorp.com/terms-and-conditions.php">Terms and Conditions</a></li>
-                       <li><a href="http://exoncorp.com/refund-policy.php">Refund-Policy</a></li>
+                   <!--  <li><a href="http://exincorp.com/company.php">Company</a></li> -->
+                    <!-- <li><a href="http://exincorp.com/sitemap.php">Sitemap</a></li> -->
+                      <li><a href="http://exincorp.com/privacy-policy.php">Privacy-Policy</a></li>
+                     <li><a href="http://exincorp.com/terms-and-conditions.php">Terms and Conditions</a></li>
+                       <li><a href="http://exincorp.com/refund-policy.php">Refund-Policy</a></li>
                   
-                    <li><a href="http://exoncorp.com/disclaimer.php">Disclaimer</a></li>
+                    <li><a href="http://exincorp.com/disclaimer.php">Disclaimer</a></li>
                 </ul>
             </div>
         </div>
@@ -360,9 +360,9 @@ bold;font-size: 16px;color: #a3750d;cursor: pointer;"><a href="tel:8189985559" s
 <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-chevron-circle-up"></span></div>
 
 <!-- main jQuery -->
-<script src="http://exoncorp.com/js/jquery-1.12.4.min.js"></script>
+<script src="http://exincorp.com/js/jquery-1.12.4.min.js"></script>
 
-<script src="http://exoncorp.com/js/pagination.js"></script>
+<script src="http://exincorp.com/js/pagination.js"></script>
 
 <script>
 $(document).ready(function()
@@ -377,59 +377,59 @@ $(document).ready(function()
 });
 </script>
 <!-- Wow Script -->
-<script src="http://exoncorp.com/js/wow.js"></script>
+<script src="http://exincorp.com/js/wow.js"></script>
 <!-- bootstrap -->
-<script src="http://exoncorp.com/js/bootstrap.min.js"></script>
+<script src="http://exincorp.com/js/bootstrap.min.js"></script>
 <!-- bx slider -->
-<script src="http://exoncorp.com/js/jquery.bxslider.min.js"></script>
+<script src="http://exincorp.com/js/jquery.bxslider.min.js"></script>
 <!-- count to -->
-<script src="http://exoncorp.com/js/jquery.countTo.js"></script>
+<script src="http://exincorp.com/js/jquery.countTo.js"></script>
 <!-- owl carousel -->
-<script src="http://exoncorp.com/js/owl.carousel.min.js"></script>
+<script src="http://exincorp.com/js/owl.carousel.min.js"></script>
 <!-- validate -->
-<script src="http://exoncorp.com/js/validation.js"></script>
+<script src="http://exincorp.com/js/validation.js"></script>
 <!-- mixit up -->
-<script src="http://exoncorp.com/js/jquery.mixitup.min.js"></script>
+<script src="http://exincorp.com/js/jquery.mixitup.min.js"></script>
 <!-- easing -->
-<script src="http://exoncorp.com/js/jquery.easing.min.js"></script>
+<script src="http://exincorp.com/js/jquery.easing.min.js"></script>
 <!-- gmap helper -->
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBE3hydzr9z1isVfQaclf-Z2oEW385QsFQ"></script>
 <!--gmap script-->
-<script src="http://exoncorp.com/js/gmaps.js"></script>
-<script src="http://exoncorp.com/js/map-helper.js"></script>
+<script src="http://exincorp.com/js/gmaps.js"></script>
+<script src="http://exincorp.com/js/map-helper.js"></script>
 <!-- fancy box -->
-<script src="http://exoncorp.com/js/jquery.fancybox.pack.js"></script>
-<script src="http://exoncorp.com/js/jquery.appear.js"></script>
+<script src="http://exincorp.com/js/jquery.fancybox.pack.js"></script>
+<script src="http://exincorp.com/js/jquery.appear.js"></script>
 <!-- isotope script-->
-<script src="http://exoncorp.com/js/isotope.js"></script>
-<script src="http://exoncorp.com/js/jquery.prettyPhoto.js"></script> 
-<script src="http://exoncorp.com/js/jquery.bootstrap-touchspin.js"></script>
+<script src="http://exincorp.com/js/isotope.js"></script>
+<script src="http://exincorp.com/js/jquery.prettyPhoto.js"></script> 
+<script src="http://exincorp.com/js/jquery.bootstrap-touchspin.js"></script>
 <!-- jQuery timepicker js -->
-<script src="http://exoncorp.com/assets/timepicker/timePicker.js"></script>
+<script src="http://exincorp.com/assets/timepicker/timePicker.js"></script>
 <!-- Bootstrap select picker js -->
-<script src="http://exoncorp.com/assets/bootstrap-sl-1.12.1/bootstrap-select.js"></script>                               
+<script src="http://exincorp.com/assets/bootstrap-sl-1.12.1/bootstrap-select.js"></script>                               
 <!-- Bootstrap bootstrap touchspin js -->
 <!-- jQuery ui js -->
-<script src="http://exoncorp.com/assets/jquery-ui-1.11.4/jquery-ui.js"></script>
+<script src="http://exincorp.com/assets/jquery-ui-1.11.4/jquery-ui.js"></script>
 <!-- Language Switche  -->
-<script src="http://exoncorp.com/assets/language-switcher/jquery.polyglot.language.switcher.js"></script>
+<script src="http://exincorp.com/assets/language-switcher/jquery.polyglot.language.switcher.js"></script>
 <!-- Html 5 light box script-->
-<script src="http://exoncorp.com/assets/html5lightbox/html5lightbox.js"></script>
+<script src="http://exincorp.com/assets/html5lightbox/html5lightbox.js"></script>
 
 
 <!-- revolution slider js -->
-<script src="http://exoncorp.com/assets/revolution/js/jquery.themepunch.tools.min.js"></script>
-<script src="http://exoncorp.com/assets/revolution/js/jquery.themepunch.revolution.min.js"></script>
-<script src="http://exoncorp.com/assets/revolution/js/extensions/revolution.extension.actions.min.js"></script>
-<script src="http://exoncorp.com/assets/revolution/js/extensions/revolution.extension.carousel.min.js"></script>
-<script src="http://exoncorp.com/assets/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
-<script src="http://exoncorp.com/assets/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
-<script src="http://exoncorp.com/assets/revolution/js/extensions/revolution.extension.migration.min.js"></script>
-<script src="http://exoncorp.com/assets/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
-<script src="http://exoncorp.com/assets/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
-<script src="http://exoncorp.com/assets/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
-<script src="http://exoncorp.com/assets/revolution/js/extensions/revolution.extension.video.min.js"></script>
-<script type="http://exoncorp.com/assets/revolution/js/extensions/countdown.js"></script>
+<script src="http://exincorp.com/assets/revolution/js/jquery.themepunch.tools.min.js"></script>
+<script src="http://exincorp.com/assets/revolution/js/jquery.themepunch.revolution.min.js"></script>
+<script src="http://exincorp.com/assets/revolution/js/extensions/revolution.extension.actions.min.js"></script>
+<script src="http://exincorp.com/assets/revolution/js/extensions/revolution.extension.carousel.min.js"></script>
+<script src="http://exincorp.com/assets/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
+<script src="http://exincorp.com/assets/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
+<script src="http://exincorp.com/assets/revolution/js/extensions/revolution.extension.migration.min.js"></script>
+<script src="http://exincorp.com/assets/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
+<script src="http://exincorp.com/assets/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
+<script src="http://exincorp.com/assets/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
+<script src="http://exincorp.com/assets/revolution/js/extensions/revolution.extension.video.min.js"></script>
+<script type="http://exincorp.com/assets/revolution/js/extensions/countdown.js"></script>
 
 <script>
 
@@ -443,7 +443,7 @@ $(".sticky-btn").click(function(){
 </script>
 
 <!-- thm custom script -->
-<script src="http://exoncorp.com/js/custom.js"></script>
+<script src="http://exincorp.com/js/custom.js"></script>
 
 
  

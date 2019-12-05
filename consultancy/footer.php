@@ -60,7 +60,7 @@
   <div>
           
             <div><div class="footer-info">
-<p class="footer-logo"><img alt="Footer Logo" data-entity-type="file" data-entity-uuid="67385682-824b-4a78-85e6-9524e23fdf27" src="http:exoncorp.com/consultancy/logof.png" /></p><p class="description">Exoncorp Consultancy is recogonized in the areas of 
+<p class="footer-logo"><img alt="Footer Logo" data-entity-type="file" data-entity-uuid="67385682-824b-4a78-85e6-9524e23fdf27" src="http:exincorp.com/consultancy/logof.png" /></p><p class="description">Exoncorp Consultancy is recogonized in the areas of 
 Business, IT , Technology, Legal, Education, Seo, Digital,and Marketing Consulting.</p>
 
 <p class="phone"><i class="inv-icon fa fa-phone"></i>+91 81899 85559, <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+91 81899 85552  <span>   &nbsp;&nbsp;<a href="mailto:hr@Exoncorps.in">hr@Exoncorps.in</a></span></p>
@@ -102,11 +102,11 @@ Business, IT , Technology, Legal, Education, Seo, Digital,and Marketing Consulti
         
   <div>
           
-            <div><ul class="ourservices"><li><a href="http:exoncorp.com/consultancy/services/business-consulting.php">Business Consulting</a></li>
-	<li><a href="http:exoncorp.com/consultancy/services/technolgy-consultant.php">Technology Consulting</a></li>
-	<li><a href="http:exoncorp.com/consultancy/services/legal-consulting.php">Legal Consulting</a></li>
-	<li><a href="http:exoncorp.com/consultancy/services/marketing-consultant.php">Marketing Consulting</a></li>
-	<li><a href="http:exoncorp.com/consultancy/services/IT-Consulting.php">IT Consulting </a></li>
+            <div><ul class="ourservices"><li><a href="http:exincorp.com/consultancy/services/business-consulting.php">Business Consulting</a></li>
+	<li><a href="http:exincorp.com/consultancy/services/technolgy-consultant.php">Technology Consulting</a></li>
+	<li><a href="http:exincorp.com/consultancy/services/legal-consulting.php">Legal Consulting</a></li>
+	<li><a href="http:exincorp.com/consultancy/services/marketing-consultant.php">Marketing Consulting</a></li>
+	<li><a href="http:exincorp.com/consultancy/services/IT-Consulting.php">IT Consulting </a></li>
 </ul></div>
       
       </div>

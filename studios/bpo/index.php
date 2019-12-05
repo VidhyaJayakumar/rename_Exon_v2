@@ -16,18 +16,18 @@
 
 <!-- Favicon
     ============================================== -->
-<link rel="icon" href="https://exoncorp.com/studios/images/redbackstudios.ico">
+<link rel="icon" href="https://exincorp.com/studios/images/redbackstudios.ico">
 <!-- Mobile Specific
 ================================================== -->
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <!-- CSS
 ================================================== -->
-<link rel="stylesheet" type="text/css" href="https://exoncorp.com/studios/css/style.css">
-<link rel="stylesheet" type="text/css" href="https://exoncorp.com/studios/scripts/rs-plugin/css/settings.css">
-<link rel="stylesheet" type="text/css" href="https://exoncorp.com/studios/css/colors/grayblue.css" id="colors">
-<link rel="stylesheet" type="text/css" href="https://exoncorp.com/studios/css/animate.css">
-<link rel="stylesheet" type="text/css" href="https://exoncorp.com/studios/css/camera.css" id='camera-css'>
-<link rel="stylesheet" type="text/css" href="https://exoncorp.com/studios/css/switcher.css" >
+<link rel="stylesheet" type="text/css" href="https://exincorp.com/studios/css/style.css">
+<link rel="stylesheet" type="text/css" href="https://exincorp.com/studios/scripts/rs-plugin/css/settings.css">
+<link rel="stylesheet" type="text/css" href="https://exincorp.com/studios/css/colors/grayblue.css" id="colors">
+<link rel="stylesheet" type="text/css" href="https://exincorp.com/studios/css/animate.css">
+<link rel="stylesheet" type="text/css" href="https://exincorp.com/studios/css/camera.css" id='camera-css'>
+<link rel="stylesheet" type="text/css" href="https://exincorp.com/studios/css/switcher.css" >
 
 
 </head>
@@ -86,9 +86,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                <div class="eight columns">
                     <nav id="breadcrumbs">
                          <ul>
-                     <li><a href="https://exoncorp.com/studios/" title="website Company in vellore">Home</a></li>
-                             <li><a href="https://exoncorp.com/studios/website-development/" title="Website Designing in vellroe">Website</a></li>
-                              <li><a href="https://exoncorp.com/studios/BPO/" title="Website Designing in vellroe">BPO Services</a></li>
+                     <li><a href="https://exincorp.com/studios/" title="website Company in vellore">Home</a></li>
+                             <li><a href="https://exincorp.com/studios/website-development/" title="Website Designing in vellroe">Website</a></li>
+                              <li><a href="https://exincorp.com/studios/BPO/" title="Website Designing in vellroe">BPO Services</a></li>
                          </ul>
                     </nav>
                </div> 
@@ -106,7 +106,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                <p align="justify"> <span class="dropcap">E</span>on Corp IT Solutions &nbsp;offers an extensive range of solutions
 which helps the clients to implement the best practices in the industry. We Provide Voice-Process, Non-voice Process, Data Conversion, Lead Management, Offshore Marketing. etc., </p>
                <hr class="sep20">
-               <p><img class="image-left pic" src="https://exoncorp.com/studios/images/bpo-service.jpg" style="width: 100%; height:350px" alt="" /></p>
+               <p><img class="image-left pic" src="https://exincorp.com/studios/images/bpo-service.jpg" style="width: 100%; height:350px" alt="" /></p>
                <p align="justify"><strong>XML data conversion</strong><br>
 
 XML Conversion is the process of converting data from a specific format into an XML format. This is achieved by using some of the rules specified by the XML language. Converting data into XML makes the data more presentable and user friendly. The data is changed into XML making it highly reusable and also enabling a more efficient information delivery system.	
@@ -173,13 +173,13 @@ HTML can come in handy, when your customers visit your website and get informati
                          <div class="overflowholder">
                               <ul>
                                   
-                                   <li data-animated="fadeInUp"><img src="https://exoncorp.com/studios/images/partners/logo-01.png" alt="" /></li>
-                                   <li data-animated="fadeInDown"><img src="https://exoncorp.com/studios/images/partners/logo-02.png" alt="" /></li>
-                                   <li data-animated="fadeInUp"><img src="https://exoncorp.com/studios/images/partners/logo-03.png" alt="" /></li>
-                                   <li data-animated="fadeInDown"><img src="https://exoncorp.com/studios/images/partners/logo-04.png" alt="" /></li>
-                                   <li data-animated="fadeInUp"><img src="https://exoncorp.com/studios/images/partners/logo-05.png" alt="" /></li>
-                                   <li data-animated="fadeInDown"><img src="https://exoncorp.com/studios/images/partners/logo-06.png" alt="" /></li>
-                                   <li data-animated="fadeInUp"><img src="https://exoncorp.com/studios/images/partners/logo-07.png" alt="" /></li>
+                                   <li data-animated="fadeInUp"><img src="https://exincorp.com/studios/images/partners/logo-01.png" alt="" /></li>
+                                   <li data-animated="fadeInDown"><img src="https://exincorp.com/studios/images/partners/logo-02.png" alt="" /></li>
+                                   <li data-animated="fadeInUp"><img src="https://exincorp.com/studios/images/partners/logo-03.png" alt="" /></li>
+                                   <li data-animated="fadeInDown"><img src="https://exincorp.com/studios/images/partners/logo-04.png" alt="" /></li>
+                                   <li data-animated="fadeInUp"><img src="https://exincorp.com/studios/images/partners/logo-05.png" alt="" /></li>
+                                   <li data-animated="fadeInDown"><img src="https://exincorp.com/studios/images/partners/logo-06.png" alt="" /></li>
+                                   <li data-animated="fadeInUp"><img src="https://exincorp.com/studios/images/partners/logo-07.png" alt="" /></li>
                               </ul>
                               <div class="clearfix"></div>
                          </div>
@@ -200,25 +200,25 @@ HTML can come in handy, when your customers visit your website and get informati
 ================================================== -->
 <?php include_once("../fmenu.php") ?>
 <!-- Footer Bottom / Start -->
-<script src="https://exoncorp.com/studios/scripts/jquery.min.js"></script>
-<script src="https://exoncorp.com/studios/scripts/jquery.themepunch.plugins.min.js"></script>
-<script src="https://exoncorp.com/studios/scripts/jquery.themepunch.revolution.min.js"></script>
-<script src="https://exoncorp.com/studios/scripts/jquery.themepunch.showbizpro.min.js"></script>
-<script src="https://exoncorp.com/studios/scripts/appear.js"></script>
-<script src="https://exoncorp.com/studios/scripts/jquery.easing.min.js"></script>
-<script src="https://exoncorp.com/studios/scripts/jquery.tooltips.min.js"></script>
-<script src="https://exoncorp.com/studios/scripts/jquery.magnific-popup.min.js"></script>
-<script src="https://exoncorp.com/studios/scripts/jquery.superfish.js"></script>
-<script src="https://exoncorp.com/studios/scripts/jquery.twitter.js"></script>
-<script src="https://exoncorp.com/studios/scripts/jquery.flexslider.js"></script>
-<script src="https://exoncorp.com/studios/scripts/jquery.jpanelmenu.js"></script>
-<script src="https://exoncorp.com/studios/scripts/jquery.zflickrfeed.min.js"></script>
-<script src="https://exoncorp.com/studios/scripts/jquery.contact.js"></script>
-<script src="https://exoncorp.com/studios/scripts/jquery.isotope.min.js"></script>
-<script src="https://exoncorp.com/studios/scripts/jquery.easy-pie-chart.js"></script>
-<script src="https://exoncorp.com/studios/scripts/parallex.js"></script>
-<script src="https://exoncorp.com/studios/scripts/ss-gizmo.js"></script>
-<script src="https://exoncorp.com/studios/scripts/custom.js"></script>
+<script src="https://exincorp.com/studios/scripts/jquery.min.js"></script>
+<script src="https://exincorp.com/studios/scripts/jquery.themepunch.plugins.min.js"></script>
+<script src="https://exincorp.com/studios/scripts/jquery.themepunch.revolution.min.js"></script>
+<script src="https://exincorp.com/studios/scripts/jquery.themepunch.showbizpro.min.js"></script>
+<script src="https://exincorp.com/studios/scripts/appear.js"></script>
+<script src="https://exincorp.com/studios/scripts/jquery.easing.min.js"></script>
+<script src="https://exincorp.com/studios/scripts/jquery.tooltips.min.js"></script>
+<script src="https://exincorp.com/studios/scripts/jquery.magnific-popup.min.js"></script>
+<script src="https://exincorp.com/studios/scripts/jquery.superfish.js"></script>
+<script src="https://exincorp.com/studios/scripts/jquery.twitter.js"></script>
+<script src="https://exincorp.com/studios/scripts/jquery.flexslider.js"></script>
+<script src="https://exincorp.com/studios/scripts/jquery.jpanelmenu.js"></script>
+<script src="https://exincorp.com/studios/scripts/jquery.zflickrfeed.min.js"></script>
+<script src="https://exincorp.com/studios/scripts/jquery.contact.js"></script>
+<script src="https://exincorp.com/studios/scripts/jquery.isotope.min.js"></script>
+<script src="https://exincorp.com/studios/scripts/jquery.easy-pie-chart.js"></script>
+<script src="https://exincorp.com/studios/scripts/parallex.js"></script>
+<script src="https://exincorp.com/studios/scripts/ss-gizmo.js"></script>
+<script src="https://exincorp.com/studios/scripts/custom.js"></script>
  
  <script type="text/javascript">
 function clickIE() {if (document.all) {(message);return false;}}

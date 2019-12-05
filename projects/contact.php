@@ -81,7 +81,7 @@ webengage.init("d3a4ac24");
 									<h4 class="card-title">Get in Touch:</h4>
 									<h6 class="card-subtitle mb-2 text-muted mb-4">A Best Project Center that you will ever need!</h6>
 
-									<p class="card-text" style="text-align:justify;">'Exoncorp - Projects is a leading IT and Language training centre providing full-suite of trainings and placement services for freshers seeking a new career and professionals looking for career advancement. exoncorp Projects  is mastered and administrated by highly skilled industry experts with more than 10 years of IT experience. exoncorp Projects  has a team of highly skilled professional trainers delivering proficient IT training in an affable environment, focusing on the individuals needs to enable them excel in the challenging professional environment. Our team never leaves any page unturned in the book of career and success.</p>
+									<p class="card-text" style="text-align:justify;">'Exoncorp - Projects is a leading IT and Language training centre providing full-suite of trainings and placement services for freshers seeking a new career and professionals looking for career advancement. exincorp Projects  is mastered and administrated by highly skilled industry experts with more than 10 years of IT experience. exincorp Projects  has a team of highly skilled professional trainers delivering proficient IT training in an affable environment, focusing on the individuals needs to enable them excel in the challenging professional environment. Our team never leaves any page unturned in the book of career and success.</p>
 
                                     <form class="row" action="email.php"  method="post">
                                         <div class="col-md-6">
@@ -114,7 +114,7 @@ webengage.init("d3a4ac24");
                                     <div class="row mt-4">
                                         <div class="col-md-6 mb-20">
                                             <div class="map-wrapper">
-                                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.505559490861!2d79.1663753141183!3d12.939468890876972!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bad3870ea3dbbc5%3A0x152c56c8d2417a96!2sexoncorp+IT+Solutions+Private+Limited!5e0!3m2!1sen!2sin!4v1500728231484" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.505559490861!2d79.1663753141183!3d12.939468890876972!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bad3870ea3dbbc5%3A0x152c56c8d2417a96!2sexincorp+IT+Solutions+Private+Limited!5e0!3m2!1sen!2sin!4v1500728231484" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                                             </div>
                                             <!-- /.map-wrapper -->
                                         </div>
@@ -128,7 +128,7 @@ webengage.init("d3a4ac24");
                 								<div class="card-block">
                                                     <h5>Address:</h5>
                                                     <address class="text-muted">
-                                                        <strong>exoncorp RESEARCH & DEVELOPMENT </strong><br>
+                                                        <strong>exincorp RESEARCH & DEVELOPMENT </strong><br>
                                                          No: 05 / x2 , Hari Om 2nd Street,<br>
                                                         Phase 3, Sathuvachari, Vellore,<br>
                                                         Tamil Nadu 632009<br>
@@ -137,8 +137,8 @@ webengage.init("d3a4ac24");
                                                     </address>
 
                                                     <address>
-                                                        <strong>exoncorp PROJECTS</strong><br>
-                                                        <a href="mailto:exoncorpprojects@gmail.com">exoncorpprojects@gmail.com</a>
+                                                        <strong>exincorp PROJECTS</strong><br>
+                                                        <a href="mailto:exincorpprojects@gmail.com">exincorpprojects@gmail.com</a>
                                                     </address>
 
                                                     <a href="https://www.facebook.com" target="_blank"><i class="icon ion-social-facebook mr-4 gray-text h3"></i></a>
@@ -200,7 +200,7 @@ webengage.init("d3a4ac24");
 	                    <div class="row justify-content-md-center mb-4">
 	                        <div class="col-md-6 text-center">
 	                            <h3 class="white-text">Feedback</h3>
-	                            <p class="lead light-white-text">exoncorp-Projects offers 100% practical and placement oriented training that assist students to gain industry exposure.</p>
+	                            <p class="lead light-white-text">exincorp-Projects offers 100% practical and placement oriented training that assist students to gain industry exposure.</p>
 	                        </div>
 	                    </div>
 	                    <!-- /.row -->
@@ -211,7 +211,7 @@ webengage.init("d3a4ac24");
 	                    	        <img src="images/testimonial-1.jpg" alt="John Doe Testimonial" class="testimonials-design">
 	                                <h5 class="mt-10"><a href="#" class="white-text">John Doe</a></h5>
 	                                <h6 class="m-10 light-white-text"><small>Android Trainee</small></h6>
-	                                <p class="light-white-text">exoncorp offered quality training to me catering the Industry requirements</p>
+	                                <p class="light-white-text">exincorp offered quality training to me catering the Industry requirements</p>
 	                            </div>
 	                    	</div>
 	                        <div class="row">
@@ -219,7 +219,7 @@ webengage.init("d3a4ac24");
 	                    	        <img src="images/testimonial-2.jpg" class="testimonials-design" alt="John Doe Testimonial">
 	                                <h5 class="mt-10"><a href="#" class="white-text">Adam Chen</a></h5>
 	                                <h6 class="m-10 light-white-text"><small>Project Trainee, Thermal</small></h6>
-	                                <p class="light-white-text">exoncorp offered quality training to me catering the Industry requirements</p>
+	                                <p class="light-white-text">exincorp offered quality training to me catering the Industry requirements</p>
 	                            </div>
 	                    	</div>
 	                        <div class="row">
@@ -227,7 +227,7 @@ webengage.init("d3a4ac24");
 	                    	        <img src="images/testimonial-3.jpg" class="testimonials-design" alt="John Doe Testimonial">
 	                                <h5 class="mt-10"><a href="#" class="white-text">Alicia Taylor</a></h5>
 	                                <h6 class="m-10 light-white-text"><small>Project Trainee, Embedded System</small></h6>
-	                                <p class="light-white-text">exoncorp offered quality training to me catering the Industry requirements</p>
+	                                <p class="light-white-text">exincorp offered quality training to me catering the Industry requirements</p>
 	                            </div>
 	                    	</div>
 	                        <div class="row">
@@ -235,7 +235,7 @@ webengage.init("d3a4ac24");
 	                    	        <img src="images/testimonial-4.jpg" class="testimonials-design" alt="John Doe Testimonial">
 	                                <h5 class="mt-10"><a href="#" class="white-text">Joseph Murphy</a></h5>
 	                                <h6 class="m-10 light-white-text"><small>Student, Image Processing</small></h6>
-	                                <p class="light-white-text">exoncorp offered quality training to me catering the Industry requirements</p>
+	                                <p class="light-white-text">exincorp offered quality training to me catering the Industry requirements</p>
 	                            </div>
 	                    	</div>
 	                        <div class="row">
@@ -243,7 +243,7 @@ webengage.init("d3a4ac24");
 	                    	        <img src="images/testimonial-5.jpg" class="testimonials-design" alt="John Doe Testimonial">
 	                                <h5 class="mt-10"><a href="#" class="white-text">Alison Davis</a></h5>
 	                                <h6 class="m-10 light-white-text"><small>Project Trainee, Robotics</small></h6>
-	                                <p class="light-white-text">exoncorp offered quality training to me catering the Industry requirements</p>
+	                                <p class="light-white-text">exincorp offered quality training to me catering the Industry requirements</p>
 	                            </div>
 	                    	</div>
 	                    </div>
