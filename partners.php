@@ -571,7 +571,7 @@
                     <div class="overlay-style-one">
                         <div class="box">
                             <div class="content">
-                                <a href="#"><h3>EXON CORP</h3></a>
+                                <a href="#"><h3>EXIN CORP</h3></a>
                                 
                             </div>
                         </div>

@@ -48,7 +48,7 @@
 	    <div class="row">
 	        <div class="col-md-12">
 	            <div class="breadcrumbs">
-	                <h1>EXONCORP  CONSULTANCY</h1>
+	                <h1>EXINCORP  CONSULTANCY</h1>
 	            </div>
 	        </div>
 	    </div>

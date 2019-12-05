@@ -217,7 +217,7 @@ else
         <div class="row">
             <div class="col-md-6">
                 <div class="copyright-text">
-                    <p>Copyrights © <?php echo date("Y");?> EXONCORP All Rights Reserved, Powered by <a href="http://exincorp.com/" target="_blank">ExonCorp</a></p> 
+                    <p>Copyrights © <?php echo date("Y");?> EXINCORP All Rights Reserved, Powered by <a href="http://exincorp.com/" target="_blank">ExonCorp</a></p> 
                 </div>
             </div>
             <div class="col-md-6">

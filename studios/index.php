@@ -491,7 +491,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             data-easing="Back.easeOut"
             data-endspeed="300"
             data-endeasing="Power1.easeIn"
-                              style="z-index: 10">EXON CORP | Digital Innovations</div>
+                              style="z-index: 10">EXIN CORP | Digital Innovations</div>
                                 
                                   <div class="tp-caption large_bold_white customin customout"
             data-x="100"

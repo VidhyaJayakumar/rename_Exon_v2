@@ -4,11 +4,11 @@
  
 <head>
 	<meta charset="UTF-8">
-	<title>EXONCORP solutions India,Software company,IT Training, IT Services, Web Designing and Development company, Outsourcing Services, BPO, IT Infrastructure, Information Communication Technology Company, Business Consulting – IT companies in vellore</title>
+	<title>EXINCORP solutions India,Software company,IT Training, IT Services, Web Designing and Development company, Outsourcing Services, BPO, IT Infrastructure, Information Communication Technology Company, Business Consulting – IT companies in vellore</title>
 	   
 
-	   <meta name="description" content="EXONCORP IT solutions is a leading global professional services companies in vellore, providing IT services and solutions in Tamilnadu, vellore, India,training, consulting, digital, technology, strategy and operations, web development, design.EXONCORP Solutions - IT Certifications in vellore,Comptia A+ N+ Training in vellore,RHCE Training in vellore,MCITP Training in vellore,CCNA Training in vellore,CEH Training in vellore,CISSP Training in vellore,IT  Training in vellore,Computer Training Institute in vellore,Corporate Training in vellore,International certification in vellore">
-		<meta name="keywords" content="EXONCORP academy,EXONCORP studios,EXONCORP council,EXONCORP cloud,EXONCORP consultancy,EXONCORP systems,EXONCORP Solutions - IT company in vellore, Companies in Vellore,Training in vellore,RHCE Training in vellore,MCITP Training in vellore,CCNA Training in vellore,CEH Training in vellore,CISSP Training in vellore,IT  Training in vellore,Computer Training Institute in vellore,Corporate Training in vellore,Internaional certification in vellore">
+	   <meta name="description" content="EXINCORP IT solutions is a leading global professional services companies in vellore, providing IT services and solutions in Tamilnadu, vellore, India,training, consulting, digital, technology, strategy and operations, web development, design.EXINCORP Solutions - IT Certifications in vellore,Comptia A+ N+ Training in vellore,RHCE Training in vellore,MCITP Training in vellore,CCNA Training in vellore,CEH Training in vellore,CISSP Training in vellore,IT  Training in vellore,Computer Training Institute in vellore,Corporate Training in vellore,International certification in vellore">
+		<meta name="keywords" content="EXINCORP academy,EXINCORP studios,EXINCORP council,EXINCORP cloud,EXINCORP consultancy,EXINCORP systems,EXINCORP Solutions - IT company in vellore, Companies in Vellore,Training in vellore,RHCE Training in vellore,MCITP Training in vellore,CCNA Training in vellore,CEH Training in vellore,CISSP Training in vellore,IT  Training in vellore,Computer Training Institute in vellore,Corporate Training in vellore,Internaional certification in vellore">
 
 	<!-- responsive meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -34,11 +34,11 @@
  { 
  "@context" : "http://schema.org",
  "@type" : "Organization",
- "name" : "EXONCORPSolutions",
- "url" : "https://EXONCORP.in/",
+ "name" : "EXINCORPSolutions",
+ "url" : "https://EXINCORP.in/",
  "sameAs" : [ 
- "https://www.facebook.com/EXONCORP.in/",
- "https://twitter.com/EXONCORPindia",
+ "https://www.facebook.com/EXINCORP.in/",
+ "https://twitter.com/EXINCORPindia",
  "https://plus.google.com/106304209575651338346",
    ]
  }
@@ -108,7 +108,7 @@
         <div class="row">
             
             <div class="col-md-12 col-sm-12 col-xs-12 footer-widget">
-                          <h5 style="color:black;">EXONCORP Search Engine</h5>
+                          <h5 style="color:black;">EXINCORP Search Engine</h5>
                            
 
 <script>
@@ -190,31 +190,31 @@
                             <ul>
                             
                             
-<i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp;<a href="http://EXONCORPacademy.com/" title="Best computer it software network training academy in vellore"style="color:black;">EXONCORP ACADEMY</a><br>
-<i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp;<a href="https://EXONCORPconsultancy.com/" title="Best business consulting in vellore in vellore"style="color:black;">EXONCORP BUSINESS</a><br>
- <i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp;<a href="http://EXONCORPcouncil.com/" title="hacking,security,certifications,penetration testing in vellore"style="color:black;">EXONCORP COUNCIL</a><br>
+<i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp;<a href="http://EXINCORPacademy.com/" title="Best computer it software network training academy in vellore"style="color:black;">EXINCORP ACADEMY</a><br>
+<i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp;<a href="https://EXINCORPconsultancy.com/" title="Best business consulting in vellore in vellore"style="color:black;">EXINCORP BUSINESS</a><br>
+ <i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp;<a href="http://EXINCORPcouncil.com/" title="hacking,security,certifications,penetration testing in vellore"style="color:black;">EXINCORP COUNCIL</a><br>
  
-<i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp; <a href="http://EXONCORPconnect.com/" title="statup, students organization, connect, workspace in vellore"style="color:black;">EXONCORP CONNECT</a><br>
- <i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp;<a href="http://EXONCORPcloud.com/" title="cloud gogole, azure, amazon aws hosting cloud service provider in vellore"style="color:black;">EXONCORP CLOUD</a><br>
- <i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp;<a href="http://EXONCORPconsultancy.com/" title="career, job best consulting and consultancy in vellore, internship"style="color:black;">EXONCORP CONSULTANCY</a><br>
- <i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp;<a href="https://www.EXONCORPdomain.com/" title="domain registration in vellore"style="color:black;">EXONCORP DOMAIN</a><br>
-  <i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp;<a href="https://www.EXONCORPeducation.com" title="domain registration in vellore"style="color:black;">EXONCORP EDUCATION</a><br>
+<i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp; <a href="http://EXINCORPconnect.com/" title="statup, students organization, connect, workspace in vellore"style="color:black;">EXINCORP CONNECT</a><br>
+ <i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp;<a href="http://EXINCORPcloud.com/" title="cloud gogole, azure, amazon aws hosting cloud service provider in vellore"style="color:black;">EXINCORP CLOUD</a><br>
+ <i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp;<a href="http://EXINCORPconsultancy.com/" title="career, job best consulting and consultancy in vellore, internship"style="color:black;">EXINCORP CONSULTANCY</a><br>
+ <i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp;<a href="https://www.EXINCORPdomain.com/" title="domain registration in vellore"style="color:black;">EXINCORP DOMAIN</a><br>
+  <i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp;<a href="https://www.EXINCORPeducation.com" title="domain registration in vellore"style="color:black;">EXINCORP EDUCATION</a><br>
  
 
  
- <i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp;<a href="http://EXONCORPhosting.com/" title="website hosting, email hosting, googlemail, gsuite, sofware hosting in vellore"style="color:black;">EXONCORP HOSTING</a><br>
- <i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp; <a href="http://EXONCORP.in/EXONCORP-internships" title="job intership, college internship in vellore, best internship, parttime, fulltime in vellore"style="color:black;">EXONCORP INTERNSHIPS</a><br>
+ <i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp;<a href="http://EXINCORPhosting.com/" title="website hosting, email hosting, googlemail, gsuite, sofware hosting in vellore"style="color:black;">EXINCORP HOSTING</a><br>
+ <i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp; <a href="http://EXINCORP.in/EXINCORP-internships" title="job intership, college internship in vellore, best internship, parttime, fulltime in vellore"style="color:black;">EXINCORP INTERNSHIPS</a><br>
 
- <i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp;<a href="http://EXONCORP.in/sitemap#" title="trademark, filings, it, incometax, cyberlaw, in vellore"style="color:black;">EXONCORP LEGAL</a><br>
- <i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp; <a href="#" title="job intership, college internship in vellore, best internship, parttime, fulltime in vellore"style="color:black;">EXONCORP NETWORKS</a><br>
- <i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp;<a href="http://www.EXONCORPprojects.com/" title="finalyear, ieee, engineering projects, computer projects in vellore"style="color:black;">EXONCORP PROJECTS</a><br>
+ <i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp;<a href="http://EXINCORP.in/sitemap#" title="trademark, filings, it, incometax, cyberlaw, in vellore"style="color:black;">EXINCORP LEGAL</a><br>
+ <i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp; <a href="#" title="job intership, college internship in vellore, best internship, parttime, fulltime in vellore"style="color:black;">EXINCORP NETWORKS</a><br>
+ <i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp;<a href="http://www.EXINCORPprojects.com/" title="finalyear, ieee, engineering projects, computer projects in vellore"style="color:black;">EXINCORP PROJECTS</a><br>
 
-<i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp;<a href="http://EXONCORPsystems.in/" title="Computer sales,service,support,amc,laptop service in vellore"style="color:black;">EXONCORP SYSTEMS</a><br>
-<i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp;<a href="http://EXONCORPstudios.in/" title="best webdesign, seo,digitalmarketing,android training company in vellore"style="color:black;">EXONCORP STUDIOS</a><br> 
-<i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp;<a href="http://EXONCORPsoftwares.com/" title="best professional software development company in vellore"style="color:black;">EXONCORP SOFTWARES</a><br>
+<i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp;<a href="http://EXINCORPsystems.in/" title="Computer sales,service,support,amc,laptop service in vellore"style="color:black;">EXINCORP SYSTEMS</a><br>
+<i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp;<a href="http://EXINCORPstudios.in/" title="best webdesign, seo,digitalmarketing,android training company in vellore"style="color:black;">EXINCORP STUDIOS</a><br> 
+<i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp;<a href="http://EXINCORPsoftwares.com/" title="best professional software development company in vellore"style="color:black;">EXINCORP SOFTWARES</a><br>
 
 
-<i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp; <a href="http://EXONCORPtechnology.com/" title="it , technology, sofware company in vellore"style="color:black;">EXONCORP TECHNOLOGY</a>
+<i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp; <a href="http://EXINCORPtechnology.com/" title="it , technology, sofware company in vellore"style="color:black;">EXINCORP TECHNOLOGY</a>
  
                             
                             
@@ -239,12 +239,12 @@
 <i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp;<a href="https://analyticxs.com/" title="analytics company in vellore" style="color:black;">ANALYTICXS</a><br>
 <i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp;<a href="https://digitalmarketingventure.com/" title="digitalmarketing , seo, internet marketing company in vellore"style="color:black;">DIGITAL MARKETING VENTURE</a></ul>
 <i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp;<a href="https://domainquicksearch.com/" title="digitalmarketing , seo, internet marketing company in vellore"style="color:black;">DOMAIN QUICK SEARCH</a></ul><br>
-<i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp;<a href="https://EXONcorp.com/" title="software, technolgy company, chennai,vellore,digitalmarketing , seo, internet marketing company in vellore"style="color:black;">EXONCORP</a></ul><br>
+<i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp;<a href="https://EXINcorp.com/" title="software, technolgy company, chennai,vellore,digitalmarketing , seo, internet marketing company in vellore"style="color:black;">EXINCORP</a></ul><br>
 <i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp;<a href="https://fixitservice.in/" title="computer , laptop, server, sofware service support in vellore"style="color:black;">FIXIT SERVICE</a><br>
 
 <i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp;<a href="https://learnageacademy.com/" title="best it training academy hardware,software,server,netowrking,security , tally courses in vellore"style="color:black;">LEARNAGE</a><br>
 <i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp;<a href="https://mybusinessfilings.com" title="trademark, filings,it, license, registration in vellore"style="color:black;">MY BUSINESS FILINGS</a><br>
-<i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp;<a href="https://EXONCORPcouncil.com/" title="cyber security company in vellore"style="color:black;">RISC</a><br>
+<i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp;<a href="https://EXINCORPcouncil.com/" title="cyber security company in vellore"style="color:black;">RISC</a><br>
 <i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp;<a href="https://rbits.in/" title="technology company in vellore"style="color:black;">RBITS</a><br>
 
 <i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp;<a href="https://seosearch.in/" title="seo, digitalmarketing,email marketing in vellore"style="color:black;">SEOSEARCH</a><br>

@@ -61,7 +61,7 @@ webengage.init("d3a4ac24");
                 <div class="page-title-wrapper-inner">
                     <div class="page-title-container">
                         <div class="inner page-title">
-                            <h2 class="page-title-heading white-text">EXONCORP PROJECTS </h2>
+                            <h2 class="page-title-heading white-text">EXINCORP PROJECTS </h2>
                             <p class="lead">Exoncorp is a leading IT and Language training centre providing full-suite of trainings and placement services for freshers seeking a new career and professionals looking for career advancement.</p>
                             <h6 class="mb-0"><a href="contact.php" class="btn btn-transition btn-primary">Contact</a></h6>
                         </div>

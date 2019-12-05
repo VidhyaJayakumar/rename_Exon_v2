@@ -48,7 +48,7 @@
 	    <div class="row">
 	        <div class="col-md-12">
 	            <div class="breadcrumbs">
-	                <h1>EXONCORP CLOUD</h1>
+	                <h1>EXINCORP CLOUD</h1>
 	            </div>
 	        </div>
 	    </div>
@@ -96,8 +96,8 @@
                                     <img src="images/services/business-growth.jpg" alt="Awesome Image">
                                 </div>
                                 <div class="text-holder">
-                                   <p><strong>Cloud Services: </strong>EXONCORP cloud believes in your right to put your ideas online. That’s why all our hosting products, from single-page websites o dedicated servers, come with powerful tools and rock-solid security.</p>
-                                    <p class="mar-btm15"><strong>EXONCORP CLOUD</strong>&nbsp;Exon Corpcloud.com believes in your right to put your ideas online. That’s why all our hosting products, from single-page websites to dedicated servers, come with powerful tools and rock-solid security.</p>
+                                   <p><strong>Cloud Services: </strong>EXINCORP cloud believes in your right to put your ideas online. That’s why all our hosting products, from single-page websites o dedicated servers, come with powerful tools and rock-solid security.</p>
+                                    <p class="mar-btm15"><strong>EXINCORP CLOUD</strong>&nbsp;Exon Corpcloud.com believes in your right to put your ideas online. That’s why all our hosting products, from single-page websites to dedicated servers, come with powerful tools and rock-solid security.</p>
                                 </div>
                             </div>
                         </div>
@@ -128,7 +128,7 @@ Powered by cPanel / Plesk<br>
 Unlimited Disk Space<br>
 24/7 Tech Support</p>
                                         
-                                        <a href="http://EXONCORPhosting.com/" target="_blank">View Plans</a>
+                                        <a href="http://EXINCORPhosting.com/" target="_blank">View Plans</a>
                                     </div>    
                                 </div>  
                             </div>
@@ -148,7 +148,7 @@ Unlimited Websites<br>
 Softaculous Included<br>
 24/7 support</p>
                                         
-                                        <a href="http://EXONCORPhosting.com/" target="_blank">View Plans</a>
+                                        <a href="http://EXINCORPhosting.com/" target="_blank">View Plans</a>
                                     </div>    
                                 </div>  
                             </div>
@@ -168,7 +168,7 @@ Browser Compatibility<br>
 Rock-solid security<br>
 24/7 support</p>
                                         
-                                        <a href="http://EXONCORPhosting.com/" target="_blank">View Plans</a>
+                                        <a href="http://EXINCORPhosting.com/" target="_blank">View Plans</a>
                                     </div>    
                                 </div>  
                             </div>
@@ -409,7 +409,7 @@ Rock-solid security<br>
                                     <div class="text-holder">
                                         <h5>Senior Developer</h5>
                                         <p><span class="flaticon-telephone"></span>8189985554</p>
-                                        <p><span class="flaticon-back"></span>basha@EXONCORPsolutions.in</p>
+                                        <p><span class="flaticon-back"></span>basha@EXINCORPsolutions.in</p>
                                     </div>
                                 </li>
                                 <li>
@@ -422,7 +422,7 @@ Rock-solid security<br>
                                     <div class="text-holder">
                                         <h5>Developer</h5>
                                         <p><span class="flaticon-telephone"></span>8189985554</p>
-                                        <p><span class="flaticon-back"></span>rex@EXONCORPsolutions.in</p>
+                                        <p><span class="flaticon-back"></span>rex@EXINCORPsolutions.in</p>
                                     </div>
                                 </li>
                                 

@@ -50,7 +50,7 @@
 	    <div class="row">
 	        <div class="col-md-12">
 	            <div class="breadcrumbs">
-	                <h1>EXONCORP DIGITAL MARKETING VENTURE</h1>
+	                <h1>EXINCORP DIGITAL MARKETING VENTURE</h1>
 	            </div>
 	        </div>
 	    </div>
@@ -98,7 +98,7 @@
                                     <img src="images/services/business-growth.jpg" alt="Awesome Image">
                                 </div>
                                 <div class="text-holder">
-                                   <p><strong>Digital Marketing:</strong> EXONCORP provides marketing services digitally.</p>
+                                   <p><strong>Digital Marketing:</strong> EXINCORP provides marketing services digitally.</p>
                                     <p class="mar-btm15">Digital Marketing Venture is full of inspired thinkers who stand up for progress by imagining a whole new world and challenging the status quo. </p>
 <p>Award winning full service digital marketing agency.Approaching 10 years in business, Digitalmarketing Venture is highly experienced digital agency, with expertise in design, development, UX, conversion optimisation, and digital marketing.</p>
                                 </div>
@@ -335,7 +335,7 @@
                                     <div class="text-holder">
                                         <h5>System Engineer</h5>
                                         <p><span class="flaticon-telephone"></span>8189985558</p>
-                                        <p><span class="flaticon-back"></span>balaji@EXONCORPsolutions.in</p>
+                                        <p><span class="flaticon-back"></span>balaji@EXINCORPsolutions.in</p>
                                     </div>
                                 </li>
                                 
