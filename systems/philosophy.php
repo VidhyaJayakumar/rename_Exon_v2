@@ -10,7 +10,7 @@
 <!-- Head BEGIN -->
 <head>
   <meta charset="utf-8">
-   <title>Exoncorp Systems |Computer dealers in vellore|Computer sales and service in vellore CCTV Camera Sales and Services Chennai | Computer Repair Service | On Call Computer Service | Assembled System Sales | Low Cost Computer Sales | Desktop System Price List | Used Laptop Sales Vellore | Computer Dealers Kanchipuram | Server Problem Vellore | Mother Board Sales Services Kanchipuram | Laptop Screen Repair Gudiyatham | Computer Repair Store Vellore | Computer Services Center Kanchipuram | IT Computer Services Gudiyatham | Laptop Keyboard Repair Vellore | Desktop Computer Services Kachipuram | Computer Support Specialist - exincorp Systems @ Chennai | Kanchipuram | Gudiyatham | Vellore</title>
+   <title>Exincorp Systems |Computer dealers in vellore|Computer sales and service in vellore CCTV Camera Sales and Services Chennai | Computer Repair Service | On Call Computer Service | Assembled System Sales | Low Cost Computer Sales | Desktop System Price List | Used Laptop Sales Vellore | Computer Dealers Kanchipuram | Server Problem Vellore | Mother Board Sales Services Kanchipuram | Laptop Screen Repair Gudiyatham | Computer Repair Store Vellore | Computer Services Center Kanchipuram | IT Computer Services Gudiyatham | Laptop Keyboard Repair Vellore | Desktop Computer Services Kachipuram | Computer Support Specialist - exincorp Systems @ Chennai | Kanchipuram | Gudiyatham | Vellore</title>
 
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -167,7 +167,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         </div>
                       </div>
                       <div class="item">
-                        <blockquote><p>Exoncorp has been very attentive to every computer/server problem that has cropped up for our company. They respond quickly to service calls and can even fix things remotely, which is a huge plus in getting problems fixed in a timely manner.</p></blockquote>
+                        <blockquote><p>Exincorp has been very attentive to every computer/server problem that has cropped up for our company. They respond quickly to service calls and can even fix things remotely, which is a huge plus in getting problems fixed in a timely manner.</p></blockquote>
                         <div class="carousel-info">
                           <img class="pull-left" src="assets/frontend/pages/img/people/img5-small.jpg" alt="">
                           <div class="pull-left">
@@ -227,7 +227,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                   </a>
                 </div>
                 <div class="col-md-9 col-sm-9">
-                  <p class="margin-bottom-10" align="justify">Exoncorp Systems we know how essential IT is for your company, but we also know the stress that computers bring when they are not working properly. That is why we have made it our mission to bring the perfect IT solutions to companies running ten computers or more. We help by taking over day-to-day management of your systems, and we make sure that everything is running smoothly. 
+                  <p class="margin-bottom-10" align="justify">Exincorp Systems we know how essential IT is for your company, but we also know the stress that computers bring when they are not working properly. That is why we have made it our mission to bring the perfect IT solutions to companies running ten computers or more. We help by taking over day-to-day management of your systems, and we make sure that everything is running smoothly. 
 				  <br/>We fix problems before they cause downtime and ensure your data is disaster-proof. And best of all, with us overseeing IT, you and your staff will have more time to concentrate on delighting your customers and growing your company.</p>
                  
                 </div>

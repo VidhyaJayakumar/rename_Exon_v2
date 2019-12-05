@@ -7,7 +7,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<title>Exoncorp - Projects</title>
+	<title>Exincorp - Projects</title>
 	<meta name="author" content="SaltTechno">
 
 	<!-- ========== COMMON STYLES ========== -->
@@ -36,8 +36,8 @@
                 <div class="page-title-wrapper-inner">
                     <div class="page-title-container">
                         <div class="inner page-title">
-                            <h2 class="page-title-heading white-text">Exoncorp - Projects</h2>
-                            <p class="lead">Exoncorp is a leading IT and Language training centre providing full-suite of trainings and placement services for freshers seeking a new career and professionals looking for career advancement.</p>
+                            <h2 class="page-title-heading white-text">Exincorp - Projects</h2>
+                            <p class="lead">Exincorp is a leading IT and Language training centre providing full-suite of trainings and placement services for freshers seeking a new career and professionals looking for career advancement.</p>
                             <p class="lead">
                                 <a href="contact.php" class="btn btn-transition btn-success">Contact</a>
                             </p>
@@ -144,7 +144,7 @@
 									<h4 class="card-title">Company Overview:</h4>
 									<h6 class="card-subtitle mb-2 text-muted mb-4">A Best Project Center that you will ever need!</h6>
 
-									<p class="card-text">'Exoncorp - Projects is a leading IT and Language training centre providing full-suite of trainings and placement services for freshers seeking a new career and professionals looking for career advancement. exincorp Projects is mastered and administrated by highly skilled industry experts with 10 years of IT experience. exincorp Projects has a team of highly skilled professional trainers delivering proficient IT training in an affable environment, focusing on the individuals needs to enable them excel in the challenging professional environment. Our team never leaves any page unturned in the book of career and success.</p>
+									<p class="card-text">'Exincorp - Projects is a leading IT and Language training centre providing full-suite of trainings and placement services for freshers seeking a new career and professionals looking for career advancement. exincorp Projects is mastered and administrated by highly skilled industry experts with 10 years of IT experience. exincorp Projects has a team of highly skilled professional trainers delivering proficient IT training in an affable environment, focusing on the individuals needs to enable them excel in the challenging professional environment. Our team never leaves any page unturned in the book of career and success.</p>
 <p class="card-text">
 Versatile instructor – led training class rooms through tailored courses with smaller class sizes at exincorp Projects facilitate people to interact more conveniently and acquire knowledge, there by generating outstanding results both for themselves and the organization they work for.
 Our training programmes are flexible and customized to make sure that every individual gains the maximum out of the training.</p>

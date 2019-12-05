@@ -60,10 +60,10 @@
   <div>
           
             <div><div class="footer-info">
-<p class="footer-logo"><img alt="Footer Logo" data-entity-type="file" data-entity-uuid="67385682-824b-4a78-85e6-9524e23fdf27" src="http:exincorp.com/consultancy/logof.png" /></p><p class="description">Exoncorp Consultancy is recogonized in the areas of 
+<p class="footer-logo"><img alt="Footer Logo" data-entity-type="file" data-entity-uuid="67385682-824b-4a78-85e6-9524e23fdf27" src="http:exincorp.com/consultancy/logof.png" /></p><p class="description">Exincorp Consultancy is recogonized in the areas of 
 Business, IT , Technology, Legal, Education, Seo, Digital,and Marketing Consulting.</p>
 
-<p class="phone"><i class="inv-icon fa fa-phone"></i>+91 81899 85559, <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+91 81899 85552  <span>   &nbsp;&nbsp;<a href="mailto:hr@Exoncorps.in">hr@Exoncorps.in</a></span></p>
+<p class="phone"><i class="inv-icon fa fa-phone"></i>+91 81899 85559, <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+91 81899 85552  <span>   &nbsp;&nbsp;<a href="mailto:hr@Exincorps.in">hr@Exincorps.in</a></span></p>
 </div>
 </div>
       
@@ -81,10 +81,10 @@ Business, IT , Technology, Legal, Education, Seo, Digital,and Marketing Consulti
         
   <div>
           
-            <div><ul class="followus"><li><a href="https://www.facebook.com/ExoncorpConsultancy/"><i class="inv-icon ion-social-facebook"></i>Facebook</a></li>
-  <li><a href="https://twitter.com/Exoncorpcareers"><i class="inv-icon ion-social-twitter"></i>Twitter</a></li>
+            <div><ul class="followus"><li><a href="https://www.facebook.com/ExincorpConsultancy/"><i class="inv-icon ion-social-facebook"></i>Facebook</a></li>
+  <li><a href="https://twitter.com/Exincorpcareers"><i class="inv-icon ion-social-twitter"></i>Twitter</a></li>
   <li><a href="#"><i class="inv-icon ion-social-googleplus"></i>Google Plus</a></li>
-  <li><a href="https://www.linkedin.com/company/Exoncorpconsultancy"><i class="inv-icon ion-social-linkedin"></i>Linkedin</a></li>
+  <li><a href="https://www.linkedin.com/company/Exincorpconsultancy"><i class="inv-icon ion-social-linkedin"></i>Linkedin</a></li>
   <li><a href="#"><i class="inv-icon ion-social-youtube"></i>Youtube</a></li>
 </ul></div>
       
@@ -152,7 +152,7 @@ Business, IT , Technology, Legal, Education, Seo, Digital,and Marketing Consulti
         
   <div>
           
-            <div><p class="copyright mb-0">© 2019 Develop by <a href=http://Exoncorpstudios.in>Exoncorp Studios</a>. All rights reserved</p>
+            <div><p class="copyright mb-0">© 2019 Develop by <a href=http://Exincorpstudios.in>Exincorp Studios</a>. All rights reserved</p>
 </div>
       
       </div>

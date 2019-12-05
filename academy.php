@@ -3,9 +3,9 @@
 
  <head>
 	<meta charset="UTF-8">
-	<title>ExonCorp IT Academy - IT Training Institutes server,networking,security,hacking in vellore, IT Training Company in vellore, computer training institutes in vellore,gudiyatham,kanchipuram,chennai, Training and Certifications Institute in  Vellore, Kanchipuram, Chennai, Gudiyattam, Hosur. Experts in IT Training ,Online Training For CEH, MCSE, MCITP, CCNA, RHCE, Information Security, CISSP, web design</title>
-        <meta name="description" content=" ExonCorp IT Academy, IT Training Institutes server,networking,security,hacking in vellore, IT training in vellore, IT Training Company in vellore,   IT training academy in vellore,IT Training Institutes in gudiyatham,  Hacking Institutes in vellore, Hacking Training in vellore, IT Training Institute in vellore,  IT Training in vellore, Networking courses in vellore, Hardware Networking courses in vellore, MCSE Training Institute in vellore, MCITP courses in vellore, CEH Courses in vellore, CCNA Training center in vellore, Redhat courses in vellore, CCNA Training institutes in vellore, CCNA Training institute, training center in vellore, Computer Training in Vellore, Web designing courses in vellore, Training in vellore, Computer Training institutes in Vellore, Gudiyatham, Kanchipuram,Chennai, Hosur , IT Training , Boot Camps, Online Training For CEH, CHFI, LPT ,ITIL, , CISSP , VOIP, CCNA , CCNP, MCSE, Network,ethical hacking, certified ethical hacker, internet security, network securit"/>
-		 <meta name="keywords" content=" IT training institutes in vellore,CCNA cisco Training Institute in vellore,ethicalhacking it training server,networking,security,hacking in vellore, IT training institutes in vellore, computer training institutes in vellore, Computer Training Centre in Vellore, Computer Education Centre in Vellore, IT Training Institutes in gudiyatham,Corporate Training, Soft Skills Training, Exon Corp Academy, Exon Corp IT Academy, Exon Corp Training Centre, Exon Corp Training Centre in Vellore, Computer Training Centre in Vellore, IT Training Center in vellore,  Computer Training Centre in Tamilnadu,ExonCorp IT Academy , it training institutes in vellore ,it certifications, Best Computer Institute in vellore, Gudiyatham, Kanchipuram, IT Courses,  Training Institute for Server Training, Hardware Networking, IT Training Insitute, Computer Training Institute, IT Certifications, Microsoft Training, Redhat Training, Ethical Hacking Training, Cisco Training, Softwares, ISO Training, Boot Camps, web designing traini"/>
+	<title>ExinCorp IT Academy - IT Training Institutes server,networking,security,hacking in vellore, IT Training Company in vellore, computer training institutes in vellore,gudiyatham,kanchipuram,chennai, Training and Certifications Institute in  Vellore, Kanchipuram, Chennai, Gudiyattam, Hosur. Experts in IT Training ,Online Training For CEH, MCSE, MCITP, CCNA, RHCE, Information Security, CISSP, web design</title>
+        <meta name="description" content=" ExinCorp IT Academy, IT Training Institutes server,networking,security,hacking in vellore, IT training in vellore, IT Training Company in vellore,   IT training academy in vellore,IT Training Institutes in gudiyatham,  Hacking Institutes in vellore, Hacking Training in vellore, IT Training Institute in vellore,  IT Training in vellore, Networking courses in vellore, Hardware Networking courses in vellore, MCSE Training Institute in vellore, MCITP courses in vellore, CEH Courses in vellore, CCNA Training center in vellore, Redhat courses in vellore, CCNA Training institutes in vellore, CCNA Training institute, training center in vellore, Computer Training in Vellore, Web designing courses in vellore, Training in vellore, Computer Training institutes in Vellore, Gudiyatham, Kanchipuram,Chennai, Hosur , IT Training , Boot Camps, Online Training For CEH, CHFI, LPT ,ITIL, , CISSP , VOIP, CCNA , CCNP, MCSE, Network,ethical hacking, certified ethical hacker, internet security, network securit"/>
+		 <meta name="keywords" content=" IT training institutes in vellore,CCNA cisco Training Institute in vellore,ethicalhacking it training server,networking,security,hacking in vellore, IT training institutes in vellore, computer training institutes in vellore, Computer Training Centre in Vellore, Computer Education Centre in Vellore, IT Training Institutes in gudiyatham,Corporate Training, Soft Skills Training, Exin Corp Academy, Exin Corp IT Academy, Exin Corp Training Centre, Exin Corp Training Centre in Vellore, Computer Training Centre in Vellore, IT Training Center in vellore,  Computer Training Centre in Tamilnadu,ExinCorp IT Academy , it training institutes in vellore ,it certifications, Best Computer Institute in vellore, Gudiyatham, Kanchipuram, IT Courses,  Training Institute for Server Training, Hardware Networking, IT Training Insitute, Computer Training Institute, IT Certifications, Microsoft Training, Redhat Training, Ethical Hacking Training, Cisco Training, Softwares, ISO Training, Boot Camps, web designing traini"/>
 
 	<!-- responsive meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -65,7 +65,7 @@
                         <li><i class="fa fa-angle-right" aria-hidden="true"></i></li>
                         <li><a href="services.php">Services</a></li>
                         <li><i class="fa fa-angle-right" aria-hidden="true"></i></li>
-                        <li class="active"><a href="redback-academy.php">Exon Corp Academy</a></li>
+                        <li class="active"><a href="redback-academy.php">Exin Corp Academy</a></li>
                     </ul>
                 </div>
                 <div class="right pull-right">
@@ -95,7 +95,7 @@
                                 </div>
                                 <div class="text-holder">
                                    <p><strong>Training :</strong> REDBACK academy is specialized in IT training and Educational services which helped IT professionals and newbie’s to improve and gain knowledge in IT domain.</p>
-                                    <p class="mar-btm15"><a href="https://redbackacademy.com/" style="color: black;"><strong>Exon Corp IT Academy</strong></a> specialize in offering various types of IT training and educational services which have helped IT professionals and newbie's to improve and gain knowledge in IT domain.</p>
+                                    <p class="mar-btm15"><a href="https://redbackacademy.com/" style="color: black;"><strong>Exin Corp IT Academy</strong></a> specialize in offering various types of IT training and educational services which have helped IT professionals and newbie's to improve and gain knowledge in IT domain.</p>
                                     <p>The beautifully structured training courses help the people to gain added value and also clear all their doubts. We aim to provide valuable IT training services to our clients from private business enterprise, institutions and even to individuals.
 Our expert team of trainers makes use of modern teaching techniques through which they offer the clients the most reliable and satisfactory services to the clients.</p>
                                 </div>
@@ -138,8 +138,8 @@ Our expert team of trainers makes use of modern teaching techniques through whic
                                     </div>
                                     <div class="text-holder">
                                         <h3>Awards</h3>
-                                        <p>Exon Corp Academy becomes a Gold Certified Training Partner of Novell Proud to be Partnered with Novell.</p>
-                                        <p>Exon Corp Becomes Intel Technology Provider – Gold Partner and proud to be partner of intel. </p>
+                                        <p>Exin Corp Academy becomes a Gold Certified Training Partner of Novell Proud to be Partnered with Novell.</p>
+                                        <p>Exin Corp Becomes Intel Technology Provider – Gold Partner and proud to be partner of intel. </p>
                                         <a href="#">Know More</a>
                                     </div>    
                                 </div>  

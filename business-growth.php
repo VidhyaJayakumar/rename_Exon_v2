@@ -63,7 +63,7 @@
                         <li><i class="fa fa-angle-right" aria-hidden="true"></i></li>
                         <li><a href="services.php">Services</a></li>
                         <li><i class="fa fa-angle-right" aria-hidden="true"></i></li>
-                        <li class="active"><a href="redback-academy.php">Exon Corp Academy</a></li>
+                        <li class="active"><a href="redback-academy.php">Exin Corp Academy</a></li>
                     </ul>
                 </div>
                 <div class="right pull-right">

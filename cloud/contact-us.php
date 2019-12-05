@@ -99,7 +99,7 @@
           <p>#5/x2,<br> Hari Om 2nd Street, <br>Phase - III,<br> Sathuvachari, <br>Vellore-632009.</p>
           <div class="contact_social">
             <ul>
-              <li><a target="_blank" href="https://www.facebook.com/Exoncorpcloud/"><i class="fab fa-facebook" aria-hidden="true"></i></a></li>
+              <li><a target="_blank" href="https://www.facebook.com/Exincorpcloud/"><i class="fab fa-facebook" aria-hidden="true"></i></a></li>
               <li><a target="_blank" href="#"><i class="fab fa-google-plus" aria-hidden="true"></i></a></li>
               <li><a target="_blank" href="#"><i class="fab fa-linkedin" aria-hidden="true"></i></a></li>
               <li><a target="_blank" href="#"><i class="fab fa-twitter" aria-hidden="true"></i></a></li>
@@ -131,7 +131,7 @@
             (8AM - 7PM IST Monday-Saturday) </p>
           <p>Ph: (+91)81899 85559<br>
             <!-- Fax: (+111) 123 456<br> -->
-            Email ID: studios@Exoncorps.in </p>
+            Email ID: studios@Exincorps.in </p>
 
             
         </div>

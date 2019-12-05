@@ -4,7 +4,7 @@
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1">
     <meta charset="utf-8" />
-    <meta name="Description" content="Exoncorp Consultancy is an organised Consulting service provider offering job consultancy services,placement consultancy services,  Consultancy in Vellore , List of Job Consultants in Vellore , Placement consultancy, Recruitment Consultancy list, HR Consultancy, Placement consultants, Leading recruitment agency, Job placement consultancy India, free Human Resources services, sales and marketing jobs for freshers and experiences,IT consulting | Business Consulting | Technology Consulting | Legal Consulting | Seo Consulting | Marketing Consulting | Information Technology - Vellore, Bangalore, Chennai">
+    <meta name="Description" content="Exincorp Consultancy is an organised Consulting service provider offering job consultancy services,placement consultancy services,  Consultancy in Vellore , List of Job Consultants in Vellore , Placement consultancy, Recruitment Consultancy list, HR Consultancy, Placement consultants, Leading recruitment agency, Job placement consultancy India, free Human Resources services, sales and marketing jobs for freshers and experiences,IT consulting | Business Consulting | Technology Consulting | Legal Consulting | Seo Consulting | Marketing Consulting | Information Technology - Vellore, Bangalore, Chennai">
   <meta name="Keywords" content="IT consulting | Business Consulting | Technology Consulting | Legal Consulting | Seo Consulting | Marketing Consulting | Information Technology - Vellore, Bangalore, ChennaiIT company Jobs, Telecommunication Jobs, Healthcare Resources Job, Leading Consultancy Jobs, Placement Consultancy, Ethical Hacking Jobs, Networking Jobs, Server Jobs, Hardwaring Jobs, Software Engineering Jobs, Software Development Jobs, Education Jobs, Bpo Jobs, List of Consultancy in Chennai, Recruitment Consultancy Jobs, Manpower Consultancy Jobs, Job Placement Recruitment, Sales and Marketing Jobs @ Vellore, Bangalore, Chennai">
 <meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
 <meta name="MobileOptimized" content="width" />
@@ -324,7 +324,7 @@ document.onkeydown=function(e){e=e||window.event;if(e.keyCode==123||e.keyCode==1
 <div class="box1"><div class="row"><div class="col-sm-6">
 <h1 class="service-title">Legal Consulting</h1>
 
-<p align="justify">Exoncorp legal consulting services possesses a depth of experience and innovative expertise in the field of litigation. It provides services that specifically focus on the challenges of corporate, government law departments, bar associations and legal vendors. It has a multi disciplinary expertise and is committed to work hand-in-hand with its clients in proposing optimal legal solutions in a cost effective, efficient and a timely way. 
+<p align="justify">Exincorp legal consulting services possesses a depth of experience and innovative expertise in the field of litigation. It provides services that specifically focus on the challenges of corporate, government law departments, bar associations and legal vendors. It has a multi disciplinary expertise and is committed to work hand-in-hand with its clients in proposing optimal legal solutions in a cost effective, efficient and a timely way. 
 </p>
 <!--<h2 class="service-title">Our areas of expertise :</h2>
 <h4 class="service-title">Legal Research and Analysis.</h4>

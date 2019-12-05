@@ -336,7 +336,7 @@ world of IT with news from our blog
               <em><i class="fa fa-location-arrow blue"></i></em>
               <span>IT Services</span>
             </div>
-             <p align="justify">Exoncorp Systems becomes a virtual extension of our clients businesses, helping them develop and maintain a technology strategy that aligns with their business needs and goals.</p>
+             <p align="justify">Exincorp Systems becomes a virtual extension of our clients businesses, helping them develop and maintain a technology strategy that aligns with their business needs and goals.</p>
           </div>
           <div class="col-md-4 col-sm-4">
             <div class="service-box-heading">
@@ -490,7 +490,7 @@ world of IT with news from our blog
                   </a>
                 </div>
                 <div class="col-md-9 col-sm-9">
-                  <p class="margin-bottom-10" align="justify">Exoncorp Systems we know how essential IT is for your company, but we also know the stress that computers bring when they are not working properly. That is why we have made it our mission to bring the perfect IT solutions to companies running ten computers or more. We help by taking over day-to-day management of your systems, and we make sure that everything is running smoothly. We fix problems before they cause downtime and ensure your data is disaster-proof. And best of all, with us overseeing IT, you and your staff will have more time to concentrate on delighting your customers and growing your company.</p>
+                  <p class="margin-bottom-10" align="justify">Exincorp Systems we know how essential IT is for your company, but we also know the stress that computers bring when they are not working properly. That is why we have made it our mission to bring the perfect IT solutions to companies running ten computers or more. We help by taking over day-to-day management of your systems, and we make sure that everything is running smoothly. We fix problems before they cause downtime and ensure your data is disaster-proof. And best of all, with us overseeing IT, you and your staff will have more time to concentrate on delighting your customers and growing your company.</p>
                   <p><a class="more" href="#" title="Computer Service Center Vellore">Read more <i class="icon-angle-right"></i></a></p>
                 </div>
               </div>

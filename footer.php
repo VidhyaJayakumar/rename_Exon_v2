@@ -91,7 +91,7 @@ else
                         </a>
                     </div>
                     <div class="widget-content">
-                        <p class="top" align="justify">Exoncorp is recognized in the areas of Consulting, IT Support Services, Training, Software Development service, Professional services, Research & development, Technology services.</p>
+                        <p class="top" align="justify">Exincorp is recognized in the areas of Consulting, IT Support Services, Training, Software Development service, Professional services, Research & development, Technology services.</p>
                         
                         <p style="tex-align:justify;"><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;no: 05 / x2 , Hari Om 2nd Street, PHASE-III, Sathuvachari, <br>Vellore - 632 009.</p>
                         <p><i class="fa fa-phone" aria-hidden="true"></i>&nbsp;+ 91 81899 40000</p>
@@ -217,7 +217,7 @@ else
         <div class="row">
             <div class="col-md-6">
                 <div class="copyright-text">
-                    <p>Copyrights © <?php echo date("Y");?> EXINCORP All Rights Reserved, Powered by <a href="http://exincorp.com/" target="_blank">ExonCorp</a></p> 
+                    <p>Copyrights © <?php echo date("Y");?> EXINCORP All Rights Reserved, Powered by <a href="http://exincorp.com/" target="_blank">ExinCorp</a></p> 
                 </div>
             </div>
             <div class="col-md-6">

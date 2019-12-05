@@ -7,7 +7,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<title>Exoncorp - Projects</title>
+	<title>Exincorp - Projects</title>
 	<meta name="author" content="SaltTechno">
 
 	<!-- ========== COMMON STYLES ========== -->
@@ -72,7 +72,7 @@
 									<h4 class="card-title">Research And Development:</h4>
 									<h6 class="card-subtitle mb-2 text-muted mb-4">The last consulting template you will ever need!</h6>
 
-                                    <p class="card-text">'Exoncorp - Projects' - consulting HTML template is the one place solution for all of your consulting business website. It works for any industry. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+                                    <p class="card-text">'Exincorp - Projects' - consulting HTML template is the one place solution for all of your consulting business website. It works for any industry. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
 
                                     <div class="row mb-4">
                                         <div class="col-sm-6">

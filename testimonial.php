@@ -3,7 +3,7 @@
 
  <head>
 	<meta charset="UTF-8">
-	<title>Testimonial || Exon Corp Solutions Vellore</title>
+	<title>Testimonial || Exin Corp Solutions Vellore</title>
 
 	<!-- responsive meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">

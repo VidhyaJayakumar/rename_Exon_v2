@@ -5,10 +5,10 @@
 <head>
 <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>WebHosting | Hosting Services | Domain Hosting | Domain Registration | Unlimited Hosting | Best Website Hosting | Linux Hosting | Reseller Hosting | Domain Name Registration | Web Hosting Company | Green Web Hosting | Windows Hosting | Shared Hosting | SSL Security | DNS Black Listing Services @ Exoncorp Cloud in India</title>
-    <meta name="Description" content="Exoncorp is the leading web hosting services, VPS hosting & dedicated servers provider in India. Providing world-class technical support & hosting to over 8,000,000 websites across the globe @ Exoncorp Cloud India" >
-    <meta name="Keywords" content="Domain Name, Domain Name Registration, Unlimited Hosting, Linux Hosting, DDoS Mitigation, Fire Wall, Threat management, 24/7 tech Support, Hosting Tech Support, Web Hosting Company, Linux Hosting, Free Domain Name, Email Hosting, Vps Hosting @ Exoncorp Cloud in India">
-  	<meta name="Author" content="Exoncorp Cloud">	
+    <title>WebHosting | Hosting Services | Domain Hosting | Domain Registration | Unlimited Hosting | Best Website Hosting | Linux Hosting | Reseller Hosting | Domain Name Registration | Web Hosting Company | Green Web Hosting | Windows Hosting | Shared Hosting | SSL Security | DNS Black Listing Services @ Exincorp Cloud in India</title>
+    <meta name="Description" content="Exincorp is the leading web hosting services, VPS hosting & dedicated servers provider in India. Providing world-class technical support & hosting to over 8,000,000 websites across the globe @ Exincorp Cloud India" >
+    <meta name="Keywords" content="Domain Name, Domain Name Registration, Unlimited Hosting, Linux Hosting, DDoS Mitigation, Fire Wall, Threat management, 24/7 tech Support, Hosting Tech Support, Web Hosting Company, Linux Hosting, Free Domain Name, Email Hosting, Vps Hosting @ Exincorp Cloud in India">
+  	<meta name="Author" content="Exincorp Cloud">	
 
 
 <!-- Favicon -->
@@ -192,7 +192,7 @@ Dedicated hardware and rock-solid performance; perfect for larger websites and a
                   <div class="col-sm-8">
                     <div class="client-name">Saravanan <span></span></div>
                     <div class="ratting"><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></div>
-                    <p>"Most popular and Creative company in vellore  The thing that I like about Exoncorp is that they provide complete online solution.
+                    <p>"Most popular and Creative company in vellore  The thing that I like about Exincorp is that they provide complete online solution.
  Initially I did approach them for Digital Marketing and had good results for My business. During which I knew about their website desiging and SEO  package. I wanted to launch a website with top position in google and  hand it over to a reliable team. I thank the team for being reliable and dynamic.
 Thanks For the Management for your affordable service"</p>
                   </div>
@@ -216,7 +216,7 @@ Thanks For the Management for your affordable service"</p>
                   <div class="col-sm-8">
                     <div class="client-name">Divya <span></span></div>
                     <div class="ratting"><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></div>
-                    <p>"Exoncorp  is a brilliant company, Affordable Price,Highly Recommend. Very friendly team and Thank you Guys for a magnificent website,and your digital marketing work is extra ordinary which made  my business to reach customers in short span.
+                    <p>"Exincorp  is a brilliant company, Affordable Price,Highly Recommend. Very friendly team and Thank you Guys for a magnificent website,and your digital marketing work is extra ordinary which made  my business to reach customers in short span.
 Thank you"</p>
                   </div>
                 </div>

@@ -24,7 +24,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<title>Exoncorp Projects</title>
+	<title>Exincorp Projects</title>
 	<meta name="author" content="SaltTechno">
 
      <meta name="description" content="Final Year Project Guidance,On-line project support for all departments of M.E, M.Tech, B.E, B.Tech, MCA, M.sc, M.Phil MBA Bsc BCA Diploma Projects, Best Project center in <?php echo $place; ?> is exincorp&reg; projects.com | Android projects in <?php echo $place; ?> | Android Training in <?php echo $place; ?>">

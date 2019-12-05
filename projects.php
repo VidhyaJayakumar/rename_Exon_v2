@@ -65,7 +65,7 @@
                         <li><i class="fa fa-angle-right" aria-hidden="true"></i></li>
                         <li><a href="services.php">Services</a></li>
                         <li><i class="fa fa-angle-right" aria-hidden="true"></i></li>
-                        <li class="active"><a href="projects.php">Exoncorp Projects</a></li>
+                        <li class="active"><a href="projects.php">Exincorp Projects</a></li>
                     </ul>
                 </div>
                 <div class="right pull-right">
@@ -94,10 +94,10 @@
                                     <img src="images/services/business-growth.jpg" alt="Awesome Image">
                                 </div>
                                 <div class="text-holder">
-                                   <p><strong>Projects:</strong> Doing your final year project at Exoncorp not only gives you knowledge on real time project implementation, but also helps you to equip yourselves for the corporate industry.</p>
-                                    <p class="mar-btm15"><strong>Exoncorp Projects</strong> – the leading skill development company in vellore provides best in class career oriented & real time Final year projects in vellore for students pursuing B.E, B.Tech, M.E, M.tech, MCA, Bsc & Msc. We help students in completing the project with detailed explanation on Project development.</p>
+                                   <p><strong>Projects:</strong> Doing your final year project at Exincorp not only gives you knowledge on real time project implementation, but also helps you to equip yourselves for the corporate industry.</p>
+                                    <p class="mar-btm15"><strong>Exincorp Projects</strong> – the leading skill development company in vellore provides best in class career oriented & real time Final year projects in vellore for students pursuing B.E, B.Tech, M.E, M.tech, MCA, Bsc & Msc. We help students in completing the project with detailed explanation on Project development.</p>
 <p>Training will be provided on each and every module by our highly skilled project development team with faculties having more than 10 years of experience in IT industry & project development. FITA project development team will help you with designing, developing and deploying/executing your projects.</p>
-                                    <p>Doing your final year project at Exoncorp not only gives you knowledge on real time project implementation, but also helps you to equip yourselves for the corporate industry.</p>
+                                    <p>Doing your final year project at Exincorp not only gives you knowledge on real time project implementation, but also helps you to equip yourselves for the corporate industry.</p>
                                 </div>
                             </div>
                         </div>
@@ -109,7 +109,7 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="sec-title pdb-50">
-                                    <h1>Exoncorp Projects</h1>
+                                    <h1>Exincorp Projects</h1>
                                     <span class="border-center"></span>
                                 </div>
                                 <div class="row">
@@ -144,7 +144,7 @@
                                 <div class="row">
                                     <div class="col-lg-12 col-md-12">
                                         <div class="text-holder">
-                                            <p>Benefits of doing Final Year Project in Vellore at Exoncorp</p> 
+                                            <p>Benefits of doing Final Year Project in Vellore at Exincorp</p> 
                                             <ul>
                                                 <li><i class="fa fa-angle-right" aria-hidden="true"></i>Project Certification recognized by the industry</li>
                                                 <li><i class="fa fa-angle-right" aria-hidden="true"></i>IEEE 2011, 2012, 2013 and 2014 Paper based projects</li>
@@ -265,7 +265,7 @@
                                     <div class="text-holder">
                                         <h5>Network Security</h5>
                                         <p><span class="flaticon-telephone"></span>8189985559</p>
-                                        <p><span class="flaticon-back"></span>selva@Exon Corps.in</p>
+                                        <p><span class="flaticon-back"></span>selva@Exin Corps.in</p>
                                     </div>
                                     
                                 </li>
@@ -279,7 +279,7 @@
                                     <div class="text-holder">
                                         <h5>Cisco</h5>
                                         <p><span class="flaticon-telephone"></span>8189985551</p>
-                                        <p><span class="flaticon-back"></span>sivapriya@Exon Corps.in</p>
+                                        <p><span class="flaticon-back"></span>sivapriya@Exin Corps.in</p>
                                     </div>
                                     
                                 </li>
@@ -300,7 +300,7 @@
        <section class="brand-area">
     <div class="container">
         <div class="sec-title pdb-50">
-             <h1>Exoncorp Projects Partners</h1>
+             <h1>Exincorp Projects Partners</h1>
            <span class="border-center"></span>
         </div> <br><br>
         

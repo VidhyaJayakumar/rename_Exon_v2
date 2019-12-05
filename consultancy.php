@@ -3,11 +3,11 @@
 
  <head>
 	<meta charset="UTF-8">
-	<title>ExonCorp solutions India,Software company,IT Training, IT Services, Web Designing and Development company, Outsourcing Services, BPO, IT Infrastructure, Information Communication Technology Company, Business Consulting – IT companies in vellore</title>
+	<title>ExinCorp solutions India,Software company,IT Training, IT Services, Web Designing and Development company, Outsourcing Services, BPO, IT Infrastructure, Information Communication Technology Company, Business Consulting – IT companies in vellore</title>
 	   
 
-	   <meta name="description" content="ExonCorp IT solutions is a leading global professional services companies in vellore, providing IT services and solutions in Tamilnadu, vellore, India,training, consulting, digital, technology, strategy and operations, web development, design.Exon Corp Solutions - IT Certifications in vellore,Comptia A+ N+ Training in vellore,RHCE Training in vellore,MCITP Training in vellore,CCNA Training in vellore,CEH Training in vellore,CISSP Training in vellore,IT  Training in vellore,Computer Training Institute in vellore,Corporate Training in vellore,International certification in vellore">
-		<meta name="keywords" content="ExonCorp academy,exincorp studios,exincorp council,exincorp cloud,exincorp consultancy,exincorp systems,Exon Corp Solutions - IT company in vellore, Companies in Vellore,Training in vellore,RHCE Training in vellore,MCITP Training in vellore,CCNA Training in vellore,CEH Training in vellore,CISSP Training in vellore,IT  Training in vellore,Computer Training Institute in vellore,Corporate Training in vellore,Internaional certification in vellore">
+	   <meta name="description" content="ExinCorp IT solutions is a leading global professional services companies in vellore, providing IT services and solutions in Tamilnadu, vellore, India,training, consulting, digital, technology, strategy and operations, web development, design.Exin Corp Solutions - IT Certifications in vellore,Comptia A+ N+ Training in vellore,RHCE Training in vellore,MCITP Training in vellore,CCNA Training in vellore,CEH Training in vellore,CISSP Training in vellore,IT  Training in vellore,Computer Training Institute in vellore,Corporate Training in vellore,International certification in vellore">
+		<meta name="keywords" content="ExinCorp academy,exincorp studios,exincorp council,exincorp cloud,exincorp consultancy,exincorp systems,Exin Corp Solutions - IT company in vellore, Companies in Vellore,Training in vellore,RHCE Training in vellore,MCITP Training in vellore,CCNA Training in vellore,CEH Training in vellore,CISSP Training in vellore,IT  Training in vellore,Computer Training Institute in vellore,Corporate Training in vellore,Internaional certification in vellore">
 
 	<!-- responsive meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -67,7 +67,7 @@
                         <li><i class="fa fa-angle-right" aria-hidden="true"></i></li>
                         <li><a href="services.php">Services</a></li>
                         <li><i class="fa fa-angle-right" aria-hidden="true"></i></li>
-                        <li class="active"><a href="#exincorp -consultancy.php">ExonCorp Consultancy</a></li>
+                        <li class="active"><a href="#exincorp -consultancy.php">ExinCorp Consultancy</a></li>
                     </ul>
                 </div>
                 <div class="right pull-right">
@@ -96,13 +96,13 @@
                                     <img src="images/services/business-growth.jpg" alt="Awesome Image">
                                 </div>
                                 <div class="text-holder">
-                                   <p><strong>Consultancy:</strong> Exoncorp  consultancy was started to provide solutions that would enable our clients to compete and win in technology driven global markets.</p>
-                                    <p class="mar-btm15"><strong>ExonCorp Consulting</strong>
+                                   <p><strong>Consultancy:</strong> Exincorp  consultancy was started to provide solutions that would enable our clients to compete and win in technology driven global markets.</p>
+                                    <p class="mar-btm15"><strong>ExinCorp Consulting</strong>
 
-The goal of ExonCorp is to enable our clients in becoming more agile and competent through the innovative use of technology. As a company, we measure our success by their success. We are committed to deliver excellence in providing all kinds of solutions and technology under asingle roof. You name it we have the smart technological solution for it.</p>
-<p>ExonCorp consulting was started to provide solutions that would enable our clients
+The goal of ExinCorp is to enable our clients in becoming more agile and competent through the innovative use of technology. As a company, we measure our success by their success. We are committed to deliver excellence in providing all kinds of solutions and technology under asingle roof. You name it we have the smart technological solution for it.</p>
+<p>ExinCorp consulting was started to provide solutions that would enable our clients
 to compete and win in technology driven global markets.</p>
-                                    <p>ExonCorp started from a single location in Vellore, India in 2009 and quickly expanded to multiple locations within India. Today we have offices and operations in Chennai, Thiruvannamalai, Hosur and Gudiyattam (Tamilnadu).</p>
+                                    <p>ExinCorp started from a single location in Vellore, India in 2009 and quickly expanded to multiple locations within India. Today we have offices and operations in Chennai, Thiruvannamalai, Hosur and Gudiyattam (Tamilnadu).</p>
                                 </div>
                             </div>
                         </div>

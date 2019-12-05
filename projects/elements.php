@@ -7,7 +7,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<title>Exoncorp - Projects</title>
+	<title>Exincorp - Projects</title>
 	<meta name="author" content="SaltTechno">
 
 	<!-- ========== COMMON STYLES ========== -->
@@ -40,7 +40,7 @@
                         <div class="inner cover">
                             <h1 class="cover-heading white-text tlt">
                                 <ul class="texts">
-                                    <li data-out-effect="fadeOut" data-out-shuffle="true">Exoncorp - Projects! This is impressive.</li>
+                                    <li data-out-effect="fadeOut" data-out-shuffle="true">Exincorp - Projects! This is impressive.</li>
                                     <li data-in-effect="fadeIn" data-out-shuffle="true">This seeks attention.</li>
                                     <li data-in-effect="fadeUp" data-out-shuffle="false">Change animations easily.</li>
                                 </ul>
@@ -1577,7 +1577,7 @@
                     	<div class="col-sm-4">
                     		<div class="card news-card mb-20">
                     			<div class="card-block">
-                    				<h5 class="card-title">Exoncorp - Projects is awesome.</h5>
+                    				<h5 class="card-title">Exincorp - Projects is awesome.</h5>
                     				<p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
                     				<a href="#" class="btn btn-primary">Go somewhere</a>
                     			</div>
@@ -1653,7 +1653,7 @@
                                     <h4 class="card-title">We have simple pricing:</h4>
                                     <h6 class="card-subtitle mb-2 text-muted mb-4">The last consulting template you will ever need!</h6>
 
-                                    <p class="card-text">'Exoncorp - Projects' - consulting HTML template is the one place solution for all of your consulting business website. It works for any industry. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                                    <p class="card-text">'Exincorp - Projects' - consulting HTML template is the one place solution for all of your consulting business website. It works for any industry. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 
                                     <div class="row mt-4 mb-4">
                                         <div class="col-md-4">

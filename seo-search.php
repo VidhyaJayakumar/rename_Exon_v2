@@ -69,7 +69,7 @@
                         <li><i class="fa fa-angle-right" aria-hidden="true"></i></li>
                         <li><a href="services.php">Services</a></li>
                         <li><i class="fa fa-angle-right" aria-hidden="true"></i></li>
-                        <li class="active"><a href="Exon Corp-digital-marketing.php">Digital Marketing Venture</a></li>
+                        <li class="active"><a href="Exin Corp-digital-marketing.php">Digital Marketing Venture</a></li>
                     </ul>
                 </div>
                 <div class="right pull-right">
@@ -236,17 +236,17 @@
                     <!--Start single sidebar-->
                     <div class="single-sidebar">
                         <ul class="page-link">
-                            <li><a class="active" href="Exon Corp-academy.php">Training</a></li>
-                            <li><a href="Exon Corp-systems.php">Support Services</a></li>
-                            <li><a href="Exon Corp-consultancy.php">Consultancy</a></li>
-                            <li><a href="Exon Corp-digital-marketing.php">Digital Marketing</a></li>
-                            <li><a href="Exon Corp-law-firm.php">Law Firm</a></li>
-                            <li><a href="Exon Corp-studios.php">Web Development</a></li>              
-                            <li><a href="Exon Corp-cloud.php">Cloud Services</a></li>              
-                            <li><a href="Exon Corp-softwares.php">Software Development</a></li>              
-                            <li><a href="Exon Corp-council.php">Security Services</a></li>              
+                            <li><a class="active" href="Exin Corp-academy.php">Training</a></li>
+                            <li><a href="Exin Corp-systems.php">Support Services</a></li>
+                            <li><a href="Exin Corp-consultancy.php">Consultancy</a></li>
+                            <li><a href="Exin Corp-digital-marketing.php">Digital Marketing</a></li>
+                            <li><a href="Exin Corp-law-firm.php">Law Firm</a></li>
+                            <li><a href="Exin Corp-studios.php">Web Development</a></li>              
+                            <li><a href="Exin Corp-cloud.php">Cloud Services</a></li>              
+                            <li><a href="Exin Corp-softwares.php">Software Development</a></li>              
+                            <li><a href="Exin Corp-council.php">Security Services</a></li>              
                             <li><a href="Internship-In-Vellore.php">Internships</a></li>              
-                            <li><a href="Exon Corp-projects.php">Projects</a></li>              
+                            <li><a href="Exin Corp-projects.php">Projects</a></li>              
                         </ul>
                     </div>
                     <!--End single sidebar-->
@@ -335,7 +335,7 @@
                                     <div class="text-holder">
                                         <h5>System Engineer</h5>
                                         <p><span class="flaticon-telephone"></span>8189985558</p>
-                                        <p><span class="flaticon-back"></span>balaji@Exon Corpsolutions.in</p>
+                                        <p><span class="flaticon-back"></span>balaji@Exin Corpsolutions.in</p>
                                     </div>
                                 </li>
                                 

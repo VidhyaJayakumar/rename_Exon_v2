@@ -3,13 +3,13 @@
 
  <head>
 	<meta charset="UTF-8">
-	<title>Digital Marketing Venture | Digital Marketing Company | Vellore ExonCorp Studios</title>
+	<title>Digital Marketing Venture | Digital Marketing Company | Vellore ExinCorp Studios</title>
            
 	   
 
-	  <meta name="description" content="Digital marketing Venture, Exon Corp Studios an digital marketing company in Vellore &amp; Chennai having expertise in Digital &amp; Social Media training, consulting and services with quality conscious team on board."/>
-	  	<meta name="author" content=" ExonCorp Systems - computer sales and service @ Vellore, Chennai, Kanchipuram, Gudiyatham">
-		<meta name="keywords" content="Digital marketing Venture, Exon Corp Studios an digital marketing company in Vellore &amp; Chennai having expertise in Digital &amp; Social Media training, consulting and services with quality conscious team on board.">
+	  <meta name="description" content="Digital marketing Venture, Exin Corp Studios an digital marketing company in Vellore &amp; Chennai having expertise in Digital &amp; Social Media training, consulting and services with quality conscious team on board."/>
+	  	<meta name="author" content=" ExinCorp Systems - computer sales and service @ Vellore, Chennai, Kanchipuram, Gudiyatham">
+		<meta name="keywords" content="Digital marketing Venture, Exin Corp Studios an digital marketing company in Vellore &amp; Chennai having expertise in Digital &amp; Social Media training, consulting and services with quality conscious team on board.">
 
 	<!-- responsive meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">

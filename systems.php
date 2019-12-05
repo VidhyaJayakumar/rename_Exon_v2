@@ -3,12 +3,12 @@
 
  <head>
 	<meta charset="UTF-8">
-	<title>Exoncorp Systems |IT Services company | Computer Service Center in Vellore |Computer Sales and Service in Vellore | Server Rental and Services | Networking Problem | Data Recovery Problem | Laptop Service Center Kanchipuram, printer,tonerrefilling, | Vellore | Kanchipuram | Gudiyatham | Chennai @ exincorp  Systems</title>
+	<title>Exincorp Systems |IT Services company | Computer Service Center in Vellore |Computer Sales and Service in Vellore | Server Rental and Services | Networking Problem | Data Recovery Problem | Laptop Service Center Kanchipuram, printer,tonerrefilling, | Vellore | Kanchipuram | Gudiyatham | Chennai @ exincorp  Systems</title>
 	   
 
 	  <meta name="description" content="exincorp Systems Services is the one-stop IT services company in Vellore for all of your Desktop and Laptop Computer repairs. Our technicians fix all types of hardware and software problems. - exincorp  Systems laptop, desktop,printers,servers,softwares,oldsystems,networking,rack,tonerrefilling @ Vellore, Chennai, Gudiyatham, Kanchipuram"/>
 	  	<meta name="author" content=" exincorp  Systems - computer sales and service @ Vellore, Chennai, Kanchipuram, Gudiyatham">
-		<meta name="keywords" content="computer dealers in vellore,computer sales in vellore,cctv dealers in vellore,vellore computer accessories,computer shops in vellore,computer service center in vellore,computer service in vellore,computer sales and service in vellore,Computers & Accessories,Laptop Repair and Services in vellore,Sevice Engineer Vellore,computer accessories in vellore,Laptop Accessories in Vellore,Exon Corp systems vellore,tamilnadu. Computer Service Center - exincorp  Systems @ Vellore, Gudiyatham, Chennai, Kanchipuram">
+		<meta name="keywords" content="computer dealers in vellore,computer sales in vellore,cctv dealers in vellore,vellore computer accessories,computer shops in vellore,computer service center in vellore,computer service in vellore,computer sales and service in vellore,Computers & Accessories,Laptop Repair and Services in vellore,Sevice Engineer Vellore,computer accessories in vellore,Laptop Accessories in Vellore,Exin Corp systems vellore,tamilnadu. Computer Service Center - exincorp  Systems @ Vellore, Gudiyatham, Chennai, Kanchipuram">
 
 	<!-- responsive meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -68,7 +68,7 @@
                         <li><i class="fa fa-angle-right" aria-hidden="true"></i></li>
                         <li><a href="services.php">Services</a></li>
                         <li><i class="fa fa-angle-right" aria-hidden="true"></i></li>
-                        <li class="active"><a href="#">Exoncorp  Systems</a></li>
+                        <li class="active"><a href="#">Exincorp  Systems</a></li>
                     </ul>
                 </div>
                 <div class="right pull-right">
@@ -97,9 +97,9 @@
                                     <img src="images/services/business-growth.jpg" alt="Awesome Image">
                                 </div>
                                 <div class="text-holder">
-                                   <p><strong>Support Services :</strong> Exoncorp  systems mission is to bring the perfect IT solutions to the companies ten computers or more.                                  
+                                   <p><strong>Support Services :</strong> Exincorp  systems mission is to bring the perfect IT solutions to the companies ten computers or more.                                  
                                    </p>
-                                    <p class="mar-btm15"><strong>Exoncorp  Systems</strong> we know how essential IT is for your company, but we also know the stress that computers bring when they are not working properly.</p>
+                                    <p class="mar-btm15"><strong>Exincorp  Systems</strong> we know how essential IT is for your company, but we also know the stress that computers bring when they are not working properly.</p>
                                     <p>That is why we have made it our mission to bring the perfect IT solutions to companies running ten computers or more.We help by taking over day-to-day management of your systems, and we make sure that everything is running smoothly.
                                         We fix problems before they cause downtime and ensure your data is disaster-proof.</p>
 <p>And best of all, with us overseeing IT, you and your staff will have more time to concentrate on delighting your customers and growing your company.</p>
@@ -374,7 +374,7 @@
                                     <div class="text-holder">
                                         <h5>System Engineer</h5>
                                         <p><span class="flaticon-telephone"></span>8189985557</p>
-                                        <p><span class="flaticon-back"></span>balaji@Exon Corpsolutions.in</p>
+                                        <p><span class="flaticon-back"></span>balaji@Exin Corpsolutions.in</p>
                                     </div>
                                 </li>
                                 

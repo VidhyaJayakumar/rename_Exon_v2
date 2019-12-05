@@ -10,7 +10,7 @@
 <!-- Head BEGIN -->
 <head>
   <meta charset="utf-8">
-  <title>Exoncorp Systems | Server Rental and Services | CCTV Camera Sales and Services | Networking Problem | Data Recovery Problem | OS Installation | Basic Computer Software Installing | Computer Repair Services | Keyboard Sales and Services | Computer Parts Sales | Desktop Sales and Services | PC Support Software Install | Computer Networking Repair | Hardware Repair | Assembled System Sales | CPU Repair Services in Vellore | On Call Computer Repair Service Kanchipuram | Computer Service Center Chennai | UPS Sales Chennai | Moniter Sales Kanchipuram | Hardware Repair - exincorp System Vellore | Kanchipuram | Gudiyatham | Chennai</title>
+  <title>Exincorp Systems | Server Rental and Services | CCTV Camera Sales and Services | Networking Problem | Data Recovery Problem | OS Installation | Basic Computer Software Installing | Computer Repair Services | Keyboard Sales and Services | Computer Parts Sales | Desktop Sales and Services | PC Support Software Install | Computer Networking Repair | Hardware Repair | Assembled System Sales | CPU Repair Services in Vellore | On Call Computer Repair Service Kanchipuram | Computer Service Center Chennai | UPS Sales Chennai | Moniter Sales Kanchipuram | Hardware Repair - exincorp System Vellore | Kanchipuram | Gudiyatham | Chennai</title>
 
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -109,7 +109,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         </div>
                       </div>
                       <div class="item">
-                        <blockquote><p> Exoncorp has been very attentive to every computer/server problem that has cropped up for our company. They respond quickly to service calls and can even fix things remotely, which is a huge plus in getting problems fixed in a timely manner.</p></blockquote>
+                        <blockquote><p> Exincorp has been very attentive to every computer/server problem that has cropped up for our company. They respond quickly to service calls and can even fix things remotely, which is a huge plus in getting problems fixed in a timely manner.</p></blockquote>
                         <div class="carousel-info">
                           <img class="pull-left" src="assets/frontend/pages/img/people/img5-small.jpg" alt="">
                           <div class="pull-left">

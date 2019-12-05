@@ -8,15 +8,15 @@
 
     <meta charset="UTF-8">
 
-    <title>ExonCorp solutions India,Software company,IT Training, IT Services, Web Designing and Development company, Outsourcing Services, BPO, IT Infrastructure, Information Communication Technology Company, Business Consulting – IT companies in vellore</title>
+    <title>ExinCorp solutions India,Software company,IT Training, IT Services, Web Designing and Development company, Outsourcing Services, BPO, IT Infrastructure, Information Communication Technology Company, Business Consulting – IT companies in vellore</title>
 
         
 
-         <meta name="description" content="ExonCorp IT solutions is a leading global professional services companies in vellore, providing IT services and solutions in Tamilnadu, vellore, India,training, consulting, digital, technology, strategy and operations, web development, design.ExonCorp Solutions - IT Certifications in vellore,Comptia A+ N+ Training in vellore,RHCE Training in vellore,MCITP Training in vellore,CCNA Training in vellore,CEH Training in vellore,CISSP Training in vellore,IT  Training in vellore,Computer Training Institute in vellore,Corporate Training in vellore,International certification in vellore">
+         <meta name="description" content="ExinCorp IT solutions is a leading global professional services companies in vellore, providing IT services and solutions in Tamilnadu, vellore, India,training, consulting, digital, technology, strategy and operations, web development, design.ExinCorp Solutions - IT Certifications in vellore,Comptia A+ N+ Training in vellore,RHCE Training in vellore,MCITP Training in vellore,CCNA Training in vellore,CEH Training in vellore,CISSP Training in vellore,IT  Training in vellore,Computer Training Institute in vellore,Corporate Training in vellore,International certification in vellore">
 
          
 
-        <meta name="keywords" content="ExonCorpacademy,ExonCorpstudios,ExonCorpcouncil,ExonCorpcloud,ExonCorpconsultancy,ExonCorpsystems,ExonCorp Solutions - IT company in vellore, Companies in Vellore,Training in vellore,RHCE Training in vellore,MCITP Training in vellore,CCNA Training in vellore,CEH Training in vellore,CISSP Training in vellore,IT  Training in vellore,Computer Training Institute in vellore,Corporate Training in vellore,Internaional certification in vellore">
+        <meta name="keywords" content="ExinCorpacademy,ExinCorpstudios,ExinCorpcouncil,ExinCorpcloud,ExinCorpconsultancy,ExinCorpsystems,ExinCorp Solutions - IT company in vellore, Companies in Vellore,Training in vellore,RHCE Training in vellore,MCITP Training in vellore,CCNA Training in vellore,CEH Training in vellore,CISSP Training in vellore,IT  Training in vellore,Computer Training Institute in vellore,Corporate Training in vellore,Internaional certification in vellore">
 
 
 
@@ -76,15 +76,15 @@
 
  "@type" : "Organization",
 
- "name" : "ExonCorpSolutions",
+ "name" : "ExinCorpSolutions",
 
- "url" : "https://ExonCorp.in/",
+ "url" : "https://ExinCorp.in/",
 
  "sameAs" : [ 
 
- "https://www.facebook.com/ExonCorp.in/",
+ "https://www.facebook.com/ExinCorp.in/",
 
- "https://twitter.com/ExonCorpindia",
+ "https://twitter.com/ExinCorpindia",
 
  "https://plus.google.com/106304209575651338346",
 
@@ -138,7 +138,7 @@
 
                 <div class="breadcrumbs">
 
-                    <h1>ExonCorp Careers</h1>
+                    <h1>ExinCorp Careers</h1>
 
                 </div>
 
@@ -224,7 +224,7 @@
 
               <div class="caption-panel caption-panel--clean caption-panel--side">
 
-              <a href="http://ExonCorp.in/jobs">
+              <a href="http://ExinCorp.in/jobs">
 
     
 
@@ -236,7 +236,7 @@
 
     <div>
 
-      <a href="http://ExonCorp.in/jobs">
+      <a href="http://ExinCorp.in/jobs">
 
         <h3>Engineering & Technology</h3>
 
@@ -248,7 +248,7 @@
 
          
 
-        <a href="http://ExonCorp.in/jobs">See jobs
+        <a href="http://ExinCorp.in/jobs">See jobs
 
         </a>
 
@@ -266,7 +266,7 @@
 
               <div class="caption-panel caption-panel--clean caption-panel--side">
 
-    <a href="http://ExonCorp.in/jobs">
+    <a href="http://ExinCorp.in/jobs">
 
 
 
@@ -278,7 +278,7 @@
 
     <div class="caption-panel__content">
 
-      <a href="http://ExonCorp.in/jobs">
+      <a href="http://ExinCorp.in/jobs">
 
         <h3>Sales, Service & Support</h3>
 
@@ -290,7 +290,7 @@
 
          
 
-        <a href="http://ExonCorp.in/jobs">
+        <a href="http://ExinCorp.in/jobs">
 
           See jobs
 
@@ -310,7 +310,7 @@
 
               <div class="caption-panel caption-panel--clean caption-panel--side">
 
-    <a href="http://ExonCorp.in/jobs">
+    <a href="http://ExinCorp.in/jobs">
 
 
 
@@ -322,7 +322,7 @@
 
     <div class="caption-panel__content">
 
-      <a href="http://ExonCorp.in/jobs">
+      <a href="http://ExinCorp.in/jobs">
 
         <h3>Marketing & Communications</h3>
 
@@ -336,7 +336,7 @@
 
         <div >
          
-        <a href="http://ExonCorp.in/jobs">
+        <a href="http://ExinCorp.in/jobs">
           See jobs
         </a>
       </div>
@@ -355,7 +355,7 @@
 
               <div class="caption-panel caption-panel--clean caption-panel--side">
 
-     <a href="http://ExonCorp.in/jobs">
+     <a href="http://ExinCorp.in/jobs">
 
 
 
@@ -367,7 +367,7 @@
 
     <div class="caption-panel__content">
 
-      <a href="http://ExonCorp.in/jobs">
+      <a href="http://ExinCorp.in/jobs">
 
         <h3>Design</h3>
 
@@ -379,7 +379,7 @@
 
          
 
-        <a href="http://ExonCorp.in/jobs">
+        <a href="http://ExinCorp.in/jobs">
 
           See jobs
 
@@ -399,7 +399,7 @@
 
               <div class="caption-panel caption-panel--clean caption-panel--side">
 
-     <a href="http://ExonCorp.in/jobs">
+     <a href="http://ExinCorp.in/jobs">
 
 
 
@@ -411,7 +411,7 @@
 
     <div class="caption-panel__content">
 
-      <a href="http://ExonCorp.in/jobs">
+      <a href="http://ExinCorp.in/jobs">
 
         <h3>Business Strategy</h3>
 
@@ -423,7 +423,7 @@
 
          
 
-        <a href="http://ExonCorp.in/jobs">
+        <a href="http://ExinCorp.in/jobs">
 
           See jobs
 
@@ -443,7 +443,7 @@
 
               <div class="caption-panel caption-panel--clean caption-panel--side">
 
-     <a href="http://ExonCorp.in/jobs">
+     <a href="http://ExinCorp.in/jobs">
 
 
 
@@ -455,7 +455,7 @@
 
     <div class="caption-panel__content">
 
-      <a href="http://ExonCorp.in/jobs">
+      <a href="http://ExinCorp.in/jobs">
 
 
 
@@ -469,7 +469,7 @@
 
          
 
-         <a href="http://ExonCorp.in/jobs">
+         <a href="http://ExinCorp.in/jobs">
 
 
 
@@ -491,7 +491,7 @@
 
               <div class="caption-panel caption-panel--clean caption-panel--side">
 
-    <a href="http://ExonCorp.in/jobs">
+    <a href="http://ExinCorp.in/jobs">
 
 
 
@@ -503,7 +503,7 @@
 
     <div class="caption-panel__content">
 
-      <a href="http://ExonCorp.in/jobs">
+      <a href="http://ExinCorp.in/jobs">
 
 
 
@@ -517,7 +517,7 @@
 
          
 
-         <a href="http://ExonCorp.in/jobs">
+         <a href="http://ExinCorp.in/jobs">
 
 
 
@@ -539,7 +539,7 @@
 
               <div class="caption-panel caption-panel--clean caption-panel--side">
 
-     <a href="http://ExonCorp.in/jobs">
+     <a href="http://ExinCorp.in/jobs">
 
 
 
@@ -551,7 +551,7 @@
 
     <div class="caption-panel__content">
 
-       <a href="http://ExonCorp.in/jobs">
+       <a href="http://ExinCorp.in/jobs">
 
 
 
@@ -565,7 +565,7 @@
 
           
 
-         <a href="http://ExonCorp.in/jobs">
+         <a href="http://ExinCorp.in/jobs">
 
 
 
@@ -587,7 +587,7 @@
 
               <div class="caption-panel caption-panel--clean caption-panel--side">
 
-    <a href="http://ExonCorp.in/jobs">
+    <a href="http://ExinCorp.in/jobs">
 
       <div class="caption-panel__image" style="background-image: url(images/careers-Facilities.jpg);"></div>
 
@@ -597,7 +597,7 @@
 
     <div class="caption-panel__content">
 
-      <a href="http://ExonCorp.in/jobs">
+      <a href="http://ExinCorp.in/jobs">
 
         <h3>Facilities</h3>
 
@@ -609,7 +609,7 @@
 
           
 
-        <a href="http://ExonCorp.in/jobs">
+        <a href="http://ExinCorp.in/jobs">
 
           See jobs
 
@@ -809,7 +809,7 @@
 
       <div class="grid__item desk--one-quarter tablet--one-half">
 
-          <a      href="http://ExonCorp.in/careers/apply-to-ExonCorp"
+          <a      href="http://ExinCorp.in/careers/apply-to-ExinCorp"
 
     class="story-panel story-panel--small
 
@@ -1219,11 +1219,11 @@ target="_blank"  >
 
                         <p>CEO / Managing Director</p>
 
-                        <p>ExonCorp Solutions (RBS) is an IT Service & Solution Providers, business solutions and outsourcing organization that delivers real results to global businesses, ensuring a level of certainty that no other firm can match. ExonCorp Solutions helps you experience certainty by reliably delivering business results, providing leadership to drive transformation and partnering for success.<br><br>
+                        <p>ExinCorp Solutions (RBS) is an IT Service & Solution Providers, business solutions and outsourcing organization that delivers real results to global businesses, ensuring a level of certainty that no other firm can match. ExinCorp Solutions helps you experience certainty by reliably delivering business results, providing leadership to drive transformation and partnering for success.<br><br>
 
 
 
-ExonCorp Solutions helps you experience certainty by reliably delivering business results, providing leadership to drive transformation and partnering for success.</p> 
+ExinCorp Solutions helps you experience certainty by reliably delivering business results, providing leadership to drive transformation and partnering for success.</p> 
 
                     </div>
 
@@ -1315,7 +1315,7 @@ ExonCorp Solutions helps you experience certainty by reliably delivering busines
 
                             <div class="title-holder">
 
-                                <h3>ExonCorp STUDIOS</h3>
+                                <h3>ExinCorp STUDIOS</h3>
 
                             </div>
 
@@ -1353,7 +1353,7 @@ ExonCorp Solutions helps you experience certainty by reliably delivering busines
 
                             <div class="title-holder">
 
-                                <h3>ExonCorp SYSTEMS</h3>
+                                <h3>ExinCorp SYSTEMS</h3>
 
                             </div>
 
@@ -1391,7 +1391,7 @@ ExonCorp Solutions helps you experience certainty by reliably delivering busines
 
                             <div class="title-holder">
 
-                                <h3>ExonCorp ACADEMY</h3>
+                                <h3>ExinCorp ACADEMY</h3>
 
                             </div>
 
@@ -1485,9 +1485,9 @@ stand ready to seize them. Where Innovators Must Look for Inspiration.</p>
 
                  
 
-                        <li><span class="fa fa-envelope"></span><a href="mailto:info@ExonCorps.in">info@ExonCorps.in</a> |
+                        <li><span class="fa fa-envelope"></span><a href="mailto:info@ExinCorps.in">info@ExinCorps.in</a> |
 
-                       <a href="mailto:careers@ExonCorps.in">careers@ExonCorps.in</a></li>
+                       <a href="mailto:careers@ExinCorps.in">careers@ExinCorps.in</a></li>
 
                         <li><span class="fa fa-clock-o"></span>Tamilnadu | India</li>
 
@@ -1503,7 +1503,7 @@ stand ready to seize them. Where Innovators Must Look for Inspiration.</p>
 
                     <div class="sec-title pdb-50">
 
-                        <h1 id="connect">BE A PART WITH ExonCorp</h1>
+                        <h1 id="connect">BE A PART WITH ExinCorp</h1>
 
                         <span class="border"></span>
 

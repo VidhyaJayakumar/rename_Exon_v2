@@ -7,17 +7,17 @@
 
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <meta name="google-site-verification" content="uSkovylbhINHLzXRx_8XvyzxJICZBsON4yKhbHFQJ0Y" />
-        <meta name="description" content="Exon Corp IT Solutions is a full service, creative working environment with a unique entrepreneurial spirit, where ideas develop, businesses build and relationships evolve.Exon Corp workspaces in vellore | Bangalore | chennai. including private offices and co-working spaces are available at competitive prices tailored to your business needs. Spaces | Office space, flexible memberships &amp; meeting rooms."/>
+        <meta name="description" content="Exin Corp IT Solutions is a full service, creative working environment with a unique entrepreneurial spirit, where ideas develop, businesses build and relationships evolve.Exin Corp workspaces in vellore | Bangalore | chennai. including private offices and co-working spaces are available at competitive prices tailored to your business needs. Spaces | Office space, flexible memberships &amp; meeting rooms."/>
 		 <meta name="keywords" content="Coworking space in vellore | bangalore | chennai.Shared Office in vellore | Bangalore | chennai.  Coworking in vellore | Bangalore | chennai.  Business Center Space Coworking Space in vellore | Bangalore | chennai.  Office Space For Startups in vellore | Bangalore | chennai. Shared Desk Space in vellore | Bangalore | chennai.  Collaborative in vellore | Bangalore | chennai. Office Space Remote Workspace in vellore | Bangalore | chennai. Shared office space in vellore | Bangalore | chennai | India. Co-working and desk space in vellore | Bangalore | chennai. shared work space bangalore | vellore | chennai. work space bangalore | vellore | chennai. cowork space bangalore | vellore | chennai. work space in bangalore | vellore | chennai. coworking space bangalore | vellore | chennai whitefield. coworking office space bangalore | vellore | chennai. startup coworking space bangalore | vellore | chennai. best coworking space bangalore | vellore | chennai. coworking space in bangalore | vellore | chennai. sharing office space bangalore | vellore | chennai. sharing space in bangalore | vellore | chennai. looking sharing office space bangalore | vellore | chennai. office space sharing basis bangalore | vellore | chennai. sharing office space in bangalore | vellore | chennai. looking for sharing office space in bangalore | vellore | chennai. sharing office space for rent in bangalore | vellore | chennai."/>
             <meta http-equiv="”content-language”" content="”en-us”">
 <!-- <meta name="google-site-verification" content="GuRjSmpkNqU3FiTqaSo7UAVmRBrkBDNnWf-MVEhQkC0"> -->
-<meta name="author" content="Exon Corp IT Solutions">
+<meta name="author" content="Exin Corp IT Solutions">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<meta property="og:title" content="Shared Office | Coworking | Business Center Space - Exon Corp IT Solutions Pvt.Ltd">
-<meta property="og:site_name" content="Exon Corp IT Solutions">
+<meta property="og:title" content="Shared Office | Coworking | Business Center Space - Exin Corp IT Solutions Pvt.Ltd">
+<meta property="og:site_name" content="Exin Corp IT Solutions">
 <meta property="og:url" content="https://redback.in ">
-<meta property="og:description" content="Exon Corp IT Solutions is a full service, creative working environment with a unique entrepreneurial spirit, where ideas develop, businesses build and relationships evolve.Exon Corp workspaces in vellore | Bangalore | chennai.">
+<meta property="og:description" content="Exin Corp IT Solutions is a full service, creative working environment with a unique entrepreneurial spirit, where ideas develop, businesses build and relationships evolve.Exin Corp workspaces in vellore | Bangalore | chennai.">
 <meta property="og:image" content="hhttps://redback.in/logo.png">
 <!-- <meta property="fb:app_id" content="431147353723775"> -->
 <meta property="og:type" content="website">
@@ -52,13 +52,13 @@
                 {
                     "@context" : "http://schema.org",
                     "@type" : "Organization",
-                    "name" : "Exon Corp IT Solutions, Inc.",
+                    "name" : "Exin Corp IT Solutions, Inc.",
                     "url" : "http://redback.in",
                     "sameAs" : 
 
 ["https://www.facebook.com/redback.in","https://twitter.com/redbackindia","https://www.youtube.com/channel/UCOa-UtzHSPRLDGN6JqObaYA","https://www.linkedin.com/company/redback-it-solutions-pvt-ltd","https://plus.google.com/106304209575651338346/","http://instagram.com/redbackitsolutions"],
                     "logo": "http://redback.in/logo.png",
-                    "legalName" : "Exon Corp IT Solutions, Inc.",
+                    "legalName" : "Exin Corp IT Solutions, Inc.",
                     "address":[
                     { "@type": "PostalAddress", "addressCountry": "India", "addressLocality": "Tamil nadu", "addressRegion": "Vellore", "postalCode": "632009", 
 
@@ -128,9 +128,9 @@
 <section class="welcome-area sec-padding">
     <div class="container">
         <div class="sec-title text-center">
-            <h1>Why Choose Exon Corp For Coworking space ?</h1>
+            <h1>Why Choose Exin Corp For Coworking space ?</h1>
             <span class="border-center"></span>
-            <p>Exon Corp Office Space to Suit all your Business Requirements with <br><b>HIGH ENERGY COWORKING SPACE BUILT WITH SPUNK, FOR THE INSPIRED.</b> </p>
+            <p>Exin Corp Office Space to Suit all your Business Requirements with <br><b>HIGH ENERGY COWORKING SPACE BUILT WITH SPUNK, FOR THE INSPIRED.</b> </p>
         </div>
         <div class="row">
             <!--Start single item-->
@@ -171,7 +171,7 @@
                     <div class="text-holder">
                         <div class="text">
                             <a href="#"><h3 class="title">Design</h3></a>
-                            <p>We have embodied the millennial spirit within the Exon Corp space design and have reimaged a coworking space that drives collaboration and fuels inspiration.</p>
+                            <p>We have embodied the millennial spirit within the Exin Corp space design and have reimaged a coworking space that drives collaboration and fuels inspiration.</p>
                         </div>
                     </div>
                 </div>
@@ -193,7 +193,7 @@
                     <div class="text-holder">
                         <div class="text">
                             <a href="#"><h3 class="title">Technology</h3></a>
-                            <p>Connect, Exon Corp’ very own private social network technology,To connect with the global Exon Corp community on the basis of likes, interests and services provided.</p>
+                            <p>Connect, Exin Corp’ very own private social network technology,To connect with the global Exin Corp community on the basis of likes, interests and services provided.</p>
                         </div>
                     </div>
                 </div>

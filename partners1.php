@@ -1,5 +1,5 @@
-Exon Corp Training
-Exon Corp Services
+Exin Corp Training
+Exin Corp Services
 Client | Partners<?php include "loginverifi.php";
 include 'admin/dbaseopen.php';
 
@@ -199,8 +199,8 @@ document.onkeydown=function(e){e=e||window.event;if(e.keyCode==123||e.keyCode==1
     
     <div style="text-align: center;">
         <button class="btn btn-primary filter-button" data-filter="all">All</button>
-        <button class="btn btn-default filter-button" data-filter="webdesign">Exon Corp Training</button>
-        <button class="btn btn-default filter-button" data-filter="appicon">Exon Corp Services</button>
+        <button class="btn btn-default filter-button" data-filter="webdesign">Exin Corp Training</button>
+        <button class="btn btn-default filter-button" data-filter="appicon">Exin Corp Services</button>
         <button class="btn btn-default filter-button" data-filter="iosappui">Client | Partners</button>
     </div>
     <br/>
@@ -345,8 +345,8 @@ document.onkeydown=function(e){e=e||window.event;if(e.keyCode==123||e.keyCode==1
     
     
       <li class="filter" data-filter="all">All</li>
-      <li class="filter" data-filter="webdesign">Exon Corp Training</li>
-      <li class="filter" data-filter="appicon">Exon Corp Services</li>
+      <li class="filter" data-filter="webdesign">Exin Corp Training</li>
+      <li class="filter" data-filter="appicon">Exin Corp Services</li>
       <li class="filter" data-filter="iosappui">Client | Partners</li>
     
     </ul>

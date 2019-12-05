@@ -6,13 +6,13 @@
 <head>
 
  <meta charset="utf-8">
- <title> Exon Corp - Web Design Vellore| Web Development Vellore | Advertising Vellore| Branding | Web Designer in Vellore | Web Development Company in Vellore | Logo Design in Vellore | Web Hosting in Vellore | Outsource Web Development | Design Company in Vellore | Low Cost Web Design in Vellore | Best Web Design Company in  Vellore | Ecommerce website Development Vellore</title>    
+ <title> Exin Corp - Web Design Vellore| Web Development Vellore | Advertising Vellore| Branding | Web Designer in Vellore | Web Development Company in Vellore | Logo Design in Vellore | Web Hosting in Vellore | Outsource Web Development | Design Company in Vellore | Low Cost Web Design in Vellore | Best Web Design Company in  Vellore | Ecommerce website Development Vellore</title>    
 <!-- Description
     ============================================== -->
 <meta name="description" content="We have huge pool of happy clients from Australia, UK, Singapore, USA and many more countries. Outsource your web design, web application development, Mobile application development, SEO and Responsive web design needs to us for expert solutions, Custom Web Application Development, Website Design, Branding, Logo Design, Brochure Design, Multimedia, Outsourcing, SEO, SEM, Online Marketing">
 <!-- Author
     ============================================== -->
-<meta name="author" content="Exon Corp Pvt Ltd solutions software applications development company in India. We specialize in PHP development, Cake PHP development, Joomla development and Java based web applications development, Web development company in Vellore, Web development India, Website development company in Vellore, Web application development, Website design company India, Custom web application development in Vellore,">
+<meta name="author" content="Exin Corp Pvt Ltd solutions software applications development company in India. We specialize in PHP development, Cake PHP development, Joomla development and Java based web applications development, Web development company in Vellore, Web development India, Website development company in Vellore, Web application development, Website design company India, Custom web application development in Vellore,">
 
 <!-- Favicon
     ============================================== -->

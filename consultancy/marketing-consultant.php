@@ -4,7 +4,7 @@
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1">
     <meta charset="utf-8" />
-    <meta name="Description" content="Exoncorp Consultancy is an organised Consulting service provider offering job consultancy services,placement consultancy services,  Consultancy in Vellore , List of Job Consultants in Vellore , Placement consultancy, Recruitment Consultancy list, HR Consultancy, Placement consultants, Leading recruitment agency, Job placement consultancy India, free Human Resources services, sales and marketing jobs for freshers and experiences,IT consulting | Business Consulting | Technology Consulting | Legal Consulting | Seo Consulting | Marketing Consulting | Information Technology - Vellore, Bangalore, Chennai">
+    <meta name="Description" content="Exincorp Consultancy is an organised Consulting service provider offering job consultancy services,placement consultancy services,  Consultancy in Vellore , List of Job Consultants in Vellore , Placement consultancy, Recruitment Consultancy list, HR Consultancy, Placement consultants, Leading recruitment agency, Job placement consultancy India, free Human Resources services, sales and marketing jobs for freshers and experiences,IT consulting | Business Consulting | Technology Consulting | Legal Consulting | Seo Consulting | Marketing Consulting | Information Technology - Vellore, Bangalore, Chennai">
   <meta name="Keywords" content="IT consulting | Business Consulting | Technology Consulting | Legal Consulting | Seo Consulting | Marketing Consulting | Information Technology - Vellore, Bangalore, ChennaiIT company Jobs, Telecommunication Jobs, Healthcare Resources Job, Leading Consultancy Jobs, Placement Consultancy, Ethical Hacking Jobs, Networking Jobs, Server Jobs, Hardwaring Jobs, Software Engineering Jobs, Software Development Jobs, Education Jobs, Bpo Jobs, List of Consultancy in Chennai, Recruitment Consultancy Jobs, Manpower Consultancy Jobs, Job Placement Recruitment, Sales and Marketing Jobs @ Vellore, Bangalore, Chennai">
 <meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
 <meta name="MobileOptimized" content="width" />
@@ -284,9 +284,9 @@ document.onkeydown=function(e){e=e||window.event;if(e.keyCode==123||e.keyCode==1
 <div class="box1"><div class="row"><div class="col-sm-6">
 <h3 class="service-title">Marketing Consultants</h3>
 
-<p align="justify">Exoncorp is a team of marketers, graphic designers, social media experts, public relations officers and journalists designed to develop and market the business. It possesses technical, creative and dynamic marketing team which is dedicated to achieve the objectives detailed in the business marketing strategy. </p>
+<p align="justify">Exincorp is a team of marketers, graphic designers, social media experts, public relations officers and journalists designed to develop and market the business. It possesses technical, creative and dynamic marketing team which is dedicated to achieve the objectives detailed in the business marketing strategy. </p>
 
-<p align="justify">Exoncorp helps to deploy brand imaging through both traditional and digital marketing channels. It focuses more on digital and specialised media marketing.  It helps a business grow exponentially in the following ways : </p>
+<p align="justify">Exincorp helps to deploy brand imaging through both traditional and digital marketing channels. It focuses more on digital and specialised media marketing.  It helps a business grow exponentially in the following ways : </p>
 <ul class="icon-list"><li align="justify"><b>Marketing Strategy :</b>
 Developing result oriented marketing strategies and supporting in implementing of the same.</li>
 	<li align="justify"><b>Growth Strategy :</b>

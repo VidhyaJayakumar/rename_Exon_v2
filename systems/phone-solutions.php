@@ -9,7 +9,7 @@
 <!-- Head BEGIN -->
 <head>
   <meta charset="utf-8">
-   <title>Exoncorp Systems |Computer dealers in vellore|Computer sales and service in vellore CCTV Camera Sales and Services Chennai | Computer Repair Service | On Call Computer Service | Assembled System Sales | Low Cost Computer Sales | Desktop System Price List | Used Laptop Sales Vellore | Computer Dealers Kanchipuram | Server Problem Vellore | Mother Board Sales Services Kanchipuram | Laptop Screen Repair Gudiyatham | Computer Repair Store Vellore | Computer Services Center Kanchipuram | IT Computer Services Gudiyatham | Laptop Keyboard Repair Vellore | Desktop Computer Services Kachipuram | Computer Support Specialist - exincorp Systems @ Chennai | Kanchipuram | Gudiyatham | Vellore</title>
+   <title>Exincorp Systems |Computer dealers in vellore|Computer sales and service in vellore CCTV Camera Sales and Services Chennai | Computer Repair Service | On Call Computer Service | Assembled System Sales | Low Cost Computer Sales | Desktop System Price List | Used Laptop Sales Vellore | Computer Dealers Kanchipuram | Server Problem Vellore | Mother Board Sales Services Kanchipuram | Laptop Screen Repair Gudiyatham | Computer Repair Store Vellore | Computer Services Center Kanchipuram | IT Computer Services Gudiyatham | Laptop Keyboard Repair Vellore | Desktop Computer Services Kachipuram | Computer Support Specialist - exincorp Systems @ Chennai | Kanchipuram | Gudiyatham | Vellore</title>
 
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -98,7 +98,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	</div>
 </div>  
 
-<h3><b>VoIP solutions from Exoncorp Systems are:</b></h3>      
+<h3><b>VoIP solutions from Exincorp Systems are:</b></h3>      
 <ul>
 <li><b>Economical – </b>cut your telecommunication costs and avoid extra setup, installation or maintenance fees</li>
 <li><b>User-friendly –</b> easily understandable at-a-glance interface</li>

@@ -9,7 +9,7 @@
 <!-- Head BEGIN -->
 <head>
   <meta charset="utf-8">
-   <title>Exoncorp Systems |Computer dealers in vellore|Computer sales in vellore CCTV Camera Services Sales | Server Problem | Computer Assembled Set Sale | MotherBoard Service Sale | PC Repair in Vellore | Computer Repair in Kanchipuram | Computer Service in Gudiyatham | Computer Repair & Services in Vellore | Laptop Service in Kanchipuram | Keyboard Sales in Vellore | Desktop Repair in Chennai | Computer Accessories Sales in Gudiyatham |  Computer Repair Onsite in Kanchipuram | Pc Support in Vellore | Fix Computer in Gudiyatham | Computer Technician in Kanchipuram | Computer Networking Repair in Chennai | Computer Parts Sales Gudiyatham | Computer Services in Vellore | Computer Repair in Chennai | Computer Services Center in Vellore - exincorp Systems Vellore | Kanchipuram | Gudiyatham | Chennai </title>
+   <title>Exincorp Systems |Computer dealers in vellore|Computer sales in vellore CCTV Camera Services Sales | Server Problem | Computer Assembled Set Sale | MotherBoard Service Sale | PC Repair in Vellore | Computer Repair in Kanchipuram | Computer Service in Gudiyatham | Computer Repair & Services in Vellore | Laptop Service in Kanchipuram | Keyboard Sales in Vellore | Desktop Repair in Chennai | Computer Accessories Sales in Gudiyatham |  Computer Repair Onsite in Kanchipuram | Pc Support in Vellore | Fix Computer in Gudiyatham | Computer Technician in Kanchipuram | Computer Networking Repair in Chennai | Computer Parts Sales Gudiyatham | Computer Services in Vellore | Computer Repair in Chennai | Computer Services Center in Vellore - exincorp Systems Vellore | Kanchipuram | Gudiyatham | Chennai </title>
 
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -93,7 +93,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                  <p align="justify">As a business owner, you know how crucial email is to modern organizations of all sizes, and across all industry verticals. But email is no longer just a basic tool, it is something you can use to streamline processes and enhance both internal and external communications. But as we grow increasingly independent on email, ensuring its security is more important than ever before.</p>
                   <div class="portlet-body">
      <div class="well">
-<font size="4">Exoncorp Systems offer a full suite of email solutions that help you work more efficiently - and more securely. It’s time to make your email work smarter.
+<font size="4">Exincorp Systems offer a full suite of email solutions that help you work more efficiently - and more securely. It’s time to make your email work smarter.
 </font>
 	</div>
 </div>                
@@ -151,7 +151,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
               </div>
               </div>
 
-<p align="justify">Exoncorp Systems experts are experienced in implementing and converting company email systems over to Google Apps and Office365. After doing this hundreds of times we have the process down to a fine art and can ensure.</p>
+<p align="justify">Exincorp Systems experts are experienced in implementing and converting company email systems over to Google Apps and Office365. After doing this hundreds of times we have the process down to a fine art and can ensure.</p>
 <ul>
 <li>Email signatures, tasks, auto completed contacts, flags and even huge email boxes are converted over to the new system with no losses.</li>
 <li>Everyone gets a reminder. We sent all employees reminders at least four times so they can be ready. They also get migration plan and status reports.</li>

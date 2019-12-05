@@ -5,10 +5,10 @@
 <head>
 <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Frequently Asked Questions | WebHosting | Hosting Services | Domain Hosting | Domain Registration | Unlimited Hosting | Best Website Hosting | Linux Hosting | Reseller Hosting | Domain Name Registration | Web Hosting Company | Green Web Hosting | Windows Hosting | Shared Hosting | SSL Security | DNS Black Listing Services @ Exoncorp Cloud in India</title>
-    <meta name="Description" content="Becoming a Exoncorp Cloud Reseller is easy and profitable! Signup to Exoncorp Cloud reseller hosting plans and sell to your own customers, under your own brand, Spam Guard, Enhanced Security, Unbeatable Support, High Performance @ Exoncorp Cloud in India">
-    <meta name="Keywords" content="Domain Name, Domain Name Registration, Unlimited Hosting, Linux Hosting, DDoS Mitigation, Fire Wall, Threat management, 24/7 tech Support, Hosting Tech Support, Web Hosting Company, Linux Hosting, Free Domain Name, Email Hosting, Vps Hosting @ Exoncorp Cloud in India">
-	<meta name="Author" content="Exoncorp Cloud">
+    <title>Frequently Asked Questions | WebHosting | Hosting Services | Domain Hosting | Domain Registration | Unlimited Hosting | Best Website Hosting | Linux Hosting | Reseller Hosting | Domain Name Registration | Web Hosting Company | Green Web Hosting | Windows Hosting | Shared Hosting | SSL Security | DNS Black Listing Services @ Exincorp Cloud in India</title>
+    <meta name="Description" content="Becoming a Exincorp Cloud Reseller is easy and profitable! Signup to Exincorp Cloud reseller hosting plans and sell to your own customers, under your own brand, Spam Guard, Enhanced Security, Unbeatable Support, High Performance @ Exincorp Cloud in India">
+    <meta name="Keywords" content="Domain Name, Domain Name Registration, Unlimited Hosting, Linux Hosting, DDoS Mitigation, Fire Wall, Threat management, 24/7 tech Support, Hosting Tech Support, Web Hosting Company, Linux Hosting, Free Domain Name, Email Hosting, Vps Hosting @ Exincorp Cloud in India">
+	<meta name="Author" content="Exincorp Cloud">
 
 
 <!-- Favicon -->
@@ -94,7 +94,7 @@ document.onkeydown=function(e){e=e||window.event;if(e.keyCode==123||e.keyCode==1
           </div>
           <div class="accordion-section"><a class="accordion-section-title" href="#accordion-3">Is there a Money Back Guarantee?</a>
             <div id="accordion-3" class="accordion-section-content">
-              <p>Exoncorp offers customers a no-questions asked money back guarantee on the hosting service that we provide. If you decide to cancel within the money back guarantee period of 30 days, we will provide you with a full refund less any setup fees, and domain registration or transfer costs.</p>
+              <p>Exincorp offers customers a no-questions asked money back guarantee on the hosting service that we provide. If you decide to cancel within the money back guarantee period of 30 days, we will provide you with a full refund less any setup fees, and domain registration or transfer costs.</p>
             </div>
           </div>
           <div class="accordion-section"><a class="accordion-section-title" href="#accordion-4">How do I install an SSL certificate on my Website? </a>

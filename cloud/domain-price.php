@@ -5,10 +5,10 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>WebHosting | Hosting Services | Domain Hosting | Domain Registration | Unlimited Hosting | Best Website Hosting | Linux Hosting | Reseller Hosting | Domain Name Registration | Web Hosting Company | Green Web Hosting | Windows Hosting | Shared Hosting | SSL Security | DNS Black Listing Services @ Exoncorp Cloud in India</title>
-    <meta name="Description" content="Exoncorp is the leading web hosting services, VPS hosting & dedicated servers provider in India. Providing world-class technical support & hosting to over 8,000,000 websites across the globe @ Exoncorp Cloud India" >
-    <meta name="Keywords" content="Domain Name, Domain Name Registration, Unlimited Hosting, Linux Hosting, DDoS Mitigation, Fire Wall, Threat management, 24/7 tech Support, Hosting Tech Support, Web Hosting Company, Linux Hosting, Free Domain Name, Email Hosting, Vps Hosting @ Exoncorp Cloud in India">
-  	<meta name="Author" content="Exoncorp Cloud">	
+    <title>WebHosting | Hosting Services | Domain Hosting | Domain Registration | Unlimited Hosting | Best Website Hosting | Linux Hosting | Reseller Hosting | Domain Name Registration | Web Hosting Company | Green Web Hosting | Windows Hosting | Shared Hosting | SSL Security | DNS Black Listing Services @ Exincorp Cloud in India</title>
+    <meta name="Description" content="Exincorp is the leading web hosting services, VPS hosting & dedicated servers provider in India. Providing world-class technical support & hosting to over 8,000,000 websites across the globe @ Exincorp Cloud India" >
+    <meta name="Keywords" content="Domain Name, Domain Name Registration, Unlimited Hosting, Linux Hosting, DDoS Mitigation, Fire Wall, Threat management, 24/7 tech Support, Hosting Tech Support, Web Hosting Company, Linux Hosting, Free Domain Name, Email Hosting, Vps Hosting @ Exincorp Cloud in India">
+  	<meta name="Author" content="Exincorp Cloud">	
 
 <!-- Favicon -->
 
@@ -103,13 +103,13 @@ document.onkeydown=function(e){e=e||window.event;if(e.keyCode==123||e.keyCode==1
         <div class="col-md-4 col-sm-4 col-xs-12 wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".3s">
           <div class="choose_r_options"><i class="fa fa-lock gradient_color"></i>
             <h5 class="section_sub_heading">Domain Theft Protection</h5>
-            <p>Exoncorpcloud.com offers malware removal and scanning that will enhance website security protecting against attacks and vulnerability.</p>
+            <p>Exincorpcloud.com offers malware removal and scanning that will enhance website security protecting against attacks and vulnerability.</p>
           </div>
         </div>
         <div class="col-md-4 col-sm-4 col-xs-12 wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".5s">
           <div class="choose_r_options"><i class="fa fa-server gradient_color"></i>
             <h5 class="section_sub_heading">Easy to use Control Panel</h5>
-            <p>Exoncorp provide a Easy acess user interface control panel. You can easy upload your website files and folder to the filemaner to Change content in website.</p>
+            <p>Exincorp provide a Easy acess user interface control panel. You can easy upload your website files and folder to the filemaner to Change content in website.</p>
           </div>
         </div>
       </div>

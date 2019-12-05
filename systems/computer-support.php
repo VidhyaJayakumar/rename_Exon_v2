@@ -9,7 +9,7 @@
 <!-- Head BEGIN -->
 <head>
   <meta charset="utf-8">
-   <title>Exoncorp Systems |computer dealers in vellore|computer sales in vellore| System Restart problem Vellore | Computer Components Sales Kanchipuram | RAM Repair Problem Vellore | Hardisk Data Recovery Problem Gudiyatham  | Processor Problem Repair Vellore | Peripherals Problem Repair Kanchipuram | Network problem in Vellore | Cabinat sales Services Kanchipuram | Dell Laptop Service Vellore | HP Laptop service Gudiyatham | Server Problem Rental Services | Mother Board Problem Services Kanchipuram | UPS sales Vellore | Printer Sales and Services Gudiyatham | Cheap Data Recovery Vellore | APC Inverter Service kanchipuram - exincorp Systems Vellore | Kanchipuram | Gudiyatham | Chennai</title>
+   <title>Exincorp Systems |computer dealers in vellore|computer sales in vellore| System Restart problem Vellore | Computer Components Sales Kanchipuram | RAM Repair Problem Vellore | Hardisk Data Recovery Problem Gudiyatham  | Processor Problem Repair Vellore | Peripherals Problem Repair Kanchipuram | Network problem in Vellore | Cabinat sales Services Kanchipuram | Dell Laptop Service Vellore | HP Laptop service Gudiyatham | Server Problem Rental Services | Mother Board Problem Services Kanchipuram | UPS sales Vellore | Printer Sales and Services Gudiyatham | Cheap Data Recovery Vellore | APC Inverter Service kanchipuram - exincorp Systems Vellore | Kanchipuram | Gudiyatham | Chennai</title>
 
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -117,7 +117,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             <div class="panel-heading">
                                 <h4 class="panel-title">
                                     <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion1" href="#accordion1_1">
-                                    Exoncorp Systems' Basic Plan (Block Hour Contract)
+                                    Exincorp Systems' Basic Plan (Block Hour Contract)
                                     </a>
                                 </h4>
                             </div>
@@ -142,7 +142,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             <div class="panel-heading">
                                 <h4 class="panel-title">
                                     <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion1" href="#accordion1_2">
-                                   Exoncorp Systems' Preferred Plan
+                                   Exincorp Systems' Preferred Plan
                                     </a>
                                 </h4>
                             </div>
@@ -235,7 +235,7 @@ Includes Network Security Assessments Licensing / Use fee’s</li>
                             <div class="panel-heading">
                                 <h4 class="panel-title">
                                     <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion1" href="#accordion1_3">
-                                    Exoncorp Systems' Elite Plan
+                                    Exincorp Systems' Elite Plan
                                     </a>
                                 </h4>
                             </div>

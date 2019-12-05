@@ -4,7 +4,7 @@
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1">
     <meta charset="utf-8" />
-    <meta name="Description" content="Exoncorp Consultancy is an organised Consulting service provider offering job consultancy services,placement consultancy services,  Consultancy in Vellore , List of Job Consultants in Vellore , Placement consultancy, Recruitment Consultancy list, HR Consultancy, Placement consultants, Leading recruitment agency, Job placement consultancy India, free Human Resources services, sales and marketing jobs for freshers and experiences,IT consulting | Business Consulting | Technology Consulting | Legal Consulting | Seo Consulting | Marketing Consulting | Information Technology - Vellore, Bangalore, Chennai">
+    <meta name="Description" content="Exincorp Consultancy is an organised Consulting service provider offering job consultancy services,placement consultancy services,  Consultancy in Vellore , List of Job Consultants in Vellore , Placement consultancy, Recruitment Consultancy list, HR Consultancy, Placement consultants, Leading recruitment agency, Job placement consultancy India, free Human Resources services, sales and marketing jobs for freshers and experiences,IT consulting | Business Consulting | Technology Consulting | Legal Consulting | Seo Consulting | Marketing Consulting | Information Technology - Vellore, Bangalore, Chennai">
   <meta name="Keywords" content="IT consulting | Business Consulting | Technology Consulting | Legal Consulting | Seo Consulting | Marketing Consulting | Information Technology - Vellore, Bangalore, ChennaiIT company Jobs, Telecommunication Jobs, Healthcare Resources Job, Leading Consultancy Jobs, Placement Consultancy, Ethical Hacking Jobs, Networking Jobs, Server Jobs, Hardwaring Jobs, Software Engineering Jobs, Software Development Jobs, Education Jobs, Bpo Jobs, List of Consultancy in Chennai, Recruitment Consultancy Jobs, Manpower Consultancy Jobs, Job Placement Recruitment, Sales and Marketing Jobs @ Vellore, Bangalore, Chennai">
 <meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
 <meta name="MobileOptimized" content="width" />
@@ -350,7 +350,7 @@ document.onkeydown=function(e){e=e||window.event;if(e.keyCode==123||e.keyCode==1
 <h2 class="service-title">IT CONSULTING</h2>
 <h3 class="service-title">Inculcating Business with IT Solutions</h3>
 
-<p align="justify">Exoncorp IT Consulting services help infuse any business with technology infrastructure through IT related services.  It focuses on improving the IT in the organization through strategy and process implementation. 
+<p align="justify">Exincorp IT Consulting services help infuse any business with technology infrastructure through IT related services.  It focuses on improving the IT in the organization through strategy and process implementation. 
 Our fool proof and easy to use IT solutions and tools help improve business performance smartly. Our experience across multiple services ensure a hiked business growth focused on customer satisfaction, reduced time to market and increased operational excellence.
 We address and remediate the following business challenges:</p>
 <ul class="icon-list"><li align="justify"><b>Apt advisory services :</b> To enable the business to help make quicker and focused decisions through visualization of key business outcomes. </li>

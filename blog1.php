@@ -3,11 +3,11 @@
 
  <head>
 	<meta charset="UTF-8">
-	<title>Exon Corpsolutions India,Software company,IT Training, IT Services, Web Designing and Development company, Outsourcing Services, BPO, IT Infrastructure, Information Communication Technology Company, Business Consulting – IT companies in vellore</title>
+	<title>Exin Corpsolutions India,Software company,IT Training, IT Services, Web Designing and Development company, Outsourcing Services, BPO, IT Infrastructure, Information Communication Technology Company, Business Consulting – IT companies in vellore</title>
 
-<meta name="description" content="Exon Corp IT solutions is a leading global professional services companies in vellore, providing IT services and solutions in Tamilnadu, vellore, India,training, consulting, digital, technology, strategy and operations, web development, design.Exon Corp Solutions - IT Certifications in vellore,Comptia A+ N+ Training in vellore,RHCE Training in vellore,MCITP Training in vellore,CCNA Training in vellore,CEH Training in vellore,CISSP Training in vellore,IT  Training in vellore,Computer Training Institute in vellore,Corporate Training in vellore,International certification in vellore">
+<meta name="description" content="Exin Corp IT solutions is a leading global professional services companies in vellore, providing IT services and solutions in Tamilnadu, vellore, India,training, consulting, digital, technology, strategy and operations, web development, design.Exin Corp Solutions - IT Certifications in vellore,Comptia A+ N+ Training in vellore,RHCE Training in vellore,MCITP Training in vellore,CCNA Training in vellore,CEH Training in vellore,CISSP Training in vellore,IT  Training in vellore,Computer Training Institute in vellore,Corporate Training in vellore,International certification in vellore">
 
-<meta name="keywords" content="Exon Corpacademy,redbackstudios,redbackcouncil,redbackcloud,redbackconsultancy,redbacksystems,Exon Corp Solutions - IT company in vellore, Companies in Vellore,Training in vellore,RHCE Training in vellore,MCITP Training in vellore,CCNA Training in vellore,CEH Training in vellore,CISSP Training in vellore,IT  Training in vellore,Computer Training Institute in vellore,Corporate Training in vellore,Internaional certification in vellore">
+<meta name="keywords" content="Exin Corpacademy,redbackstudios,redbackcouncil,redbackcloud,redbackconsultancy,redbacksystems,Exin Corp Solutions - IT company in vellore, Companies in Vellore,Training in vellore,RHCE Training in vellore,MCITP Training in vellore,CCNA Training in vellore,CEH Training in vellore,CISSP Training in vellore,IT  Training in vellore,Computer Training Institute in vellore,Corporate Training in vellore,Internaional certification in vellore">
 
 	<!-- responsive meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -33,7 +33,7 @@
  { 
  "@context" : "http://schema.org",
  "@type" : "Organization",
- "name" : "Exon CorpSolutions",
+ "name" : "Exin CorpSolutions",
  "url" : "https://redback.in/",
  "sameAs" : [ 
  "https://www.facebook.com/redback.in/",
@@ -124,13 +124,13 @@
                     <div class="text-holder">
                         <ul class="meta-info">
                             
-                            <li><a href="#">Exon Corp Studios, at 6 pm</a></li>
+                            <li><a href="#">Exin Corp Studios, at 6 pm</a></li>
                         </ul>
                         <a href="#">
                             <h3 class="blog-title">Redesign Website</h3>
                         </a>
                         <div class="text">
-                            <p>Exon Corp Studios redesigned redback website in professional manner and completed in three days.</p>
+                            <p>Exin Corp Studios redesigned redback website in professional manner and completed in three days.</p>
                         </div>
                         <div class="bottom">
                             <div class="left pull-left">
@@ -163,13 +163,13 @@
                     <div class="text-holder">
                         <ul class="meta-info">
                             
-                            <li><a href="#">Exon Corp IT Solutions, at 10 Am</a></li>
+                            <li><a href="#">Exin Corp IT Solutions, at 10 Am</a></li>
                         </ul>
                         <a href="#">
                             <h3 class="blog-title">Hiring 2014 graduates</h3>
                         </a>
                         <div class="text">
-                            <p>Emphasis, one of the world's leading IT consulting and Outsourcing Service Provider has partnered with Exon Corp.</p>
+                            <p>Emphasis, one of the world's leading IT consulting and Outsourcing Service Provider has partnered with Exin Corp.</p>
                         </div>
                         <div class="bottom">
                             <div class="left pull-left">
@@ -202,13 +202,13 @@
                     <div class="text-holder">
                         <ul class="meta-info">
                             
-                            <li><a href="#">Exon Corp Academy, at 2 pm</a></li>
+                            <li><a href="#">Exin Corp Academy, at 2 pm</a></li>
                         </ul>
                         <a href="#">
                             <h3 class="blog-title">Novell Partner</h3>
                         </a>
                         <div class="text">
-                            <p>Exon Corp Academy becomes a Gold Certified Training Partner of Novell Proud to be Partnered with Novell.</p>
+                            <p>Exin Corp Academy becomes a Gold Certified Training Partner of Novell Proud to be Partnered with Novell.</p>
                         </div>
                         <div class="bottom">
                             <div class="left pull-left">
@@ -250,13 +250,13 @@
                     <div class="text-holder">
                         <ul class="meta-info">
                             
-                            <li><a href="#">Exon Corp Studios, at 6 pm</a></li>
+                            <li><a href="#">Exin Corp Studios, at 6 pm</a></li>
                         </ul>
                         <a href="#">
                             <h3 class="blog-title">Redesign Website</h3>
                         </a>
                         <div class="text">
-                            <p>Exon Corp Studios redesigned redback website in professional manner and completed in three days.</p>
+                            <p>Exin Corp Studios redesigned redback website in professional manner and completed in three days.</p>
                         </div>
                         <div class="bottom">
                             <div class="left pull-left">
@@ -289,13 +289,13 @@
                     <div class="text-holder">
                         <ul class="meta-info">
                             
-                            <li><a href="#">Exon Corp IT Solutions, at 10 Am</a></li>
+                            <li><a href="#">Exin Corp IT Solutions, at 10 Am</a></li>
                         </ul>
                         <a href="#">
                             <h3 class="blog-title">Hiring 2014 graduates</h3>
                         </a>
                         <div class="text">
-                            <p>Emphasis, one of the world's leading IT consulting and Outsourcing Service Provider has partnered with Exon Corp.</p>
+                            <p>Emphasis, one of the world's leading IT consulting and Outsourcing Service Provider has partnered with Exin Corp.</p>
                         </div>
                         <div class="bottom">
                             <div class="left pull-left">
@@ -328,13 +328,13 @@
                     <div class="text-holder">
                         <ul class="meta-info">
                             
-                            <li><a href="#">Exon Corp Academy, at 2 pm</a></li>
+                            <li><a href="#">Exin Corp Academy, at 2 pm</a></li>
                         </ul>
                         <a href="#">
                             <h3 class="blog-title">Novell Partner</h3>
                         </a>
                         <div class="text">
-                            <p>Exon Corp Academy becomes a Gold Certified Training Partner of Novell Proud to be Partnered with Novell.</p>
+                            <p>Exin Corp Academy becomes a Gold Certified Training Partner of Novell Proud to be Partnered with Novell.</p>
                         </div>
                         <div class="bottom">
                             <div class="left pull-left">

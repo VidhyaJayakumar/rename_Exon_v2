@@ -111,7 +111,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                        <div class="mix-inner">
                                           <img alt="" src="assets/frontend/pages/img/works/img24.png" class="img-responsive">
                                           <div class="mix-details">
-                                             <h4>Exon Corp</h4>
+                                             <h4>Exin Corp</h4>
                                              <a class="mix-link"><i class="fa fa-link"></i></a>
                                              <a data-rel="fancybox-button" title="Project Name" href="assets/frontend/pages/img/works/img24.png" class="mix-preview fancybox-button"><i class="fa fa-search"></i></a>
                                           </div>               
@@ -166,7 +166,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                        <div class="mix-inner">
                                           <img alt="" src="assets/frontend/pages/img/works/img24.png" class="img-responsive">
                                           <div class="mix-details">
-                                             <h4>Exon Corp</h4>
+                                             <h4>Exin Corp</h4>
                                              <a class="mix-link"><i class="fa fa-link"></i></a>
                                              <a data-rel="fancybox-button" title="Project Name" href="assets/frontend/pages/img/works/img24.png" class="mix-preview fancybox-button"><i class="fa fa-search"></i></a>
                                           </div>              

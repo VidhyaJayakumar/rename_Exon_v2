@@ -4,7 +4,7 @@
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1">
     <meta charset="utf-8" />
-    <meta name="Description" content="Exoncorp Consultancy is an organised Consulting service provider offering job consultancy services,placement consultancy services,  Consultancy in Vellore , List of Job Consultants in Vellore , Placement consultancy, Recruitment Consultancy list, HR Consultancy, Placement consultants, Leading recruitment agency, Job placement consultancy India, free Human Resources services, sales and marketing jobs for freshers and experiences,IT consulting | Business Consulting | Technology Consulting | Legal Consulting | Seo Consulting | Marketing Consulting | Information Technology - Vellore, Bangalore, Chennai">
+    <meta name="Description" content="Exincorp Consultancy is an organised Consulting service provider offering job consultancy services,placement consultancy services,  Consultancy in Vellore , List of Job Consultants in Vellore , Placement consultancy, Recruitment Consultancy list, HR Consultancy, Placement consultants, Leading recruitment agency, Job placement consultancy India, free Human Resources services, sales and marketing jobs for freshers and experiences,IT consulting | Business Consulting | Technology Consulting | Legal Consulting | Seo Consulting | Marketing Consulting | Information Technology - Vellore, Bangalore, Chennai">
   <meta name="Keywords" content="IT consulting | Business Consulting | Technology Consulting | Legal Consulting | Seo Consulting | Marketing Consulting | Information Technology - Vellore, Bangalore, ChennaiIT company Jobs, Telecommunication Jobs, Healthcare Resources Job, Leading Consultancy Jobs, Placement Consultancy, Ethical Hacking Jobs, Networking Jobs, Server Jobs, Hardwaring Jobs, Software Engineering Jobs, Software Development Jobs, Education Jobs, Bpo Jobs, List of Consultancy in Chennai, Recruitment Consultancy Jobs, Manpower Consultancy Jobs, Job Placement Recruitment, Sales and Marketing Jobs @ Vellore, Bangalore, Chennai">
 <meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
 <meta name="MobileOptimized" content="width" />
@@ -192,7 +192,7 @@ document.onkeydown=function(e){e=e||window.event;if(e.keyCode==123||e.keyCode==1
         <div class="box-content-wrapper">
             <h3 class="box-title">E-mail:</h3>
                 <div class="box-content">
-            hr@Exoncorps.in
+            hr@Exincorps.in
         </div>
     	    </div>
 </div></div></div></div>
@@ -201,7 +201,7 @@ document.onkeydown=function(e){e=e||window.event;if(e.keyCode==123||e.keyCode==1
 
 <div class="intro">
 
-<p>Exoncorp Consultancy is a leader in global business & technology services</p>
+<p>Exincorp Consultancy is a leader in global business & technology services</p>
 </div>
 </div>
       
@@ -288,7 +288,7 @@ document.onkeydown=function(e){e=e||window.event;if(e.keyCode==123||e.keyCode==1
 </div>
       
       </div>-->
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.501280087676!2d79.16691689287035!3d12.939743333978939!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bad3870fb03b173%3A0x5c4660a4646c49cf!2sExoncorp+Consultancy!5e0!3m2!1sen!2sin!4v1479292491906" width="100%" height="500" frameborder="0" style="border:0" allowfullscreen></iframe>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.501280087676!2d79.16691689287035!3d12.939743333978939!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bad3870fb03b173%3A0x5c4660a4646c49cf!2sExincorp+Consultancy!5e0!3m2!1sen!2sin!4v1479292491906" width="100%" height="500" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
         </div></div></div></div></div>
 

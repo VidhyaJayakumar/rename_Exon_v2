@@ -83,7 +83,7 @@
                         <div class="col-sm-4 col-md-2 col-lg-4 mb-20">
                             <h6 class="column-title">About</h6>
                             <p style="text-align:justify;">You can check our credentials through our exincorp reviews and Testimonials from our past students. With our quality training, we have earned zero exincorp complaints from our students.</p>
-                            <a href="https://www.facebook.com/Exoncorp/" target="_blank"><i class="icon ion-social-facebook mr-4 gray-text h3"></i></a>
+                            <a href="https://www.facebook.com/Exincorp/" target="_blank"><i class="icon ion-social-facebook mr-4 gray-text h3"></i></a>
                             <a href="https://twitter.com/exincorp" target="_blank"><i class="icon ion-social-twitter mr-4 gray-text h3"></i></a>
                             <a href="https://plus.google.com/107910537174277513852" target="_blank"><i class="icon ion-social-googleplus mr-4 gray-text h3"></i></a>
                             <a href="https://www.linkedin.com/company/exincorp/about/" target="_blank"><i class="icon ion-social-instagram mr-4 gray-text h3"></i></a>

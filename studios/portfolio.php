@@ -440,7 +440,7 @@ Best Bakery showroom in vellore.</span>
                 <!-- Item -->
 			   <div class="one-third column portfolio-item design">
                     <figure>
-                         <div class="mediaholder"> <a href="images/40.png" class="mfp-image" title="Exon Crop"> 
+                         <div class="mediaholder"> <a href="images/40.png" class="mfp-image" title="Exin Crop"> 
                          <img alt="" src="images/40.png"/>
                                    <div class="hovercover">
                                         <div class="hovericon"><i class="hoverzoom"></i></div>

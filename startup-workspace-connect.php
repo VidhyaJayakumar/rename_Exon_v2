@@ -7,17 +7,17 @@
 
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <meta name="google-site-verification" content="uSkovylbhINHLzXRx_8XvyzxJICZBsON4yKhbHFQJ0Y" />
-        <meta name="description" content="ExonCorp IT Solutions is a full service, creative working environment with a unique entrepreneurial spirit, where ideas develop, businesses build and relationships evolve.ExonCorp workspaces in vellore | Bangalore | chennai. including private offices and co-working spaces are available at competitive prices tailored to your business needs. Spaces | Office space, flexible memberships &amp; meeting rooms."/>
+        <meta name="description" content="ExinCorp IT Solutions is a full service, creative working environment with a unique entrepreneurial spirit, where ideas develop, businesses build and relationships evolve.ExinCorp workspaces in vellore | Bangalore | chennai. including private offices and co-working spaces are available at competitive prices tailored to your business needs. Spaces | Office space, flexible memberships &amp; meeting rooms."/>
 		 <meta name="keywords" content="Coworking space in vellore | bangalore | chennai. startup ideas in vellore | chennai | bangalore. startup company in vellore | bangalore | chennai. Shared Office in vellore | Bangalore | chennai.  Coworking in vellore | Bangalore | chennai. startup business plan. Business Center Space Coworking Space in vellore | Bangalore | chennai.  Office Space For Startups in vellore | Bangalore | chennai. Shared Desk Space in vellore | Bangalore | chennai.  Collaborative in vellore | Bangalore | chennai. startup companies in vellore | chennai | bangalore . Office Space Remote Workspace in vellore | Bangalore | chennai. Shared office space in vellore | Bangalore | chennai | India. Co-working and desk space in vellore | Bangalore | chennai. shared work space bangalore | vellore | chennai. work space bangalore | vellore | chennai. cowork space bangalore | vellore | chennai. work space in bangalore | vellore | chennai. coworking space bangalore | vellore | chennai whitefield. coworking office space bangalore | vellore | chennai. startup coworking space in bangalore | vellore | chennai. best coworking space bangalore | vellore | chennai. coworking space in bangalore | vellore | chennai. sharing office space bangalore | vellore | chennai. sharing space in bangalore | vellore | chennai. looking sharing office space bangalore | vellore | chennai. office space sharing basis bangalore | vellore | chennai. sharing office space in bangalore | vellore | chennai. looking for sharing office space in bangalore | vellore | chennai. sharing office space for rent in bangalore | vellore | chennai."/>
             <meta http-equiv="”content-language”" content="”en-us”">
 <!-- <meta name="google-site-verification" content="GuRjSmpkNqU3FiTqaSo7UAVmRBrkBDNnWf-MVEhQkC0"> -->
-<meta name="author" content="ExonCorp IT Solutions">
+<meta name="author" content="ExinCorp IT Solutions">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <meta property="og:title" content="Startup | workspace | connect | Coworking Space | Shared Office | Business Center Space">
-<meta property="og:site_name" content="ExonCorp IT Solutions">
+<meta property="og:site_name" content="ExinCorp IT Solutions">
 <meta property="og:url" content="  ">
-<meta property="og:description" content="ExonCorp IT Solutions is a full service, creative working environment with a unique entrepreneurial spirit, where ideas develop, businesses build and relationships evolve.ExonCorp workspaces in vellore | Bangalore | chennai.">
+<meta property="og:description" content="ExinCorp IT Solutions is a full service, creative working environment with a unique entrepreneurial spirit, where ideas develop, businesses build and relationships evolve.ExinCorp workspaces in vellore | Bangalore | chennai.">
 <meta property="og:image" content=" ">
 <!-- <meta property="fb:app_id" content="431147353723775"> -->
 <meta property="og:type" content="website">
@@ -52,13 +52,13 @@
                 {
                     "@context" : "http://schema.org",
                     "@type" : "Organization",
-                    "name" : "ExonCorp IT Solutions, Inc.",
+                    "name" : "ExinCorp IT Solutions, Inc.",
                     "url" : "http://exincorp.com",
                     "sameAs" : 
 
-["https://www.facebook.com/Exon Corp.in","https://twitter.com/Exon Corpindia","https://www.youtube.com/channel/UCOa-UtzHSPRLDGN6JqObaYA","https://www.linkedin.com/company/ExonCorp-it-solutions-pvt-ltd","https://plus.google.com/106304209575651338346/","http://instagram.com/Exon Corpitsolutions"],
-                    "logo": "http://Exon Corp.in/logo.png",
-                    "legalName" : "ExonCorp IT Solutions, Inc.",
+["https://www.facebook.com/Exin Corp.in","https://twitter.com/Exin Corpindia","https://www.youtube.com/channel/UCOa-UtzHSPRLDGN6JqObaYA","https://www.linkedin.com/company/ExinCorp-it-solutions-pvt-ltd","https://plus.google.com/106304209575651338346/","http://instagram.com/Exin Corpitsolutions"],
+                    "logo": "http://Exin Corp.in/logo.png",
+                    "legalName" : "ExinCorp IT Solutions, Inc.",
                     "address":[
                     { "@type": "PostalAddress", "addressCountry": "India", "addressLocality": "Tamil nadu", "addressRegion": "Vellore", "postalCode": "632009", 
 
@@ -107,7 +107,7 @@
             <div class="col-md-12">
                 <div class="left pull-left">
                     <ul>
-                        <li><a href="https://Exon Corp.in/index.php">Home</a></li>
+                        <li><a href="https://Exin Corp.in/index.php">Home</a></li>
                         <li><i class="fa fa-angle-right" aria-hidden="true"></i></li>
                         <li><a href="services.php">Services</a></li>
                         <li><i class="fa fa-angle-right" aria-hidden="true"></i></li>
@@ -128,9 +128,9 @@
 <section class="welcome-area sec-padding">
     <div class="container">
         <div class="sec-title text-center">
-            <h1>Why Choose ExonCorp For Coworking space ?</h1>
+            <h1>Why Choose ExinCorp For Coworking space ?</h1>
             <span class="border-center"></span>
-            <p>ExonCorp Office Space to Suit all your Business Requirements with <br><b>HIGH ENERGY COWORKING SPACE BUILT WITH SPUNK, FOR THE INSPIRED.</b> </p>
+            <p>ExinCorp Office Space to Suit all your Business Requirements with <br><b>HIGH ENERGY COWORKING SPACE BUILT WITH SPUNK, FOR THE INSPIRED.</b> </p>
         </div>
         <div class="row">
             <!--Start single item-->
@@ -171,7 +171,7 @@
                     <div class="text-holder">
                         <div class="text">
                             <a href="#"><h3 class="title">Design</h3></a>
-                            <p>We have embodied the millennial spirit within the ExonCorp space design and have reimaged a coworking space that drives collaboration and fuels inspiration.</p>
+                            <p>We have embodied the millennial spirit within the ExinCorp space design and have reimaged a coworking space that drives collaboration and fuels inspiration.</p>
                         </div>
                     </div>
                 </div>
@@ -193,7 +193,7 @@
                     <div class="text-holder">
                         <div class="text">
                             <a href="#"><h3 class="title">Technology</h3></a>
-                            <p>Connect, ExonCorp’ very own private social network technology,To connect with the global ExonCorp community on the basis of likes, interests and services provided.</p>
+                            <p>Connect, ExinCorp’ very own private social network technology,To connect with the global ExinCorp community on the basis of likes, interests and services provided.</p>
                         </div>
                     </div>
                 </div>
@@ -333,7 +333,7 @@
                 <div class="inner-content text-center wow zoomIn" data-wow-delay="0.5s" data-wow-duration="1s" data-wow-offset="0">
                     <h1>Let's get started</h1>
                     <p>Whatever your business, whatever your budget we’ll help find the right workspace.</p>
-                    <a href="https://Exon Corp.in/services">View Services</a>
+                    <a href="https://Exin Corp.in/services">View Services</a>
                 </div>
             </div>
         </div>
@@ -502,7 +502,7 @@
                     <h3>Over 20 years of experience we’ll ensure you get the best guidance.</h3>    
                 </div>
                 <div class="button pull-right">
-                    <a class="thm-btn bgclr-1" href="Exon Corp-academy.php">Contact Us</a>
+                    <a class="thm-btn bgclr-1" href="Exin Corp-academy.php">Contact Us</a>
                 </div>  
             </div>
         </div>

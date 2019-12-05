@@ -232,7 +232,7 @@ If so, you could be just what we’re looking for.</p>
 
 
 
-<p align="justify">Exoncorp Systems is always seeking enterprising IT professionals. If you identify with our core values, believe in exceptional customer service, find satisfaction in developing creative solutions, and bring solid technical experience, then please contact us. We’d welcome the opportunity to talk to you. It could be the start of a wonderful career and lasting new friendships.
+<p align="justify">Exincorp Systems is always seeking enterprising IT professionals. If you identify with our core values, believe in exceptional customer service, find satisfaction in developing creative solutions, and bring solid technical experience, then please contact us. We’d welcome the opportunity to talk to you. It could be the start of a wonderful career and lasting new friendships.
 
 
 

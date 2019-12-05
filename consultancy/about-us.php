@@ -4,7 +4,7 @@
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1">
     <meta charset="utf-8" />
-    <meta name="Description" content="Exoncorp Consultancy is an organised Consulting service provider offering job consultancy services,placement consultancy services,  Consultancy in Vellore , List of Job Consultants in Vellore , Placement consultancy, Recruitment Consultancy list, HR Consultancy, Placement consultants, Leading recruitment agency, Job placement consultancy India, free Human Resources services, sales and marketing jobs for freshers and experiences,IT consulting | Business Consulting | Technology Consulting | Legal Consulting | Seo Consulting | Marketing Consulting | Information Technology - Vellore, Bangalore, Chennai">
+    <meta name="Description" content="Exincorp Consultancy is an organised Consulting service provider offering job consultancy services,placement consultancy services,  Consultancy in Vellore , List of Job Consultants in Vellore , Placement consultancy, Recruitment Consultancy list, HR Consultancy, Placement consultants, Leading recruitment agency, Job placement consultancy India, free Human Resources services, sales and marketing jobs for freshers and experiences,IT consulting | Business Consulting | Technology Consulting | Legal Consulting | Seo Consulting | Marketing Consulting | Information Technology - Vellore, Bangalore, Chennai">
   <meta name="Keywords" content="IT consulting | Business Consulting | Technology Consulting | Legal Consulting | Seo Consulting | Marketing Consulting | Information Technology - Vellore, Bangalore, ChennaiIT company Jobs, Telecommunication Jobs, Healthcare Resources Job, Leading Consultancy Jobs, Placement Consultancy, Ethical Hacking Jobs, Networking Jobs, Server Jobs, Hardwaring Jobs, Software Engineering Jobs, Software Development Jobs, Education Jobs, Bpo Jobs, List of Consultancy in Chennai, Recruitment Consultancy Jobs, Manpower Consultancy Jobs, Job Placement Recruitment, Sales and Marketing Jobs @ Vellore, Bangalore, Chennai">
 <meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
 <meta name="MobileOptimized" content="width" />
@@ -174,7 +174,7 @@ document.onkeydown=function(e){e=e||window.event;if(e.keyCode==123||e.keyCode==1
         <a href="awards.php" data-drupal-link-system-path="&lt;front&gt;">Hornors &amp; Awards</a>
               </li>
           <li>
-        <a href="http://Exoncorpconsultancy.com/clients.php" data-drupal-link-system-path="node/52">Clients</a>
+        <a href="http://Exincorpconsultancy.com/clients.php" data-drupal-link-system-path="node/52">Clients</a>
               </li>
           <li>
         <a href="team.php" data-drupal-link-system-path="team">Our Team</a>
@@ -346,11 +346,11 @@ document.onkeydown=function(e){e=e||window.event;if(e.keyCode==123||e.keyCode==1
             <div property="schema:text"><p><img alt="About" data-entity-type="file" data-entity-uuid="b58c5f6f-f7a3-438f-98f3-41182f99c201" src="sites/default/files/inline-images/img_about02.jpg" /></p>
 
 <h2 class="title-post">ABOUT US</h2>
-<h3 class="title-post">Welcome to Exoncorp Consulting Group</h3>
+<h3 class="title-post">Welcome to Exincorp Consulting Group</h3>
 
-<p align="justify">Vellore based Consulting Group is a dynamic business consulting firm established in the year 2009. It continuously advises and assists its clients in improving their performances beyond benchmarks. Exoncorp was established to provide world-class business solutions that are valued by our customers and respected by our partners. </p>
+<p align="justify">Vellore based Consulting Group is a dynamic business consulting firm established in the year 2009. It continuously advises and assists its clients in improving their performances beyond benchmarks. Exincorp was established to provide world-class business solutions that are valued by our customers and respected by our partners. </p>
 
-<p align="justify">We at Exoncorp believe that perfection is a result of knowledge, dedication and experience. We keep ourselves open to suggestions and criticism from our clients, partners and our people. The guiding principle behind Exoncorp is value creation that results in quality gains for the client and nurtures an everlasting relationship.</p>
+<p align="justify">We at Exincorp believe that perfection is a result of knowledge, dedication and experience. We keep ourselves open to suggestions and criticism from our clients, partners and our people. The guiding principle behind Exincorp is value creation that results in quality gains for the client and nurtures an everlasting relationship.</p>
 
 <ul class="company-history"><li class="clearfix"><span class="year">2009</span>
 

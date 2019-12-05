@@ -9,7 +9,7 @@
 <!-- Head BEGIN -->
 <head>
   <meta charset="utf-8">
-   <title>Exoncorp Systems | Computer dealers in vellore|Computer sales and service in vellore | Computer Service Center | Server Rental and Services | CCTV Camera Sales and Services | Networking Problem | Data Recovery Problem | OS Installation | Basic Computer Software Installation | Computer Repair Services | Keyboard Sales and Services | Computer Parts Sales | Desktop Sales and Services | PC Support Software Install | Computer Networking Repair | Hardware Repair | Assembled System Sales | CPU Repair Services in Vellore | On Call Computer Repair Service Kanchipuram | Computer Service Center Chennai | UPS Sales Chennai | Moniter Sales Kanchipuram @ exincorp Systems | Vellore | Kanchipuram | Gudiyatham | Chennai</title>
+   <title>Exincorp Systems | Computer dealers in vellore|Computer sales and service in vellore | Computer Service Center | Server Rental and Services | CCTV Camera Sales and Services | Networking Problem | Data Recovery Problem | OS Installation | Basic Computer Software Installation | Computer Repair Services | Keyboard Sales and Services | Computer Parts Sales | Desktop Sales and Services | PC Support Software Install | Computer Networking Repair | Hardware Repair | Assembled System Sales | CPU Repair Services in Vellore | On Call Computer Repair Service Kanchipuram | Computer Service Center Chennai | UPS Sales Chennai | Moniter Sales Kanchipuram @ exincorp Systems | Vellore | Kanchipuram | Gudiyatham | Chennai</title>
 
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -122,7 +122,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<div class="portlet-body">
                 <div class="well">
                  
-<font size="4">Exoncorp Systems becomes a virtual extension of our clients' businesses, helping them develop and maintain a technology strategy that aligns with their business needs and goals. </font>               </div>
+<font size="4">Exincorp Systems becomes a virtual extension of our clients' businesses, helping them develop and maintain a technology strategy that aligns with their business needs and goals. </font>               </div>
                 </div>
 
  

@@ -10,9 +10,9 @@
 
 	<title> Final Year Projects in Vellore | Final Year Project Centers in Vellore</title>
 
-        <meta name="description" content=" Looking for best Final Year Project Center in Vellore? Call 8189985551   Final Year 2017-2018 Students Projects in vellore- BE/B.Tech,ME/M.Tech &amp; MCA/BCA/MSC/BSC(Exon Corp) Real Time Live Project in vellore."/>
+        <meta name="description" content=" Looking for best Final Year Project Center in Vellore? Call 8189985551   Final Year 2017-2018 Students Projects in vellore- BE/B.Tech,ME/M.Tech &amp; MCA/BCA/MSC/BSC(Exin Corp) Real Time Live Project in vellore."/>
 
-		 <meta name="keywords" content=" Final Year Students Projects 2017 for CSE, Exon Corp, MCA, MS, MSC, java, dot net Projects, Latest ieee Projects Titles, Internship Project in vellore , Final Year Project With internship in vellore ,  Best Project training center in vellore , IEEE 2016 project title list in vellore, IEEE Projects,IEEE 2016 Projects,IEEE Academic Projects,IEEE Training Center vellore,IEEE Projects vellore, IEEE Software Projects, Latest IEEE Projects 2016 vellore, IEEE Student Projects vellore,IEEE Final year Student Projects, final year computer science projects,final year engineering projects,final year projects for information technology,final year projects for computer science,final year projects for cse,final year projects in networking,final year projects in vellore,final year projects for information technology,final year engineering projects for students,ieee projects 2016 for cse,ieee projects 2015 for it,ieee projects 2016 titles,ieee projects 2015 cse,ieee projects 2015 in networking,ieee projects in java,ieee projects list,ieee projects in networking,ieee project topics, ieee project titles, Application projects 2015, Real time projects vellore,ieee abstracts for cse,big data projects,ieee big data projects,matlab projects,ieee matlab Projects,ns2 projects,best ns2 project center in vellore,hadoop projects in vellore"/>
+		 <meta name="keywords" content=" Final Year Students Projects 2017 for CSE, Exin Corp, MCA, MS, MSC, java, dot net Projects, Latest ieee Projects Titles, Internship Project in vellore , Final Year Project With internship in vellore ,  Best Project training center in vellore , IEEE 2016 project title list in vellore, IEEE Projects,IEEE 2016 Projects,IEEE Academic Projects,IEEE Training Center vellore,IEEE Projects vellore, IEEE Software Projects, Latest IEEE Projects 2016 vellore, IEEE Student Projects vellore,IEEE Final year Student Projects, final year computer science projects,final year engineering projects,final year projects for information technology,final year projects for computer science,final year projects for cse,final year projects in networking,final year projects in vellore,final year projects for information technology,final year engineering projects for students,ieee projects 2016 for cse,ieee projects 2015 for it,ieee projects 2016 titles,ieee projects 2015 cse,ieee projects 2015 in networking,ieee projects in java,ieee projects list,ieee projects in networking,ieee project topics, ieee project titles, Application projects 2015, Real time projects vellore,ieee abstracts for cse,big data projects,ieee big data projects,matlab projects,ieee matlab Projects,ns2 projects,best ns2 project center in vellore,hadoop projects in vellore"/>
 
 
 
@@ -136,7 +136,7 @@
 
                         <li><i class="fa fa-angle-right" aria-hidden="true"></i></li>
 
-                        <li class="active"><a href="http://Exon Corpprojects.com/" target="_blank">Redback Projects</a></li>
+                        <li class="active"><a href="http://Exin Corpprojects.com/" target="_blank">Redback Projects</a></li>
 
                     </ul>
 
@@ -196,7 +196,7 @@
 
                                     <p class="mar-btm15"><strong>Redback Projects</strong> – the leading skill development company in vellore provides best in class career oriented & real time Final year projects in vellore for students pursuing B.E, B.Tech, M.E, M.tech, MCA, Bsc & Msc. We help students in completing the project with detailed explanation on Project development.</p>
 
-<p>Training will be provided on each and every module by our highly skilled project development team with faculties having more than 10 years of experience in Exon Corp industry & project development. FExon CorpA project development team will help you with designing, developing and deploying/executing your projects.</p>
+<p>Training will be provided on each and every module by our highly skilled project development team with faculties having more than 10 years of experience in Exin Corp industry & project development. FExin CorpA project development team will help you with designing, developing and deploying/executing your projects.</p>
 
                                     <p>Doing your final year project at Redback not only gives you knowledge on real time project implementation, but also helps you to equip yourselves for the corporate industry.</p>
 
@@ -240,7 +240,7 @@
 
                                                   <li><i class="fa fa-angle-right" aria-hidden="true"></i>IEEE Projects</li>
 
-                                                <li><i class="fa fa-angle-right" aria-hidden="true"></i>CSE/Exon Corp Projects</li>
+                                                <li><i class="fa fa-angle-right" aria-hidden="true"></i>CSE/Exin Corp Projects</li>
 
                                                 <li><i class="fa fa-angle-right" aria-hidden="true"></i>Mechanical Projects</li>
 
@@ -300,7 +300,7 @@
 
                                                 <li><i class="fa fa-angle-right" aria-hidden="true"></i>IEEE 2011, 2012, 2013 and 2014 Paper based projects</li>
 
-                                                <li><i class="fa fa-angle-right" aria-hidden="true"></i>Projects handled by Exon Corp Experts with more than decades of experience</li>
+                                                <li><i class="fa fa-angle-right" aria-hidden="true"></i>Projects handled by Exin Corp Experts with more than decades of experience</li>
 
                                                 <li><i class="fa fa-angle-right" aria-hidden="true"></i>Free training on JAVA, Dot Net, PHP, Android, Cloud, Networking, Data mining, Digital Marketing, Embedded Systems, VLSI, Robotics, Instrumentation, Power Electronics & drives and Power System.</li>
 
@@ -372,27 +372,27 @@
 
                         <ul class="page-link">
 
-                            <li><a class="active" href="http://Exon Corpprojects.com/ieee-projects/index.php">IEEE Projects</a></li>
+                            <li><a class="active" href="http://Exin Corpprojects.com/ieee-projects/index.php">IEEE Projects</a></li>
 
-                            <li><a href="http://Exon Corpprojects.com/">CSE / Exon Corp Projects</a></li>
+                            <li><a href="http://Exin Corpprojects.com/">CSE / Exin Corp Projects</a></li>
 
-                            <li><a href="http://Exon Corpprojects.com/">Mechanical Projects</a></li>
+                            <li><a href="http://Exin Corpprojects.com/">Mechanical Projects</a></li>
 
-                            <li><a href="http://Exon Corpprojects.com/">Electronics Projects</a></li>
+                            <li><a href="http://Exin Corpprojects.com/">Electronics Projects</a></li>
 
-                            <li><a href="http://Exon Corpprojects.com/">CAM/CAE Projects</a></li>
+                            <li><a href="http://Exin Corpprojects.com/">CAM/CAE Projects</a></li>
 
-                            <li><a href="http://Exon Corpprojects.com/dot-net-projects.php">DOTNET Projects</a></li>              
+                            <li><a href="http://Exin Corpprojects.com/dot-net-projects.php">DOTNET Projects</a></li>              
 
-                            <li><a href="http://Exon Corpprojects.com/dot-net-projects.php">Java Projects</a></li>              
+                            <li><a href="http://Exin Corpprojects.com/dot-net-projects.php">Java Projects</a></li>              
 
-                            <li><a href="http://Exon Corpprojects.com/dot-net-projects.php">Android Projects</a></li>              
+                            <li><a href="http://Exin Corpprojects.com/dot-net-projects.php">Android Projects</a></li>              
 
-                            <li><a href="http://Exon Corpprojects.com/dot-net-projects.php">Cloud Computing</a></li>              
+                            <li><a href="http://Exin Corpprojects.com/dot-net-projects.php">Cloud Computing</a></li>              
 
-                            <li><a href="http://Exon Corpprojects.com/dot-net-projects.php">Smart Card</a></li>              
+                            <li><a href="http://Exin Corpprojects.com/dot-net-projects.php">Smart Card</a></li>              
 
-                            <li><a href="http://Exon Corpprojects.com/dot-net-projects.php">Biometrics</a></li>              
+                            <li><a href="http://Exin Corpprojects.com/dot-net-projects.php">Biometrics</a></li>              
 
                         </ul>
 
@@ -534,7 +534,7 @@
 
                                         <p><span class="flaticon-telephone"></span>8189985559</p>
 
-                                        <p><span class="flaticon-back"></span>selva@Exon Corps.in</p>
+                                        <p><span class="flaticon-back"></span>selva@Exin Corps.in</p>
 
                                     </div>
 
@@ -562,7 +562,7 @@
 
                                         <p><span class="flaticon-telephone"></span>8189985551</p>
 
-                                        <p><span class="flaticon-back"></span>sivapriya@Exon Corps.in</p>
+                                        <p><span class="flaticon-back"></span>sivapriya@Exin Corps.in</p>
 
                                     </div>
 

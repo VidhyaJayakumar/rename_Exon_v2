@@ -3,11 +3,11 @@
 
  <head>
 	<meta charset="UTF-8">
-	 <title>ExonCorp Technology Solutions Company Vellore, Chennai, India, Analytics, Consulting, Consultancy, Cloud, cyber security, internet of things, block chain, digital opearations,infrastructure services, engineering, bigdata, iot, opensource, software, Technology, Sofware, Website, Digital,Training,Support company,IT Training, IT Services, Web Designing and Development company, Outsourcing Services, BPO, IT Infrastructure, Information Communication Technology Company, coworking space Business Consulting – IT companies in vellore</title>
+	 <title>ExinCorp Technology Solutions Company Vellore, Chennai, India, Analytics, Consulting, Consultancy, Cloud, cyber security, internet of things, block chain, digital opearations,infrastructure services, engineering, bigdata, iot, opensource, software, Technology, Sofware, Website, Digital,Training,Support company,IT Training, IT Services, Web Designing and Development company, Outsourcing Services, BPO, IT Infrastructure, Information Communication Technology Company, coworking space Business Consulting – IT companies in vellore</title>
 
-<meta name="description" content="Exon Corp Technology Solutions is a leading global Technology Solutions Provider company in vellore, providing IT services and solutions in Tamilnadu, vellore, India, training, ExonCorp Technology Solutions Company Vellore, Chennai, India, Analytics, Consulting, Consultancy, Cloud, cyber security, internet of things, block chain, digital opearations,infrastructure services, engineering, bigdata, iot, opensource, software, Technology, Sofware, Website, Digital,Training,Support company,IT Training, IT Services, Web Designing and Development company, Outsourcing Services, BPO, IT Infrastructure, Information Communication Technology Company, coworking space Business Consulting – IT companies in velloreconsulting, digital, technology, strategy and operations, web development, design.Exon Corp Solutions - IT Certifications in vellore, Comptia A+ N+ Training in vellore, RHCE Training in vellore, MCITP Training in vellore, CCNA Training in vellore, CEH Training in vellore, CISSP Training in vellore, IT Training in vellore, Computer Training Institute in vellore, Corporate Training in vellore, International certification in vellore.coworking space.">
+<meta name="description" content="Exin Corp Technology Solutions is a leading global Technology Solutions Provider company in vellore, providing IT services and solutions in Tamilnadu, vellore, India, training, ExinCorp Technology Solutions Company Vellore, Chennai, India, Analytics, Consulting, Consultancy, Cloud, cyber security, internet of things, block chain, digital opearations,infrastructure services, engineering, bigdata, iot, opensource, software, Technology, Sofware, Website, Digital,Training,Support company,IT Training, IT Services, Web Designing and Development company, Outsourcing Services, BPO, IT Infrastructure, Information Communication Technology Company, coworking space Business Consulting – IT companies in velloreconsulting, digital, technology, strategy and operations, web development, design.Exin Corp Solutions - IT Certifications in vellore, Comptia A+ N+ Training in vellore, RHCE Training in vellore, MCITP Training in vellore, CCNA Training in vellore, CEH Training in vellore, CISSP Training in vellore, IT Training in vellore, Computer Training Institute in vellore, Corporate Training in vellore, International certification in vellore.coworking space.">
 
-<meta name="keywords" content="ExonCorp Technology Solutions Company Vellore, Chennai, India, Analytics, Consulting, Consultancy, Cloud, cyber security, internet of things, block chain, digital opearations,infrastructure services, engineering, bigdata, iot, opensource, software, Technology, Sofware, Website, Digital,Training,Support company,IT Training, IT Services, Web Designing and Development company, Outsourcing Services, BPO, IT Infrastructure, Information Communication Technology Company, coworking space Business Consulting – IT companies in velloreIntership vellore, internships in vellore, projects in vellore, project vellore, project centers in vellore, Exon Corpacademy, redbackstudios, redbackcouncil, redbackcloud, redbackconsultancy, redbacksystems, Exon Corp Solutions - IT company in vellore, Companies in Vellore, top it companies in vellore, Training in vellore, RHCE Training in vellore, MCITP Training in vellore, CCNA Training in vellore, CEH Training in vellore, CISSP Training in vellore, IT Training in vellore, Computer Training Institute in vellore, Corporate Training in vellore, Internaional certification in vellore ,coworking space in vellore">
+<meta name="keywords" content="ExinCorp Technology Solutions Company Vellore, Chennai, India, Analytics, Consulting, Consultancy, Cloud, cyber security, internet of things, block chain, digital opearations,infrastructure services, engineering, bigdata, iot, opensource, software, Technology, Sofware, Website, Digital,Training,Support company,IT Training, IT Services, Web Designing and Development company, Outsourcing Services, BPO, IT Infrastructure, Information Communication Technology Company, coworking space Business Consulting – IT companies in velloreIntership vellore, internships in vellore, projects in vellore, project vellore, project centers in vellore, Exin Corpacademy, redbackstudios, redbackcouncil, redbackcloud, redbackconsultancy, redbacksystems, Exin Corp Solutions - IT company in vellore, Companies in Vellore, top it companies in vellore, Training in vellore, RHCE Training in vellore, MCITP Training in vellore, CCNA Training in vellore, CEH Training in vellore, CISSP Training in vellore, IT Training in vellore, Computer Training Institute in vellore, Corporate Training in vellore, Internaional certification in vellore ,coworking space in vellore">
         
 	<!-- responsive meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -92,14 +92,14 @@
                         <div class="overlay-style-one">
                             <div class="box">
                                 <div class="content">
-                                    <a href="Exon Corp-academy.php"><i class="fa fa-link" aria-hidden="true"></i></a>
+                                    <a href="Exin Corp-academy.php"><i class="fa fa-link" aria-hidden="true"></i></a>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="text-holder">
                         <div class="text">
-                            <a href="Exon Corp-academy.php"><h3 class="title">Training</h3></a>
+                            <a href="Exin Corp-academy.php"><h3 class="title">Training</h3></a>
                             <p>The process of improving some measure of an enterprise's success. Business growth can be a achieved either.</p>
                         </div>
                     </div>
@@ -114,14 +114,14 @@
                         <div class="overlay-style-one">
                             <div class="box">
                                 <div class="content">
-                                    <a href="Exon Corp-systems.php"><i class="fa fa-link" aria-hidden="true"></i></a>
+                                    <a href="Exin Corp-systems.php"><i class="fa fa-link" aria-hidden="true"></i></a>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="text-holder">
                         <div class="text">
-                            <a href="Exon Corp-systems.php"><h3 class="title">Support Services</h3></a>
+                            <a href="Exin Corp-systems.php"><h3 class="title">Support Services</h3></a>
                             <p>Sustainability is a priority interest for many of organizations, when it comes to sustainability and corporate.</p>
                         </div>
                     </div>
@@ -136,14 +136,14 @@
                         <div class="overlay-style-one">
                             <div class="box">
                                 <div class="content">
-                                    <a href="Exon Corp-consultancy.php"><i class="fa fa-link" aria-hidden="true"></i></a>
+                                    <a href="Exin Corp-consultancy.php"><i class="fa fa-link" aria-hidden="true"></i></a>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="text-holder">
                         <div class="text">
-                            <a href="Exon Corp-consultancy.php"><h3 class="title">Consultancy</h3></a>
+                            <a href="Exin Corp-consultancy.php"><h3 class="title">Consultancy</h3></a>
                             <p>Customer Insight Analytics solutions delivertargeted and actionable customer analysis thathelp financial.</p>
                         </div>
                     </div>
@@ -158,14 +158,14 @@
                         <div class="overlay-style-one">
                             <div class="box">
                                 <div class="content">
-                                    <a href="Exon Corp-digital-marketing.php"><i class="fa fa-link" aria-hidden="true"></i></a>
+                                    <a href="Exin Corp-digital-marketing.php"><i class="fa fa-link" aria-hidden="true"></i></a>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="text-holder">
                         <div class="text">
-                            <a href="Exon Corp-digital-marketing.php"><h3 class="title">Digital Marketing</h3></a>
+                            <a href="Exin Corp-digital-marketing.php"><h3 class="title">Digital Marketing</h3></a>
                             <p>Business analytics (BA) is the practice ofiterative, methodical exploration of our organization's data emphasis.</p>
                         </div>
                     </div>
@@ -180,14 +180,14 @@
                         <div class="overlay-style-one">
                             <div class="box">
                                 <div class="content">
-                                    <a href="Exon Corp-law-firm.php"><i class="fa fa-link" aria-hidden="true"></i></a>
+                                    <a href="Exin Corp-law-firm.php"><i class="fa fa-link" aria-hidden="true"></i></a>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="text-holder">
                         <div class="text">
-                            <a href="Exon Corp-law-firm.php"><h3 class="title">Law Firm</h3></a>
+                            <a href="Exin Corp-law-firm.php"><h3 class="title">Law Firm</h3></a>
                             <p>In a contract, performance is deemed to be the fulfillment of an obligation, in a manner that releases performer.</p>
                         </div>
                     </div>
@@ -202,14 +202,14 @@
                         <div class="overlay-style-one">
                             <div class="box">
                                 <div class="content">
-                                    <a href="Exon Corp-studios.php"><i class="fa fa-link" aria-hidden="true"></i></a>
+                                    <a href="Exin Corp-studios.php"><i class="fa fa-link" aria-hidden="true"></i></a>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="text-holder">
                         <div class="text">
-                            <a href="Exon Corp-studios.php"><h3 class="title">Web Development</h3></a>
+                            <a href="Exin Corp-studios.php"><h3 class="title">Web Development</h3></a>
                             <p>We help business improve financial performance by ensuring the organization system is aligned and set up.</p>
                         </div>
                     </div>
@@ -224,14 +224,14 @@
                         <div class="overlay-style-one">
                             <div class="box">
                                 <div class="content">
-                                    <a href="Exon Corp-cloud.php"><i class="fa fa-link" aria-hidden="true"></i></a>
+                                    <a href="Exin Corp-cloud.php"><i class="fa fa-link" aria-hidden="true"></i></a>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="text-holder">
                         <div class="text">
-                            <a href="Exon Corp-cloud.php"><h3 class="title">Cloud Services</h3></a>
+                            <a href="Exin Corp-cloud.php"><h3 class="title">Cloud Services</h3></a>
                             <p>We help business improve financial performance by ensuring the organization system is aligned and set up.</p>
                         </div>
                     </div>
@@ -246,14 +246,14 @@
                         <div class="overlay-style-one">
                             <div class="box">
                                 <div class="content">
-                                    <a href="Exon Corp-softwares.php"><i class="fa fa-link" aria-hidden="true"></i></a>
+                                    <a href="Exin Corp-softwares.php"><i class="fa fa-link" aria-hidden="true"></i></a>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="text-holder">
                         <div class="text">
-                            <a href="Exon Corp-softwares.php"><h3 class="title">Software Development</h3></a>
+                            <a href="Exin Corp-softwares.php"><h3 class="title">Software Development</h3></a>
                             <p>We help business improve financial performance by ensuring the organization system is aligned and set up.</p>
                         </div>
                     </div>
@@ -268,14 +268,14 @@
                         <div class="overlay-style-one">
                             <div class="box">
                                 <div class="content">
-                                    <a href="Exon Corp-council.php"><i class="fa fa-link" aria-hidden="true"></i></a>
+                                    <a href="Exin Corp-council.php"><i class="fa fa-link" aria-hidden="true"></i></a>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="text-holder">
                         <div class="text">
-                            <a href="Exon Corp-council.php"><h3 class="title">Security Services</h3></a>
+                            <a href="Exin Corp-council.php"><h3 class="title">Security Services</h3></a>
                             <p>We help business improve financial performance by ensuring the organization system is aligned and set up.</p>
                         </div>
                     </div>
@@ -312,14 +312,14 @@
                         <div class="overlay-style-one">
                             <div class="box">
                                 <div class="content">
-                                    <a href="Exon Corp-projects.php"><i class="fa fa-link" aria-hidden="true"></i></a>
+                                    <a href="Exin Corp-projects.php"><i class="fa fa-link" aria-hidden="true"></i></a>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="text-holder">
                         <div class="text">
-                            <a href="Exon Corp-projects.php"><h3 class="title">Projects</h3></a>
+                            <a href="Exin Corp-projects.php"><h3 class="title">Projects</h3></a>
                             <p>We help business improve financial performance by ensuring the organization system is aligned and set up.</p>
                         </div>
                     </div>

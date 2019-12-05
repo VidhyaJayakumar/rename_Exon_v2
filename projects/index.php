@@ -12,7 +12,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<title>Exoncorp index page<?php echo $row['s_title']; ?> - <?php echo $row['s_domain']; ?></title>
+	<title>Exincorp index page<?php echo $row['s_title']; ?> - <?php echo $row['s_domain']; ?></title>
 	<meta name="author" content="<?php echo $row['s_author']; ?>">
 	<meta name="description" content="<?php echo $row['s_description']; ?>">
 	<meta name="keywords" content="<?php echo $row['s_keyword']; ?>">
@@ -62,7 +62,7 @@ webengage.init("d3a4ac24");
                     <div class="page-title-container">
                         <div class="inner page-title">
                             <h2 class="page-title-heading white-text">EXINCORP PROJECTS </h2>
-                            <p class="lead">Exoncorp is a leading IT and Language training centre providing full-suite of trainings and placement services for freshers seeking a new career and professionals looking for career advancement.</p>
+                            <p class="lead">Exincorp is a leading IT and Language training centre providing full-suite of trainings and placement services for freshers seeking a new career and professionals looking for career advancement.</p>
                             <h6 class="mb-0"><a href="contact.php" class="btn btn-transition btn-primary">Contact</a></h6>
                         </div>
                         <!-- /.inner page-title -->

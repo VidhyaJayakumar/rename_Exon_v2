@@ -3,13 +3,13 @@
 
 
 <head>
-<title>WebHosting | Hosting Services | Domain Hosting | Domain Registration | Unlimited Hosting | Best Website Hosting | Linux Hosting | Reseller Hosting | windows hosting | shared hosting | shared vps Hosting | Business Email | SSL Security | Spam Guard | Enhanced Security | Unbeatable Support  @ Exoncorp Cloud in India</title>
+<title>WebHosting | Hosting Services | Domain Hosting | Domain Registration | Unlimited Hosting | Best Website Hosting | Linux Hosting | Reseller Hosting | windows hosting | shared hosting | shared vps Hosting | Business Email | SSL Security | Spam Guard | Enhanced Security | Unbeatable Support  @ Exincorp Cloud in India</title>
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="Description" content="Becoming a Exoncorp Cloud reseller is easy - and profitable! Signup to Exoncorp Cloud reseller hosting plans and sell to your own customers, under your own brand, DNS Black Listing Services, Spam Guard, Enhanced Security, Unbeatable Support, High Performance, Fire Wall, DDoS Mitigation @ Exoncorp Cloud in India" >
-    <meta name="Keywords" content="24/7 tech Support, Hosting Tech Support, Hosting, Website Hosting, Domain Name Registration, Threat management, Unlimited Hosting, Best Website Hosting, Linux Hosting, Reseller Hosting, Domain Search, Free Domain Registration, Web Hosting, Hosting Services, Dedicated Servers, Hosting Services, Hosting Sites, Domain Hosting, Hosting Sites, Domain Hosting, Server Hosting @ Exoncorp Studios in India"> 
-    <meta name="Author" content="Exoncorp Cloud">
+	<meta name="Description" content="Becoming a Exincorp Cloud reseller is easy - and profitable! Signup to Exincorp Cloud reseller hosting plans and sell to your own customers, under your own brand, DNS Black Listing Services, Spam Guard, Enhanced Security, Unbeatable Support, High Performance, Fire Wall, DDoS Mitigation @ Exincorp Cloud in India" >
+    <meta name="Keywords" content="24/7 tech Support, Hosting Tech Support, Hosting, Website Hosting, Domain Name Registration, Threat management, Unlimited Hosting, Best Website Hosting, Linux Hosting, Reseller Hosting, Domain Search, Free Domain Registration, Web Hosting, Hosting Services, Dedicated Servers, Hosting Services, Hosting Sites, Domain Hosting, Hosting Sites, Domain Hosting, Server Hosting @ Exincorp Studios in India"> 
+    <meta name="Author" content="Exincorp Cloud">
 <!-- Favicon -->
 
 <link rel="icon" href="images/favicon.png">
@@ -97,7 +97,7 @@ document.onkeydown=function(e){e=e||window.event;if(e.keyCode==123||e.keyCode==1
       </div>
     </div> <br>
     <div classs="container">
-<p style="text-align:justify">Exoncorp Cloud products provide a range of resources usually reserved for larger organizations - from Web hosting, Web site design, e-commerce, search engine marketing, SSL Certificates, e-mail and domain name registration services, including WHOIS services, that can help your business grow on the Internet.</p><br><p style="text-align:justify">Leveraging three years of experience in the domain business with over 20,000 domain names under management, Exoncorpcloud.com has built a reputation as a leading provider of global domain name registration, web site design and management services. Exoncorpcloud.com is also an award-winning business web hosting provider. Through an expanding, broad selection of solutions, Exoncorpcloud.com enables small businesses and organizations to create a dynamic web presence without the need for extensive technical knowledge or resources. Exoncorpcloud.com offers customers quick and user-friendly registration and a wide array of web site design business web hosting services from do-it-yourself tools to fully customized offerings; all backed by expert 24 x 7 online customer support.</p>
+<p style="text-align:justify">Exincorp Cloud products provide a range of resources usually reserved for larger organizations - from Web hosting, Web site design, e-commerce, search engine marketing, SSL Certificates, e-mail and domain name registration services, including WHOIS services, that can help your business grow on the Internet.</p><br><p style="text-align:justify">Leveraging three years of experience in the domain business with over 20,000 domain names under management, Exincorpcloud.com has built a reputation as a leading provider of global domain name registration, web site design and management services. Exincorpcloud.com is also an award-winning business web hosting provider. Through an expanding, broad selection of solutions, Exincorpcloud.com enables small businesses and organizations to create a dynamic web presence without the need for extensive technical knowledge or resources. Exincorpcloud.com offers customers quick and user-friendly registration and a wide array of web site design business web hosting services from do-it-yourself tools to fully customized offerings; all backed by expert 24 x 7 online customer support.</p>
 <h3>Team Work</h3>
                 <p style="text-align:justify">We make decisions in an inclusive and decisive manner. We collaborate to ensure that when we make decisions we have sought out and considered all relevant input. We encourage multiple perspectives and appreciate diversity within our teams. We appoint "champions" to complex or difficult issues who drive the team to closure. We take time to be a team, and include team-building activities in what we do.</p>
                 <h3>Passion</h3>
@@ -160,7 +160,7 @@ document.onkeydown=function(e){e=e||window.event;if(e.keyCode==123||e.keyCode==1
             (8AM - 7PM IST Monday-Saturday) </p>
           <p>Ph: (+91)81899 85559<br>
             <!-- Fax: (+111) 123 456<br> -->
-            Email ID: studios@Exoncorps.in </p>
+            Email ID: studios@Exincorps.in </p>
 
             
         </div>

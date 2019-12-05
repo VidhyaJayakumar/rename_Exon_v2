@@ -9,7 +9,7 @@
 <!-- Head BEGIN -->
 <head>
   <meta charset="utf-8">
-   <title>Exoncorp Systems |computer dealers in vellore | computer sales and service in vellore | Server Rental and Services | CCTV Camera Sales and Services | Networking Problem | Data Recovery Problem | OS Installation | Basic Computer Software Installing | Computer Repair Services | Keyboard Sales and Services | Computer Parts Sales | Desktop Sales and Services | PC Support Software Install | Computer Networking Repair | Hardware Repair | Assembled System Sales | CPU Repair Services in Vellore | On Call Computer Repair Service Kanchipuram | Computer Service Center Chennai | UPS Sales Chennai | Moniter Sales Kanchipuram | Hardware Repair Sales Services - exincorp System Vellore | Kanchipuram | Gudiyatham | Chennai</title>
+   <title>Exincorp Systems |computer dealers in vellore | computer sales and service in vellore | Server Rental and Services | CCTV Camera Sales and Services | Networking Problem | Data Recovery Problem | OS Installation | Basic Computer Software Installing | Computer Repair Services | Keyboard Sales and Services | Computer Parts Sales | Desktop Sales and Services | PC Support Software Install | Computer Networking Repair | Hardware Repair | Assembled System Sales | CPU Repair Services in Vellore | On Call Computer Repair Service Kanchipuram | Computer Service Center Chennai | UPS Sales Chennai | Moniter Sales Kanchipuram | Hardware Repair Sales Services - exincorp System Vellore | Kanchipuram | Gudiyatham | Chennai</title>
 
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -128,7 +128,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
  <li><b>PC controls and configuration -</b> take control by monitoring and controlling what the users of your system have online access to</li>
  
 </ul> 
-<p align="justify">Exoncorp Systems can design and deploy an antivirus solution that meets your company’s needs and makes sure your systems are operating safely, securely and productively. </p>                                
+<p align="justify">Exincorp Systems can design and deploy an antivirus solution that meets your company’s needs and makes sure your systems are operating safely, securely and productively. </p>                                
 <div class="portlet">
               <div class="portlet-title">
                 <div class="caption">

@@ -3,11 +3,11 @@
 
  <head>
 	<meta charset="UTF-8">
-	<title>ExonCorpsolutions India,Software company,IT Training, IT Services, Web Designing and Development company, Outsourcing Services, BPO, IT Infrastructure, Information Communication Technology Company, Business Consulting – IT companies in vellore</title>
+	<title>ExinCorpsolutions India,Software company,IT Training, IT Services, Web Designing and Development company, Outsourcing Services, BPO, IT Infrastructure, Information Communication Technology Company, Business Consulting – IT companies in vellore</title>
 
-<meta name="description" content="ExonCorp IT solutions is a leading global professional services companies in vellore, providing IT services and solutions in Tamilnadu, vellore, India,training, consulting, digital, technology, strategy and operations, web development, design.ExonCorp Solutions - IT Certifications in vellore,Comptia A+ N+ Training in vellore,RHCE Training in vellore,MCITP Training in vellore,CCNA Training in vellore,CEH Training in vellore,CISSP Training in vellore,IT  Training in vellore,Computer Training Institute in vellore,Corporate Training in vellore,International certification in vellore">
+<meta name="description" content="ExinCorp IT solutions is a leading global professional services companies in vellore, providing IT services and solutions in Tamilnadu, vellore, India,training, consulting, digital, technology, strategy and operations, web development, design.ExinCorp Solutions - IT Certifications in vellore,Comptia A+ N+ Training in vellore,RHCE Training in vellore,MCITP Training in vellore,CCNA Training in vellore,CEH Training in vellore,CISSP Training in vellore,IT  Training in vellore,Computer Training Institute in vellore,Corporate Training in vellore,International certification in vellore">
 
-<meta name="keywords" content="ExonCorpacademy,ExonCorp studios,ExonCorp council,ExonCorp cloud,ExonCorp consultancy,ExonCorp systems,ExonCorp Solutions - IT company in vellore, Companies in Vellore,Training in vellore,RHCE Training in vellore,MCITP Training in vellore,CCNA Training in vellore,CEH Training in vellore,CISSP Training in vellore,IT  Training in vellore,Computer Training Institute in vellore,Corporate Training in vellore,Internaional certification in vellore">
+<meta name="keywords" content="ExinCorpacademy,ExinCorp studios,ExinCorp council,ExinCorp cloud,ExinCorp consultancy,ExinCorp systems,ExinCorp Solutions - IT company in vellore, Companies in Vellore,Training in vellore,RHCE Training in vellore,MCITP Training in vellore,CCNA Training in vellore,CEH Training in vellore,CISSP Training in vellore,IT  Training in vellore,Computer Training Institute in vellore,Corporate Training in vellore,Internaional certification in vellore">
 
 	<!-- responsive meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -33,11 +33,11 @@
  { 
  "@context" : "http://schema.org",
  "@type" : "Organization",
- "name" : "ExonCorpSolutions",
- "url" : "https://ExonCorp.in/",
+ "name" : "ExinCorpSolutions",
+ "url" : "https://ExinCorp.in/",
  "sameAs" : [ 
- "https://www.facebook.com/ExonCorp.in/",
- "https://twitter.com/ExonCorpindia",
+ "https://www.facebook.com/ExinCorp.in/",
+ "https://twitter.com/ExinCorpindia",
  "https://plus.google.com/106304209575651338346",
    ]
  }

@@ -3,7 +3,7 @@
 
  <head>
 	<meta charset="UTF-8">
-	<title>Ethical Hacker Training, Information Security Certifications, Computer Security Training, Network Security Courses, Internet Security, Hacking | Exon Corp International Security Council, RISC, Exon Corp Council</title>
+	<title>Ethical Hacker Training, Information Security Certifications, Computer Security Training, Network Security Courses, Internet Security, Hacking | Exin Corp International Security Council, RISC, Exin Corp Council</title>
 	   
 
 	   <meta name="description" content="ethical hacking, certified ethical hacker, internet security, network security, computer security, information security, it security certifications, how to become a hacker, ethical hacking course, information security training, network security certification, cyber security certifications, computer security certifications, computer security training, computer security courses, network security training, information security certification, internet security programs">
@@ -96,9 +96,9 @@
                                     <img src="images/services/business-growth.jpg" alt="Awesome Image">
                                 </div>
                                 <div class="text-holder">
-                                   <p><strong>Security Services:</strong> Exoncorp CYBER SECURITY COUNCIL will provide you with awareness on Information Technology, Computer Cyber Security.</p>
-                                    <p class="mar-btm15"><strong>ExonCorp Cyber Security Council</strong> will provide you with Awareness on Information Technology, Computer Cyber Security, Security Threats, technical information, advocacy, and professional networking opportunities, which will help advance your career. You will be able to exchange your Projects, research information with other peoples , in RISC Community field as well as participate in programming sessions offered at various conferences throughout the year.</p>
-<p>Exoncorp INTERNATIONAL CYBER SECURITY COUNCIL - RISC 
+                                   <p><strong>Security Services:</strong> Exincorp CYBER SECURITY COUNCIL will provide you with awareness on Information Technology, Computer Cyber Security.</p>
+                                    <p class="mar-btm15"><strong>ExinCorp Cyber Security Council</strong> will provide you with Awareness on Information Technology, Computer Cyber Security, Security Threats, technical information, advocacy, and professional networking opportunities, which will help advance your career. You will be able to exchange your Projects, research information with other peoples , in RISC Community field as well as participate in programming sessions offered at various conferences throughout the year.</p>
+<p>Exincorp INTERNATIONAL CYBER SECURITY COUNCIL - RISC 
 World-class Cyber Security education for anyone, anywhere.</p>
                                 </div>
                             </div>
@@ -178,8 +178,8 @@ World-class Cyber Security education for anyone, anywhere.</p>
                                         <div class="text-holder">
                                             <p>Beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue beguiled and demoralized.</p> 
                                             <ul>
-                                                <li><i class="fa fa-angle-right" aria-hidden="true"></i>ExonCorp Academy becomes a Gold Certified Training Partner of Novell Proud to be Partnered with Novell.</li>
-                                                <li><i class="fa fa-angle-right" aria-hidden="true"></i>ExonCorp Becomes Intel Technology Provider – Gold Partner and proud to be partner of intel.</li>
+                                                <li><i class="fa fa-angle-right" aria-hidden="true"></i>ExinCorp Academy becomes a Gold Certified Training Partner of Novell Proud to be Partnered with Novell.</li>
+                                                <li><i class="fa fa-angle-right" aria-hidden="true"></i>ExinCorp Becomes Intel Technology Provider – Gold Partner and proud to be partner of intel.</li>
                                                 
                                             </ul>
                                         </div>
@@ -213,7 +213,7 @@ World-class Cyber Security education for anyone, anywhere.</p>
                                     <div class="accord-content">
                                        
 
- <i class="fa fa-check" aria-hidden="true"></i>&nbsp;RCSH:&nbsp;ExonCorp Certificed Security Hacking
+ <i class="fa fa-check" aria-hidden="true"></i>&nbsp;RCSH:&nbsp;ExinCorp Certificed Security Hacking
                                     </div>
                                 </div>
                                 <!--End single accordion box--> 
@@ -223,7 +223,7 @@ World-class Cyber Security education for anyone, anywhere.</p>
                                         <h4>RCSP</h4>
                                     </div>
                                     <div class="accord-content ">
-                                        <i class="fa fa-check" aria-hidden="true"></i>&nbsp;ExonCorp Certifiec Saftey Professinal
+                                        <i class="fa fa-check" aria-hidden="true"></i>&nbsp;ExinCorp Certifiec Saftey Professinal
                                     </div>
                                 </div>
                                 <div class="accordion accordion-block">
@@ -231,14 +231,14 @@ World-class Cyber Security education for anyone, anywhere.</p>
                                         <h4>RCEH</h4>
                                     </div>
                                     <div class="accord-content ">
-                                        <i class="fa fa-check" aria-hidden="true"></i>&nbsp;ExonCorp Certified Ethical Hacking
+                                        <i class="fa fa-check" aria-hidden="true"></i>&nbsp;ExinCorp Certified Ethical Hacking
                                     </div>
                                 </div><div class="accordion accordion-block">
                                     <div class="accord-btn ">
                                         <h4>RCSA</h4>
                                     </div>
                                     <div class="accord-content ">
-                                        <i class="fa fa-check" aria-hidden="true"></i>&nbsp;ExonCorp Certified Security Analysis
+                                        <i class="fa fa-check" aria-hidden="true"></i>&nbsp;ExinCorp Certified Security Analysis
                                     </div>
                                 </div></div></div>
                             <div class="col-md-6">
@@ -248,14 +248,14 @@ World-class Cyber Security education for anyone, anywhere.</p>
                                         <h4>RCSE</h4>
                                     </div>
                                     <div class="accord-content ">
-                                         <i class="fa fa-check" aria-hidden="true"></i>&nbsp;ExonCorp Certified Security Expert
+                                         <i class="fa fa-check" aria-hidden="true"></i>&nbsp;ExinCorp Certified Security Expert
                                     </div>
                                 </div><div class="accordion accordion-block">
                                     <div class="accord-btn ">
                                         <h4>RCSC</h4>
                                     </div>
                                     <div class="accord-content ">
-                                        <i class="fa fa-check" aria-hidden="true"></i>&nbsp;ExonCorp Certified Security Council
+                                        <i class="fa fa-check" aria-hidden="true"></i>&nbsp;ExinCorp Certified Security Council
                                     </div>
                                 </div>
                                 <!--End single accordion box-->
@@ -362,7 +362,7 @@ World-class Cyber Security education for anyone, anywhere.</p>
                                     <div class="text-holder">
                                         <h5>Web Security</h5>
                                         <p><span class="flaticon-telephone"></span>8189985554</p>
-                                        <p><span class="flaticon-back"></span>basha@Exoncorpsolutions.in</p>
+                                        <p><span class="flaticon-back"></span>basha@Exincorpsolutions.in</p>
                                     </div>
                                     
                                 </li>
@@ -376,7 +376,7 @@ World-class Cyber Security education for anyone, anywhere.</p>
                                     <div class="text-holder">
                                         <h5>Cyber Law</h5>
                                         <p><span class="flaticon-telephone"></span>8189985559</p>
-                                        <p><span class="flaticon-back"></span>selva@Exoncorps.in</p>
+                                        <p><span class="flaticon-back"></span>selva@Exincorps.in</p>
                                     </div>
                                     
                                 </li>
@@ -390,7 +390,7 @@ World-class Cyber Security education for anyone, anywhere.</p>
                                     <div class="text-holder">
                                         <h5>Hacking Security</h5>
                                         <p><span class="flaticon-telephone"></span>8189985551</p>
-                                        <p><span class="flaticon-back"></span>sivapriya@Exoncorps.in</p>
+                                        <p><span class="flaticon-back"></span>sivapriya@Exincorps.in</p>
                                     </div>
                                     
                                 </li>

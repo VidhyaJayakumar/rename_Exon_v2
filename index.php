@@ -9,11 +9,11 @@
         <meta http-equiv="x-ua-compatible" content="ie=edge">
 		<meta name="google-site-verification" content="uSkovylbhINHLzXRx_8XvyzxJICZBsON4yKhbHFQJ0Y" />
 
-         <title>ExonCorp Technology Solutions Company Vellore, Chennai, India, Analytics, Consulting, Consultancy, Cloud, cyber security, internet of things, block chain, digital opearations,infrastructure services, engineering, bigdata, iot, opensource, software, Technology, Sofware, Website, Digital,Training,Support company,IT Training, IT Services, Web Designing and Development company, Outsourcing Services, BPO, IT Infrastructure, Information Communication Technology Company, coworking space Business Consulting – IT companies in vellore</title>
+         <title>ExinCorp Technology Solutions Company Vellore, Chennai, India, Analytics, Consulting, Consultancy, Cloud, cyber security, internet of things, block chain, digital opearations,infrastructure services, engineering, bigdata, iot, opensource, software, Technology, Sofware, Website, Digital,Training,Support company,IT Training, IT Services, Web Designing and Development company, Outsourcing Services, BPO, IT Infrastructure, Information Communication Technology Company, coworking space Business Consulting – IT companies in vellore</title>
 
-<meta name="description" content="ExonCorp, Technology Solutions is a leading global Technology Solutions Provider company in vellore, providing IT services and solutions in Tamilnadu, vellore, India, training, ExonCorp Technology Solutions Company Vellore, Chennai, India, Analytics, Consulting, Consultancy, Cloud, cyber security, internet of things, block chain, digital opearations,infrastructure services, engineering, bigdata, iot, opensource, software, Technology, Sofware, Website, Digital,Training,Support company,IT Training, IT Services, Web Designing and Development company, Outsourcing Services, BPO, IT Infrastructure, Information Communication Technology Company, coworking space Business Consulting – IT companies in velloreconsulting, digital, technology, strategy and operations, web development, design.ExonCorp Solutions - IT Certifications in vellore, Comptia A+ N+ Training in vellore, RHCE Training in vellore, MCITP Training in vellore, CCNA Training in vellore, CEH Training in vellore, CISSP Training in vellore, IT Training in vellore, Computer Training Institute in vellore, Corporate Training in vellore, International certification in vellore.coworking space.">
+<meta name="description" content="ExinCorp, Technology Solutions is a leading global Technology Solutions Provider company in vellore, providing IT services and solutions in Tamilnadu, vellore, India, training, ExinCorp Technology Solutions Company Vellore, Chennai, India, Analytics, Consulting, Consultancy, Cloud, cyber security, internet of things, block chain, digital opearations,infrastructure services, engineering, bigdata, iot, opensource, software, Technology, Sofware, Website, Digital,Training,Support company,IT Training, IT Services, Web Designing and Development company, Outsourcing Services, BPO, IT Infrastructure, Information Communication Technology Company, coworking space Business Consulting – IT companies in velloreconsulting, digital, technology, strategy and operations, web development, design.ExinCorp Solutions - IT Certifications in vellore, Comptia A+ N+ Training in vellore, RHCE Training in vellore, MCITP Training in vellore, CCNA Training in vellore, CEH Training in vellore, CISSP Training in vellore, IT Training in vellore, Computer Training Institute in vellore, Corporate Training in vellore, International certification in vellore.coworking space.">
 
-<meta name="keywords" content="ExonCorp Technology Solutions Company Vellore, Chennai, India, Analytics, Consulting, Consultancy, Cloud, cyber security, internet of things, block chain, digital opearations,infrastructure services, engineering, bigdata, iot, opensource, software, Technology, Sofware, Website, Digital,Training,Support company,IT Training, IT Services, Web Designing and Development company, Outsourcing Services, BPO, IT Infrastructure, Information Communication Technology Company, coworking space Business Consulting – IT companies in velloreIntership vellore, internships in vellore, projects in vellore, project vellore, project centers in vellore, ExonCorp academy, exincorp studios, exincorp council, exincorp cloud, exincorp consultancy, exincorp systems, ExonCorp Solutions - IT company in vellore, Companies in Vellore, top it companies in vellore, Training in vellore, RHCE Training in vellore, MCITP Training in vellore, CCNA Training in vellore, CEH Training in vellore, CISSP Training in vellore, IT Training in vellore, Computer Training Institute in vellore, Corporate Training in vellore, Internaional certification in vellore ,coworking space in vellore">
+<meta name="keywords" content="ExinCorp Technology Solutions Company Vellore, Chennai, India, Analytics, Consulting, Consultancy, Cloud, cyber security, internet of things, block chain, digital opearations,infrastructure services, engineering, bigdata, iot, opensource, software, Technology, Sofware, Website, Digital,Training,Support company,IT Training, IT Services, Web Designing and Development company, Outsourcing Services, BPO, IT Infrastructure, Information Communication Technology Company, coworking space Business Consulting – IT companies in velloreIntership vellore, internships in vellore, projects in vellore, project vellore, project centers in vellore, ExinCorp academy, exincorp studios, exincorp council, exincorp cloud, exincorp consultancy, exincorp systems, ExinCorp Solutions - IT company in vellore, Companies in Vellore, top it companies in vellore, Training in vellore, RHCE Training in vellore, MCITP Training in vellore, CCNA Training in vellore, CEH Training in vellore, CISSP Training in vellore, IT Training in vellore, Computer Training Institute in vellore, Corporate Training in vellore, Internaional certification in vellore ,coworking space in vellore">
         
   <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P79ZLDK"
@@ -48,7 +48,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
  { 
  "@context" : "http://schema.org",
  "@type" : "Organization",
- "name" : "ExonCorp Technology Solutions",
+ "name" : "ExinCorp Technology Solutions",
  "url" : "https://exincorp.com/",
  "sameAs" : [ 
  "https://www.facebook.com/exincorp/",
@@ -62,13 +62,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 {
                     "@context" : "http://schema.org",
                     "@type" : "Organization",
-                    "name" : "ExonCorp Technology Solutions, Inc.",
+                    "name" : "ExinCorp Technology Solutions, Inc.",
                     "url" : "http://exincorp.com",
                     "sameAs" : 
 
 ["https://www.facebook.com/exincorp","https://twitter.com/exincorp","https://www.youtube.com/+exincorp","https://www.linkedin.com/company/exincorp","https://plus.google.com/+exincorp","http://instagram.com/exincorp"],
                     "logo": "http://exincorp.com/logo.png",
-                    "legalName" : "ExonCorp Technology Solutions, Inc.",
+                    "legalName" : "ExinCorp Technology Solutions, Inc.",
                     "address":[
                     { "@type": "PostalAddress", "addressCountry": "India", "addressLocality": "Tamil nadu", "addressRegion": "Vellore", "postalCode": "632009", 
 
@@ -368,7 +368,7 @@ Any clarifications arising out of the contents of the website may be referred to
 <section class="welcome-area sec-padding">
     <div class="container">
         <div class="sec-title text-center">
-            <h1>Why Choose ExonCorp ?</h1>
+            <h1>Why Choose ExinCorp ?</h1>
             <span class="border-center"></span>
             <p>We are experts in this industry with over 10 years experience. What that means is you are going to get right solution. please find our services, Adapt the Right Technology Solution to Reach your business Destination. </p>
         </div>
@@ -466,7 +466,7 @@ Any clarifications arising out of the contents of the website may be referred to
                                 <h3>Training</h3>    
                             </div>
                             <div class="text-holder">
-                                <p>ExonCorp IT Academy specialize in offering various types of IT training and educational services which have helped IT professionals...</p>
+                                <p>ExinCorp IT Academy specialize in offering various types of IT training and educational services which have helped IT professionals...</p>
                                 <a class="thm-btn bgclr-1" href="exincorp-academy.php" target="_blank">Read More</a>
                             </div>
                         </div>
@@ -480,7 +480,7 @@ Any clarifications arising out of the contents of the website may be referred to
                                 <h3>Support Services</h3>    
                             </div>
                             <div class="text-holder">
-                                <p>ExonCorp Systems we know how essential IT is for your company, but we also know the stress that computers bring when they...</p>
+                                <p>ExinCorp Systems we know how essential IT is for your company, but we also know the stress that computers bring when they...</p>
                                 <a class="thm-btn bgclr-1" href="exincorp-systems.php" target="_blank">Read More</a>
                             </div>
                         </div>
@@ -494,7 +494,7 @@ Any clarifications arising out of the contents of the website may be referred to
                                 <h3>Consultancy</h3>    
                             </div>
                             <div class="text-holder">
-                                <p>ExonCorp Consulting: The goal of ExonCorp is to enable our clients in becoming more agile and competent through the innovative use...</p>
+                                <p>ExinCorp Consulting: The goal of ExinCorp is to enable our clients in becoming more agile and competent through the innovative use...</p>
                                 <a class="thm-btn bgclr-1" href="exincorp-consultancy.php" target="_blank">Read More</a>
                             </div>
                         </div>
@@ -520,7 +520,7 @@ Any clarifications arising out of the contents of the website may be referred to
                                 <h3>Law Firm</h3>    
                             </div>
                             <div class="text-holder">
-                                <p>ExonCorp Law Associates services possesses a depth of experience and innovative expertise in the field of litigation...</p>
+                                <p>ExinCorp Law Associates services possesses a depth of experience and innovative expertise in the field of litigation...</p>
                                 <a class="thm-btn bgclr-1" href="exincorp-law-firm.php" target="_blank">Read More</a>
                             </div>
                         </div>
@@ -544,7 +544,7 @@ Any clarifications arising out of the contents of the website may be referred to
                                 <h3>Cloud Services</h3>    
                             </div>
                             <div class="text-holder">
-                                <p>ExonCorpcloud.com believes in your right to put your ideas online. That’s why all our hosting products, from single-page websites to...</p>
+                                <p>ExinCorpcloud.com believes in your right to put your ideas online. That’s why all our hosting products, from single-page websites to...</p>
                                 <a class="thm-btn bgclr-1" href="exincorp-cloud.php" target="_blank">Read More</a>
                             </div>
                         </div>
@@ -556,7 +556,7 @@ Any clarifications arising out of the contents of the website may be referred to
                                 <h3>Software Development</h3>    
                             </div>
                             <div class="text-holder">
-                                <p>ExonCorp Softwares is a collection of energetic and lively bunch of professionals who make the company a trusted...</p>
+                                <p>ExinCorp Softwares is a collection of energetic and lively bunch of professionals who make the company a trusted...</p>
                                 <a class="thm-btn bgclr-1" href="exincorp-softwares.php" target="_blank">Read More</a>
                             </div>
                         </div>
@@ -568,7 +568,7 @@ Any clarifications arising out of the contents of the website may be referred to
                                 <h3>Security Services</h3>    
                             </div>
                             <div class="text-holder">
-                                <p>ExonCorp Cyber Security Council will provide you with Awareness on Information Technology, Computer Cyber Security, Security Threats...</p>
+                                <p>ExinCorp Cyber Security Council will provide you with Awareness on Information Technology, Computer Cyber Security, Security Threats...</p>
                                 <a class="thm-btn bgclr-1" href="exincorp-council.php" target="_blank">Read More</a>
                             </div>
                         </div>
@@ -580,7 +580,7 @@ Any clarifications arising out of the contents of the website may be referred to
                                 <h3>Internships</h3>    
                             </div>
                             <div class="text-holder">
-                                <p>ExonCorp Internships We see our Interns as the ExonCorp professionals of tomorrow, influencing how we do business today...</p>
+                                <p>ExinCorp Internships We see our Interns as the ExinCorp professionals of tomorrow, influencing how we do business today...</p>
                                 <a class="thm-btn bgclr-1" href="Internship-In-Vellore.php" target="_blank">Read More</a>
                             </div>
                         </div>
@@ -592,7 +592,7 @@ Any clarifications arising out of the contents of the website may be referred to
                                 <h3>Projects</h3>    
                             </div>
                             <div class="text-holder">
-                                <p>ExonCorp Projects – the leading skill development company in vellore provides best in class career oriented & real time Final...</p>
+                                <p>ExinCorp Projects – the leading skill development company in vellore provides best in class career oriented & real time Final...</p>
                                 <a class="thm-btn bgclr-1" href="exincorp-projects.php" target="_blank">Read More</a>
                             </div>
                         </div>
@@ -718,7 +718,7 @@ option which gives great amount of satisfaction.</p>
                     <!--Start single item-->
                     <div class="single-item">
                         <div class="text-box">
-                            <p>For any kind of services, Exoncorp IT SOLUTIONS is the best option which gives great amount of satisfaction.</p>
+                            <p>For any kind of services, Exincorp IT SOLUTIONS is the best option which gives great amount of satisfaction.</p>
                             <span class="border"></span>
                         </div>
                         <div class="client-info">
@@ -730,7 +730,7 @@ option which gives great amount of satisfaction.</p>
                     <!--Start single item-->
                     <div class="single-item">
                         <div class="text-box">
-                            <p>For any kind of services, Exoncorp IT SOLUTIONS is the best option which gives great amount of satisfaction.</p>
+                            <p>For any kind of services, Exincorp IT SOLUTIONS is the best option which gives great amount of satisfaction.</p>
                             <span class="border"></span>
                         </div>
                         <div class="client-info">
@@ -847,7 +847,7 @@ option which gives great amount of satisfaction.</p>
                             <h3 class="blog-title">Redesign Website</h3>
                         </a>
                         <div class="text">
-                            <p>Exon Corp Studios redesigned exincorp website in professional manner and completed in three days.</p>
+                            <p>Exin Corp Studios redesigned exincorp website in professional manner and completed in three days.</p>
                         </div>
                         <div class="bottom">
                             <div class="left pull-left">
@@ -886,7 +886,7 @@ option which gives great amount of satisfaction.</p>
                             <h3 class="blog-title">Hiring 2014 graduates</h3>
                         </a>
                         <div class="text">
-                            <p>Emphasis, one of the world's leading IT consulting and Outsourcing Service Provider has partnered with Exon Corp.</p>
+                            <p>Emphasis, one of the world's leading IT consulting and Outsourcing Service Provider has partnered with Exin Corp.</p>
                         </div>
                         <div class="bottom">
                             <div class="left pull-left">
@@ -925,7 +925,7 @@ option which gives great amount of satisfaction.</p>
                             <h3 class="blog-title">Novell Partner</h3>
                         </a>
                         <div class="text">
-                            <p>Exon Corp Academy becomes a Gold Certified Training Partner of Novell Proud to be Partnered with Novell.</p>
+                            <p>Exin Corp Academy becomes a Gold Certified Training Partner of Novell Proud to be Partnered with Novell.</p>
                         </div>
                         <div class="bottom">
                             <div class="left pull-left">

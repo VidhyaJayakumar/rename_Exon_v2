@@ -3,7 +3,7 @@
 
  <head>
 	<meta charset="UTF-8">
-	<title>ExonCorp IT solutions India,Software company,IT Training, IT Services, Web Designing and Development company, Outsourcing Services, BPO, IT Infrastructure, Information Communication Technology Company, Business Consulting  – IT companies in vellore</title>
+	<title>ExinCorp IT solutions India,Software company,IT Training, IT Services, Web Designing and Development company, Outsourcing Services, BPO, IT Infrastructure, Information Communication Technology Company, Business Consulting  – IT companies in vellore</title>
 
 	<!-- responsive meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">

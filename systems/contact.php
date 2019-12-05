@@ -10,7 +10,7 @@
 <!-- Head BEGIN -->
 <head>
   <meta charset="utf-8">
-  <title>Exoncorp Systems Contact Page, Vellore, Chennai, Hosur, Gudiyatham We are Top Leading Server Network Maintenance Company, exincorp Contact 818998558 </title>
+  <title>Exincorp Systems Contact Page, Vellore, Chennai, Hosur, Gudiyatham We are Top Leading Server Network Maintenance Company, exincorp Contact 818998558 </title>
 
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -94,7 +94,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 </div>
                 <div class="col-md-9 col-sm-9">
                   <h2>We look forward to hearing from you.</h2>
-                   <p align="justify">Exoncorp will transform your IT and revolutionize how it helps you do business. If you have any questions about our services or would like more information, call us any time – you will be greeted by a live person 24/7! We love to hear from customers old and new.</p>
+                   <p align="justify">Exincorp will transform your IT and revolutionize how it helps you do business. If you have any questions about our services or would like more information, call us any time – you will be greeted by a live person 24/7! We love to hear from customers old and new.</p>
                   
                   <!-- BEGIN FORM-->
                   <form action="contact_email.php" role="form" method="post" enctype="multipart/form-data">
@@ -119,7 +119,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <div class="col-md-3 col-sm-3 sidebar2">
                   <h2>Our Contacts</h2>
                   <address>
-                    <strong>Exoncorp Systems</strong><br>
+                    <strong>Exincorp Systems</strong><br>
                      No: 05 / X 2 , Hari Om 2nd Street, Phase-3, Sathuvachari<br>
                     Vellore, Tamilnadu - 632009<br>
                     <abbr title="Phone">P:</abbr> (+91) 81899 85551

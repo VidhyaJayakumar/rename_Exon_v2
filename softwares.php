@@ -3,11 +3,11 @@
 
  <head>
 	<meta charset="UTF-8">
-	<title>Exoncorp solutions India,Software company,IT Training, IT Services, Web Designing and Development company, Outsourcing Services, BPO, IT Infrastructure, Information Communication Technology Company, Business Consulting – IT companies in vellore</title>
+	<title>Exincorp solutions India,Software company,IT Training, IT Services, Web Designing and Development company, Outsourcing Services, BPO, IT Infrastructure, Information Communication Technology Company, Business Consulting – IT companies in vellore</title>
 	   
 
-	   <meta name="description" content="Exoncorp IT solutions is a leading global professional services companies in vellore, providing IT services and solutions in Tamilnadu, vellore, India,training, consulting, digital, technology, strategy and operations, web development, design.Exoncorp Solutions - IT Certifications in vellore,Comptia A+ N+ Training in vellore,RHCE Training in vellore,MCITP Training in vellore,CCNA Training in vellore,CEH Training in vellore,CISSP Training in vellore,IT  Training in vellore,Computer Training Institute in vellore,Corporate Training in vellore,International certification in vellore">
-		<meta name="keywords" content="Exoncorp academy,ExonCorp studios,ExonCorp council,ExonCorp cloud,ExonCorp consultancy,ExonCorp systems,Exoncorp Solutions - IT company in vellore, Companies in Vellore,Training in vellore,RHCE Training in vellore,MCITP Training in vellore,CCNA Training in vellore,CEH Training in vellore,CISSP Training in vellore,IT  Training in vellore,Computer Training Institute in vellore,Corporate Training in vellore,Internaional certification in vellore">
+	   <meta name="description" content="Exincorp IT solutions is a leading global professional services companies in vellore, providing IT services and solutions in Tamilnadu, vellore, India,training, consulting, digital, technology, strategy and operations, web development, design.Exincorp Solutions - IT Certifications in vellore,Comptia A+ N+ Training in vellore,RHCE Training in vellore,MCITP Training in vellore,CCNA Training in vellore,CEH Training in vellore,CISSP Training in vellore,IT  Training in vellore,Computer Training Institute in vellore,Corporate Training in vellore,International certification in vellore">
+		<meta name="keywords" content="Exincorp academy,ExinCorp studios,ExinCorp council,ExinCorp cloud,ExinCorp consultancy,ExinCorp systems,Exincorp Solutions - IT company in vellore, Companies in Vellore,Training in vellore,RHCE Training in vellore,MCITP Training in vellore,CCNA Training in vellore,CEH Training in vellore,CISSP Training in vellore,IT  Training in vellore,Computer Training Institute in vellore,Corporate Training in vellore,Internaional certification in vellore">
 
 	<!-- responsive meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -67,7 +67,7 @@
                         <li><i class="fa fa-angle-right" aria-hidden="true"></i></li>
                         <li><a href="services.php">Services</a></li>
                         <li><i class="fa fa-angle-right" aria-hidden="true"></i></li>
-                        <li class="active"><a href="Exon Corp-softwares.php">Exoncorp SOFTWARES</a></li>
+                        <li class="active"><a href="Exin Corp-softwares.php">Exincorp SOFTWARES</a></li>
                     </ul>
                 </div>
                 <div class="right pull-right">
@@ -96,9 +96,9 @@
                                     <img src="images/services/business-growth.jpg" alt="Awesome Image">
                                 </div>
                                 <div class="text-holder">
-                                   <p><strong>Software Development:</strong> Exoncorp Softwares is a collection of energetic and lively bunch of professionals who make the company a trusted brand name for one stop solutions for mobile and web apps.</p>
-                                    <p class="mar-btm15">IT Support | Software&nbsp;|&nbsp;<strong>Exoncorp Softwares</strong> is a collection of energetic and lively bunch of professionals who make the company a trusted brand name for one stop solutions for mobile and web apps</p>
-<p>With a vibrant culture derived from creativity, knowledge sharing and honesty, we at Exoncorp Softwares are positioned as a leading organization that serves its clients with all the goodness and technical might.</p>
+                                   <p><strong>Software Development:</strong> Exincorp Softwares is a collection of energetic and lively bunch of professionals who make the company a trusted brand name for one stop solutions for mobile and web apps.</p>
+                                    <p class="mar-btm15">IT Support | Software&nbsp;|&nbsp;<strong>Exincorp Softwares</strong> is a collection of energetic and lively bunch of professionals who make the company a trusted brand name for one stop solutions for mobile and web apps</p>
+<p>With a vibrant culture derived from creativity, knowledge sharing and honesty, we at Exincorp Softwares are positioned as a leading organization that serves its clients with all the goodness and technical might.</p>
                                     <p>With 5 years of experience in witnessing the progression in the market of mobile apps, we are one of the best mobile app development and marketing company that has mastered quality, execution and client servicing.</p>
                                 </div>
                             </div>
@@ -154,7 +154,7 @@
                                 <div class="row">
                                     <div class="col-lg-6 col-md-12">
                                         <div class="text-holder">
-                                            <p>Exoncorp Softwares Technolabs is dedicated towards deploying the latest technologies available in the market. We strive to deliver solutions that offer highest level of consistency in performance and quality. Exoncorp Softwares’s technological intelligence covers myriad of platforms, languages and databases. As a leading IT solutions provider, our technical expertise is always up-to-date, incorporated with the latest and the quintessential in order to yield best results.</p> 
+                                            <p>Exincorp Softwares Technolabs is dedicated towards deploying the latest technologies available in the market. We strive to deliver solutions that offer highest level of consistency in performance and quality. Exincorp Softwares’s technological intelligence covers myriad of platforms, languages and databases. As a leading IT solutions provider, our technical expertise is always up-to-date, incorporated with the latest and the quintessential in order to yield best results.</p> 
                                             <ul>
                                                 <li><i class="fa fa-angle-right" aria-hidden="true"></i>Mobile Apps</li>
                                                 <li><i class="fa fa-angle-right" aria-hidden="true"></i>Software Development
@@ -329,7 +329,7 @@
                                     <div class="text-holder">
                                         <h5>Manager</h5>
                                         <p><span class="flaticon-telephone"></span>8189985559</p>
-                                        <p><span class="flaticon-back"></span>selva@Exon Corps.in</p>
+                                        <p><span class="flaticon-back"></span>selva@Exin Corps.in</p>
                                     </div>
                                 </li>
                                 <li>
@@ -342,7 +342,7 @@
                                     <div class="text-holder">
                                         <h5>Mobile Apps Developer</h5>
                                         <p><span class="flaticon-telephone"></span>8189985551</p>
-                                        <p><span class="flaticon-back"></span>sivapriya@Exon Corps.in</p>
+                                        <p><span class="flaticon-back"></span>sivapriya@Exin Corps.in</p>
                                     </div>
                                 </li>
                                 <li>
@@ -355,7 +355,7 @@
                                     <div class="text-holder">
                                         <h5>Web Application Developer</h5>
                                         <p><span class="flaticon-telephone"></span>8189985554</p>
-                                        <p><span class="flaticon-back"></span>basha@Exon Corpsolutions.in</p>
+                                        <p><span class="flaticon-back"></span>basha@Exin Corpsolutions.in</p>
                                     </div>
                                 </li>
                                 <li>
@@ -368,7 +368,7 @@
                                     <div class="text-holder">
                                         <h5>PHP Developer</h5>
                                         <p><span class="flaticon-telephone"></span>8189985554</p>
-                                        <p><span class="flaticon-back"></span>rex@Exon Corpsolutions.in</p>
+                                        <p><span class="flaticon-back"></span>rex@Exin Corpsolutions.in</p>
                                     </div>
                                 </li>
                                 

@@ -3,11 +3,11 @@
 
  <head>
 	<meta charset="UTF-8">
-	<title> ExonCorp Cloud - A software company Web Design,development company in Vellore | Web Development vellore | Web Hosting Tamilnadu| hosting and Domain Registration vellore | Advertising Vellore| Branding Tamilnadu | Ecommerce Website Development in Vellore | Low Price Website Design in Vellore | Logo Design Vellore | Online Shopping Cart in India | Webdesign courses, webdesign training </title>    
+	<title> ExinCorp Cloud - A software company Web Design,development company in Vellore | Web Development vellore | Web Hosting Tamilnadu| hosting and Domain Registration vellore | Advertising Vellore| Branding Tamilnadu | Ecommerce Website Development in Vellore | Low Price Website Design in Vellore | Logo Design Vellore | Online Shopping Cart in India | Webdesign courses, webdesign training </title>    
 	   
 
-	  <meta name="description" content="Leading Web Designing and development company in vellore, web hosting company in vellore helps small business with provided logo designing,Domain,hosting,branding,advertising.A passionate Digitalmarketing comapan in India having expertise in web design,Wordpress/PHP website development company in Vellore, CMS customization,social media marketing in Vellore,Classifieds Agency in Vellore,Professsional Photoshoot in Vellore,Online Shopcart Designers in Vellore,digital marketing services Vellore,domain name registration in vellore,web development company in vellore.Web Design training courses in Vellore, Website Design and development training in vellore.ExonCorp studios Chennai|Vellore|Hosur|Tamilnadu|India">
-		<meta name="keywords" content="Website designing and development compannies in vellore,Web Hosting,Vellore Web Developers,Web Development Company in vellore,Classifieds Agency in Vellore,Online Shopcart Dealers in Vellore,Professional Photoshoot in Vellore,Classifieds Consultancy in Vellore,Classifieds Marketing in Vellore,Ecommerce website design,Web design Company,Web Hosting vellore,Domain Registration,Branding vellore,website development company in tamilnadu,Website Development, Website Developers in Vellore,webdesign training, webdesign courses,website certifications, Website Designers, Web Design training courses in Vellore, Website Design and development training in vellore ExonCorp studios Chennai|Vellore|Hosur|Tamilnadu|India">
+	  <meta name="description" content="Leading Web Designing and development company in vellore, web hosting company in vellore helps small business with provided logo designing,Domain,hosting,branding,advertising.A passionate Digitalmarketing comapan in India having expertise in web design,Wordpress/PHP website development company in Vellore, CMS customization,social media marketing in Vellore,Classifieds Agency in Vellore,Professsional Photoshoot in Vellore,Online Shopcart Designers in Vellore,digital marketing services Vellore,domain name registration in vellore,web development company in vellore.Web Design training courses in Vellore, Website Design and development training in vellore.ExinCorp studios Chennai|Vellore|Hosur|Tamilnadu|India">
+		<meta name="keywords" content="Website designing and development compannies in vellore,Web Hosting,Vellore Web Developers,Web Development Company in vellore,Classifieds Agency in Vellore,Online Shopcart Dealers in Vellore,Professional Photoshoot in Vellore,Classifieds Consultancy in Vellore,Classifieds Marketing in Vellore,Ecommerce website design,Web design Company,Web Hosting vellore,Domain Registration,Branding vellore,website development company in tamilnadu,Website Development, Website Developers in Vellore,webdesign training, webdesign courses,website certifications, Website Designers, Web Design training courses in Vellore, Website Design and development training in vellore ExinCorp studios Chennai|Vellore|Hosur|Tamilnadu|India">
 
 	<!-- responsive meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -67,7 +67,7 @@
                         <li><i class="fa fa-angle-right" aria-hidden="true"></i></li>
                         <li><a href="services.php">Services</a></li>
                         <li><i class="fa fa-angle-right" aria-hidden="true"></i></li>
-                        <li class="active"><a href="">ExonCorp Cloud</a></li>
+                        <li class="active"><a href="">ExinCorp Cloud</a></li>
                     </ul>
                 </div>
                 <div class="right pull-right">
@@ -97,7 +97,7 @@
                                 </div>
                                 <div class="text-holder">
                                    <p><strong>Cloud Services: </strong>EXINCORP cloud believes in your right to put your ideas online. That’s why all our hosting products, from single-page websites o dedicated servers, come with powerful tools and rock-solid security.</p>
-                                    <p class="mar-btm15"><strong>EXINCORP CLOUD</strong>&nbsp;Exon Corpcloud.com believes in your right to put your ideas online. That’s why all our hosting products, from single-page websites to dedicated servers, come with powerful tools and rock-solid security.</p>
+                                    <p class="mar-btm15"><strong>EXINCORP CLOUD</strong>&nbsp;Exin Corpcloud.com believes in your right to put your ideas online. That’s why all our hosting products, from single-page websites to dedicated servers, come with powerful tools and rock-solid security.</p>
                                 </div>
                             </div>
                         </div>
@@ -107,7 +107,7 @@
                     <!--Start Specific Services-->
                     <div class="specific-services">
                         <div class="sec-title pdb-50">
-                            <h1>ExonCorp Hosting Plans</h1>
+                            <h1>ExinCorp Hosting Plans</h1>
                             <span class="border"></span>
                         </div>
                         <div class="row">

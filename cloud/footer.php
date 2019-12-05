@@ -61,7 +61,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-6 col-sm-6 col-xs-12">
-          <div class="coright-text">Copyright © <?php echo date('Y'); ?> Exoncorp. All Rights Reserved.Design By <a href="https://Exoncorpstudios.in/">Exoncorp</a></div>
+          <div class="coright-text">Copyright © <?php echo date('Y'); ?> Exincorp. All Rights Reserved.Design By <a href="https://Exincorpstudios.in/">Exincorp</a></div>
         </div>
         <div class="col-md-6 col-sm-6 col-xs-12">
           <div class="copyright-menu">

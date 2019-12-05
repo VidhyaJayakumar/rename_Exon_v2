@@ -9,7 +9,7 @@
 <!-- Head BEGIN -->
 <head>
   <meta charset="utf-8">
-   <title>Exoncorp Systems |Computer dealers in vellore|Computer sales and service in vellore CCTV Camera Sales and Services Chennai | Computer Repair Service | On Call Computer Service | Assembled System Sales | Low Cost Computer Sales | Desktop System Price List | Used Laptop Sales Vellore | Computer Dealers Kanchipuram | Server Problem Vellore | Mother Board Sales Services Kanchipuram | Laptop Screen Repair Gudiyatham | Computer Repair Store Vellore | Computer Services Center Kanchipuram | IT Computer Services Gudiyatham | Laptop Keyboard Repair Vellore | Desktop Computer Services Kachipuram | Computer Support Specialist - exincorp Systems @ Chennai | Kanchipuram | Gudiyatham | Vellore</title>
+   <title>Exincorp Systems |Computer dealers in vellore|Computer sales and service in vellore CCTV Camera Sales and Services Chennai | Computer Repair Service | On Call Computer Service | Assembled System Sales | Low Cost Computer Sales | Desktop System Price List | Used Laptop Sales Vellore | Computer Dealers Kanchipuram | Server Problem Vellore | Mother Board Sales Services Kanchipuram | Laptop Screen Repair Gudiyatham | Computer Repair Store Vellore | Computer Services Center Kanchipuram | IT Computer Services Gudiyatham | Laptop Keyboard Repair Vellore | Desktop Computer Services Kachipuram | Computer Support Specialist - exincorp Systems @ Chennai | Kanchipuram | Gudiyatham | Vellore</title>
 
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -157,7 +157,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <!-- Carousel items -->
                     <div class="carousel-inner">
                       <div class="active item">
-                        <blockquote><p>Exoncorp Systems has immensely helped us with our support capabilities by providing a perfect source for remote access at a great price! Thanks exincorp Systems for giving Progressive Networks the ability to resolve issues quickly!</p></blockquote>
+                        <blockquote><p>Exincorp Systems has immensely helped us with our support capabilities by providing a perfect source for remote access at a great price! Thanks exincorp Systems for giving Progressive Networks the ability to resolve issues quickly!</p></blockquote>
                         <div class="carousel-info">
                           <img class="pull-left" src="../../assets/frontend/pages/img/people/img1-small.jpg" alt="">
                           <div class="pull-left">
@@ -168,7 +168,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                       </div>
                       
                       <div class="item">
-                        <blockquote><p>Exoncorp Systems provide us with a forward thinking and well placed service. This has made significant impact on the efficiency and stability of our network.</p></blockquote>
+                        <blockquote><p>Exincorp Systems provide us with a forward thinking and well placed service. This has made significant impact on the efficiency and stability of our network.</p></blockquote>
                         <div class="carousel-info">
                           <img class="pull-left" src="../../assets/frontend/pages/img/people/img2-small.jpg" alt="">
                           <div class="pull-left">
@@ -260,7 +260,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<div class="portlet-body">
                 <div class="well">
                  
- <font size="4">Exoncorp Systems help support and security professionals improve business performance by enabling secure, controlled access to nearly any device or system, anywhere in the world.</font>      </div>         </div>	
+ <font size="4">Exincorp Systems help support and security professionals improve business performance by enabling secure, controlled access to nearly any device or system, anywhere in the world.</font>      </div>         </div>	
  <br/>
             <h1>Frequently Asked Questions</h1>
             <div class="content-page">

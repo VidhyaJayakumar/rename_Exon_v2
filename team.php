@@ -3,7 +3,7 @@
 
  <head>
 	<meta charset="UTF-8">
-	<title>Team || ExonCorp Vellore</title>
+	<title>Team || ExinCorp Vellore</title>
 
 	<!-- responsive meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">

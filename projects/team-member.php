@@ -7,7 +7,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<title>Exoncorp - Projects</title>
+	<title>Exincorp - Projects</title>
 	<meta name="author" content="SaltTechno">
 
 	<!-- ========== COMMON STYLES ========== -->
@@ -130,7 +130,7 @@
                                     </div>
                                     <!-- /.row -->
 
-                                    <p class="card-text">'Exoncorp - Projects' - consulting HTML template is the one place solution for all of your consulting business website. It works for any industry. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+                                    <p class="card-text">'Exincorp - Projects' - consulting HTML template is the one place solution for all of your consulting business website. It works for any industry. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
 
                                     <blockquote class="blockquote">
 										<p class="mb-0">One place solution for your consulting business website.</p>

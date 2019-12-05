@@ -6,10 +6,10 @@
 <head>
 <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Our Support | Domain Name Registration | Cheap Hosting | Web Hosting | Best Website Hosting | Website Hosting | Green Web Hosting | Domain Name Search | Reseller Hosting | Web Hosting Company | Green Web Hosting | Windows Hosting | Shared Hosting | SSL Security | DNS Black Listing Services @ Exoncorp Cloud in India</title>
-    <meta name="Description" content="We offer cheap web site hosting services in India with affordable domain name host provider, choose Speed Host as a quality web hosting India provider. @ Exoncorp Cloud in India" >
-    <meta name="Keywords" content="Cheap Hosting, Web Hosting, Domain Registration, Website Hosting, Hosting Services, Domain Hosting, Server Hosting, Reseller Hosting Plans, Top Hosting, Dedicated Hosting, Cheap Domain, Unlimited Hosting, Best Website Hosting, Linux Hosting, Internet Hosting, DNS Black Listing Services, Spam Guard, Enhanced Security @ Exoncorp Cloud in India">  
-	<meta name="Author" content="Exoncorp Cloud">	
+<title>Our Support | Domain Name Registration | Cheap Hosting | Web Hosting | Best Website Hosting | Website Hosting | Green Web Hosting | Domain Name Search | Reseller Hosting | Web Hosting Company | Green Web Hosting | Windows Hosting | Shared Hosting | SSL Security | DNS Black Listing Services @ Exincorp Cloud in India</title>
+    <meta name="Description" content="We offer cheap web site hosting services in India with affordable domain name host provider, choose Speed Host as a quality web hosting India provider. @ Exincorp Cloud in India" >
+    <meta name="Keywords" content="Cheap Hosting, Web Hosting, Domain Registration, Website Hosting, Hosting Services, Domain Hosting, Server Hosting, Reseller Hosting Plans, Top Hosting, Dedicated Hosting, Cheap Domain, Unlimited Hosting, Best Website Hosting, Linux Hosting, Internet Hosting, DNS Black Listing Services, Spam Guard, Enhanced Security @ Exincorp Cloud in India">  
+	<meta name="Author" content="Exincorp Cloud">	
 
 
 
@@ -79,7 +79,7 @@ document.onkeydown=function(e){e=e||window.event;if(e.keyCode==123||e.keyCode==1
     <div class="row">
       <div class="col-md-12 col-sm-12 col-xs-12">
         <h1>Our Support</h1>
-        <div class="sub_heading_page"><strong>Exoncorp customer support </strong> is available free of charge. Connection charges can vary when calling from outside the area, or from a mobile phone, depending on your specific phone plan. </div>
+        <div class="sub_heading_page"><strong>Exincorp customer support </strong> is available free of charge. Connection charges can vary when calling from outside the area, or from a mobile phone, depending on your specific phone plan. </div>
       </div>
     </div>
   </div>
@@ -154,7 +154,7 @@ document.onkeydown=function(e){e=e||window.event;if(e.keyCode==123||e.keyCode==1
             (8AM - 7PM IST Monday-Saturday) </p>
           <p>Ph: (+91)81899 85559<br>
             <!-- Fax: (+111) 123 456<br> -->
-            Email ID: studios@Exoncorps.in </p>
+            Email ID: studios@Exincorps.in </p>
 
             
         </div>

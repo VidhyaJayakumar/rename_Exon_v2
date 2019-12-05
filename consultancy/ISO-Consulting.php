@@ -4,7 +4,7 @@
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1">
     <meta charset="utf-8" />
-    <meta name="Description" content="Exoncorp Consultancy is an organised Consulting service provider offering job consultancy services,placement consultancy services,  Consultancy in Vellore , List of Job Consultants in Vellore , Placement consultancy, Recruitment Consultancy list, HR Consultancy, Placement consultants, Leading recruitment agency, Job placement consultancy India, free Human Resources services, sales and marketing jobs for freshers and experiences,IT consulting | Business Consulting | Technology Consulting | Legal Consulting | Seo Consulting | Marketing Consulting | Information Technology - Vellore, Bangalore, Chennai">
+    <meta name="Description" content="Exincorp Consultancy is an organised Consulting service provider offering job consultancy services,placement consultancy services,  Consultancy in Vellore , List of Job Consultants in Vellore , Placement consultancy, Recruitment Consultancy list, HR Consultancy, Placement consultants, Leading recruitment agency, Job placement consultancy India, free Human Resources services, sales and marketing jobs for freshers and experiences,IT consulting | Business Consulting | Technology Consulting | Legal Consulting | Seo Consulting | Marketing Consulting | Information Technology - Vellore, Bangalore, Chennai">
   <meta name="Keywords" content="IT consulting | Business Consulting | Technology Consulting | Legal Consulting | Seo Consulting | Marketing Consulting | Information Technology - Vellore, Bangalore, ChennaiIT company Jobs, Telecommunication Jobs, Healthcare Resources Job, Leading Consultancy Jobs, Placement Consultancy, Ethical Hacking Jobs, Networking Jobs, Server Jobs, Hardwaring Jobs, Software Engineering Jobs, Software Development Jobs, Education Jobs, Bpo Jobs, List of Consultancy in Chennai, Recruitment Consultancy Jobs, Manpower Consultancy Jobs, Job Placement Recruitment, Sales and Marketing Jobs @ Vellore, Bangalore, Chennai">
 <meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
 <meta name="MobileOptimized" content="width" />
@@ -299,7 +299,7 @@ document.onkeydown=function(e){e=e||window.event;if(e.keyCode==123||e.keyCode==1
 <h2 class="service-title">HR Consulting</h2>
 
 
-<p align="justify">Exoncorp IT Consulting services help infuse any business with technology infrastructure through IT related services.  It focuses on improving the IT in the organization through strategy and process implementation. 
+<p align="justify">Exincorp IT Consulting services help infuse any business with technology infrastructure through IT related services.  It focuses on improving the IT in the organization through strategy and process implementation. 
 Our fool proof and easy to use IT solutions and tools help improve business performance smartly. Our experience across multiple services ensure a hiked business growth focused on customer satisfaction, reduced time to market and increased operational excellence.
 We address and remediate the following business challenges:</p>
 <ul class="icon-list"><li align="justify"><b>Apt advisory services :</b> To enable the business to help make quicker and focused decisions through visualization of key business outcomes. </li>
@@ -332,7 +332,7 @@ We address and remediate the following business challenges:</p>
         </h4>
     </div>
     <div class="panel-collapse collapse " id="inv-accordion-item-5804e929b3271">
-        <div class="panel-body">Exoncorp offers a comprehensive range of HR disciplines designed to provide HR expertise that supports the success of any organization. It offers timely services to the clients for the best performance results. Here are a few reasons to choose HR consulting services from Exoncorp:
+        <div class="panel-body">Exincorp offers a comprehensive range of HR disciplines designed to provide HR expertise that supports the success of any organization. It offers timely services to the clients for the best performance results. Here are a few reasons to choose HR consulting services from Exincorp:
         </div>
     </div>
 </div>
@@ -347,7 +347,7 @@ We address and remediate the following business challenges:</p>
         </h4>
     </div>
     <div class="panel-collapse collapse " id="inv-accordion-item-5804e929b34e0">
-        <div class="panel-body">Whether the business needs ongoing HR support or strategic insight on how to make the most of its human capital investments, Exoncorp is well-suited to provide exactly what the business needs.
+        <div class="panel-body">Whether the business needs ongoing HR support or strategic insight on how to make the most of its human capital investments, Exincorp is well-suited to provide exactly what the business needs.
         </div>
     </div>
 </div>
@@ -361,7 +361,7 @@ We address and remediate the following business challenges:</p>
         </h4>
     </div>
     <div class="panel-collapse collapse " id="inv-accordion-item-5804e929b35f2">
-        <div class="panel-body">Exoncorp approaches each project with the success of the business in mind. It offers a personalized and a highly focused HR experience based on the culture and business strategy of the business. It strives to satisfy the HR needs that contribute to the success of the business.
+        <div class="panel-body">Exincorp approaches each project with the success of the business in mind. It offers a personalized and a highly focused HR experience based on the culture and business strategy of the business. It strives to satisfy the HR needs that contribute to the success of the business.
         </div>
     </div>
 </div>
@@ -375,7 +375,7 @@ We address and remediate the following business challenges:</p>
         </h4>
     </div>
     <div class="panel-collapse collapse " id="inv-accordion-item-58031fc392a24">
-        <div class="panel-body">Exoncorp takes a results-based approach for delivering HR services for any business. HR Consulting efforts are framed by key objectives along with the steps, resources and expertise required to realise those outcomes.
+        <div class="panel-body">Exincorp takes a results-based approach for delivering HR services for any business. HR Consulting efforts are framed by key objectives along with the steps, resources and expertise required to realise those outcomes.
         </div>
     </div>
 </div>
@@ -389,7 +389,7 @@ We address and remediate the following business challenges:</p>
         </h4>
     </div>
     <div class="panel-collapse collapse " id="inv-accordion-item-58031fc392916">
-        <div class="panel-body">Exoncorp communications are designed to be easily understood by the target audience; whether it is an offer letter for a new employee or findings and recommendation reports for the top leadership. Regardless of the project, Exoncorp realizes that equipping the employer to implement or transfer that information across is highly important.
+        <div class="panel-body">Exincorp communications are designed to be easily understood by the target audience; whether it is an offer letter for a new employee or findings and recommendation reports for the top leadership. Regardless of the project, Exincorp realizes that equipping the employer to implement or transfer that information across is highly important.
         </div>
     </div>
 </div>

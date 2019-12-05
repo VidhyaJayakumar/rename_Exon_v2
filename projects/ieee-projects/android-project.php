@@ -20,7 +20,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<title>Exoncorp Projects | Android Projects in <?php echo $place; ?></title>
+	<title>Exincorp Projects | Android Projects in <?php echo $place; ?></title>
 	<meta name="author" content="SaltTechno">
     <meta name="description" content="Final Year Project Guidance,On-line project support for all departments of M.E, M.Tech, B.E, B.Tech, MCA, M.sc, M.Phil MBA Bsc BCA Diploma Projects, Best Project center in <?php echo $place; ?> is exincorp&reg; projects.com | Android projects in <?php echo $place; ?> | Android Training in <?php echo $place; ?>">
     <meta name="keywords" content="IEEE 2015 Java projects in <?php echo $place; ?>, IEEE 2015 android  projects in <?php echo $place; ?>, IEEE 2015 dot-net projects in <?php echo $place; ?>, IEEE 2015 Matlab  projects in <?php echo $place; ?>, IEEE 2015 embedded projects in <?php echo $place; ?>, MBA projects in <?php echo $place; ?>, IEEE 2015 ns2 projects in <?php echo $place; ?>, best project centre in <?php echo $place; ?>, project center in <?php echo $place; ?>, IEEE projects in <?php echo $place; ?>, exincorp&reg; projects">

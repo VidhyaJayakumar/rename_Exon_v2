@@ -4,7 +4,7 @@
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1">
     <meta charset="utf-8" />
-	<meta name="Description" content="Exoncorp® Consultancy is an organised Consulting service provider offering job consultancy services,placement consultancy services,  Consultancy in Vellore , List of Job Consultants in Vellore , Placement consultancy, Recruitment Consultancy list, HR Consultancy, Placement consultants, Leading recruitment agency, Job placement consultancy India, free Human Resources services, sales and marketing jobs for freshers and experiences,IT consulting | Business Consulting | Technology Consulting | Legal Consulting | Seo Consulting | Marketing Consulting | Information Technology - Vellore, Bangalore, Chennai">
+	<meta name="Description" content="Exincorp® Consultancy is an organised Consulting service provider offering job consultancy services,placement consultancy services,  Consultancy in Vellore , List of Job Consultants in Vellore , Placement consultancy, Recruitment Consultancy list, HR Consultancy, Placement consultants, Leading recruitment agency, Job placement consultancy India, free Human Resources services, sales and marketing jobs for freshers and experiences,IT consulting | Business Consulting | Technology Consulting | Legal Consulting | Seo Consulting | Marketing Consulting | Information Technology - Vellore, Bangalore, Chennai">
   <meta name="Keywords" content="IT consulting | Business Consulting | Technology Consulting | Legal Consulting | Seo Consulting | Marketing Consulting | Information Technology - Vellore, Bangalore, ChennaiIT company Jobs, Telecommunication Jobs, Healthcare Resources Job, Leading Consultancy Jobs, Placement Consultancy, Ethical Hacking Jobs, Networking Jobs, Server Jobs, Hardwaring Jobs, Software Engineering Jobs, Software Development Jobs, Education Jobs, Bpo Jobs, List of Consultancy in Chennai, Recruitment Consultancy Jobs, Manpower Consultancy Jobs, Job Placement Recruitment, Sales and Marketing Jobs @ Vellore, Bangalore, Chennai">
 <meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
 <meta name="MobileOptimized" content="width" />
@@ -16,7 +16,7 @@
 <link rel="revision" href="home" />
 <link rel="stylesheet" href="jquery.scrollless.scrollbar.css">
 
-<title>Exoncorp&reg; - IT consulting | Business Consulting | Technology Consulting | Legal Consulting | Seo Consulting | Marketing Consulting | Information Technology Firm In India</title>
+<title>Exincorp&reg; - IT consulting | Business Consulting | Technology Consulting | Legal Consulting | Seo Consulting | Marketing Consulting | Information Technology Firm In India</title>
 <link rel="stylesheet" href="sites/default/files/css/css_0ce-PLU2fMbx2YuhRSdE_iLcig1TeGEZCtCrqF8vFfA2b6f.css?of4ebg" media="all" />
 <link rel="stylesheet" href="sites/default/files/css/css_U3wgQSRp8G4XAdA7LoYEkfO3dbKfazt4nMlhneEqgLs2b6f.css?of4ebg" media="all" />
 <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
@@ -311,9 +311,9 @@ document.onkeydown=function(e){e=e||window.event;if(e.keyCode==123||e.keyCode==1
              </div>
 
 <div class="text">
-<h3>Exoncorp Consulting<span>Offering the best technical Expertise</span></h3>
+<h3>Exincorp Consulting<span>Offering the best technical Expertise</span></h3>
 
-<p>The goal of Exoncorp is to enable our clients in becoming more agile andcompetent through the innovative use of technology. As a company, we
+<p>The goal of Exincorp is to enable our clients in becoming more agile andcompetent through the innovative use of technology. As a company, we
 measure our success by their success. We are committed to deliverexcellence in providing all kinds of solutions and technology under asingle roof. You name it we have the smart technological solution for it.</p>
 <!-- Button trigger modal -->
 <button type="button" class="btn01 sft" data-toggle="modal" data-target="#myModal">
@@ -333,16 +333,16 @@ measure our success by their success. We are committed to deliverexcellence in p
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
-	  <h4>Exoncorp Consultancy</h4>
+	  <h4>Exincorp Consultancy</h4>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
        
       </div>
       <div class="modal-body">
-        <p>Exoncorp consulting was started to provide solutions that would enable our clients to compete and win in technology driven global 
+        <p>Exincorp consulting was started to provide solutions that would enable our clients to compete and win in technology driven global 
 
-markets. Exoncorp started from a single location in Vellore, India in 2009 and quickly expanded to multiple locations within India. Today we have offices and operations 
+markets. Exincorp started from a single location in Vellore, India in 2009 and quickly expanded to multiple locations within India. Today we have offices and operations 
 
 in Chennai, Thiruvannamalai, Hosur and Gudiyattam (Tamilnadu).</p> 
 
@@ -378,7 +378,7 @@ roof. Staying one step ahead is good for clients, colleagues and the community.<
         
   <div>
           
-            <div><h2 class="big-title white-text">Exoncorp Consultancy</h2>
+            <div><h2 class="big-title white-text">Exincorp Consultancy</h2>
 
 <div class="white-text video-bg-short-desc">Challenging established thinking, achieving<br />
 sustainable advantage</div>
@@ -409,7 +409,7 @@ sustainable advantage</div>
 							<p class="image">  <img src="sites/default/files/2016-08/client_avatar06.jpg" width="150" height="150" alt="" typeof="foaf:Image" />
 
 </p><div class="text">
- <p align="justify">Their name says it all! The staff at Human Resources Consulting, Exoncorp Consultancy is extremely knowledgeable 
+ <p align="justify">Their name says it all! The staff at Human Resources Consulting, Exincorp Consultancy is extremely knowledgeable 
 
 and experienced in all aspects of Human Resource management and compliance. We are comfortable knowing they truly 
 
@@ -423,7 +423,7 @@ are a partner and care about the success and longevity of our business.</p>
 							<p class="image">  <img src="sites/default/files/2016-08/client_avatar05.jpg" width="150" height="150" alt="" typeof="foaf:Image" />
 
 </p><div class="text">
- <p align="justify">We found Exoncorp HR services absolutely superb in helping the charity in a very difficult situation. I would recommend ExoncorpConsultancy to anyone else they really are brilliant!</p>
+ <p align="justify">We found Exincorp HR services absolutely superb in helping the charity in a very difficult situation. I would recommend ExincorpConsultancy to anyone else they really are brilliant!</p>
  <span class="name">Paul Walker</span>
  <span class="position">Marketing Management</span>
 </div>
@@ -455,7 +455,7 @@ are a partner and care about the success and longevity of our business.</p>
 							<p class="image">  <img src="sites/default/files/2016-08/client_avatar02.jpg" width="150" height="150" alt="" typeof="foaf:Image" />
 
 </p><div class="text">
- <p align="justify">Everyone on the Exoncorp HR team is professional, enthusiastic, supportive and responsive. I appreciated that they kept me in mind as they were working to meet the needs of their clients, and when they found a great fit, they let me know. I received comprehensive information that helped prepare me for my interview, and they did a great job of painting a picture of the position and the culture of the company. I am very happy with the HR placement services I received.</p>
+ <p align="justify">Everyone on the Exincorp HR team is professional, enthusiastic, supportive and responsive. I appreciated that they kept me in mind as they were working to meet the needs of their clients, and when they found a great fit, they let me know. I received comprehensive information that helped prepare me for my interview, and they did a great job of painting a picture of the position and the culture of the company. I am very happy with the HR placement services I received.</p>
  <span class="name">Jeanine Willis</span>
  <span class="position">HR Consulting</span>
 </div>
@@ -465,7 +465,7 @@ are a partner and care about the success and longevity of our business.</p>
 							<p class="image">  <img src="sites/default/files/2016-08/client_avatar01.jpg" width="150" height="150" alt="" typeof="foaf:Image" />
 
 </p><div class="text">
- <p align="justify">The team at Exoncorp Consulting HR knows how to create an effective temp engagement! They prepared me for the interview process and ensured my skill set met the needs of the client. The process was very concise and effective and they showed they have absolute integrity in the services they provide both candidates and employers. I have been lucky to work with them and apply my talent acquisition skills.</p>
+ <p align="justify">The team at Exincorp Consulting HR knows how to create an effective temp engagement! They prepared me for the interview process and ensured my skill set met the needs of the client. The process was very concise and effective and they showed they have absolute integrity in the services they provide both candidates and employers. I have been lucky to work with them and apply my talent acquisition skills.</p>
  <span class="name">Nathan Salmon</span>
  <span class="position">IT Consulting</span>
 </div>

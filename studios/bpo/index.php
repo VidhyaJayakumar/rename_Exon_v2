@@ -6,7 +6,7 @@
 <head>
 
  <meta charset="utf-8">
- <title> Exon Corp - Web Design | Web Development | Advertising | Branding | Web Designer in Vellore | Web Development Company in Vellore | Logo Design in Vellore | Web Hosting in Vellore | Outsource Web Development | Design Company in Vellore | Low Cost Web Design in Vellore | Best Web Design Company in  Vellore | Ecommerce website Vellore</title>    
+ <title> Exin Corp - Web Design | Web Development | Advertising | Branding | Web Designer in Vellore | Web Development Company in Vellore | Logo Design in Vellore | Web Hosting in Vellore | Outsource Web Development | Design Company in Vellore | Low Cost Web Design in Vellore | Best Web Design Company in  Vellore | Ecommerce website Vellore</title>    
 <!-- Description
     ============================================== -->
 <meta name="description" content="Website designing company in Chennai, experts in static web design, dynamic web design, mobile application development, logo design, brochure design">

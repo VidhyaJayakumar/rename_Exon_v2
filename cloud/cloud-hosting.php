@@ -5,10 +5,10 @@
 <head>
 <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Windows Hosting | shared vps Hosting | Business Email | Domain Name Registration | Cheap Hosting | Web Hosting | Best Website Hosting | Website Hosting | Green Web Hosting | Domain Name Search | Reseller Hosting | SSL Security | DNS Black Listing Services | Spam Guard @ Exoncorp Cloud in India</title>
-    <meta name="Description" content="Create a great website with Exoncorp. Customize with Exoncorp Cloud website builder, no coding skills needed. Choose a design, begin customizing and get online.@ Exoncorp Cloud in India" >
-    <meta name="Keywords" content="Domain Name, Domain Name Registration, Unlimited Hosting, Linux Hosting, DDoS Mitigation, Fire Wall, Threat management, 24/7 tech Support, Hosting Tech Support, Web Hosting Company, Linux Hosting, Free Domain Name, Email Hosting, Vps Hosting @ Exoncorp Cloud in India">
-	<meta name="Author" content="Exoncorp Cloud">
+<title>Windows Hosting | shared vps Hosting | Business Email | Domain Name Registration | Cheap Hosting | Web Hosting | Best Website Hosting | Website Hosting | Green Web Hosting | Domain Name Search | Reseller Hosting | SSL Security | DNS Black Listing Services | Spam Guard @ Exincorp Cloud in India</title>
+    <meta name="Description" content="Create a great website with Exincorp. Customize with Exincorp Cloud website builder, no coding skills needed. Choose a design, begin customizing and get online.@ Exincorp Cloud in India" >
+    <meta name="Keywords" content="Domain Name, Domain Name Registration, Unlimited Hosting, Linux Hosting, DDoS Mitigation, Fire Wall, Threat management, 24/7 tech Support, Hosting Tech Support, Web Hosting Company, Linux Hosting, Free Domain Name, Email Hosting, Vps Hosting @ Exincorp Cloud in India">
+	<meta name="Author" content="Exincorp Cloud">
 	
 
 <!-- Favicon -->
@@ -163,7 +163,7 @@ document.onkeydown=function(e){e=e||window.event;if(e.keyCode==123||e.keyCode==1
             <div class="features_imagev"><i class="fa fa-life-ring"></i></div>
             <div class="features_content">
               <h5 class="section_sub_heading">Greate Support</h5>
-              <p>Exoncorpc provides several different avenues for you to take to get support for your account.</p>
+              <p>Exincorpc provides several different avenues for you to take to get support for your account.</p>
             </div>
           </div>
         </div>

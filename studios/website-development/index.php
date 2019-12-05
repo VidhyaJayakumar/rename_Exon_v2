@@ -7,10 +7,10 @@
 <head>
 
  <meta charset="utf-8">
- <title> Exon Corp - Certified Marketing Consultants & Ad Agencies – Google Partners |Web Designers in Vellore|Website Designers in vellore Web Development Company Vellore | Advertising Vellore| Branding | Web Designer in Vellore | Web Development Company in Vellore | Logo Design in Vellore | Web Hosting in Vellore | Outsource Web Development | Design Company in Vellore | Low Cost Web Design in Vellore | Best Web Development Company in  Vellore | Ecommerce website Vellore</title>    
+ <title> Exin Corp - Certified Marketing Consultants & Ad Agencies – Google Partners |Web Designers in Vellore|Website Designers in vellore Web Development Company Vellore | Advertising Vellore| Branding | Web Designer in Vellore | Web Development Company in Vellore | Logo Design in Vellore | Web Hosting in Vellore | Outsource Web Development | Design Company in Vellore | Low Cost Web Design in Vellore | Best Web Development Company in  Vellore | Ecommerce website Vellore</title>    
 <!-- Description
     ============================================== -->
-<meta name="description" content="Exon corp -We have huge pool of happy clients from  UK, Singapore, USA and many more countries. Outsource your web design, web application development, Mobile application development, SEO and Responsive web design needs to us for expert solutions,Marketing agency,
+<meta name="description" content="Exin corp -We have huge pool of happy clients from  UK, Singapore, USA and many more countries. Outsource your web design, web application development, Mobile application development, SEO and Responsive web design needs to us for expert solutions,Marketing agency,
 Marketing consultant,E Mail Marketing Agency,Social Marketing Agency,Media Marketing Agency,Telephone Marketing Agency,Internet Marketing Service,Affiliate Marketing Agency,Market Researcher,Advertising Agency,Advertising Service">
 <!-- Author
     ============================================== -->

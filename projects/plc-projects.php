@@ -7,7 +7,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<title>Exoncorp - Projects</title>
+	<title>Exincorp - Projects</title>
 	<meta name="author" content="SaltTechno">
 
 	<!-- ========== COMMON STYLES ========== -->
@@ -36,8 +36,8 @@
                 <div class="page-title-wrapper-inner">
                     <div class="page-title-container">
                         <div class="inner page-title">
-                            <h2 class="page-title-heading white-text">Exoncorp Projects</h2>
-                            <p class="lead">Exoncorp is a leading IT and Language training centre providing full-suite of trainings and placement services for freshers seeking a new career and professionals looking for career advancement.</p>
+                            <h2 class="page-title-heading white-text">Exincorp Projects</h2>
+                            <p class="lead">Exincorp is a leading IT and Language training centre providing full-suite of trainings and placement services for freshers seeking a new career and professionals looking for career advancement.</p>
                             <p class="lead">
                                 <a href="contact.php"class="btn btn-success">Contact</a>
                             </p>

@@ -15,7 +15,7 @@
      <div class="container">
           <div class="four columns">
                <h3>About</h3>
-               <p  style="margin:0;"><p align="justify">Exon Corp is a leading Web Designing Company in Vellore, Chennai, tamilnadu, India. As a creative and professional Website Company, we also offer digital services like web design, Web development, SEO Services, Domain, hosting, Digital marketing, branding on your website for getting great number of leads.  </p> 
+               <p  style="margin:0;"><p align="justify">Exin Corp is a leading Web Designing Company in Vellore, Chennai, tamilnadu, India. As a creative and professional Website Company, we also offer digital services like web design, Web development, SEO Services, Domain, hosting, Digital marketing, branding on your website for getting great number of leads.  </p> 
                <hr class="sep30">
                <h3>Get In Touch</h3>
                <ul class="get-in-touch">

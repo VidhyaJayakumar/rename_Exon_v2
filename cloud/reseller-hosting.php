@@ -5,10 +5,10 @@
 <head>
 <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>WebHosting | Hosting Services | Domain Hosting | Domain Registration | Unlimited Hosting | Best Website Hosting | Linux Hosting | Reseller Hosting | Domain Name Registration | Web Hosting Company | Green Web Hosting | Windows Hosting | Shared Hosting | SSL Security | DNS Black Listing Services @ Exoncorp Cloud in India</title>
-    <meta name="Description" content="Exoncorp is the leading web hosting services, VPS hosting & dedicated servers provider in India. Providing world-class technical support & hosting to over 8,000,000 websites across the globe @ Exoncorp Cloud India" >
-    <meta name="Keywords" content="Domain Name, Domain Name Registration, Unlimited Hosting, Linux Hosting, DDoS Mitigation, Fire Wall, Threat management, 24/7 tech Support, Hosting Tech Support, Web Hosting Company, Linux Hosting, Free Domain Name, Email Hosting, Vps Hosting @ Exoncorp Cloud in India">
-	<meta name="Author" content="Exoncorp Cloud">	
+    <title>WebHosting | Hosting Services | Domain Hosting | Domain Registration | Unlimited Hosting | Best Website Hosting | Linux Hosting | Reseller Hosting | Domain Name Registration | Web Hosting Company | Green Web Hosting | Windows Hosting | Shared Hosting | SSL Security | DNS Black Listing Services @ Exincorp Cloud in India</title>
+    <meta name="Description" content="Exincorp is the leading web hosting services, VPS hosting & dedicated servers provider in India. Providing world-class technical support & hosting to over 8,000,000 websites across the globe @ Exincorp Cloud India" >
+    <meta name="Keywords" content="Domain Name, Domain Name Registration, Unlimited Hosting, Linux Hosting, DDoS Mitigation, Fire Wall, Threat management, 24/7 tech Support, Hosting Tech Support, Web Hosting Company, Linux Hosting, Free Domain Name, Email Hosting, Vps Hosting @ Exincorp Cloud in India">
+	<meta name="Author" content="Exincorp Cloud">	
 
 
 <!-- Favicon -->
@@ -208,7 +208,7 @@ With our reseller hosting plans, you'll be able to quickly and inexpensively set
                   <div class="icon"><i class="fas fa-american-sign-language-interpreting"></i></div>
                   <div class="title">
                     <h3>Great Servers and Support</h3>
-                    <span>Exoncorpcloud.com provide 24/7 Servers and Support to provide a quality Services for our Clients to provide several different avenues for you to take to get support for your account.</span></div>
+                    <span>Exincorpcloud.com provide 24/7 Servers and Support to provide a quality Services for our Clients to provide several different avenues for you to take to get support for your account.</span></div>
                 </div>
               </li>
               <li>
@@ -216,7 +216,7 @@ With our reseller hosting plans, you'll be able to quickly and inexpensively set
                   <div class="icon"><i class="fas fa-atlas"></i></div>
                   <div class="title">
                     <h3>Powerful Reseller Tools</h3>
-                    <span>Exoncorpcloud.com provides fast SSD hosting servers for all types of uses. Including content management systems, static websites, and purpose-built applications.</span></div>
+                    <span>Exincorpcloud.com provides fast SSD hosting servers for all types of uses. Including content management systems, static websites, and purpose-built applications.</span></div>
                 </div>
               </li>
               <li>
@@ -224,7 +224,7 @@ With our reseller hosting plans, you'll be able to quickly and inexpensively set
                   <div class="icon"><i class="fab fa-bity"></i></div>
                   <div class="title">
                     <h3>Total security</h3>
-                    <span>Exoncorpcloud.com offers malware removal and scanning that will enhance website security protecting against attacks and vulnerability.</span></div>
+                    <span>Exincorpcloud.com offers malware removal and scanning that will enhance website security protecting against attacks and vulnerability.</span></div>
                 </div>
               </li>
             </ul>

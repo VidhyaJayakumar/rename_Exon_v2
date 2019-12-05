@@ -5,10 +5,10 @@
 <head>
 <<meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Windows Hosting | shared vps Hosting | Business Email | Domain Name Registration | Cheap Hosting | Web Hosting | Best Website Hosting | Website Hosting | Green Web Hosting | Domain Name Search | Reseller Hosting | SSL Security | DNS Black Listing Services | Spam Guard @ Exoncorp Cloud in India</title>
-    <meta name="Description" content="Create a great website with Exoncorp. Customize with Exoncorp Cloud website builder, no coding skills needed. Choose a design, begin customizing and get online.@ Exoncorp Cloud in India" >
-    <meta name="Keywords" content="Domain Name, Domain Name Registration, Unlimited Hosting, Linux Hosting, DDoS Mitigation, Fire Wall, Threat management, 24/7 tech Support, Hosting Tech Support, Web Hosting Company, Linux Hosting, Free Domain Name, Email Hosting, Vps Hosting @ Exoncorp Cloud in India">
-	<meta name="Author" content="Exoncorp Cloud">
+<title>Windows Hosting | shared vps Hosting | Business Email | Domain Name Registration | Cheap Hosting | Web Hosting | Best Website Hosting | Website Hosting | Green Web Hosting | Domain Name Search | Reseller Hosting | SSL Security | DNS Black Listing Services | Spam Guard @ Exincorp Cloud in India</title>
+    <meta name="Description" content="Create a great website with Exincorp. Customize with Exincorp Cloud website builder, no coding skills needed. Choose a design, begin customizing and get online.@ Exincorp Cloud in India" >
+    <meta name="Keywords" content="Domain Name, Domain Name Registration, Unlimited Hosting, Linux Hosting, DDoS Mitigation, Fire Wall, Threat management, 24/7 tech Support, Hosting Tech Support, Web Hosting Company, Linux Hosting, Free Domain Name, Email Hosting, Vps Hosting @ Exincorp Cloud in India">
+	<meta name="Author" content="Exincorp Cloud">
 	
 
 <!-- Favicon -->
@@ -228,7 +228,7 @@ If you're outgrowing your web hosting or simply want more control, a managed or 
                   <div class="icon"><i class="fas fa-american-sign-language-interpreting"></i></div>
                   <div class="title">
                     <h3>Great Servers and Support</h3>
-                    <span>Exoncorpcloud.com provide 24/7 Servers and Support to provide a quality Services for our Clients to provide several different avenues for you to take to get support for your account.</span></div>
+                    <span>Exincorpcloud.com provide 24/7 Servers and Support to provide a quality Services for our Clients to provide several different avenues for you to take to get support for your account.</span></div>
                 </div>
               </li>
               <li>
@@ -236,7 +236,7 @@ If you're outgrowing your web hosting or simply want more control, a managed or 
                   <div class="icon"><i class="fas fa-atlas"></i></div>
                   <div class="title">
                     <h3>Powerful VPS Tools</h3>
-                    <span>Exoncorpcloud.com provides fast SSD hosting servers for all types of uses. Including content management systems, static websites, and purpose-built applications.</span></div>
+                    <span>Exincorpcloud.com provides fast SSD hosting servers for all types of uses. Including content management systems, static websites, and purpose-built applications.</span></div>
                 </div>
               </li>
               <li>
@@ -244,7 +244,7 @@ If you're outgrowing your web hosting or simply want more control, a managed or 
                   <div class="icon"><i class="fab fa-bity"></i></div>
                   <div class="title">
                     <h3>Total security</h3>
-                    <span>Exoncorpcloud.com offers malware removal and scanning that will enhance website security protecting against attacks and vulnerability.</span></div>
+                    <span>Exincorpcloud.com offers malware removal and scanning that will enhance website security protecting against attacks and vulnerability.</span></div>
                 </div>
               </li>
             </ul>
@@ -291,7 +291,7 @@ If you're outgrowing your web hosting or simply want more control, a managed or 
           </div>
           <div class="accordion-section"><a class="accordion-section-title" href="#accordion-3">What kind of support do you offer?</a>
             <div id="accordion-3" class="accordion-section-content">
-              <p>Exoncorpcloud.com provides several different avenues for you to take to get support for your account. The most commonly used is the Exoncorpcloud.com FAQ system.</p>
+              <p>Exincorpcloud.com provides several different avenues for you to take to get support for your account. The most commonly used is the Exincorpcloud.com FAQ system.</p>
             </div>
           </div>
           <div class="accordion-section"><a class="accordion-section-title" href="#accordion-4">What is your backup policy?</a>

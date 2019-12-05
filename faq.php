@@ -3,7 +3,7 @@
 
  <head>
 	<meta charset="UTF-8">
-	<title>FAQ || Exon Corp</title>
+	<title>FAQ || Exin Corp</title>
 
 	<!-- responsive meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">

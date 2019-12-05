@@ -64,14 +64,14 @@
         <div class="row">
           <!-- BEGIN COPYRIGHT -->
           <div class="col-md-6 col-sm-6 padding-top-10">
-           &copy; 2019 Exoncorp Systems.&nbsp; &nbsp; Powered by <a href="#" title="web hosting vellore, website development vellore, exincorpstudios">exincorp Studios.</a>&nbsp; &nbsp; <a href="#">Privacy Policy</a> | <a href="#">Terms of Service</a>
+           &copy; 2019 Exincorp Systems.&nbsp; &nbsp; Powered by <a href="#" title="web hosting vellore, website development vellore, exincorpstudios">exincorp Studios.</a>&nbsp; &nbsp; <a href="#">Privacy Policy</a> | <a href="#">Terms of Service</a>
           </div>
           <!-- END COPYRIGHT -->
           <!-- BEGIN PAYMENTS -->
           <div class="col-md-6 col-sm-6">
             <ul class="social-footer list-unstyled list-inline pull-right">
 			 
-              <li><a href="https://www.facebook.com/Exoncorp/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+              <li><a href="https://www.facebook.com/Exincorp/" target="_blank"><i class="fa fa-facebook"></i></a></li>
               <li><a href="https://plus.google.com/107910537174277513852" target="_blank"><i class="fa fa-google-plus"></i></a></li>
               
               <li><a href="https://www.linkedin.com/company/exincorp/about/" title="Software Installation" target="_blank"><i class="fa fa-linkedin"></i></a></li>

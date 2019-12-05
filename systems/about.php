@@ -12,7 +12,7 @@
 <!-- Head BEGIN -->
 <head>
   <meta charset="utf-8">
-   <title>Exoncorp Systems |computer dealers in vellore | computer sales and service in vellore | Server Rental and Services | CCTV Camera Sales and Services | Networking Problem | Data Recovery Problem | OS Installation | Basic Computer Software Installing | Computer Repair Services | Keyboard Sales and Services | Computer Parts Sales | Desktop Sales and Services | PC Support Software Install | Computer Networking Repair | Hardware Repair | Assembled System Sales | CPU Repair Services in Vellore | On Call Computer Repair Service Kanchipuram | Computer Service Center Chennai | UPS Sales Chennai | Moniter Sales Kanchipuram | Hardware Repair Sales Services - exincorp System Vellore | Kanchipuram | Gudiyatham | Chennai</title>
+   <title>Exincorp Systems |computer dealers in vellore | computer sales and service in vellore | Server Rental and Services | CCTV Camera Sales and Services | Networking Problem | Data Recovery Problem | OS Installation | Basic Computer Software Installing | Computer Repair Services | Keyboard Sales and Services | Computer Parts Sales | Desktop Sales and Services | PC Support Software Install | Computer Networking Repair | Hardware Repair | Assembled System Sales | CPU Repair Services in Vellore | On Call Computer Repair Service Kanchipuram | Computer Service Center Chennai | UPS Sales Chennai | Moniter Sales Kanchipuram | Hardware Repair Sales Services - exincorp System Vellore | Kanchipuram | Gudiyatham | Chennai</title>
 
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -162,7 +162,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <!-- Carousel items -->
                     <div class="carousel-inner">
                       <div class="active item">
-                        <blockquote><p align="justify">Exoncorp Systems has been very attentive to every computer/server problem that has cropped up for our company. They respond quickly to service calls and can even fix things remotely, which is a huge plus in getting problems fixed in a timely manner.</p></blockquote>
+                        <blockquote><p align="justify">Exincorp Systems has been very attentive to every computer/server problem that has cropped up for our company. They respond quickly to service calls and can even fix things remotely, which is a huge plus in getting problems fixed in a timely manner.</p></blockquote>
                         <div class="carousel-info">
                           <img class="pull-left" src="assets/frontend/pages/img/people/img1-small.jpg" title="Virus Removal Vellore" alt="PC support Center Kanchipuram">
                           <div class="pull-left">
@@ -182,7 +182,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         </div>
                       </div>
                       <div class="item">
-                        <blockquote><p align="justify">Exoncorp is one of the best IT companies I have had the chance to work with;  I call exincorp with a problem and they always does his best to resolve the problem while I am on the phone with him. They are knowledgeable and always has a solution for every problem. exincorp provides us with cost effective solutions for upgrades / additions to our current network. exincorp has gone above and beyond to make our experience with them a pleasant one. I would recommend exincorp to anyone or any company looking for an excellent IT professional.</p></blockquote>
+                        <blockquote><p align="justify">Exincorp is one of the best IT companies I have had the chance to work with;  I call exincorp with a problem and they always does his best to resolve the problem while I am on the phone with him. They are knowledgeable and always has a solution for every problem. exincorp provides us with cost effective solutions for upgrades / additions to our current network. exincorp has gone above and beyond to make our experience with them a pleasant one. I would recommend exincorp to anyone or any company looking for an excellent IT professional.</p></blockquote>
                         <div class="carousel-info">
                           <img class="pull-left" src="assets/frontend/pages/img/people/img2-small.jpg" title="CCTV Camera Sales and Services Chennai" alt="Server Problem Chittoor">
                           <div class="pull-left">

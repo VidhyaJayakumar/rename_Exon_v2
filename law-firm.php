@@ -95,7 +95,7 @@
                                 </div>
                                 <div class="text-holder">
                                    <p><strong>Legal Law Firm:</strong> EXINCORP law provides services that specifically focus on the challenge of corporate, government law departments, bar associations and legal vendors.</p>
-                                    <p class="mar-btm15"><strong>ExonCorp Legal Services</strong>ExonCorp Law Associates services possesses a depth of experience and innovative expertise in the field of litigation. It provides services that specifically focus on the challenges of corporate, government law departments, bar associations and legal vendors.</p>
+                                    <p class="mar-btm15"><strong>ExinCorp Legal Services</strong>ExinCorp Law Associates services possesses a depth of experience and innovative expertise in the field of litigation. It provides services that specifically focus on the challenges of corporate, government law departments, bar associations and legal vendors.</p>
 <p>It has a multi disciplinary expertise and is committed to work hand-in-hand with its clients in proposing optimal legal solutions in a cost effective, efficient and a timely way.</p>
                                 </div>
                             </div>

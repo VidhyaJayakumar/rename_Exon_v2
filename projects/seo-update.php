@@ -9,7 +9,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Exoncorp Projects - SEO</title>
+	<title>Exincorp Projects - SEO</title>
 	<link rel="stylesheet" type="text/css" href="css/main.css">
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
 </head>

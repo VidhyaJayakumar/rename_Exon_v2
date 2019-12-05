@@ -5,10 +5,10 @@
 <head>
 <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Business Email | WebHosting | Hosting Services | Domain Hosting | Domain Registration | Unlimited Hosting | Best Website Hosting | Linux Hosting | Reseller Hosting | Domain Name Registration | Web Hosting Company | Green Web Hosting | Windows Hosting | Shared Hosting | SSL Security | DNS Black Listing Services @ Exoncorp Cloud in India</title>
-    <meta name="Description" content="Becoming a Exoncorp Cloud Reseller is easy and profitable! Signup to Exoncorp Cloud reseller hosting plans and sell to your own customers, under your own brand, Spam Guard, Enhanced Security, Unbeatable Support, High Performance @ Exoncorp Cloud in India">
-    <meta name="Keywords" content="Domain Name, Domain Name Registration, Unlimited Hosting, Linux Hosting, DDoS Mitigation, Fire Wall, Threat management, 24/7 tech Support, Hosting Tech Support, Web Hosting Company, Linux Hosting, Free Domain Name, Email Hosting, Vps Hosting @ Exoncorp Cloud in India">
-	<meta name="Author" content="Exoncorp Cloud">
+    <title>Business Email | WebHosting | Hosting Services | Domain Hosting | Domain Registration | Unlimited Hosting | Best Website Hosting | Linux Hosting | Reseller Hosting | Domain Name Registration | Web Hosting Company | Green Web Hosting | Windows Hosting | Shared Hosting | SSL Security | DNS Black Listing Services @ Exincorp Cloud in India</title>
+    <meta name="Description" content="Becoming a Exincorp Cloud Reseller is easy and profitable! Signup to Exincorp Cloud reseller hosting plans and sell to your own customers, under your own brand, Spam Guard, Enhanced Security, Unbeatable Support, High Performance @ Exincorp Cloud in India">
+    <meta name="Keywords" content="Domain Name, Domain Name Registration, Unlimited Hosting, Linux Hosting, DDoS Mitigation, Fire Wall, Threat management, 24/7 tech Support, Hosting Tech Support, Web Hosting Company, Linux Hosting, Free Domain Name, Email Hosting, Vps Hosting @ Exincorp Cloud in India">
+	<meta name="Author" content="Exincorp Cloud">
 	
 
 <!-- Favicon -->
@@ -229,13 +229,13 @@ document.onkeydown=function(e){e=e||window.event;if(e.keyCode==123||e.keyCode==1
         <div class="col-md-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration=".3" data-wow-delay=".5s">
           <div class="hosting_box"><i class="fa fa-cloud"></i>
             <h5 class="section_sub_heading">Fast & simple</h5>
-            <p>Get a professional email account. Show the world you mean business and create an email account with Exoncorp Cloud.</p>
+            <p>Get a professional email account. Show the world you mean business and create an email account with Exincorp Cloud.</p>
           </div>
         </div>
         <div class="col-md-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration=".3" data-wow-delay=".6s">
           <div class="hosting_box"><i class="fas fa-book-reader"></i>
             <h5 class="section_sub_heading">24/7 support</h5>
-            <p>Exoncorp Cloud Help and Support will answer all your questions about Exoncorp Cloud products, your account and more.</p>
+            <p>Exincorp Cloud Help and Support will answer all your questions about Exincorp Cloud products, your account and more.</p>
           </div>
         </div>
       </div>

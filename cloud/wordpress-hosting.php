@@ -5,10 +5,10 @@
 <head>
 < <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Wordpress Hosting | Cpanel Hosting | Hosting | Website Hosting | Domain Name Registration | Domain Search | Domain Name Search | Green Web Hosting | DNS Black Listing Services | High Performance | DDoS Mitigation | Fire Wall | Threat management | 24/7 tech Support | Hosting Tech Support @ Exoncorp Cloud in India</title>
-    <meta name="Description" content="Create a great website with Exoncorp cloud. Customize with Exoncorp website builder, no coding skills needed. Choose a design, begin customizing and get online. Windows Hosting, shared vps Hosting, Business Email, SSL Security, DNS Black Listing Services, Spam Guard, Enhanced Security, Unbeatable Support @ Exoncorp Cloud in India">
-	<meta name="Keywords" content="24/7 tech Support, Hosting Tech Support, Hosting, Website Hosting, Domain Name Registration, Threat management, Unlimited Hosting, Best Website Hosting, Linux Hosting, Reseller Hosting, Domain Search, Free Domain Registration, Web Hosting, Hosting Services, Dedicated Servers, Hosting Services, Hosting Sites, Domain Hosting, Hosting Sites, Domain Hosting, Server Hosting @ Exoncorp Studios in India"> 
-	<meta name="Author" content="Exoncorp Cloud">
+<title>Wordpress Hosting | Cpanel Hosting | Hosting | Website Hosting | Domain Name Registration | Domain Search | Domain Name Search | Green Web Hosting | DNS Black Listing Services | High Performance | DDoS Mitigation | Fire Wall | Threat management | 24/7 tech Support | Hosting Tech Support @ Exincorp Cloud in India</title>
+    <meta name="Description" content="Create a great website with Exincorp cloud. Customize with Exincorp website builder, no coding skills needed. Choose a design, begin customizing and get online. Windows Hosting, shared vps Hosting, Business Email, SSL Security, DNS Black Listing Services, Spam Guard, Enhanced Security, Unbeatable Support @ Exincorp Cloud in India">
+	<meta name="Keywords" content="24/7 tech Support, Hosting Tech Support, Hosting, Website Hosting, Domain Name Registration, Threat management, Unlimited Hosting, Best Website Hosting, Linux Hosting, Reseller Hosting, Domain Search, Free Domain Registration, Web Hosting, Hosting Services, Dedicated Servers, Hosting Services, Hosting Sites, Domain Hosting, Hosting Sites, Domain Hosting, Server Hosting @ Exincorp Studios in India"> 
+	<meta name="Author" content="Exincorp Cloud">
 <!-- Favicon -->
 
 <link rel="icon" href="images/favicon.png">

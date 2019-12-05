@@ -17,7 +17,7 @@ body{
   <div>
           
             <div><div class="top-left">
-	<p>Welcome to Exoncorp Consultancy</p>
+	<p>Welcome to Exincorp Consultancy</p>
 		<ul><li><a href="#">Email Us</a></li>
 		   <li><a href="#">How to Find Us</a></li>
 		   <li><a href="#">Give Feedback</a></li>
@@ -36,13 +36,13 @@ body{
         
   <div>
           
-            <div><ul class="social"><li><a href="https://twitter.com/Exoncorpcareers" target="_blank"><i class="inv-icon ion-social-twitter"></i></a></li>
-	<li><a href="https://www.facebook.com/ExoncorpConsultancy/" target="_blank"><i class="inv-icon ion-social-facebook"></i></a></li>
-	<li><a href="https://plus.google.com/+Exoncorpconsultancy" target="_blank"><i class="inv-icon ion-social-googleplus"></i></a></li>
-	<li><a href="https://www.instagram.com/Exoncorpconsultancy/" target="_blank"><i class="inv-icon ion-social-instagram-outline"></i></a></li>
+            <div><ul class="social"><li><a href="https://twitter.com/Exincorpcareers" target="_blank"><i class="inv-icon ion-social-twitter"></i></a></li>
+	<li><a href="https://www.facebook.com/ExincorpConsultancy/" target="_blank"><i class="inv-icon ion-social-facebook"></i></a></li>
+	<li><a href="https://plus.google.com/+Exincorpconsultancy" target="_blank"><i class="inv-icon ion-social-googleplus"></i></a></li>
+	<li><a href="https://www.instagram.com/Exincorpconsultancy/" target="_blank"><i class="inv-icon ion-social-instagram-outline"></i></a></li>
 	<li><a href="https://www.youtube.com/channel/UCRy89b9o5SCZacLguj8r45w" target="_blank"><i class="inv-icon ion-social-youtube"></i></a></li>
-  <li><a href="https://api.whatsapp.com/send?phone=+918189985552&text=Hi, Welcome to ExoncorpConsultancy"  title="Whatsapp" target="_blank"><i class="inv-icon ion-social-whatsapp"></i></a></li>
-  <li><a href="https://velloreads.com/Vellore/-Exoncorp-Consulting"  title="velloreads.com" target="_blank"><i class="fa fa-buysellads"></i></a></li>
+  <li><a href="https://api.whatsapp.com/send?phone=+918189985552&text=Hi, Welcome to ExincorpConsultancy"  title="Whatsapp" target="_blank"><i class="inv-icon ion-social-whatsapp"></i></a></li>
+  <li><a href="https://velloreads.com/Vellore/-Exincorp-Consulting"  title="velloreads.com" target="_blank"><i class="fa fa-buysellads"></i></a></li>
  
 </ul></div>
       
@@ -66,7 +66,7 @@ body{
         
   <div>
           <a href="index.php" title="Home" rel="home">
-      <img src="http:exincorp.com/consultancy/logo.png" alt="Exoncorp Consultancy" /><br> <p class="hidden-sm hidden-xs" style="font-size:17px;padding-left:65px;">CONSULTANCY</p>
+      <img src="http:exincorp.com/consultancy/logo.png" alt="Exincorp Consultancy" /><br> <p class="hidden-sm hidden-xs" style="font-size:17px;padding-left:65px;">CONSULTANCY</p>
     </a>
       
   </div>
@@ -154,7 +154,7 @@ body{
 <li id="main-menu-link-content4a3affbe-6a42-4515-8c79-16531174da6d" class="sf-depth-2 sf-no-children"><a href="career.php" class="sf-depth-2">Careers</a></li>
 <li id="main-menu-link-content4a3affbe-6a42-4515-8c79-16531174da6d" class="sf-depth-2 sf-no-children"><a href="faq.php" class="sf-depth-2">FAQ</a></li>
 <li id="main-menu-link-content4a3affbe-6a42-4515-8c79-16531174da6d" class="sf-depth-2 sf-no-children"><a href="quality-policy.php" class="sf-depth-2">Policy</a></li>
-<li id="main-menu-link-content4a3affbe-6a42-4515-8c79-16531174da6d" class="sf-depth-2 sf-no-children"><a href="http://Exoncorpconsultancy.blogspot.in" class="sf-depth-2">Blog</a></li></li></ul>
+<li id="main-menu-link-content4a3affbe-6a42-4515-8c79-16531174da6d" class="sf-depth-2 sf-no-children"><a href="http://Exincorpconsultancy.blogspot.in" class="sf-depth-2">Blog</a></li></li></ul>
 </ul>
 
       </div>

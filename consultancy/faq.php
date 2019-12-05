@@ -126,7 +126,7 @@
         <a href="partners.php" data-drupal-link-system-path="node/52">Clients</a>
               </li>
           <li>
-        <a href="http://Exoncorpconsultancy.com/team.php" data-drupal-link-system-path="team">Our Team</a>
+        <a href="http://Exincorpconsultancy.com/team.php" data-drupal-link-system-path="team">Our Team</a>
               </li>
               <li>
              <a href="contact.php" data-drupal-link-system-path="node/70">Contact</a>
@@ -298,17 +298,17 @@
     <div class="panel-heading">
         <h4 class="panel-title">
             <a class="" data-parent="#inv-accordions-wrapper-580378416d7f4" data-toggle="collapse" href="#inv-accordion-item-580378416d023">
-                <i class=""></i>What does Exoncorp Consultancy Do?
+                <i class=""></i>What does Exincorp Consultancy Do?
                 <i class="tm-toggle-button pull-right"></i>
             </a>
         </h4>
     </div>
     <div class="panel-collapse collapse in" id="inv-accordion-item-580378416d023">
-        <div class="panel-body">Exoncorp continuously advises, assists and develops technological
+        <div class="panel-body">Exincorp continuously advises, assists and develops technological
 
 solutions for its clients in improving their performances beyond
 
-benchmarks. Exoncorp was established to provide world class business
+benchmarks. Exincorp was established to provide world class business
 
 solutions that are valued by our customers and respected by our
 
@@ -431,7 +431,7 @@ scope and budget. Contact our manager for a quick quote.
 
 You can reduce your costs and increase operating efficiency by
 
-cooperating with Exoncorp Solutions.
+cooperating with Exincorp Solutions.
         </div>
     </div>
 </div>
@@ -440,7 +440,7 @@ cooperating with Exoncorp Solutions.
     <div class="panel-heading">
         <h4 class="panel-title">
             <a class="collapsed" data-parent="#inv-accordions-wrapper-580378416d7f4" data-toggle="collapse" href="#inv-accordion-item-580378416d57e">
-                <i class=""></i>I would like to see Exoncorp SOLUTIONS previous projects?
+                <i class=""></i>I would like to see Exincorp SOLUTIONS previous projects?
                 <i class="tm-toggle-button pull-right"></i>
             </a>
         </h4>
@@ -463,7 +463,7 @@ cooperating with Exoncorp Solutions.
     <div class="panel-collapse collapse " id="inv-accordion-item-580378416d57g">
         <div class="panel-body">We adhere to stringent Quality Assurance and testing standards and
 
-adopt industry-standard processes to ensure highest quality. Exoncorp&#39;s
+adopt industry-standard processes to ensure highest quality. Exincorp&#39;s
 
 team ensures that the quality of our product solutions is rigorously
 
@@ -477,7 +477,7 @@ continuous reporting.
     <div class="panel-heading">
         <h4 class="panel-title">
             <a class="collapsed" data-parent="#inv-accordions-wrapper-580378416d7f4" data-toggle="collapse" href="#inv-accordion-item-580378416d57h">
-                <i class=""></i>How can I communicate with Exoncorp SOLUTIONS?
+                <i class=""></i>How can I communicate with Exincorp SOLUTIONS?
                 <i class="tm-toggle-button pull-right"></i>
             </a>
         </h4>
@@ -523,7 +523,7 @@ our clients.
             <a class="collapsed" data-parent="#inv-accordions-wrapper-580378416d7f4" data-toggle="collapse" href="#inv-accordion-item-580378416d57j">
                 <i class=""></i>What languages can I use for communication with
 
-Exoncorp SOLUTIONS?
+Exincorp SOLUTIONS?
                 <i class="tm-toggle-button pull-right"></i>
             </a>
         </h4>
@@ -541,7 +541,7 @@ any other languages.
             <a class="collapsed" data-parent="#inv-accordions-wrapper-580378416d7f4" data-toggle="collapse" href="#inv-accordion-item-580378416d57k">
                 <i class=""></i>Can remote communication influence the effectiveness of
 
-Exoncorp&#39;s work?
+Exincorp&#39;s work?
                 <i class="tm-toggle-button pull-right"></i>
             </a>
         </h4>
@@ -563,7 +563,7 @@ speed up the project and enhance cooperation with your in-house team.
     <div class="panel-heading">
         <h4 class="panel-title">
             <a class="collapsed" data-parent="#inv-accordions-wrapper-580378416d7f4" data-toggle="collapse" href="#inv-accordion-item-580378416d57l">
-                <i class=""></i>How can I benefit from Exoncorp SOLUTIONS
+                <i class=""></i>How can I benefit from Exincorp SOLUTIONS
 
 Partnership program?
                 <i class="tm-toggle-button pull-right"></i>
@@ -585,7 +585,7 @@ etc.
     <div class="panel-heading">
         <h4 class="panel-title">
             <a class="collapsed" data-parent="#inv-accordions-wrapper-580378416d7f4" data-toggle="collapse" href="#inv-accordion-item-580378416d57m">
-                <i class=""></i>How can I become Exoncorp SOLUTIONS Partner?
+                <i class=""></i>How can I become Exincorp SOLUTIONS Partner?
                 <i class="tm-toggle-button pull-right"></i>
             </a>
         </h4>
@@ -599,19 +599,19 @@ etc.
     <div class="panel-heading">
         <h4 class="panel-title">
             <a class="collapsed" data-parent="#inv-accordions-wrapper-580378416d7f4" data-toggle="collapse" href="#inv-accordion-item-580378416d57n">
-                <i class=""></i>How can I join Exoncorp SOLUTIONS team?
+                <i class=""></i>How can I join Exincorp SOLUTIONS team?
                 <i class="tm-toggle-button pull-right"></i>
             </a>
         </h4>
     </div>
     <div class="panel-collapse collapse " id="inv-accordion-item-580378416d57n">
-        <div class="panel-body">If you are interested in working at Exoncorp SOLUTIONS, contact us
+        <div class="panel-body">If you are interested in working at Exincorp SOLUTIONS, contact us
 
-at <b>Careers@Exoncorps.in</b>. Our Personnel Manager will
+at <b>Careers@Exincorps.in</b>. Our Personnel Manager will
 
 contact you within 2 business days with a standard questionnaire, if
 
-necessary. In any case, your CV will be added to Exoncorp
+necessary. In any case, your CV will be added to Exincorp
 
 SOLUTIONS&#39;s database of resumes
         </div>

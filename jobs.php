@@ -8,15 +8,15 @@
 
     <meta charset="UTF-8">
 
-    <title>Exon Corpsolutions India,Software company,IT Training, IT Services, Web Designing and Development company, Outsourcing Services, BPO, IT Infrastructure, Information Communication Technology Company, Business Consulting – IT companies in vellore</title>
+    <title>Exin Corpsolutions India,Software company,IT Training, IT Services, Web Designing and Development company, Outsourcing Services, BPO, IT Infrastructure, Information Communication Technology Company, Business Consulting – IT companies in vellore</title>
 
         
 
-         <meta name="description" content="Exon Corp IT solutions is a leading global professional services companies in vellore, providing IT services and solutions in Tamilnadu, vellore, India,training, consulting, digital, technology, strategy and operations, web development, design.Exon Corp Solutions - IT Certifications in vellore,Comptia A+ N+ Training in vellore,RHCE Training in vellore,MCITP Training in vellore,CCNA Training in vellore,CEH Training in vellore,CISSP Training in vellore,IT  Training in vellore,Computer Training Institute in vellore,Corporate Training in vellore,International certification in vellore">
+         <meta name="description" content="Exin Corp IT solutions is a leading global professional services companies in vellore, providing IT services and solutions in Tamilnadu, vellore, India,training, consulting, digital, technology, strategy and operations, web development, design.Exin Corp Solutions - IT Certifications in vellore,Comptia A+ N+ Training in vellore,RHCE Training in vellore,MCITP Training in vellore,CCNA Training in vellore,CEH Training in vellore,CISSP Training in vellore,IT  Training in vellore,Computer Training Institute in vellore,Corporate Training in vellore,International certification in vellore">
 
          
 
-        <meta name="keywords" content="Exon Corpacademy,redbackstudios,redbackcouncil,redbackcloud,redbackconsultancy,redbacksystems,Exon Corp Solutions - IT company in vellore, Companies in Vellore,Training in vellore,RHCE Training in vellore,MCITP Training in vellore,CCNA Training in vellore,CEH Training in vellore,CISSP Training in vellore,IT  Training in vellore,Computer Training Institute in vellore,Corporate Training in vellore,Internaional certification in vellore">
+        <meta name="keywords" content="Exin Corpacademy,redbackstudios,redbackcouncil,redbackcloud,redbackconsultancy,redbacksystems,Exin Corp Solutions - IT company in vellore, Companies in Vellore,Training in vellore,RHCE Training in vellore,MCITP Training in vellore,CCNA Training in vellore,CEH Training in vellore,CISSP Training in vellore,IT  Training in vellore,Computer Training Institute in vellore,Corporate Training in vellore,Internaional certification in vellore">
 
 
 
@@ -80,7 +80,7 @@
 
  "@type" : "Organization",
 
- "name" : "Exon CorpSolutions",
+ "name" : "Exin CorpSolutions",
 
  "url" : "https://redback.in/",
 
@@ -142,7 +142,7 @@
 
                 <div class="breadcrumbs">
 
-                    <h1>Exon Corp  Careers</h1>
+                    <h1>Exin Corp  Careers</h1>
 
                 </div>
 
@@ -182,7 +182,7 @@
 
                         <li><i class="fa fa-angle-right" aria-hidden="true"></i></li>
 
-                        <li class="active">Exon Corp Jobs</a></li>
+                        <li class="active">Exin Corp Jobs</a></li>
 
                     </ul>
 
@@ -294,7 +294,7 @@
 
                        
 
-                        <p>Exon Corp IT Solutions Vellore,India.</p>
+                        <p>Exin Corp IT Solutions Vellore,India.</p>
 
                          <span class="border"></span>
 
@@ -351,7 +351,7 @@
 
                         <h3>Data Center Electrical Engineer</h3>
 
-                        <p>Exon Corp IT Solutions Vellore,India.</p>
+                        <p>Exin Corp IT Solutions Vellore,India.</p>
 
                              <span class="border"></span>
 
@@ -459,11 +459,11 @@
 
                         <p>CEO / Managing Director</p>
 
-                        <p>Exon Corp Solutions (RBS) is an IT Service & Solution Providers, business solutions and outsourcing organization that delivers real results to global businesses, ensuring a level of certainty that no other firm can match. Exon Corp Solutions helps you experience certainty by reliably delivering business results, providing leadership to drive transformation and partnering for success.<br><br>
+                        <p>Exin Corp Solutions (RBS) is an IT Service & Solution Providers, business solutions and outsourcing organization that delivers real results to global businesses, ensuring a level of certainty that no other firm can match. Exin Corp Solutions helps you experience certainty by reliably delivering business results, providing leadership to drive transformation and partnering for success.<br><br>
 
 
 
-Exon Corp Solutions helps you experience certainty by reliably delivering business results, providing leadership to drive transformation and partnering for success.</p> 
+Exin Corp Solutions helps you experience certainty by reliably delivering business results, providing leadership to drive transformation and partnering for success.</p> 
 
                     </div>
 

@@ -4,7 +4,7 @@
  
 <head>
 	<meta charset="UTF-8">
-	<title>Exon Corp Internships Vellore| Students can find internships and employment opportunities in the world&#39;s largest internship marketplace. Search paid internships and part time jobs to help start your career.  Student Internships in vellore, Summer Internships 2019</title>
+	<title>Exin Corp Internships Vellore| Students can find internships and employment opportunities in the world&#39;s largest internship marketplace. Search paid internships and part time jobs to help start your career.  Student Internships in vellore, Summer Internships 2019</title>
         <meta name="description" content="  Search internship program in India, student internships in vellore and winter internships jobs from your dream companies."/>
 		 <meta name="keywords" content="  Student internship in vellore, summer internship vellore , winter internship, internships in vellore, interns vellore, internship program vellore, internship in tamilnadu, global internship, global internship program, find internship in india, interns for company, students internship, company internship, interns, internship, internships, find internships,  internship india, engineering internships in india, interns for company, paid internship,internships for college students, high school internships, internship cover letter, internship resume, internship opportunities, internship jobs, internships jobs, summer internships, summer internship, paid internships, internship careers, internships abroad, international internships, internship program, internship search, internship, internships"/>
 
@@ -31,7 +31,7 @@
  { 
  "@context" : "http://schema.org",
  "@type" : "Organization",
- "name" : "Exon CorpSolutions",
+ "name" : "Exin CorpSolutions",
  "url" : "https://redback.in/",
  "sameAs" : [ 
  "https://www.facebook.com/redback.in/",
@@ -91,7 +91,7 @@
                         <li><i class="fa fa-angle-right" aria-hidden="true"></i></li>
                         <li><a href="services.php">Services</a></li>
                         <li><i class="fa fa-angle-right" aria-hidden="true"></i></li>
-                        <li><a href="redback-studios.php">Exon Corp Studios</a></li>
+                        <li><a href="redback-studios.php">Exin Corp Studios</a></li>
                     </ul>
                 </div>
                 <div class="right pull-right">
@@ -119,13 +119,13 @@
                     <div class="top-text">
                         <h3>Internships</h3>  
                         <p><strong>Internships:</strong> REDBACK internship is an experience that genuinely benefits your long-term career prospects.</p>
-                        <p><strong>Exon Corp Internships</strong> We see our Interns as the Exon Corp professionals of tomorrow, influencing how we do business today. Being an Exon Corp Intern is something special. It’s your chance to learn about the world of work – while you’re working on projects that are changing the world of communications.
+                        <p><strong>Exin Corp Internships</strong> We see our Interns as the Exin Corp professionals of tomorrow, influencing how we do business today. Being an Exin Corp Intern is something special. It’s your chance to learn about the world of work – while you’re working on projects that are changing the world of communications.
 </p> 
          <br>          
                     
                         <p>You will experience the true culture of our global organization, enjoying opportunities to work collaboratively with various departments, locations and leaders through daily job roles, special team assignments, social events and volunteering.
 </p>
-                         <p>We see our Interns as the Exon Corp professionals of tomorrow, influencing how we do business today.
+                         <p>We see our Interns as the Exin Corp professionals of tomorrow, influencing how we do business today.
 </p>
         <p>An Internship is an experience that genuinely benefits your longer-term career prospects. The work we do to build The Networked Society is not purely theoretical or abstract. We make a difference to everyday life in cities, societies and remote communities all around the world. That’s inspiring. Watch the video to find out more.
 
@@ -156,7 +156,7 @@
     <div class="sec-title pdb-50 text-center">
             <h1>INTERNSHIP</h1>
             <span class="border-center"></span>
-            <p>As an Intern at Exon Corp, you’ll learn so much. You’ll learn from some of the brightest minds in our industry – in a supportive, open environment where you can ask anyone, anything, anywhere around the world. You will work on challenging projects and develop your skills in the areas you’re most passionate about. You’ll learn a lot from us and you’ll learn a lot about yourself too. About your strengths, your interests and the areas to develop as your look forward to your future career.
+            <p>As an Intern at Exin Corp, you’ll learn so much. You’ll learn from some of the brightest minds in our industry – in a supportive, open environment where you can ask anyone, anything, anywhere around the world. You will work on challenging projects and develop your skills in the areas you’re most passionate about. You’ll learn a lot from us and you’ll learn a lot about yourself too. About your strengths, your interests and the areas to develop as your look forward to your future career.
 </p>
             
         </div>
@@ -188,7 +188,7 @@
                             </div>
                         </div>
                         <div class="text-holder">
-                            <p style="text-align:justify;"><strong>IT’S TIME FOR YOU TO MOVE TO PRACTICAL LIFE THROUGH Exon Corp IT SOLUTIONS PVT LTD</strong><br>Exon Corp IT Solutions Pvt. Ltd. Over a decade, we are furnishing individuals in all technologies and domains by fulfilling their desires in Research & Development and IT Training sector through efficient training methodologies. All our efforts are focused on students to meet industry requirements. Exon Corp is the one of the Internship In Vellore, Exon Corp is the leading project development company in Vellore provides best in class career oriented & real time Final year projects in Vellore, for students pursuing B.E, B.Tech, M.E, M.tech, MCA, Bsc & Msc. .</p>
+                            <p style="text-align:justify;"><strong>IT’S TIME FOR YOU TO MOVE TO PRACTICAL LIFE THROUGH Exin Corp IT SOLUTIONS PVT LTD</strong><br>Exin Corp IT Solutions Pvt. Ltd. Over a decade, we are furnishing individuals in all technologies and domains by fulfilling their desires in Research & Development and IT Training sector through efficient training methodologies. All our efforts are focused on students to meet industry requirements. Exin Corp is the one of the Internship In Vellore, Exin Corp is the leading project development company in Vellore provides best in class career oriented & real time Final year projects in Vellore, for students pursuing B.E, B.Tech, M.E, M.tech, MCA, Bsc & Msc. .</p>
                         </div>
                     </div>
                 </div>
@@ -205,7 +205,7 @@
                             </div>
                         </div>
                         <div class="text-holder">
-                            <p style="text-align:justify;">Exon Corp IT Solutions is the leading project development company in Vellore provides best in class career oriented & real time Final year project Centers in Vellore, Exon Corp Solutions Pvt. Ltd is a premier provider of IT Training, Research and Development ,Final Year Projects Training skills across The India ,Singapore and the Malaysia We offer true competency-based programs, we guarantee quality, and we guarantee to lower your costs, all at the same time. Exon Corp is one of the Best Internship In Vellore.</p>
+                            <p style="text-align:justify;">Exin Corp IT Solutions is the leading project development company in Vellore provides best in class career oriented & real time Final year project Centers in Vellore, Exin Corp Solutions Pvt. Ltd is a premier provider of IT Training, Research and Development ,Final Year Projects Training skills across The India ,Singapore and the Malaysia We offer true competency-based programs, we guarantee quality, and we guarantee to lower your costs, all at the same time. Exin Corp is one of the Best Internship In Vellore.</p>
                         </div>
                     </div>
                 </div>
@@ -259,7 +259,7 @@
                             </div>
                         </div>
                         <div class="text-holder">
-                            <p style="text-align:justify;">Exon Corp IT Solutions offers best internship in Vellore for two type of duration. Either student can choose short duration for 10 days or long duration 1 month on weekdays and weekend days classes.</p>
+                            <p style="text-align:justify;">Exin Corp IT Solutions offers best internship in Vellore for two type of duration. Either student can choose short duration for 10 days or long duration 1 month on weekdays and weekend days classes.</p>
                         </div>
                     </div>
                 </div>

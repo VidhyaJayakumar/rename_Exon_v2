@@ -3,10 +3,10 @@
 
 
 <head>
-<title>Our Services | WebHosting | Hosting Services | Domain Hosting | Domain Registration | Unlimited Hosting | Best Website Hosting | Linux Hosting | Reseller Hosting | Domain Name Registration | Web Hosting Company | Green Web Hosting | Windows Hosting | Shared Hosting | SSL Security | DNS Black Listing Services @ Exoncorp Cloud in India</title>
-    <meta name="Description" content="Becoming a Exoncorp Cloud Reseller is easy and profitable! Signup to Exoncorp Cloud reseller hosting plans and sell to your own customers, under your own brand, Spam Guard, Enhanced Security, Unbeatable Support, High Performance @ Exoncorp Cloud in India">
-    <meta name="Keywords" content="Domain Name, Domain Name Registration, Unlimited Hosting, Linux Hosting, DDoS Mitigation, Fire Wall, Threat management, 24/7 tech Support, Hosting Tech Support, Web Hosting Company, Linux Hosting, Free Domain Name, Email Hosting, Vps Hosting @ Exoncorp Cloud in India">
-	<meta name="Author" content="Exoncorp Cloud">
+<title>Our Services | WebHosting | Hosting Services | Domain Hosting | Domain Registration | Unlimited Hosting | Best Website Hosting | Linux Hosting | Reseller Hosting | Domain Name Registration | Web Hosting Company | Green Web Hosting | Windows Hosting | Shared Hosting | SSL Security | DNS Black Listing Services @ Exincorp Cloud in India</title>
+    <meta name="Description" content="Becoming a Exincorp Cloud Reseller is easy and profitable! Signup to Exincorp Cloud reseller hosting plans and sell to your own customers, under your own brand, Spam Guard, Enhanced Security, Unbeatable Support, High Performance @ Exincorp Cloud in India">
+    <meta name="Keywords" content="Domain Name, Domain Name Registration, Unlimited Hosting, Linux Hosting, DDoS Mitigation, Fire Wall, Threat management, 24/7 tech Support, Hosting Tech Support, Web Hosting Company, Linux Hosting, Free Domain Name, Email Hosting, Vps Hosting @ Exincorp Cloud in India">
+	<meta name="Author" content="Exincorp Cloud">
 
 <!-- Favicon -->
 
@@ -191,10 +191,10 @@ document.onkeydown=function(e){e=e||window.event;if(e.keyCode==123||e.keyCode==1
                 <span>We Offer a wide range of hosting packages.</span></li>
               <li><i class="fas fa-cloud-download-alt"></i>
                 <h3>Own your website</h3>
-                <span>Buy your Domain at Lowest Price only at Exoncorp.</span></li>
+                <span>Buy your Domain at Lowest Price only at Exincorp.</span></li>
               <li><i class="fas fa-cogs"></i>
                 <h3>We've got your back</h3>
-                <span>Exoncorp creates value to your Business.</span></li>
+                <span>Exincorp creates value to your Business.</span></li>
             </ul>
             <a class="primary_button" href="wordpress-hosting.php"><span>Get EasyWP</span></a> </div>
         </div>
@@ -227,7 +227,7 @@ document.onkeydown=function(e){e=e||window.event;if(e.keyCode==123||e.keyCode==1
                   <div class="col-sm-8">
                     <div class="client-name">Saravanan <span></span></div>
                     <div class="ratting"><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></div>
-                    <p>"Most popular and Creative company in vellore  The thing that I like about Exoncorp is that they provide complete online solution.
+                    <p>"Most popular and Creative company in vellore  The thing that I like about Exincorp is that they provide complete online solution.
  Initially I did approach them for Digital Marketing and had good results for My business. During which I knew about their website desiging and SEO  package. I wanted to launch a website with top position in google and  hand it over to a reliable team. I thank the team for being reliable and dynamic.
 Thanks For the Management for your affordable service"</p>
                   </div>
@@ -251,7 +251,7 @@ Thanks For the Management for your affordable service"</p>
                   <div class="col-sm-8">
                     <div class="client-name">Divya <span></span></div>
                     <div class="ratting"><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></div>
-                    <p>"Exoncorp  is a brilliant company, Affordable Price,Highly Recommend. Very friendly team and Thank you Guys for a magnificent website,and your digital marketing work is extra ordinary which made  my business to reach customers in short span.
+                    <p>"Exincorp  is a brilliant company, Affordable Price,Highly Recommend. Very friendly team and Thank you Guys for a magnificent website,and your digital marketing work is extra ordinary which made  my business to reach customers in short span.
 Thank you"</p>
                   </div>
                 </div>
@@ -298,7 +298,7 @@ Thank you"</p>
         <div class="col-md-4 col-sm-4 col-xs-12 wow fadeInLeft" data-wow-duration=".2" data-wow-delay=".2s">
           <div class="choose_r_options"><i class="fa fa-lock gradient_color"></i>
             <h5 class="section_sub_heading">Security</h5>
-            <p>Exoncorpcloud.com offers malware removal and scanning that will enhance website security protecting against attacks and vulnerability.</p>
+            <p>Exincorpcloud.com offers malware removal and scanning that will enhance website security protecting against attacks and vulnerability.</p>
           </div>
         </div>
         <div class="col-md-4 col-sm-4 col-xs-12 wow fadeInLeft" data-wow-duration=".3" data-wow-delay=".3s">
@@ -313,7 +313,7 @@ Thank you"</p>
         <div class="choose_r_options"><i class="fab fa-accessible-icon gradient_color"></i>
          
             <h5 class="section_sub_heading">Digital Marketing</h5>
-            <p>We take care of your Business. Exoncorpcloud.com creates value and revenue growth with cutting edge marketing techniques and innovation models.</p>
+            <p>We take care of your Business. Exincorpcloud.com creates value and revenue growth with cutting edge marketing techniques and innovation models.</p>
           </div>
         </div>
       </div>
