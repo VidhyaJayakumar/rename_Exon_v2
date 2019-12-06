@@ -1,2 +1,2 @@
 # rename_Exin_v2
-Started with cpanel file
+This project contains all the changed files related to exon=>exin
